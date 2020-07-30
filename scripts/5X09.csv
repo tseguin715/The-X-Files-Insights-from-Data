@@ -1,0 +1,334 @@
+speaker,line,words
+PHIL,Bobby!,1
+PATTI,Phil ….,2
+PHIL,"I’ve had it with that kid, Patti.",7
+PATTI,I’ve already talked to him.,5
+PHIL,"Yeah, like he ever listens.",5
+PHIL,You hear me calling your name? Get up.,8
+BOBBY,What are you doing?,4
+PHIL,You think this is why I wake up and go to work every day -- So you can sit around on your ass?,22
+BOBBY,What did I do?,4
+PHIL,"What’d you do? You never do anything, that’s the problem. What kind of a loser are you going to turn out to be? Put your boots on.",27
+PHIL,You don’t leave my tools out in the rain. Tools are for work. They cost money.,16
+BOBBY,"Fine, I’ll put it away.",5
+PHIL,After you’re finished. Pick it up. I’m not going to let your mother watch you grow up to be some kind of a jerk.,24
+BOBBY,"Fine, I’ll put it away …Phil.",6
+PHIL,No way. You’ll finish the job … Now.,8
+BOBBY,Get away from me! Get away from me now!,9
+PHIL,Bobby! Bobby! Where are you going?! Bobby! Come back here!,10
+PHIL,Come here! Bobby! Bobby! Bobby! Bobby? Bobby?,7
+PATTI,Bobby?! Bobby?!,2
+SCULLY,"12 pounds, 9 ounces.",4
+MULDER,All that came out of his stomach?,7
+SCULLY,Most of it. The small amount in his lungs is what killed him.,13
+MULDER,"Is it possible that he took the term ""mud pie"" literally?",11
+SCULLY,"Well, I’m sure if Mr. Rich were alive he would find some humor in that. According to his police report, Mr. Rich was a man who could tell a joke. He grew up here. Worked the same fields for 20 years. Well liked around town. Funny he should turn up murdered.",51
+MULDER,Is that what you’ve concluded?,5
+SCULLY,I have concluded is that this man’s head was held forcibly down in the Michigan mud just a little too long. Most likely by his stepson who was named in the report as Bobby Rich. Age 16.,37
+MULDER,"Well, according to the same report the coroner had to hire a backhoe to remove the body, which was buried completely in a standing vertical position.",26
+SCULLY,There is some indication that his stepson may have dug the hole and that a recent rainstorm may have helped turn it into a muddy trap.,26
+MULDER,That was some rainstorm.,4
+SCULLY,They say it rained 400 inches a day.,8
+MULDER,"Now that sounds like an exaggeration, don’t you think?",9
+SCULLY,Would you like me to show you how he may have done it?,13
+MULDER,"How a 6’4"" 250-pound man was buried alive in less than five minutes by a 16-year-old kid whose classmates lovingly refer to as ""Dork-weed?""",24
+SCULLY,He may have had an accomplice.,6
+MULDER,"""Ich bin ein auslander."" ""I am an outsider."" You know, when Kennedy told the Germans ""Ich bin ein Berliner"" he was actually saying ""I am a cocktail sausage.""",28
+BOBBY,Who’s Kennedy?,2
+MULDER,"I’m not … I’m not here to accuse you of anything, Bobby.",12
+BOBBY,What are you here for then?,6
+MULDER,I want to hear your story.,6
+BOBBY,I tried to help. I couldn’t.,6
+MULDER,"Well, the police aren’t entirely convinced that that’s the truth.",10
+BOBBY,So what the hell am I supposed to do about it? They want me to confess so they have someone to blame.,22
+MULDER,"Right. But you see, you’re not making it very easy for them to believe otherwise. You understand that?",18
+BOBBY,What can I say? Everybody knows I hated him.,9
+PATTI,They were real close when Bobby was little. Always kidding around and stuff. But Bobby sort of got into that teenage stage – He don’t want to listen to nobody.,30
+SCULLY,And it came to a head last night?,8
+PATTI,Phil was late coming home. He’d been stressed out ‘cause of the blight and stuff.,15
+SCULLY,What do you mean?,4
+PATTI,His nut trees all got a disease. And Bobby don’t help things out with his attitude and stuff.,18
+SCULLY,Did Phil instigate what happened?,5
+PATTI,It’s hard to tell what starts these things. Phil could be stern – just like his own father was to him. But I never saw him raise his hand.,29
+BOBBY,"When I saw him lying in the mud, I mean, I half expected him to pull me in. Like he had planned it or something.",25
+MULDER,Did he ever hurt you?,5
+BOBBY,"Phil? He used to get off shoving me around, yeah.",10
+MULDER,Did you ever shove him back?,6
+BOBBY,He’s twice as big as me.,6
+MULDER,That’s why some people thought you might have dug the hole. Or attacked him when he fell in the hole because he was down there.,25
+BOBBY,"Well, that’s their problem, isn’t it?",6
+MULDER,You remember what was going through your head at the time?,11
+BOBBY,I guess … I felt he had it coming.,9
+PATTI,He was kneeling over Phil – struggling real hard and stuff.,11
+SCULLY,Could you tell that he was definitely trying to help him?,11
+PATTI,It seemed that way to me.,6
+SCULLY,"You know, there’s a strong chance the police are going to arrest your son for murder.",16
+PATTI,I don’t see how.,4
+SCULLY,"But if they do, and if there’s evidence of abuse that you’re not coming forward with, it could hurt his chances.",21
+PATTI,"I know everything happens for a reason, but I still don’t see no reason for this.",16
+SCULLY,"They’re all dying. According to Bobby’s mother, that’s a big reason why her husband blew up. His hazelnut orchard was hit with a blight.",24
+MULDER,So he pounds the kid. And the kid pounds back. Is that what she told you?,16
+SCULLY,"Well not in so many words. Actually, she won’t admit to any abuse in the house. I suspect she’s just trying to move on and protect what family she’s got left.",31
+MULDER,Kid says his stepfather teed off on him regularly.,9
+SCULLY,That’s his excuse?,3
+MULDER,"No, that’s his explanation. He says he’s innocent.",8
+SCULLY,What do you think?,4
+MULDER,I think he’s a hard kid to love.,8
+MULDER,I’m still finding it hard to reconcile the facts with the physical evidence.,13
+SCULLY,"Well, even if he didn’t dig this hole, the disease could have killed root systems creating weakened soil.",18
+MULDER,"Well, then how did the victim swallow 12 pounds of this stuff?",12
+SCULLY,"Well, when you fight for air a vacuum is created. And maybe once he sucked down a mouthful of mud it turned his esophagus into a siphon. With his head pushed down, it filled all of his passages like a gas can.",42
+SCULLY,Well … you asked me for answers. Those are the best ones I’ve got.,14
+MULDER,Did you ask if anybody else might be involved?,9
+SCULLY,His mother says that Bobby can’t make friends. He’s been in therapy for his anger since 1995.,17
+MULDER,That could be me.,4
+MULDER,What is it?,3
+SCULLY,Someone’s watching us. Sir? Hello.,5
+MULDER,Who was it?,3
+SCULLY,I don’t know. He’s gone.,5
+BOBBY,Lisa. Hey.,2
+LISA,What are you doing here?,5
+BOBBY,"I - I called you last night. I mean, how come you didn’t call me back?",15
+LISA,"They’re saying you killed him, Bobby.",6
+BOBBY,I finally stood up to him.,6
+TEEN 1,"Hey, Psycho. Think fast.",4
+BOBBY,"Just get away from me, okay?",6
+TEEN 1,"Or what? What are you going to do, huh?",9
+BOBBY,"Maybe I’ll kill you, too, huh?",6
+TEEN 1,Psycho killer.,2
+BOBBY,"See… All you got to do is stand up. I’ll see you later, then. )",14
+MULDER,Karin Matthews?,2
+KARIN,Yes.,1
+SCULLY,We’re Agents Mulder and Scully with the FBI.,8
+KARIN,I hope my directions were clear. I’m a little tucked away.,11
+KARIN,I first worked with Bobby after an incident at school. He’s had difficulty developing relationships and this difficulty has caused him to act out.,24
+SCULLY,In what way?,3
+KARIN,By putting on certain airs. Affecting an attitude that has drawn the wrong kind of attention to himself. I’ve seen him come in here pretty beaten up.,27
+MULDER,Physical violence?,2
+KARIN,More than just kid stuff.,5
+MULDER,Was his stepfather ever involved?,5
+KARIN,"I’m not free to speak with perfect frankness, of course.",10
+SCULLY,"If you know that Bobby committed a crime, you’re under legal obligation to tell us.",15
+KARIN,"Bobby once spilled a glass of milk at dinner. For the next two weeks, he was forced to eat in the cellar. No table, no chair, no light. Sometimes he was left down there until the following morning. You see, there are all sorts of crimes. Not just the ones you might find reason to investigate.",56
+MULDER,So you’re saying Bobby would have good reason to kill his father.,12
+KARIN,I’m saying there are some crimes where there are only victims.,11
+MULDER,"You’re free not to answer, Miss Matthews – or you’re free to make these vague allusions – but your evasiveness is only going to land this kid in jail for a long, long time.",34
+KARIN,I’m not sure I understand.,5
+MULDER,You make it sound like a justification. Like Bobby did it. And I don’t think he did.,17
+BOBBY,Hey. What are you doing?,5
+LISA,Going home.,2
+BOBBY,"Well, I waited for you. I thought … I thought we were going to talk. So…",16
+LISA,"You scared me today, Bobby.",5
+BOBBY,"Why? Was it because I stood up for myself or, um … because I didn’t let them beat me up like usual?",22
+LISA,I got to go.,4
+BOBBY,"You got to stand up, Lisa. You got to tell your Dad that you’re not going to put up with his crap. There is a way to make it go away … forever.",33
+FATHER,What the hell business you got with him?,8
+LISA,Nothin’. He’s just a friend.,5
+FATHER,I don’t want you seeing that kid. I don’t want him coming around here. Do you hear me?,18
+LISA,"Stop it, okay?",3
+FATHER,I’m doing what’s right for you …,7
+LISA,Just shut up!,3
+SCULLY,"The victims name was … Eugene Baiocchi, forties. He was a foreman for one of the local growers. Single parent.",20
+MULDER,Did you get a look at the body?,8
+SCULLY,"It had already been removed. I think it’s pretty clear what killed him, though. From what they’ve put together, they’ve all but concluded he was pushed out the window.",29
+MULDER,Pushed out?,2
+SCULLY,His daughter Lisa made the 911 call at 8:08 p.m. She says she and her father had a fight.,19
+MULDER,About what?,2
+SCULLY,Bobby.,1
+KARIN,"I don’t want you to worry about anything, all right? Now, I’ll he here for you as much as possible. But they’re going to come and ask you some questions and the most important thing is that you feel comfortable. If you don’t fell comfortable answering them, then I don’t want you to answer them, okay?",56
+SCULLY,Can I have a moment … with Lisa?,8
+MULDER,Was Lisa another of you clients?,6
+KARIN,Lisa?,1
+MULDER,Yeah.,1
+KARIN,"Yes, for four years.",4
+MULDER,What were you treating her for?,6
+KARIN,An eating disorder.,3
+MULDER,Have you asked her what happened?,6
+KARIN,Isn’t that your job?,4
+MULDER,We gather that she had a fight with her father over Bobby Rich.,13
+KARIN,"Well, it doesn’t surprise me. Lisa’s father was very disapproving of her generally which stemmed to a lot of her problems.",21
+MULDER,Had you counseled her father?,5
+KARIN,No. My approach is with the victims solely to allow them to empower themselves.,14
+MULDER,In what ways?,3
+KARIN,By breaking the cycle of abuse. By owning it. By confronting it and by standing up against it.,18
+MULDER,Seems to be working.,4
+KARIN,"When I told Lisa her aunt was coming to pick her up tomorrow, she started to cry. It wasn’t out of sorrow.",22
+SCULLY,Three guesses who followed Lisa home last night and was sitting out front in his father’s truck just minutes before this happened.,22
+MULDER,Does she think Bobby did it?,6
+SCULLY,She thinks he’s quite capable.,5
+MULDER,I think we’re all quite capable.,6
+SCULLY,"Well, she says that he also threatened to kill a boy in school yesterday.",14
+MULDER,"Come here. Take a look at this. If Lisa’s father was pushed out, then all the glass would be outside. Look. There’s glass here on the inside. The paint on the mullions is cracked on the outside, not on the inside here.",42
+SCULLY,I don’t understand.,3
+MULDER,"Well, seems to me like some facts have been assumed. It looks to me like Lisa’s father was pulled out the window, not pushed.",24
+SCULLY,How?,1
+MULDER,That I don’t know.,4
+SCULLY,"Well, there’s nowhere to stand. Even if he did use a ladder there’d be no leverage. I mean, especially for a scrawny 16-year-old kid.",24
+MULDER,That’s my point exactly.,4
+TEACHER,"…. Na-O-H … and hydrochloric acid. All right, class. There will be a quiz on this tomorrow, so take good notes. Now …",23
+TEACHER,May I help you?,4
+SCULLY,"Sorry to interrupt. I need to ask you to come with us, please.",13
+BOBBY,What for?,2
+SCULLY,To answer some questions.,4
+BOBBY,About what?,2
+SCULLY,I don’t want to have to embarrass you in front of your class.,13
+BOBBY,"Well, I ain’t embarrassed.",4
+CORONER,I’m fairly certain that this man died from a broken neck.,11
+MULDER,"Yeah, but there was a substantial amount of blood loss, wasn’t there?",12
+CORONER,"Yes, but the cuts all missed the artery. I have x-rays, if you don’t believe me. It’s the fourth and fifth vertebrae.",22
+MULDER,Have you determined if the neck injury was caused by the fall?,12
+CORONER,"Well, what else would it have been?",7
+MULDER,Have you seen this? What do you make of this here?,11
+CORONER,Huh.,1
+BOBBY,Are you satisfied?,3
+SCULLY,"No, I’m not.",3
+MULDER,Scully?,1
+BOBBY,What is that?,3
+MULDER,Evidence.,1
+BOBBY,Of what?,2
+SCULLY,You just trying to scare him?,6
+MULDER,No. I think he’s scared enough as it is.,9
+SCULLY,Of what?,2
+KARIN,I’ll help getting the rest of your things packed. But I think it’s best that you go to your aunt’s as soon as possible.,24
+LISA,When’d she say she was coming?,6
+KARIN,First thing in the morning. Feel it. It’s okay. Come on.,11
+DEEP VOICE,You never learn!,3
+KARIN,"I’m sorry. Please, just don’t yell.",6
+DEEP VOICE,What’ll you ever amount to?,5
+KARIN,No. Stop it. Stop it.,5
+DEEP VOICE,Where are you going?,4
+KARIN,Up to my room.,4
+DEEP VOICE,You’re ruining my life. You hear me? I wish you’d never been born!,13
+SCULLY,What are you looking for?,5
+MULDER,That splinter you’re holding came from Mr. Baiocchi’s neck but it didn’t come from the broken window.,17
+SCULLY,Where did it come from?,5
+MULDER,"It’s greenwood, fresh from a living tree.",7
+SCULLY,What?,1
+MULDER,Excuse me. It’s been a few years.,7
+SCULLY,What? You think that Bobby climbed this tree to pull Lisa’s father out of that window?,16
+MULDER,"Kind of begs the question, doesn’t it? Hey, Scully, is this demonstration of boyish agility turning you on at all?",20
+SCULLY,Who are you?,3
+OLD ORCHARD MAN,I take care of the trees.,6
+MULDER,Scully.,1
+SCULLY,I didn’t expect you to be standing right there behind me. You were watching us the other day in the orchard.,21
+OLD ORCHARD MAN,The trees are dying.,4
+MULDER,Scully …,2
+SCULLY,"Maybe you should come down here, Mulder. You, uh, know what kind of tree this came from?",17
+OLD ORCHARD MAN,Same as this tree.,4
+SCULLY,"You, uh … you said these trees were dying. This, this splinter’s live wood.",14
+OLD ORCHARD MAN,20 years ago this happens.,5
+MULDER,What causes this?,3
+OLD ORCHARD MAN,A very bad man.,4
+DEEP VOICE,She’s just like you – a little snoop! Where is she?,11
+MULDER,"Ms. Matthews, we’d like to ask you a few questions.",10
+KARIN,About what?,2
+MULDER,Your father’s death. We need to clarify a few details.,10
+KARIN,My father? He died twenty years ago,7
+MULDER,"Yeah, under rather curious circumstances. His body was pulled from the mud of an orchard?",15
+KARIN,"I-I’m sorry, I was just a-a young girl. I don’t know why you want to talk to me.",18
+MULDER,"Well, we thought it was strange that you didn’t bother to mention it.",13
+KARIN,"Well, I don’t see that it matters.",7
+MULDER,"We spoke to someone who thinks it does. Someone who worked for you father? According to the orchard man, Your father’s death brought about the end of a blight affecting the trees.",32
+KARIN,"My father was a powerful man. Powerful men are prone to inspire this kind of fantasy. Don’t tell me you’ve been taken in by it, too.",26
+SCULLY,Is Lisa still staying with you?,6
+KARIN,"No, she’s not. She’s gone to her aunt’s. Look, I’m sorry. I can’t help.",14
+LISA,Help me! I’m down here! Help!,6
+KARIN,Lisa …. Lisa.,3
+LISA,Karin … Karin! Karin! Karin.,5
+KARIN,"Lisa, you’ve got to be quiet – quiet as a mouse – or he’s going to hear you down there.",20
+LISA,"Karin, I’m scared. Let me out, please.",7
+KARIN,"I will, but not until it’s safe.",7
+LISA,"Karin, Karin, I don’t want to stay down here. Please let me out. Karin …",15
+SCULLY,"Mulder, whatever you’re hoping we find here – without a court order, it won’t be admissible.",16
+MULDER,I’m not expecting it to be.,6
+SCULLY,Mulder … Where’s the body?,5
+KARIN,Yes?,1
+AUNT LINDA,I’m Linda Baiocchi. Lisa’s aunt. Are you Karin?,8
+KARIN,Yes…,1
+AUNT LINDA,Is Lisa here?,3
+KARIN,No. She went … She’s gone to the bus station.,10
+AUNT LINDA,She has? But it was all arranged…,7
+KARIN,I don’t know what to tell you. I’m sorry. There must have been a misunderstanding.,15
+LISA,"I’m down here! Help me! Aunt Linda, I’m down here!",10
+AUNT LINDA,What are you doing down there?,6
+LISA,"Just get me out, please?",5
+AUNT LINDA,Okay. It’ll be okay. I’m going to call the police.,10
+SCULLY,"Mulder, you still haven’t answered my question. What happened to Karin’s father? Why would anybody steal his body?",18
+MULDER,"I don’t think this was an act of grave robbing, Scully.",11
+SCULLY,No. That’s what we were doing.,6
+MULDER,More like an act of nature.,6
+SCULLY,What do you mean?,4
+MULDER,The orchard man said that the blight that plagues this town was caused by a man – implying a connection.,20
+SCULLY,I’m a little afraid to ask what kind of connection.,10
+MULDER,Between the people of this valley and their,8
+SCULLY,"Bobby’s father, Lisa’s father …",5
+MULDER,"And Karin’s father, 20 years ago: all men who worked in these orchards -- their lives and deaths tied to these trees. We removed a sliver of greenwood from Lisa’s father’s neck. And the bruise that you found on Bobby’s father’s ankle could have been caused by a root -- The same root system that pulled Karin’s father from his grave.",59
+SCULLY,"Mulder, there is a connection between these deaths children …",10
+MULDER,Who couldn’t defend themselves.,4
+SCULLY,What? So nature did it for them?,7
+MULDER,Something did it for them – or someone controlling nature. Karin said she was counseling Bobby and Lisa to empower them. I think we should talk to them.,28
+SCULLY,I called Lisa at her aunt’s house 20 minutes ago and there was no answer.,15
+MULDER,Then we should talk to Bobby.,6
+SCULLY,"Mulder, we’ve already questioned him twice.",6
+MULDER,Maybe we haven’t asked him the right question.,8
+BOBBY,I don’t know what you’re talking about.,7
+MULDER,"Yes, you do. Maybe you hated your stepfather, but you didn’t kill him. You don’t have it in you.",19
+BOBBY,That’s good. That’s really good. Can I go now?,9
+MULDER,"No. You can’t go until you tell me the truth. For the first time in your life people are taking you seriously and I think they should take you seriously. I think you’re a serious kid. Not an outsider anymore, huh?",41
+BOBBY,Yeah. I’m thinking about running for ASB president. So why don’t you just give it up?,16
+MULDER,"Why don’t you give it up? Why don’t you tell me what happened that night? You took the shovel to him, but you couldn’t do it, so you ran, you ran to the orchard, but not because you dug a hole or laid a trap --",45
+(BOBBY FLASHBACK,PHIL chasing him through the orchard.),6
+MULDER,"– because you were afraid, not of Phil.",8
+(BOBBY FLASHBACK,PHIL drowning in the mud.),5
+MULDER,"You weren’t afraid of Phil –Phil never hit you or hurt you in that way. In fact, I think you wanted to help Phil.",24
+(BOBBY FLASHBACK,PHIL screaming as he sinks into the mud.),8
+MULDER,"You wanted to save him. You didn’t want Phil to die, did you?",13
+MULDER,"What were you afraid of, Bobby?",6
+BOBBY,I couldn’t do it.,4
+MULDER,Couldn’t do what?,3
+BOBBY,I couldn’t stand up to him. But she made me.,10
+MULDER,She who?,2
+KARIN,"K-Karin. Karin she-she made me, uh …",7
+BOBBY,You’re a loser! You understand me?! I wish you’d never been born!! You’re ruining my life!!,16
+MULDER,Karin made you what?,4
+BOBBY,She made me say those things. She had me pretend that I was him – that I was - I was Phil.,21
+MULDER,"She made you believe you were a victim but you weren’t, were you?",13
+BOBBY,She … said I have … the power to - to make it all go away. But I … I didn’t mean for him to die.,25
+PATTI,It’s okay.,2
+DEEP VOICE,You think you can hide down there? You think you’re safe?,11
+KARIN/DEEP VOICE,You’ll wish you were dead.,5
+MULDER,Karin?,1
+MULDER,Scully. Take a look at this.,6
+SCULLY,Mulder …,2
+MULDER,Talk about putting down roots.,5
+SCULLY,What the hell is going on here?,7
+MULDER,I think we’re looking at Karin Matthews’ father.,8
+SCULLY,But how did he get here?,6
+MULDER,The same way Bobby’s father got pulled down into that mud.,11
+SCULLY,"Mulder, I …",3
+MULDER,"This has to do with Karin, with her own father’s abuse. It was never Bobby that was locked in the cellar. Karin was. Karin caused all this.",27
+SCULLY,You think Karin is the killer?,6
+MULDER,I think she’s the killer and the victim.,8
+MULDER,Lisa … Where’s Karin.,4
+SCULLY,You’re going to be okay.,5
+MULDER,"You stay with her, Scully.",5
+KARIN,I need to see Bobby.,5
+PATTI,I’m sorry. Bobby’s not here.,5
+KARIN,He’s in danger.,3
+PATTI,"Get away from here, please.",5
+KARIN,Bobby!,1
+PATTI,He’s not here.,3
+KARIN,Where is he?!,3
+KARIN,Bobby! Bobby! Bobby! Bobby!,4
+BOBBY,Stay away from me! I’m warning you.,7
+KARIN/DEEP VOICE,You’re pathetic.,2
+KARIN/DEEP VOICE,You little piece of garbage.,5
+MULDER,Karin! Stop!,2
+KARIN/DEEP VOICE,You stay away from him!,5
+MULDER,Stand up to him!,4
+KARIN/DEEP VOICE,Karin deserves what she gets.,5
+MULDER,"Make him stop, Karin! Tell him what you should have told him 20 years ago. You’re not going to take it anymore.",22
+KARIN/DEEP VOICE,Karin’s dead.,2
+OLD ORCHARD MAN,It’s done now. No more.,5
+MULDER,"Coats Grove authorities conducted a detailed examination of the soil and root composition in the Rich family orchard, but could not explain what pulled Karin Matthews’ body into the Michigan mud. Nor could the authorities determine how the body of Karin’s father was pulled from its grave into her root cellar three years earlier. While the forensic data is inconclusive, I believe the explanation lies in hospital records dating back to Karin’s childhood, which suggests that she, herself was a victim of abuse. Rage, unconfronted, takes its own path. I believe it was Karin’s unconfronted rage that forced her to face her buried father. This same rage made her imagine victims in the children around her, trying to instill in them a strength she never found in herself. What happened to Karin Matthews in the orchard that night was a release. Release for a victim, who, unable to face up to her own past was finally consumed by it.",159
+MULDER,"Abuse exists, as does the blindness that accompanies it. The pleading cries in the night followed by the disturbing As witness to a horrific event, I am forced to question the frequently blurred line between right and wrong to weigh the guilt of one man’s act against another’s to decide if justice was served or if a grievous injustice has prevailed. And if pressed on the subject of what happened that something bad happened, I didn’t see it.",78

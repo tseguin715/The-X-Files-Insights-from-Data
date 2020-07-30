@@ -1,0 +1,305 @@
+speaker,line,words
+NATIVE AMERICAN,Where are you going.?,4
+ERIC,Riding. I'll be back in a few hours.,8
+ALBERT,Eric. Leave the snakes alone today. They'll be angry and afraid.,11
+NATIVE AMERICAN,What is it.?,3
+ALBERT,The Earth has a secret it needs to tell.,9
+ERIC,I found something. Better come see.,6
+ERIC,What do you think it is?,6
+NATIVE AMERICAN,I don't know.,3
+ERIC,What did he say.?,4
+NATIVE AMERICAN,He said it should be returned. They will be coming.,10
+THE THINKER,You bitch.! Beautiful.!,3
+ITALIAN OFFICIAL,What is it Antonio.?,4
+ANTONIO,Someone has broken into the MJ documents.,7
+ITALIAN OFFICIAL,Who would do such a thing,6
+ANTONIO,I don't know.,3
+JAPANESE OFFICIAL,from where did you hear this.? Has everyone been told.?,10
+GERMAN OFFICIAL,"yes, I understand. No this is their problem. They must take care of it promptly. .",15
+CANCERMAN,yes.,1
+GERMAN OFFICIAL,You are familiar with the MJ file.?,7
+CANCERMAN,Ja. I have already taken care of it.,8
+GERMAN OFFICIAL,Good.,1
+CANCERMAN,Gentlemen. That was the phone call I never wanted to get.,11
+MULDER,What are you guys doing here.?,6
+BYERS,Can we talk inside.?,4
+MULDER,I'm not feeling well. I didn't sleep last night. I'm really not in the mood for the three stooges.,19
+FROHIKE,I don't think we've been followed.,6
+MULDER,Who would follow you.?,4
+BYERS,Multinational black opps unit. Code name Garnett.,7
+LANGLY,Trained killers. School of the American Alumni.,7
+MULDER,Have you boys been defacing library books again.?,8
+FROHIKE,They don't want us. They want him.,7
+MULDER,Kennith Suna.,2
+LANGLY,We think that's his real name.,6
+BYERS,You've heard us refer to him as The Thinker.,9
+MULDER,What did he do.?,4
+BYRES,Hacked into the defense department computer system.,7
+MULDER,What.?,1
+BYERS,The Thinker's an anarchist and a snoop. Whatever he got into has made him a very wanted man. Customs and immigration are on full alert. Every port of igress is closed.,31
+MULDER,What are you coming to me for.?,7
+BYERS,"In his last communique, The Thinker named a meeting place and a three hour time window. He asked specifically for you.",21
+LANGLY,The only problem is he may already be dead.,9
+MULDER,What happened.?,2
+WOMAN,She just shot her husband. They'd been married for thirty years. It's like she went crazy.,16
+COP,"Everybody go back to your appartment, we'll handle this.",9
+FROHIKE,Weirdness.,1
+THE THINKER,I... I don't want you to know my real name. I... I just don't think it's that important that you know.,21
+MULDER,Sounds like a line I used in a bar once.,10
+THE THINKER,"Look, I'm sorry about the wait but I kinda got this ninja party shaking my butt.",16
+MULDER,Why.? What've you got.?,4
+THE THINKER,Well if I'm correct I got the original defense departments UFO intelligence files. Everything from the 1940's and up.,19
+MULDER,Everything.?,1
+THE THINKER,"Everything. Roswell, MJ12 and beyond.",5
+MULDER,You've read them.?,3
+THE THINKER,"Not entirely. I downloaded all I could and then I split. I mean, I knew that these guys would be after me.",22
+MULDER,What makes you think they know who you are.?,9
+THE THINKER,I didn't take any procautions. I mean I... I did'nt even expect to get inside. .,15
+MULDER,You know they always denied that these files even existed. What do you want from me.?,16
+THE THINKER,I want the truth. And I want you to promise that those rat bastards answer to the people.,18
+SCULLY,"Mulder, Skinner's looking for you.",5
+MULDER,Come in and lock the door.,6
+SCULLY,"Why, what's going on.?",4
+MULDER,Are you familiar with the ten commandments Scully.?,8
+SCULLY,You want me to recite them.?,6
+MULDER,"No. Just number 4, the one about obeying the sabbath, the part about where God made Heaven and Earth but didn't bother to tell anybody about his side projects.",29
+SCULLY,What are you talking about.?,5
+MULDER,The biggest lie of all.,5
+SCULLY,What is this.?,3
+MULDER,The Holy Grail. The original defense department files. Hard evidence that the government has known about the existance of extraterrestrials for over fifty years.,24
+SCULLY,Where did you get this.?,5
+MULDER,Your friendly neighborhood anarchist.,4
+MULDER,"I dont believe this. This is just gibberish. . Damn it. I'm so sick of this crap, BS and double talk. I can't believe this.",24
+SCULLY,"Mulder, this may not be gibberish.",6
+MULDER,"It's a joke Scully, it's a bad joke.",8
+SCULLY,"I think it's just encrypted and I think I recognise it. It looks like Navajo. It was used in world war two. My father told me it was the only code the Japanese couldn't break, I... I remember the long strings of consonants.",43
+MULDER,Well can you find out.?,5
+SCULLY,Well only a handful of people can decipher it.,9
+MULDER,Then find one of em.,5
+SCULLY,Mulder. Are you okay.?,4
+MULDER,Yeah. I just haven't been sleeping.,6
+MULDER,Sir.,1
+SKINNER,Agent Mulder. I need to speak with you.,8
+MULDER,About.?,1
+SKINNER,In my office.,3
+MULDER,Why.? Is this another jerk off assignment where I end up doing the government's dirty work.?,16
+SKINNER,It's about a rumor that you may be in reciept of some sensitive files.,14
+MULDER,I don't know anything about that. .,6
+SKINNER,Agent Mulder listen... I'm talking to you...,7
+SKINNER,Are we done. We're done.,5
+DIRECTOR 1,"Agent Scully, you heard about the incident here, in the hallway yesterday.",12
+SCULLY,Yes sir.,2
+DIRECTOR 1,"Do you have any explanation as to agent Mulder's, bizarre behavior.?",11
+SCULLY,No sir. Agent Mulder told me he was having trouble sleeping.,11
+DIRECTOR 1,Do you think agent Mulder confides in you agent Scully?,10
+SCULLY,"Of course, he's my partner.",5
+DIRECTOR 2,Your partner. Were'nt you originally assigned to agent Mulder to debunk his work.?,13
+SCULLY,Yes sir. A year and a half ago. I've been writing regular reports stating the validity of agent Mulder's work on The X-Files.,23
+DIRECTOR 2,Would you lie to protect him.?,6
+SCULLY,Am I accused of lying.?,5
+DIRECTOR 3,"Agent Mulder has been advised of a disciplinary hearing. If there's something we learn at that meeting that you haven't stated today, you could be subject to the same summary action.",31
+SCULLY,What action is that.?,4
+SKINNER,Dismissal without chance of reinstatement.,5
+SCULLY,Is that all sir.?,4
+SKINNER,"Yes agent Scully, thank you.",5
+CANCERMAN,Hello Bill.,2
+BILL MULDER,What are you doing here.?,5
+CANCERMAN,I've come on some pressing business.,6
+BILL MULDER,We had agreed that you would never...,7
+CANCERMAN,That was a long time ago Bill. There have been some unforseen events.,13
+BILL,No one was supposed to know.,6
+CANCERMAN,Who could have predicted the future Bill? That the computers that you and I only dreamed of would someday be home appliances capable of the most technical espionage.,28
+BILL MULDER,The files should have been destroyed.,6
+CANCERMAN,"They should have, but they were'nt. Regret is an inevitable consequence of life.",13
+BILL MULDER,How do you know my son has them.?,8
+CANCERMAN,The man who stole them has come forward.,8
+BILL MULDER,Oh God.,2
+CANCERMAN,As always we maintain plausible denial. The files are only as real as their possible authentication.,16
+BILL MULDER,My name is in those files.,6
+CANCERMAN,The files have been encrypted of course. We have a certain luxury of time. We endevored to prevent that fact from ever coming to light.,25
+BILL MULDER,You wouldn't... harm him.?,4
+CANCERMAN,"I've protected him this long, haven't I.? Your son has been provident in the alliances that he's created. The last thing we need is a martyr in a crusade.",29
+BILL MULDER,"But if he should, learn of my involvement...",8
+CANCERMAN,"Your you're own man Bill. You always have been. But I strongly encourage you in that event, to deny everything. It's good to see you again Bill. You look well.",30
+SCULLY,You didn't answer your door.,5
+MULDER,Oh. I took a pill.,5
+SCULLY,I couldn't find you at work. I was worried about you.,11
+MULDER,I came home. I must be running a fever. Maybe it's the threat of being burnt at the stake.,19
+SCULLY,They called me in today.,5
+MULDER,What did you tell them.?,5
+SCULLY,That nothing was wrong.,4
+MULDER,Well you told them the truth then.,7
+SCULLY,"Mulder, you opened the door for them, they're just looking for a good reason now.",15
+MULDER,"Okay, I'll say I'm sorry.",5
+SCULLY,"Mulder, these files. Who knows you have them.?",8
+MULDER,Why.?,1
+SCULLY,Because I had to lie today. And I put my job in jeopardy in order to do so. If they find out about those files...,25
+MULDER,How would they find out.?,5
+SCULLY,"Maybe they already know. The question is, is it worth it.? Is this cassette worth risking everything.?",17
+MULDER,I'll tell you when I find out what's on it. Now just tell me who I can talk to about breaking that code.,23
+SCULLY,"I'm meeting with someone in an hour. I might know something later tonight, I just need some kind of assurance that they're not going to let us hang ourselves with this. That I'm doing the right thing.",37
+MULDER,I'll try to find out.,5
+SCULLY,I need to know one more thing Mulder. Why did you attack Skinner.?,13
+MULDER,I've thought of that Scully. I honestly can't say.,9
+NAVAJO WOMAN,This is all you have.?,5
+SCULLY,Currently yes.,2
+NAVAJO WOMAN,There are words I recognise but you'll need an actual code talker to make any sense of this. I know a man who might help. I could have him contact you.,31
+SCULLY,"Yeah, thank you... er... can you tell me which words you do recognise.?",13
+NAVAJO WOMAN,"This word, it means goods, merchandise. And this one means vaccination. They're both modern words which is why they stand out.",21
+SCULLY,Thank you. You've been very helpful.,6
+MULDER,Mulder.,1
+BILL MULDER,"Fox, this is your father, I need to see you right away.",12
+MULDER,Where are you.,3
+BILL MULDER,I'm at home. How soon can you be here.,9
+BILL MULDER,"Fox, it's very important.",4
+SCULLY,Mulder.,1
+BILL MULDER,Fox.,1
+MULDER,Dad. What is it.?,4
+BILL MULDER,"Come in. . It's... Its so clear now. Simple. It was so complicated then. The, the choices that needed to be made.",21
+MULDER,What choices.? Dad.,3
+BILL MULDER,You're a smart boy Fox. You're smarter than I ever was.,11
+MULDER,About what.?,2
+BILL MULDER,"Your politics are yours, you've never thrown in. The minute you do that, their doctrines become yours and you can be held responsible.",23
+MULDER,You're talking about your work in the state department.,9
+BILL MULDER,"You're going to learn of things... Fox, you're going to hear the words and they'll come to make sense to you.",21
+MULDER,What words.?,2
+BILL MULDER,"The merchandise. Look I, I've been taking some medication. You'll have to excuse me for a moment.",17
+MULDER,Dad.? Dad. Dad . Oh dad.,5
+BILL MULDER,Forgive me...,2
+SCULLY,Hello.,1
+MULDER,My father's dead Scully.,4
+SCULLY,Where are you.?,3
+MULDER,They shot him and he's dead.,6
+SCULLY,Mulder where are you.? Just tell me where you are.,10
+MULDER,I'm on the Vineyard.,4
+SCULLY,Who shot him Mulder.?,4
+MULDER,I don't know.,3
+SCULLY,"Mulder, were you arguing.?",4
+MULDER,"I didn't do it Scully, he was trying to tell me something.",12
+SCULLY,Mulder listen to me...,4
+MULDER,You gotta believe me Scully.,5
+SCULLY,"Mulder I believe you, just listen to me, you've gotta get out of there, you have to leave immediately.",19
+MULDER,"I can't leave the crime scene, it'll look like I'm running, make me look guilty.",15
+SCULLY,"Mulder they're gonna suspect you anyway, you've got no ID on the shooter, you, your behavior has been irrational recently, Mulder can't you see that everything is pointing directly at you?",31
+MULDER,He was shot with somebody else's weapon.,7
+SCULLY,"Damn it Mulder, you're an FBI agent, you have access to weapons other than your own.",16
+MULDER,All right. Meet me back at my apartment.,8
+SCULLY,"No. No you can't come home. Someone shot through your window tonight, they almost killed me, they might be trying to kill you.",23
+SCULLY,Fox... My God. Look at you. You're sick.,8
+MULDER,I'm okay.,2
+SCULLY,"No come on, I want you to lie down on, woah, come on I want you to lie down, let me take your coat off.",25
+MULDER,You gotta find them Scully.,5
+SCULLY,Right now you have to lie down. Come here.,9
+MULDER,We gotta find out who killed my father.,8
+SCULLY,"Well right now you need to rest okay, rest. It's okay. Okay.",12
+MULDER,Scully. .,1
+FBI GUY,I'll run a comparison as soon as they send me the bullet removed from the victim.,16
+SCULLY,How long will it take to determine if there a match.?,11
+FBI GUY,There both 9mm rounds. Run the specs compare the stray. We should know pretty much right away.,17
+MULDER,You took my gun. You think I did it don't you.?,11
+SCULLY,I took your gun to run it through ballistics to try and clear you Mulder.,15
+MULDER,Well why didn't you ask me.?,6
+SCULLY,You had a temperature of 102 last night I didn't want to wake you.,14
+MULDER,What were you afraid that I was gonna shoot you too.?,11
+SCULLY,"Mulder, I'm being called into Skinners office this afternoon, they're gonna want answers and I'd like some good ones to give them.",22
+MULDER,"So you can clear your conscience and your name?! You've been making reports on me since the beginning Scully, taking your little notes!",23
+SCULLY,"Mulder you're sick, you're not thinking straight, I'm on your side. You know that.",14
+MULDER,Look you have my files and you have my gun. Don't ask me for my trust.,16
+SCULLY,Mul...,1
+MULDER,I'm gonna kill you anyway Krycek so you may as well tell me the truth. Did you kill my father.? Did you kill him... answer me. .,26
+SCULLY,"Mulder, don't shoot him. Just back away.",7
+MULDER,He killed my father Scully.,5
+SCULLY,I have him Mulder.,4
+MULDER,No Scully...,2
+WOMAN'S VOICE,Oh my God. Somebody call the police.,7
+ALBERT,He's awake.,2
+SCULLY,"Mulder, Mulder it's me. Here drink some of that, you haven't had any water in over 36 hours. Your shoulder's going to be fine. The round went through nice and clean.",31
+MULDER,You shot me.,3
+SCULLY,"Yes, I did. You didn't give me much choice, you were going to shoot Krycek.",15
+MULDER,Why'd you shoot me? He's the one.,7
+SCULLY,"If he is, then his weapon is probably the same one that killed your father.",15
+MULDER,What are you talking about.?,5
+SCULLY,"If you killed Krycek with that weapon there would have been no way to prove that you didn't kill your father. I'm sorry about your father Mulder, I haven't been able to tell you.",34
+MULDER,How'd you know it was Krycek.?,6
+SCULLY,"I didn't. I went back to your apartment to pull the slug from the wall, but I noticed an unmarked van delivering soft water and I found this in one of the tanks servicing your building.",36
+MULDER,What is it.?,3
+SCULLY,"It's a dyalysis filter. It's a device used in the transmission of substance to solution, considering the level of psychosis you were experiencing, it was probably LSD, amphetamines of some kind of exotic dopamine agonist.",35
+MULDER,Oh my God. There was a murder in my building.,10
+SCULLY,Well it wasn't an excercise in subtlety. Mulder these men are quite possibly the same ones who killed your father and who systematically tried to destroy you by turning everyone you could trust against you. I don't think I have to tell you why.,44
+MULDER,I'd gotten too close to the truth. Where are we.?,10
+SCULLY,We're in Farmington New Mexico.,5
+MULDER,New Mexico.?,2
+SCULLY,"We've just driven two days across country, I had to put you out to let the side effects of the psychosis abait. This is Albert Hosteen, he's been translating your files.",31
+ALBERT,You're lucky she's a good shot.,6
+MULDER,Or a bad one.,4
+SCULLY,Albert was a Navajo code talker during world war two. He helped encode the original government documents.,17
+MULDER,How'd you find him.?,4
+SCULLY,Through a woman in Washington. But he claims he knew you were coming.,13
+ALBERT,Last week we had an omen.,6
+SCULLY,Most of these files are written in jargon but apparently there was an international conspiracy of silence dating back to the 1940's. Albert says that evidence of these secrets are buried on a Navajo reservation not far from here. He says that he'll take you as soon as you are able.,51
+MULDER,What about you.?,3
+SCULLY,I'm afraid you're on your own with this. I didn't show up for a meeting with Skinner the day before yesterday and I don't know what the repercussions will be.,30
+MULDER,You've taken a big risk.,5
+SCULLY,I was certain they would have killed you Mulder.,9
+MULDER,Thank you. Thank you for taking care of me.,9
+SCULLY,There's something else. My name is in those files. It appears in the latest entries with Duane Barry's.,18
+MULDER,In what context.?,3
+SCULLY,"It's not clear, but it has something to do with a test. I want you to find out Mulder. I need you to.",23
+MULDER,You said you knew I was coming.,7
+ALBERT,"In the desert, things find a way to survive. Secrets are like this too. They push their way up through the sands of deception so that men can know them. Here, this is my house.",35
+MULDER,But why me.?,3
+ALBERT,"You are prepared to accept the truth aren't you, to sacrifice yourself to it.",14
+MULDER,I don't understand.,3
+ALBERT,"There was a tribe of indians who lived here more than 600 years ago. Their name was Anasazi, it means ancient aliens. No evidence of their fate exists. Historians say they disappeared without a trace. They say that because they will not sacrifice themselves to the truth.",47
+MULDER,And what is the truth.?,5
+ALBERT,Nothing disappears without a trace.,5
+MULDER,You think they were abducted.,5
+ALBERT,By visitors who come here still.,6
+MULDER,What's buried out there.?,4
+ALBERT,Lies. You will see for yourself.,6
+ERIC,It's through these rocks. It's down there.,7
+MULDER,Mulder.,1
+CANCERMAN,You're a hard man to reach.,6
+MULDER,Not hard enough apparently.,4
+CANCERMAN,Where are you.?,3
+MULDER,"I'm at the Betty Ford center, where are you.?",9
+CANCERMAN,"I need to talk to you Mr Mulder, in person. There are some things to explain.",16
+MULDER,"I'll save the government the plane fare, I just need to know which government that is.",16
+CANCERMAN,Your father may have told you things Mr Mulder. I should warn against taking those things at face value.,19
+MULDER,"Yeah, which things are those.?",5
+CANCERMAN,He was never an opponent of the project. In fact he authorised it. That's what he couldn't live with.,19
+MULDER,"No, he couldn't live with it because you had him killed.",11
+CANCERMAN,We weren't involved in that.,5
+MULDER,"Now listen to me you black lunged son of a bitch, I'm gonna expose you and your project, your time is over.",22
+CANCERMAN,Expose anything and you only expose your father...,8
+BLACK OPPS GUY 1,"Sir, we got a co-ordinate on F were ready to go.",11
+CANCERMAN,Let's go.,2
+BLACK OPPS GUT 2,Need a cigarette.?,3
+ERIC,Over here.,2
+MULDER,This is a boxcar.,4
+ERIC,Refrigeration car.,2
+SCULLY,Scully.,1
+MULDER,"Yeah, it's me.",3
+SCULLY,Where are you.?,3
+MULDER,Nowhere I ever expected.,4
+SCULLY,What do you mean.?,4
+MULDER,I'm in a boxcar buried inside a quarry. There are bodies everywhere.,12
+SCULLY,Bodies.?,1
+MULDER,Stacked floor to ceiling.,4
+SCULLY,What happened to them.?,4
+MULDER,I don't know.,3
+SCULLY,"Mulder, in these files I found references to experiments that were conducted here in the US by Axis Power scientists who were given amnesty after the war.",27
+MULDER,What kind of experiments.?,4
+SCULLY,"Some kind of tests, on humans. What they referred to as merchandise.",12
+MULDER,But these aren't human Scully. From the look of it I'd say they were alien.,15
+SCULLY,Are you sure.?,3
+MULDER,I'm pretty damn sure. Wait a sec...,7
+MULDER,This one... has a smallpox vacination scar.,7
+SCULLY,Mulder...,1
+MULDER,"Oh my God Scully, what have they done.?",8
+BLACK OPPS GUY 1,"Move out, get away from there, keep him back. Cover us were going in. Go.",15
+CANCERMAN,What's your name boy.?,4
+BLACK OPPS GUY 1,He's not here.,3
+CANCERMAN,Where's Mulder. He's here.,4
+BLACK OPPS GUY 1,"No sir, if he was, he's vanished without a trace.",10
+CANCERMAN,Nothing vanishes without a trace. Burn it.,7

@@ -1,0 +1,339 @@
+speaker,line,words
+MAN #1 ON TV,"Hold, punster! Find the prisoner!",5
+MAN #2 ON TV,Find the prisoner!,3
+MAN #1 ON TV,"There, there, whoa! Who's this?",5
+MAN #3 ON TV,"There, there's been a mistake. Get me a lawyer.",9
+MAN #1 ON TV,"Forward, punster. Where is the king?",6
+MAN #4 ON TV,"In the great hall, sire.",5
+MAN #5 ON TV,Enough! My horses.,3
+MAN #4 ON TV,"Aye, sire.",2
+MAN #5 ON TV,"""Ode to the Great Hawk.""",5
+DUANE BARRY,"It can't be. No, no! Not again!",7
+HAKKIE,"Hello, Duane. Nice to see you.",6
+DUANE BARRY,"Nice to see you too, Doc.",6
+HAKKIE,How are you feeling today?,5
+DUANE BARRY,Pretty good.,2
+HAKKIE,"Why don't we sit down, Duane? I want to go over a few things with you.",16
+DUANE BARRY,Okay.,1
+HAKKIE,"Now, uh, it says here that you've been refusing to take your medicine.",13
+DUANE BARRY,I don't like the way it makes me feel.,9
+HAKKIE,"Okay, all right, let's talk about that. Because we give you that medicine for a reason, Duane, because of your behavior.",21
+DUANE BARRY,"I know, I know.",4
+HAKKIE,Because we don't want you to hurt anybody again. You're still hearing voices?,13
+DUANE BARRY,"I'm not crazy, Doc. Duane Barry's not like these other guys.",11
+HAKKIE,"No, everybody here is different.",5
+DUANE BARRY,"They're coming again. They're coming again, I can feel it. They're going to take Duane Barry to this place.",19
+HAKKIE,"Nobody's coming, Duane.",3
+DUANE BARRY,Nobody can stop them.,4
+HAKKIE,"I'm going to give you a shot. I think you just need some rest. Now, this will make you sleep... and you'll wake up and you will see that we didn't let anybody hurt you. Okay, Duane? Duane? Duane!",39
+DUANE BARRY,"Get away, get away.",4
+HAKKIE,"Put the gun down, Duane.",5
+DUANE BARRY,Give me the keys.,4
+HAKKIE,Duane...,1
+DUANE BARRY,Give me the damn keys!,5
+MAN,"Yeah, do it!",3
+HAKKIE,"No, no!",2
+DUANE BARRY,"Either way, Doc, we're getting out of here together. You guys... let's do it now. Go! Go! Go!",18
+KRYCEK,Agent Mulder!,2
+MULDER,"Krycek, what's up?",3
+KRYCEK,There's a situation going down. They want you out there right away.,12
+MULDER,What kind of situation?,4
+KRYCEK,Hostage negotiation.,2
+MULDER,And they want me?,4
+KRYCEK,Yeah.,1
+MULDER,What for?,2
+KRYCEK,The guy escaped a mental institution. He's got four people at gunpoint in an office building. Claims he's being controlled by aliens.,22
+POLICEMAN,Stay back!,2
+KRYCEK,"Krycek, Mulder, F.B.I. What's your handle?",6
+POLICEMAN,"Right that way, sir.",4
+MAN #1,"Yes, sir.",2
+MAN #2,"Okay, I've got it right here. Lucy?",7
+LUCY KAZDIN,Agent Mulder?,2
+MULDER,Yeah.,1
+LUCY KAZDIN,"Lucy Kazdin, negotiations commander. Thanks for coming.",7
+MULDER,This is Agent Krycek.,4
+LUCY KAZDIN,"Let me show you what we've got. His name's Duane Barry. He's armed with a nine millimeter Smith & Wesson handgun, one nine-round magazine. It is our belief he's prepared to use the gun and not afraid to die.",38
+MULDER,What does he want?,4
+LUCY KAZDIN,"Safe passage for himself and his original hostage, a shrink named Hakkie.",12
+MULDER,Passage to where?,3
+LUCY KAZDIN,"He's bent on taking the Doctor with him to an alien abduction site, only he can't quite remember where the site is so he stopped at a travel agency.",29
+MULDER,Is he lucid?,3
+LUCY KAZDIN,"Yes, but he's off his medication so he's manic, ranting about scoop mark scars on his body, homing devices, and a lot of other nonsense.",25
+MULDER,Like what?,2
+LUCY KAZDIN,"This whole alien abduction business, which I guess you know something about.",12
+MULDER,"Yeah, yeah, but I've never been in a hostage negotiation before.",11
+LUCY KAZDIN,"Oh, we'll take you through it. Agent Rich is our advisory commander. He and I will be coaching you.",19
+RICH,"What Mister Barry needs right now is a friend, someone who appears to understand him and can appeal to his sense of reason.",23
+MULDER,Do we know anything about his abduction experiences?,8
+LUCY KAZDIN,"You really believe in this stuff, Agent Mulder?",8
+MULDER,Is that a problem?,4
+LUCY KAZDIN,"We're here to save lives. You'll begin negotiations immediately. Every three hours, we'll reevaluate your progress and let our tactical commander advise and update on the use of force.",29
+MULDER,"If this man is an abductee, I need to know more about him, his personal history. Each abduction case is different.",21
+LUCY KAZDIN,That material's not been made available to us.,8
+MULDER,And nobody's thought to call the hospital for records?,9
+LUCY KAZDIN,"Look, Agent Mulder. The guy's a psycho. Your object is to keep him on the phone. The longer you do, the more chance he's not going to kill anybody. We stop to do a Freudian analysis, next thing we know, we've got four dead hostages. So whatever crap you got to make up about space men or UFOs, just keep him on the phone.",64
+BOB,Are we going to have to sit like this all night?,11
+DUANE BARRY,I told you to shut up.,6
+GWEN,"We all have families, for God's sake.",7
+HAKKIE,Duane? Don't hurt anyone. Please?,5
+DUANE BARRY,"I'm not going to hurt you, Doc. Because this time, you're going with Duane Barry so you can see what it's like... that it's real!",25
+MULDER,Duane?,1
+DUANE BARRY,Yeah?,1
+MULDER,"This is Special Agent Fox Mulder. Look, I want to try to help you.",14
+DUANE BARRY,"Yeah? Well... we're just sitting here, waiting for, uh... travel plans.",11
+MULDER,"I think I know what you're going through, Duane. I just want to make sure you get what you want and that... Bob, Kimberly and Gwen and Doctor Hakkie don't get hurt.",32
+DUANE BARRY,You know what I'm going through? You think you know what Duane Barry's going through? You don't know jack!,19
+MULDER,"I know you're scared, Duane, and that you'd like to see this all come out right.",16
+DUANE BARRY,"Yeah, right. So they can... put me back in the nuthouse... where I belong!",14
+MULDER,"We're only concerned about your safety, Duane. You and the others.",11
+DUANE BARRY,Hey... what's your name? Mulder? I know the routine. Honesty... containment... conciliation. Am I missing something?,16
+MULDER,"You need someone to trust, Duane. I know a lot of people who have been through similar experiences.",18
+DUANE BARRY,"You want to do something for me, Agent Mulder? You keep your dogs on a leash. You try to gas me out or do anything stupid... These people die. They're not taking me again. You got it? They can take somebody else!",42
+MULDER,"Nobody's going to try anything, Duane. Who is this guy? He's F.B.I., isn't he?",14
+LUCY KAZDIN,Former F.B.I.,2
+MULDER,And you didn't think to mention that?,7
+LUCY KAZDIN,He's been out of the bureau since 1982. Institutionalized on and off for over a decade. It's beside the point.,20
+MULDER,"The point being that the bureau wants to minimize it's embarrassment, isn't that it? That we can police our own.",20
+LUCY KAZDIN,They would like it done as neatly and cleanly as possible.,11
+MULDER,"Well, you're off to a hell of a start.",9
+RICH,"Negotiation is a process, Agent Mulder.",6
+MULDER,"Well, if you just wanted somebody to come down and read the script, you didn't have to bring me out.",20
+RICH,This method has proven extremely successful in winning the hostage-taker's trust.,11
+MULDER,"No, no, that man is afraid. And the only way you're going to win his trust is by trying to understand what he's afraid of. Have you ever spoken to an abductee, Agent Kazdin? Heard them talk about having their brains sucked out through their nostril while being wide awake through the experience? Would you like to know what they do to a woman's ovaries?",65
+LUCY KAZDIN,Not particularly.,2
+MULDER,"Well, then understand that you might have to alter your approach a little bit here.",15
+KRYCEK,Is there anything I can do?,6
+LUCY KAZDIN,"Yeah, what's your name again?",5
+KRYCEK,Krycek.,1
+LUCY KAZDIN,"Krycek, have you got your notepad? Grande, two percent cappuccino with vanilla. Agent Rich?",14
+REPORTER ON TV,"...of the hostages. As you can see, Carl, the SWAT team has taken positions on all the surrounding buildings...",19
+SCULLY,Scully.,1
+MULDER,It's me. I'm in Virginia.,5
+SCULLY,"Yeah, I know. I've been watching it on TV. What's going on out there?",14
+MULDER,What's the media saying?,4
+SCULLY,That an escaped mental patient is holding four people hostage in a travel agency.,14
+MULDER,"Well, what they're not telling you is that he's former F.B.I. who also claims to be an alien abductee.",19
+SCULLY,Seriously?,1
+MULDER,"Yeah, his name's Duane Barry. Look, Scully, I need your help. I need you to find out what happened to him. Anything, transcripts from therapy sessions, hypnotic regressions... Anything about his abduction experience.",33
+SCULLY,Mulder?,1
+MULDER,The lights just went out here.,6
+MAN #1,Stay back.,2
+MAN #2,"Come on, we're losing power!",5
+SNIPER,What the hell is going on?,6
+MAN #1,"Tactical unit, what are you guys up to?",8
+TACTICAL COMMANDER,"Nothing, absolutely nothing sir.",4
+MAN #1,"Ah, what the? Get down, everybody get down! Backup from command. Shots have been fired. Locate and report. I repeat, locate and report.",23
+RICH,We've lost our captured line.,5
+MAN #1,We have either four or five shots fired!,8
+MULDER,What's the number there?,4
+RICH,555-2804.,1
+MAN #1,"Repeat, we have either four or five shots fired!",9
+LUCY KAZDIN,Our electrical substation blew. We've got no power up and down the block.,13
+MULDER,Duane?,1
+DUANE BARRY,I told you.,3
+MULDER,"Is everybody all right, Duane?",5
+DUANE BARRY,"You didn't believe me, did you?",6
+MULDER,"No, I, I believe you. I just need to know if......anybody's been shot.",13
+GWEN,I need towels. Kimberly? Kimberly? He's going to bleed to death.,11
+DUANE BARRY,I guess we're going to need a doctor.,8
+TACTICAL COMMANDER,"Now, you'll have almost full ambient hearing loss in this ear. Your sense of balance might be affected slightly, particularly if you have to move quickly or get into a physical situation. If you get trapped or held in the building for some reason, we'll be able to warn you if there's a tactical assault. Now remember, he's either got four or five rounds left. Now, there's a wireless mic hidden in the top of this flak jacket. Speaking in a normal tone of voice, we should be able to hear anything you say up to a hundred yards. Make every attempt to keep these devices concealed. You put a normal telephone handset to that ear, it'll cause feedback and reveal that you're wired.",124
+LUCY KAZDIN,You really want to do this?,6
+MULDER,Yeah.,1
+LUCY KAZDIN,Your job will be to deliver medical help to the hostage. Anything else is just a bonus. You're to get in and get out. You are not to risk your own life. Whatever you believe...,35
+MULDER,Don't jump into his delusion. I can't negotiate with him if he thinks I believe him.,16
+LUCY KAZDIN,"Right. This is Agent Janus, he's a trained medic. He'll work on the hostage. You're to keep Duane Barry talking. Like I said, if he's talking, he's not going to shoot anybody including you.",34
+TACTICAL COMMANDER,"Now, I've got three snipers out there. Anything you can do to get him to the front door, all we need is one shot to the medulla oblongata.",28
+SNIPER,"Tac command, this is rooftop zero-two. I have them in sight. They're passing the fountain and approaching the front entrance now.",21
+DUANE BARRY,Just unlock the door and move back.,7
+MULDER,Duane?,1
+DUANE BARRY,Hands in the air! Put the kit on the floor slowly.,11
+MULDER,We're unarmed. We just want to help the injured.,9
+GWEN,Over here.,2
+DUANE BARRY,"Face the door! That's right. Not armed, huh? You're F.B.I., aren't you? Got a gun in the kit?",18
+MULDER,No.,1
+DUANE BARRY,Are you wearing a wire?,5
+MULDER,No. We're just here to help.,6
+DUANE BARRY,Okay...,1
+MULDER,"Nobody's going to try anything, Duane.",6
+LUCY KAZDIN,"That's right, good. You want to work with him.",9
+MULDER,We just want to make sure no one else gets hurt.,11
+DUANE BARRY,Just do your business and get out.,7
+JANUS,How's he doing?,3
+GWEN,He's bad.,2
+JANUS,"Hi, my name is Janus. I'm a paramedic. Hold on, we're going to take care of you, okay?",18
+MULDER,"They want to work with you, Duane, but you got to work with them. Why not let the others go?",20
+DUANE BARRY,Doc's going with me.,4
+MULDER,"Then let the women go. Were they here, Duane? The light... was that them?",14
+DUANE BARRY,Don't try and B.S. Duane Barry.,6
+MULDER,"Well, we lost time. I checked my watch. Isn't that what happens? Time stops. Isn't it? Duane?",17
+DUANE BARRY,You're making it up.,4
+MULDER,"Isn't that what they've been saying to you, Duane? That you're making it up?",14
+DUANE BARRY,They say it's all inside my head. All they want to do is just give me more drugs.,18
+MULDER,"I hear you, Duane.",4
+DUANE BARRY,You hear me 'cause I got a gun.,8
+MULDER,No. I believe your story.,5
+LUCY KAZDIN,"No, you're feeding into his psychosis.",6
+MULDER,I know you're afraid. I know the pain and the fear you must feel.,14
+LUCY KAZDIN,Just listen to me. Don't try to identify with him.,10
+MULDER,"I've talked to people, Duane. People just like you, and nobody wanted to believe.",14
+JANUS,This man's going to die unless we get him to a hospital.,12
+MULDER,"Why don't you let him go, Duane? There's no reason this man has to die. Come on, Duane. You've got the power. Let him go.",25
+DUANE BARRY,Okay.,1
+MULDER,"Good. You made the right choice. Now, we're just going to move him carefully to the door.",17
+DUANE BARRY,No! Baldy can go. But you stay. I'm trading the bald man for you.,14
+LUCY KAZDIN,Damn it!,2
+MAN,"You're going to be all right, sir... just keep moving.",10
+DUANE BARRY,"Now, let's see how good a liar you are.",9
+MULDER,"I'm telling the truth, Duane.",5
+DUANE BARRY,How could you ever know what Duane Barry's been through? How could anyone know?,14
+MULDER,It happened to my sister.,5
+DUANE BARRY,Don't you think you can lie to save their lives. I want some honesty! I want some respect! I'm tired of all the B.S.!,24
+MULDER,"How does it happen, Duane? Driving in your car? Alone in bed at night? When do they come to you? You're paralyzed, aren't you? Unable to move. Sometimes, you can't even breathe. You feel an electric shock go through your body......and then they're there.",44
+LUCY KAZDIN,He's going to push him right over the edge. I need a clear picture of what's going on in there.,20
+MAN,Right away.,2
+LUCY KAZDIN,"You're choosing a dangerous course, Agent Mulder.",7
+MULDER,"There are beings, aren't there, Duane? Are they tall or small?",11
+DUANE BARRY,No! No!,2
+MULDER,"Diminutive... They take you, Duane, against your will.",8
+GWEN,He's going to kill us...,5
+MULDER,"You're powerless. Sometimes, you can't even speak. It's always the same, nobody can help you. Where do they take you, Duane? Is there a ship? Do they take you to a ship, Duane? How do you get there? Are you conscious or being transported?",44
+DUANE BARRY,"They're, uh... they're talking to Duane Barry. But they don't speak. He can hear what they're saying. They can... read his mind.",22
+MULDER,"That's right. Abductees call it ""mindscan."" It's a kind of telepathy.",11
+DUANE BARRY,I'm telling 'em I don't want to go... but they never listen. They know what I'm saying. But they just... go right on about their business. Tell him what their business is. Tell him.,34
+MULDER,They take you aboard the ship to perform the tests.,10
+DUANE BARRY,They... drilled my teeth. They drilled holes in my damn teeth!,11
+TACTICAL COMMANDER,Yeah. Who here can talk to an Agent Scully?,9
+KRYCEK,"Agent Scully, it's Alex Krycek.",5
+SCULLY,Where's Mulder?,2
+KRYCEK,He traded himself for one of the hostages.,8
+SCULLY,What?,1
+KRYCEK,He's in with Duane Barry.,5
+SCULLY,You've got to get him out of there.,8
+KRYCEK,"Well, they're working on it.",5
+SCULLY,"No, you've got to get him out of there now or he's going to be killed!",16
+KRYCEK,How can you be sure?,5
+SCULLY,Because Duane Barry is not what Mulder thinks he is.,10
+DUANE BARRY,How old was your sister when they took her?,9
+MULDER,She was eight.,3
+DUANE BARRY,"I've seen kids sometimes, young girls.",6
+MULDER,What are they doing to them?,6
+DUANE BARRY,Doing tests. You know... testing them. I tell them not to cry.,12
+MULDER,Are they hurting them?,4
+DUANE BARRY,"Oh, yeah. Sometimes... sometimes it hurts real bad, and uh... you just want to die, you know? You know what it's like, sir? It's like living with a gun to your head and never knowing when it's going to go off.",41
+MULDER,"You can let the others go, Duane. Let the others go and take me.",14
+DUANE BARRY,"Oh... they heard you talking like that, they're going to have your ass.",13
+MULDER,"I don't care about that, Duane.",6
+DUANE BARRY,"No. I wouldn't do that to you. Besides, Doc and I got an appointment. Ain't that right, Doc?",18
+TACTICAL COMMANDER,"We got a picture. Mulder is here, opposite the doctor. The women are on the north wall. We can't see the east wall, Duane Barry must be there.",28
+MAN,Hold on a second.,4
+SCULLY,"No, I don't think you understand what I'm telling you. I just flew down here from Washington...",17
+MAN,"We, we got a situation in progress...",7
+SCULLY,"All right, well then let me speak to someone who's in charge.",12
+KRYCEK,"You are. Calm down, Scully.",5
+SCULLY,"Don't tell me to calm down, I'm not going to calm down until I can talk to someone who will listen to what I'm saying!",25
+LUCY KAZDIN,What's the problem here?,4
+SCULLY,I'm Special Agent Dana Scully and I have information that is vital to your negotiations.,15
+LUCY KAZDIN,What information?,2
+SCULLY,"I think there has been a critical misjudgment here. This man who claims to be under the control of aliens, his, his mental health history describes a rare state of psychosis. As you can see from his medical records, in 1982, Duane Barry was shot in the line of duty, the bullet piercing his bilateral frontal lobes.",57
+LUCY KAZDIN,Right.,1
+SCULLY,"The injury left him nearly incapable of functioning in society. It effectively destroyed the moral center of his brain. Now, almost a hundred years ago, there was a famous case. A man named Gage had a blasting rod pierce the same region.",42
+LUCY KAZDIN,And what effect did it have?,6
+SCULLY,"He became a pathological liar, suffering from severe delusions. His behavior was characterized as bizarre and violent with a tendency to act out his fantasies.",25
+LUCY KAZDIN,How did you get involved in this case?,8
+SCULLY,Agent Mulder called me. We used to work together.,9
+LUCY KAZDIN,"Well, if this is true, he's got your former partner completely fooled.",12
+SCULLY,Is there a way I can reach him with this information?,11
+DUANE BARRY,"The government knows about it, you know. They're even in on it sometimes. Right there in the room when they come. They work together with a, uh, secret, uh, corporation.",30
+MULDER,Who in the government?,4
+DUANE BARRY,"A man, the military. They're all in it together. The government knows why they're here, but they wouldn't dare let the truth out. So they cooperate.",26
+MULDER,"You're going to have to deal with resolving this situation, Duane... sooner or later.",14
+DUANE BARRY,I'm tired.,2
+MULDER,There's no other way out. You've got to tell them what you want to do.,15
+DUANE BARRY,I just want to go back to the place.,9
+MULDER,What place?,2
+DUANE BARRY,Where it first started. Where they first came and got me.,11
+MULDER,Where is that?,3
+DUANE BARRY,"A mountain. We went, uh, up... and up. Ascending... ascending to the stars. I'm not going again.",17
+SCULLY,Mulder? It's me. Listen to me. You cannot trust Duane Barry. He is a brain-damaged psychopath who took a bullet in the head. He is not what you think he is.,31
+DUANE BARRY,What?,1
+MULDER,How do they find you each time?,7
+DUANE BARRY,"Implants... my gums, sinus cavities...... and my belly button. Tracking devices.",11
+SCULLY,"Mulder, he could snap at any time. He has a history of irrational and violent behavior. Now, you have to work towards resolving this. Now, you have his trust. You have to try and negotiate with him.",37
+MULDER,"Why not let the women go, Duane? They'll deal with you if you let the women go.",17
+SCULLY,"That's good, that's good, Mulder. Now keep him talking. H.R.T. is moving into position and unless you can get him to free the hostages, they're going to execute a tactical plan.",31
+MULDER,"The women are of no consequence to you. Let them go. It's the right thing to do, Duane.",18
+DUANE BARRY,"Okay, but he stays. Go on, get out of here. Get up, go on. Get out of here, go on.",20
+KIMBERLY,I'm... I just want to say that I believe you.,10
+SNIPER,The women are clear.,4
+MAN,"I got him, standing, center room... moving...",7
+SCULLY,"This is the countdown, Mulder, they're coming at you.",9
+MARKSMAN #1,"Position number one, ready.",4
+TACTICAL COMMANDER,"Coming at you, number one.",5
+DUANE BARRY,We're going to need transportation.,5
+MULDER,"What do you want, Duane? A car?",7
+DUANE BARRY,I don't know.,3
+MULDER,Do you know where you want to go?,8
+DUANE BARRY,They're going to tell me.,5
+MULDER,"Duane, you can't leave here if you don't know where you want to go. Duane!",15
+DUANE BARRY,What?,1
+MULDER,Come here.,2
+MAN,"Hold your fire, you lost your line.",7
+MULDER,There... there's something I want to ask you.,8
+DUANE BARRY,What?,1
+MULDER,"You didn't believe me. I had to earn your trust. Now, there's something I got to know. Are you making any of this up?",24
+DUANE BARRY,You are... calling Duane Barry a liar now?,8
+MULDER,No...,1
+DUANE BARRY,You think I make it all up.,7
+MULDER,"No, I don't. I'm sorry.",5
+DUANE BARRY,You're sorry?,2
+MULDER,"Duane, will you listen to me for a second?",9
+DUANE BARRY,"You're just like all the others, aren't you?",8
+MULDER,Duane...,1
+DUANE BARRY,You say you believe me...,5
+MULDER,"Duane, I do believe you.",5
+DUANE BARRY,...but you don't!,3
+MULDER,I believe you!,3
+DUANE BARRY,You lie just like everybody else!,6
+MULDER,"No! I believe you, Duane!",5
+DUANE BARRY,I trusted you! I trusted you like a fool!,9
+MULDER,"Can I say... can I say something? Duane, can I say something? I know you're tired, but there's something you've forgotten to do. When you let the women leave, you left the door unlocked. Go lock the door, Duane. Go lock the door. Go lock the door, Duane. Go lock it. They could get in here. Go lock the door.",60
+MAN #1,"Let's go, let's move!",4
+MAN #2,"Okay, come on.",3
+MAN #1,"He's down, he's down, he's down!",6
+SCULLY,"You okay, Mulder?",3
+MULDER,Yeah.,1
+SCULLY,Whatever you're feeling... you did the right thing.,8
+MULDER,"It's just that, uh... I believed him.",7
+SCULLY,"Sometimes when you want to believe so badly, you end up... looking too hard.",14
+LUCY KAZDIN,"Agent Mulder, thanks for coming.",5
+MULDER,"No, I was surprised to get your call.",8
+LUCY KAZDIN,"Yeah, well... as it turned out, whatever your impression of the way it was handled, I didn't get to thank you for going out there and putting it on the line. What?",32
+MULDER,"I don't know, I guess I thought maybe you called me down here to chew me out. How's he doing?",20
+LUCY KAZDIN,"Duane? They almost lost him, but he stabilized. They got him listed on critical. I checked on his records with the bureau. It was exemplary. His accident was something of a mystery. Shot by his own weapon in a drug stakeout, left for dead in the woods. He was never the same. Lost everything... wife, kids, house...",57
+MULDER,The fine thread of sanity.,5
+LUCY KAZDIN,"I actually called you down here for another reason, Agent Mulder. Uh... in the x-rays, the surgeon found several pieces of metal. In his gums, in his sinus cavity, and one in the abdomen. I had them checked, I felt you'd want to know... and there were tiny drill holes in his left and right rear molars. A dentist who examined them said they could not have been done with any of the current equipment in use... not without chipping or damaging the tooth. Anyway... I thought you ought to know.",91
+SCULLY,This could just be a piece of shrapnel. Duane Barry did a tour of duty in Vietnam.,17
+MULDER,"It was right where he said it would be, Scully. Along with the ones in his gums and sinus.",19
+SCULLY,And you think that this was implanted?,7
+MULDER,"Well, if it was, that would mean Duane Barry is telling the truth.",13
+SCULLY,"Or some version of the truth. Look, I'll, I'll take this down to ballistics. We can have this cleared up in a second.",23
+BALLISTICS EXPERT,Let me just make a slight adjustment.,7
+SCULLY,What do you think?,4
+BALLISTICS EXPERT,"Could be a shell casing or a small artillery fragment. The edges are dull, but it could have been white-hot when it entered the body.",25
+SCULLY,That would make sense.,4
+BALLISTICS EXPERT,But look at this.,4
+SCULLY,What?,1
+BALLISTICS EXPERT,These small markings. See them here?,6
+SCULLY,Mm-hmm. Looks like some kind of a stamp.,8
+BALLISTICS EXPERT,"Like it's been tooled or etched. Pretty fine work, too. This square we're looking at is only ten microns across. Strange.",21
+CLERK,Eleven fourteen. Thank you.,4
+WOMAN,"Excuse me, can I get some help here with these?",10
+CLERK,"I'll, uh, be right with you. I just have to cash out my drawer. What happened? Did you touch something?",20
+SCULLY,"Uh, I don't know what happened.",6
+POLICE OFFICER,All right...,2
+MULDER ON MACHINE,"Hello, this is Fox Mulder. Leave a message please.",9
+SCULLY,"Mulder, it's me. I just had something incredibly strange happen. This piece of metal that they took out of Duane Barry, it has some kind of a code on it. I ran it through a scanner and some kind of a serial number came up. What the hell is this thing, Mulder? It's almost as if... it's almost as if somebody was using it to catalogue him.",67
+DUANE BARRY,"Come on, lady...",3
+SCULLY,Mulder!,1
+DUANE BARRY,Come on!,2
+SCULLY,I need your help! Mulder! Mulder!,6

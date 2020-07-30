@@ -1,0 +1,307 @@
+speaker,line,words
+OFFICER #1,Sir.,1
+OFFICER #2,Captain.,1
+CAPTAIN,What have you got?,4
+RADAR OFFICER,"I'm not quite sure, sir. We picked up some paint approximately two minutes ago.",14
+CAPTAIN,Looks like the damn thing's just hanging there.,8
+RADAR OFFICER,"Yes, sir. It's approximately two-hundred meters below the ice. Looks to be about eighty meters across and it's noisy.",19
+CAPTAIN,"Noisy, how?",2
+RADAR OFFICER,"It's emitting radio signals across the spectrum but it's... it's just random noise, sir. We can't detect any pattern.",19
+CAPTAIN,Get me Pacific Command on the satellite uplink.,8
+RADAR OFFICER,"Yes, sir.",2
+CAPTAIN,"Yes, admiral. I don't know what we found but it appears to be some kind of craft. Yes, sir, that's correct. But we're on a cartography mission, admiral. My crew isn't prepared to... Yes, sir. Understood, sir. Set a course heading 0-4-7.",42
+RADAR OFFICER,"Toward the object, sir?",4
+CAPTAIN,Weapons room.,2
+MAN,"Aye, sir. Lock torpedoes on target. Prepare to fire on command.",11
+RADAR OFFICER,"Captain, shouldn't we at least attempt to identify this object first?",11
+CAPTAIN,"We have our orders, Lieutenant.",5
+RADAR OFFICER,"But, sir...",2
+MAN,"Everything's down, negative!",3
+CAPTAIN,Reactor's gone down.,3
+MAN,Over here...,2
+CAPTAIN,Engine room?,2
+RADAR OFFICER,"That won't work, captain. We've only got battery power.",9
+CAPTAIN,I'm going down there. Prepare to surface at once!,9
+RADAR OFFICER,Surface into what? We're under thirty-two feet of glacial ice.,10
+MULDER,Scully? Are you there? Scully? What's going on?,8
+SCULLY,"No, sorry.",2
+MULDER,Who was that?,3
+SCULLY,"It's a wrong number. Where have you been, Mulder? I've been trying to get a hold of you.",18
+MULDER,"I, I was trying to reach you. I went by your house but you weren't there. I got here as quickly as I could.",24
+SCULLY,Why didn't you call when you got my message?,9
+MULDER,"I, I, I did call. I, I couldn't get through.",10
+SCULLY,Put your hands against the wall.,6
+MULDER,"Scully, what are you doing?",5
+SCULLY,I said put your hands against the wall!,8
+MULDER,What's wrong?,2
+SCULLY,Do it!,2
+MULDER,"Scully, it's me...",3
+SCULLY,I don't know who you are.,6
+MULDER,"Okay, I'm going to take my left hand and reach into my pocket and get my I.D., okay? Just don't shoot me. I got shot once and I didn't much care for it.",33
+SCULLY,I said keep your hands up.,6
+MULDER,"Where is he? That was him on the phone, wasn't it? Tell me where he is.",16
+SCULLY,I don't know what you're talking about.,7
+MULDER,Scully?,1
+SAMANTHA MULDER,He's been here. Your partner is alive.,7
+MULDER,How do you know?,4
+SAMANTHA MULDER,He took her to get me.,6
+MULDER,There's no sign of a break-in. She wouldn't have just let him in.,13
+SAMANTHA MULDER,"She might not have known who he was. She might have thought it was you. He's going to contact you. He's going to say he wants to make a trade, your partner's life for mine.",35
+MULDER,"Why, why does he want to kill you?",8
+SAMANTHA MULDER,Because I know how to kill him.,7
+MULDER,How?,1
+SAMANTHA MULDER,By piercing the base of his skull.,7
+MULDER,That would kill anybody.,4
+SAMANTHA MULDER,"Yes, but this is the only way to kill him and it must be precise. I'm fairly sure it'll work.",20
+MULDER,Fairly sure?,2
+SAMANTHA MULDER,"He's got powers I've never seen before. If it doesn't work, there's a chance you could die.",17
+MULDER,From what?,2
+SAMANTHA MULDER,"Their blood is toxic, human exposure to it is fatal. I know this must seem incredible to you...",18
+MULDER,"No, no, no, no, no... that's just it. It doesn't seem incredible at all. Now, how do we find him?",20
+SAMANTHA MULDER,We don't. He'll find us.,5
+(THE TIME IS 12,38. Mulder paces around his apartment as Samantha sits on the couch.),12
+SAMANTHA MULDER,He'll call.,2
+MULDER,You're sure?,2
+SAMANTHA MULDER,I know what he wants.,5
+MULDER,And if he doesn't get it?,6
+SAMANTHA MULDER,"I know this is hard for you, Fox...",8
+MULDER,"No, it's not hard. It's unbelievable.",6
+SAMANTHA MULDER,You don't believe me.,4
+MULDER,"After twenty-two years, why come back?",6
+SAMANTHA MULDER,I've explained to you...,4
+MULDER,"No, no, you've explained only what you had to! I know next to nothing about these people you call your parents or about the man who wants to kill them.",30
+SAMANTHA MULDER,"The men you've been seeking are the progeny of two original visitors, clones who have been attempting to establish a colony here since the late 1940's.",26
+MULDER,A colony?,2
+SAMANTHA MULDER,"Loosely. The community, by necessity, is dispersed. There are clones identical to my parents living in virtually every part of the country.",22
+MULDER,What are they trying to accomplish?,6
+SAMANTHA MULDER,"It's their belief that our stewardship of the planet is being forsaken, and that by default, they'll someday become the natural heirs.",22
+MULDER,And in the meantime?,4
+SAMANTHA MULDER,"Through hybridization, they've been working to erase that aspect which has forced the community to scatter... their identical natures.",19
+MULDER,"All the clones worked in abortion clinics, why?",8
+SAMANTHA MULDER,"Access to fetal tissue. Though the biologies are incompatible, they finally found a way to combine human DNA with alien DNA.",21
+MULDER,And this man... why has he been sent to kill them?,11
+SAMANTHA MULDER,"The experiments weren't sanctioned. It was considered a dilution of their species, a pollution of their race. So a bounty hunter was dispatched to destroy them and terminate the colony.",30
+MULDER,That's a good story... but I've heard a lot of good stories lately.,13
+SAMANTHA MULDER,"I've got no reason to lie to you. I'm your sister, Fox, you have to trust me.",17
+MULDER,Who is it?,3
+SKINNER,It's Skinner. Mulder?,3
+MULDER,The door's open. Make yourself at home.,7
+SKINNER,"What's going on here, Agent Mulder? Why are the lights out?",11
+MULDER,Orders from my opthamologist.,4
+SKINNER,Are you all right?,4
+MULDER,"Yeah, I'm fine.",3
+SKINNER,I've been trying to reach you and Agent Scully.,9
+MULDER,I haven't checked my messages.,5
+SKINNER,Are you aware that Agent Scully incarcerated four men with the federal marshal's office? And those men are now missing?,20
+SAMANTHA MULDER,"It's all right, it's not him.",6
+SKINNER,"What the hell is going on here, Mulder?",8
+MULDER,"This is my sister, Samantha Mulder.",6
+SKINNER,What?,1
+MULDER,"I haven't had time to explain, Agent Scully is missing.",10
+SKINNER,"What do you mean, missing?",5
+MULDER,Hello.,1
+SCULLY,"Mulder, it's me.",3
+MULDER,"Scully, where are you?",4
+SCULLY,"I don't know, I'm... I'm in a telephone booth. He's got my gun, Mulder. He says he's going to kill me if you don't give him what he wants.",29
+MULDER,"Well, what does he want?",5
+SCULLY,A woman who's with you. He says you'll know what I'm talking about.,13
+MULDER,"All right, tell him we'll negotiate.",6
+SCULLY,He doesn't want to negotiate. He says he wants to make a trade.,13
+MULDER,"All right, let me speak to him.",7
+SCULLY,He wants you to be at Memorial Bridge at Bethesda in one hour.,13
+MULDER,"Scully, I need time, I need more time than that.",10
+SCULLY,Mulder...,1
+SKINNER,Where is she? What's this about a negotiation?,8
+MULDER,"We don't, we don't have any time. If I ever needed your help, your trust, I need it now.",19
+SKINNER,Mulder's in position.,3
+MULDER,We just need to get him out of the car. Make him think we're going to make a trade. We just need one shot.,24
+SAMANTHA MULDER,To the base of the neck.,6
+MULDER,"These guys can hollow out a dime at two-hundred yards. And, Samantha. Do not take any unnecessary risks out there. Scully?",21
+ALIEN BOUNTY HUNTER,Bring her out.,3
+SKINNER,Take your shot when you got it.,7
+ALIEN BOUNTY HUNTER,Step close. Right up close.,5
+MULDER,"Scully, you all right?",4
+SCULLY,Yeah.,1
+MULDER,Yeah?,1
+SCULLY,I'm okay.,2
+SHARPSHOOTER,I lost the shot.,4
+MULDER,There's no way out. We've got both sides of the bridge covered. Now let her go.,16
+ALIEN BOUNTY HUNTER,Tell me where she is.,5
+MULDER,Let her go! Samantha! Samantha!,5
+RAFT DRIVER,Spread out. Clear!,3
+SCULLY,Mulder...,1
+MULDER,"You should be in the hospital, Scully.",7
+SCULLY,I was discharged an hour ago and I asked to come here. Have they found anything yet?,17
+MULDER,Nothing yet. You think she could've survived?,7
+SCULLY,Maybe... but the water's thirty-six degrees.,6
+MULDER,"Well, maybe she went into hypothermic shock. I've heard about people who have lived after being stranded in water like this... eight to ten hours.",25
+SCULLY,"Mulder, why didn't you tell me on the phone that it was her?",13
+MULDER,I couldn't tell you.,4
+SCULLY,Why not?,2
+MULDER,Cause you'd never let me go through with it.,9
+SCULLY,Are you sure that it's your sister?,7
+MULDER,Why would you even question me on that?,8
+SCULLY,"Because back at the motel, Mulder, it was you but, but it wasn't you.",14
+MULDER,"Well, it was her.",4
+SCULLY,"Well, then who is this man and what does he...",10
+MULDER,He's an alien.,3
+SCULLY,Is that what you're going to tell Skinner?,8
+MULDER,"I already told Skinner, that was the easy part. Now I got to tell my father.",16
+WILLIAM MULDER,"You didn't have me come all this way to give me good news. What is it, Fox?",17
+MULDER,Samantha's gone... Dad. I lost her.,6
+WILLIAM MULDER,"What do you mean, you lost her?",7
+MULDER,There was a man... he was holding my partner hostage in exchange for Samantha.,14
+WILLIAM MULDER,You let this man take your sister. Isn't that what you're trying to tell me?,15
+MULDER,"I, I can't explain it to you, but, um... I believed I was doing the right thing, Dad.",18
+WILLIAM MULDER,Was this your decision?,4
+MULDER,Yes. I'll tell Mom.,4
+WILLIAM MULDER,Do you realize what losing her again is going to do to your mother? Do you?,16
+MULDER,"I'm sorry, Dad. I'm sorry. I'm... I'm sorry.",8
+WILLIAM MULDER,Your sis... Samantha left this at the house for you.,10
+MULDER,Mulder.,1
+SCULLY,"Mulder, it's me.",3
+MULDER,"Scully, she left a path in case we got separated. I think she's alive.",14
+SCULLY,"Mulder, I think you should come back as soon as you can.",12
+MULDER,Why? What'd you find?,4
+SCULLY,"It's your sister. We just pulled her body out of the river. Mulder, I'm so sorry.",16
+MULDER,Are you sure?,3
+SCULLY,"Yeah. You know... whatever you're feeling, you can't blame yourself.",10
+MULDER,What about a second body? Did you find a second body?,11
+SCULLY,"No, not yet.",3
+MULDER,I'll be there as soon as I can.,8
+FEMALE AGENT,Agent Scully? There's something you need to see.,8
+SCULLY,What is it?,3
+FEMALE AGENT,It's the body we pulled from the water. Something strange is happening.,12
+MULDER,Federal agent. Put your hands where I can see them and turn around. Slowly. Who are you?,17
+SAMANTHA MULDER CLONE #1,"She's dead, isn't she?",4
+MULDER,What the hell is going on?,6
+SAMANTHA MULDER CLONE #1,"Come, please. There's not much time.",6
+MULDER,Who are you?,3
+SAMANTHA MULDER CLONE #1,Please.,1
+MULDER,It was all a lie.,5
+SAMANTHA MULDER CLONE #1,We needed your help. We knew you could be manipulated.,10
+SAMANTHA MULDER CLONE #2,He'll be coming. We must hurry now.,7
+MULDER,Who?,1
+SAMANTHA MULDER CLONE #3,The man who's been sent to kill us.,8
+MULDER,He's dead.,2
+SAMANTHA MULDER CLONE #1,How do you know?,4
+MULDER,He was shot. In the back of the neck!,9
+SAMANTHA MULDER CLONE #2,How did he die?,4
+MULDER,He fell off a bridge... with one of you.,9
+SAMANTHA MULDER CLONE #3,"Then we don't know for sure. You could have been followed. Come with me. This way, Agent Mulder. The rest of us are dispensable. She was the first. The one from which we all came. The one you must save.",40
+MULDER,I'm not your savior.,4
+SAMANTHA MULDER CLONE #4,You must help us. You have no choice.,8
+MULDER,"No, I... I do have a choice and my choice is to walk out of here.",16
+SAMANTHA MULDER CLONE #4,"We know where your sister is. Ask yourself, Agent Mulder, how else would we know so much about her?",19
+SAMANTHA MULDER CLONE #3,He's here.,2
+FIREMAN,"I found one! Sir, we're going to get you out of here.",12
+MULDER,What about the others?,4
+FIREMAN,We got real lucky. There are no others.,8
+MULDER,No. Wait. There were women in here.,7
+FIREMAN,We looked. You're the only one here.,7
+MULDER,No. You've got to keep looking...,6
+SCULLY,"After being treated for smoke inhalation, Agent Mulder was released from Samaritan Hospital in satisfactory condition. At his request, the abortion clinic where he was found has been searched repeatedly but the bodies of the women he insists perished there were not found. My report on this case remains incomplete. Many aspects continue to defy explanation including the identities of the identical men and women. Agent Mulder's claim of alien origins cannot be substantiated. The man suspected in their disappearances is still at large...",84
+SCULLY,"...and has now been charged with the death of F.B.I. Special Agent Barret Weiss, whose body has been quarantined at the U.S. Medical Research Institute of Infectious Diseases. Weiss' cause of death involved a thickening of the blood. It is now believed that he was subjected to a virulent strain of virus whose origin and behavior are also unexplainable. It is my hope that further analysis of this contagion will aid in the solution of this case. This is a retrovirus?",81
+GARDNER,"Yes, but none of us here have ever seen anything like it. Do you recognize it?",16
+SCULLY,Was the thickening of Agent Weiss' blood an immunological response to the virus?,13
+GARDNER,"Apparently. When the body's exposed to it, it triggers a massive production of red blood cells. Now, take a look at this. We took a second culture and were able to control it's growth.",34
+SCULLY,What did you do to it?,6
+GARDNER,All we did was lower the temperature by five degrees fahrenheit.,11
+SCULLY,So the virus is inhibited by cold.,7
+GARDNER,"Knocked out by it. For some reason, this retrovirus goes dormant at cold temperatures.",14
+SCULLY,"We pulled a body from the river yesterday that was chilled near freezing. When it started to thaw, it began to corrode.",22
+GARDNER,Corrode?,1
+SCULLY,"If you find out anything else, you let me know as soon as possible.",14
+X,You wanted to see me?,5
+MULDER,How was the opera?,4
+X,"Wonderful, I've never slept better. I don't like these hasty public meetings, Agent Mulder.",14
+MULDER,I'm sorry. I need your help.,6
+X,It's over. The fat lady is singing.,7
+MULDER,I need to know what you know.,7
+X,"Okay, they're all dead.",4
+MULDER,"No. One of them is alive, the one who was sent to kill them. Where is he?",17
+X,A nuclear submarine located his craft in the Beaufort Sea five days ago. They were ordered to destroy it but they were disabled. An attack fleet left port from Anchorage this morning to make sure this man does not leave.,40
+MULDER,I got to get up there.,6
+X,"You'll only win the war if you pick the right battles, Agent Mulder. This is a battle you can't win.",20
+SCULLY,"Mulder, it's me, are you there?",6
+FROM,"Fox Mulder, 000517"" We hear Mulder reading the letter.)",9
+MULDER,"Scully, when you get this message, I will be too far away for you to stop me, but where I'm going I cannot allow you to follow. I won't let you jeopardize your life and your career for reasons purely personal to me. You were right, Scully... you said a line has to be drawn somewhere. I'm drawing it for you here. I'll contact you when I can.",68
+SCULLY,"Sir? I'm sorry to come unannounced, sir, but your assistant wasn't at her desk.",14
+SKINNER,"What is it, Scully?",4
+SCULLY,"May we speak off the record, sir?",7
+SKINNER,About?,1
+SCULLY,Agent Mulder. He's gone.,4
+SKINNER,Where?,1
+SCULLY,"I don't know, I was hoping that you could tell me or help me to find out.",17
+SKINNER,"When I spoke to Agent Mulder the day before yesterday, he said he was going to take some time off.",20
+SCULLY,"He told me the same thing but I don't think this matter with his sister is settled. Sir, is there any way that you can reach him through unofficial channels?",30
+SKINNER,"I can't help you, Agent Scully.",6
+SCULLY,Please?,1
+SKINNER,"Agent Scully, you and I both have a greater responsibility to consider and that is to the F.B.I. Agent Mulder's actions in this case are in violation of his duties, his oath of trust and bureau protocol. He's risked my position, your life.",43
+SCULLY,Agent Mulder has saved my life!,6
+SKINNER,"If he wanted or expected you to the same, he would have told you where he was going. Please close the door on your way out, Agent Scully.",28
+SCULLY,Where is Mulder?,3
+X,"Sorry, I must have the wrong apartment.",7
+SCULLY,"Where's Mulder? I need to know, damn it!",8
+X,"I'm sorry, you've mistaken me for someone else.",8
+SCULLY,I'm losing time!,3
+X,I'm sorry. I can't help you. Excuse me.,8
+SKINNER,Did you tell her what she needed to know? How hard do you want to make this?,17
+X,No harder than it has to be. I've killed men for far less.,13
+SKINNER,"You pull that trigger, you'll be killing two men. Now I want to know where Mulder is. Agent Mulder took a commercial flight to Tacoma, Washington. From there, he caught a military plane to Deadhorse, Alaska. He used his F.B.I. credentials to charter a Rollagon all-terrain vehicle. It's still a ten-mile hike across the ice. These are the coordinates of his final destination.",63
+SCULLY,How did you get this?,5
+SKINNER,Unofficial channels.,2
+MULDER,Hey! Stop! Who are you?,5
+MAN,Lieutenant Terry Wilmer.,3
+MULDER,Step out of there! Come out! What happened to you?,10
+MAN,"I don't know. We, uh... we just lost power. We, we... we drifted under the ice for days. Then, um... then we hit a...",24
+MULDER,"Don't look at me, face forward!",6
+MAN,"We hit a shallow patch and punched through, okay? That's what happened.",12
+MULDER,So why did you run?,5
+MAN,"A man came. He, um... he sealed most of the men below decks without any air and, uh... and then he started to execute the rest of us. Every... they're all dead. I, uh... I thought you were him, I didn't know if you were him.",46
+MULDER,How is it you managed to survive?,7
+MAN,"I hid under the body of a chief petty officer, okay? I, uh... I played dead. What's this for? What are you, crazy?",23
+MULDER,No. I'm just tired and you're not getting back to your ship until I get the truth. Now tell me where my sister is.,24
+MAN,I don't know what you're talking about.,7
+MULDER,"Base of the neck! Now, you tell me how I can find her and I'll let you get back to your ship before it's destroyed!",25
+MAN,Please... please... You're making a really big mistake.,8
+ALIEN BOUNTY HUNTER,"If I wanted to, I could've killed you many times before.",11
+MULDER,Where is she?,3
+ALIEN BOUNTY HUNTER,Is the answer to your question worth dying for? Is that what you want?,14
+MULDER,Where is she? Just tell me where she is.,9
+ALIEN BOUNTY HUNTER,She's alive. Can you die now?,6
+NURSE,No change in B.P. or pulse.,6
+SCULLY,"I'm Dana Scully, I'm Agent Mulder's partner. What are his vitals?",11
+DOCTOR,He's suffering from extreme hypothermia.,5
+SCULLY,No... you've got to get him out of the tub.,10
+DOCTOR,"He's dying, he's lost all his body heat.",8
+SCULLY,"You've got to listen to me! If you keep him in there, you're going to kill him! The cold is the only thing that's keeping him alive.",27
+NURSE,His heart stopped!,3
+DOCTOR,Give me one amp of epinephrine in a cannula!,9
+SCULLY,You don't know what you're dealing with here! Agent Mulder has been exposed to a retrovirus resulting in hyperviscosity syndrome.,20
+DOCTOR,I want you out of my E.R. right now. Nurse!,10
+NURSE,"Yes, doctor. Ma'am...",3
+SCULLY,His blood has thickened...,4
+NURSE,Ma'am...,1
+SCULLY,That's why his heart is failing!,6
+DOCTOR,"No, his heart is failing because he's lost all his body heat!",12
+SCULLY,"No, the only thing saving him right now is the hypermetabolic state induced by the cold. Now, if you don't do what I'm saying, you are going to kill him! Let's get him out of that tub now.",38
+MAN,"A hundred joules, charged and ready.",6
+SCULLY,Clear!,1
+WOMAN,Clear. No rhythm.,3
+MAN,Charge?,1
+DOCTOR,No.,1
+SCULLY,Clear!,1
+WOMAN,Clear.,1
+DOCTOR,I'm picking up a faint pulse.,6
+SCULLY,"I want a digoxin 0.1 milligram I.V. Hang a heparin drip at 1,000 units per hour. And get him two units of fresh frozen plasma now.",26
+DOCTOR,This patient's not even in...,5
+SCULLY,He's going to make it.,5
+MAN,"Let's get the plasma going. Okay, let's get a second line ready.",12
+OTHER MAN,Push the adrenaline...,3
+SCULLY,"Transfusions and an aggressive treatment with anti-viral agents have resulted in a steady but gradual improvement in Agent Mulder's condition. Blood tests have confirmed his exposure to the still unidentified retrovirus whose origin remains a mystery. The search team that found Agent Mulder has located neither the missing submarine nor the man he was looking for. Several aspects of this case remain unexplained, suggesting the possibility of paranormal phenomena... but I am convinced that to accept such conclusions is to abandon all hope of understanding the scientific events behind them. Many of the things I have seen have challenged my faith and my belief in an ordered universe......but this uncertainty has only strengthened my need to know, to understand, to apply reason to those things which seem to defy it. It was science that isolated the retrovirus Agent Mulder was exposed to, and science that allowed us to understand its behavior. And ultimately, it was science that saved Agent Mulder's life. Hey. How you feeling?",165
+MULDER,Like I got a bad case of freezer burn. How did I get here?,14
+SCULLY,A naval reconnaissance squad found and choppered you to Eisenhower Field. Thanks for ditching me.,15
+MULDER,"I... I'm sorry, I... I couldn't let you risk your life on this.",13
+SCULLY,Did you find what you were looking for?,8
+MULDER,No. No. But I... I found something I thought I'd lost. Faith to keep looking.,15

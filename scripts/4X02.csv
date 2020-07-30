@@ -1,0 +1,283 @@
+speaker,line,words
+BILLY,It's just a damn passport photo. It's not the cover of 'Vogue'.,12
+MARY,"There's no reason I have to look like hell in it, is there? Now settle down.",16
+BILLY,We're on a schedule here.,5
+MARY,I know we're on a schedule here.,7
+BILLY,Act natural.,2
+MARY,I'll be back in ten.,5
+BILLY,Make it five. I'll be around back.,7
+MARY,"Relax, Billy.",2
+DRUGGIST,"Lower it just a bit. Yep, that's it. Yeah... big smile... yeah... hold it. Big trip you got planned?",19
+MARY,"Oh, you know. Nothing special. Just good to have a passport.",11
+DRUGGIST,"Oh, it looks like it's clearing up. Might be a nice day after all. It's just going to take a few minutes. That comes to $6.95.",26
+MARY,Great. I left my money in the car. I'll be back.,11
+DRUGGIST,I'll be here.,3
+MARY,"Ow! Hey, you jerk!",4
+MARY,"What? Billy? Billy, someone did something to me, Billy.",9
+DRUGGIST,Shoot!,1
+DRUGGIST,My God!,2
+"LONG LAKE ROAD, NORTHERN MICHIGAN, 5",10 AM,2
+MULDER,"What are your thoughts on that, Scully?",7
+SCULLY,Have the local police been contacted by this woman's abductor? No demand for ransom?,14
+MULDER,"No, unfortunately. It's going on three days.",7
+SCULLY,Any additional leads?,3
+MULDER,"No, no hair and fiber evidence either. The rain washed it all away. The autopsy did come back on the dead boyfriend, though. It's a puncture wound through the left eardrum and into the brain, possibly from a long needle or awl.",42
+SCULLY,I'm still not sure how you and I figure into this investigation.,12
+MULDER,Don't you see the photo?,5
+SCULLY,I assume that was taken by whoever it was who abducted her.,12
+MULDER,It was taken by a sixty-five year old druggist moments before she was abducted. That's a passport photo from a local drugstore. The druggist who took that photo is the last known person to have seen Mary LeFante. Only he claims that wasn't the photo he was taking. He says the photo he was taking was normal in every respect. He only came forward to the police when he heard the woman was missing.,74
+SCULLY,"Well, whoever it was that took this photo was obviously privy to the woman's abduction.",15
+MULDER,That is what you would think.,6
+DRUGGIST,The damndest thing. Here it is just like I left it. It was under lock and key.,17
+SCULLY,Is that where you keep it?,6
+DRUGGIST,Yes.,1
+SCULLY,Mind if I take a look?,6
+DRUGGIST,"Yes, help yourself. At first I thought I did something wrong when I took the picture. You see, there's that piece of paper you have to pull off. You have to do that just right.",35
+MULDER,I'm sure you did it just fine.,7
+SCULLY,Your film's out of date.,5
+DRUGGIST,Is that against the law?,5
+SCULLY,"No, I was just making an observation.",7
+DRUGGIST,"I don't get much call for passport photos, you know. The copy shop over at the mall does them cheaper. Excuse me. I sure hope you find that young woman, safe and sound.",33
+MULDER,So which one of us gets to use the stun gun on Bruno Hauptmann back there?,16
+SCULLY,"All right, so he doesn't exactly stand out as a suspect. Mulder, take a look at this. See this smeariness here. I'm thinking that it's heat damage. With the heater sitting under the film right there, the emulsion probably melted.",40
+MULDER,So you think that would make it look like she posed screaming for a passport photo?,16
+SCULLY,"Plus, the film is two years out of date.",9
+MULDER,Oh.,1
+SCULLY,"The, the photographic chemistry could have changed. The, the dyes... fade, they... all right, so what's your theory?",18
+MULDER,I'm not sure I have a theory.,7
+TROTT,Excuse me. You the two FBI agents?,7
+MULDER,"Yeah, agents Mulder and Scully.",5
+TROTT,Sorry to have brought you all the way from Washington. Afraid we may have wasted your time.,17
+TROTT,Inspector Puett. These are agents Scully and Mulder.,8
+PUETT,Agents.,1
+MULDER,Inspector.,1
+PUETT,"United States Postal Inspector. My office is investigating a mail theft - one which we've traced to your missing person, Ms. Mary Louise LeFante.",23
+SCULLY,She was a postal employee?,5
+PUETT,"She works as a sorter at the Kurland Hills Branch. Not coincidentally, a number of unsigned credit cards in transit through that branch never made it to their respective owners.",30
+MULDER,Mary LeFante was intercepting them.,5
+PUETT,"And her recently deceased boyfriend was signing them. We ran him, he was into forgery, check fraud, you name it.",20
+SCULLY,Mary LeFante's passport photo. Do you know how soon she wanted to leave town? Did she know about your investigation?,20
+PUETT,"Probably, though we didn't focus on her specifically until this week after she came up missing.",16
+SCULLY,And you think that she faked her own disappearance?,9
+PUETT,"Well, it looks that way to me.",7
+MULDER,"Yeah, but why would she stab her boyfriend through the ear? The magic was gone? Did you find a camera anywhere here?",22
+SCULLY,So you're thinking this woman planted that photo of herself in the drugstore?,13
+MULDER,What would be the point of that?,7
+SCULLY,I...,1
+MULDER,"Here it is. Stand back, Scully, it's loaded.",8
+SCULLY,What are you doing?,4
+MULDER,"In the sixties, a bellhop named Ted Serios became kind of famous for taking what he called ""thoughtographs"". He claimed that by concentrating on an unexposed film negative, he could create a photographic representation of what he saw in his mind. He did landscapes, cathedrals, the Queen of England.",49
+SCULLY,"""Thoughtographs?""",1
+MULDER,"Also known as ""skotographs."" The literature on thought photography dates back almost to Louis Daguerre.",15
+SCULLY,So that makes it legitimate?,5
+MULDER,Look at that.,3
+SCULLY,Oh my God!,3
+MULDER,"I think he was here, Scully.",6
+SCULLY,Who was here?,3
+MULDER,"Mary LeFante's abductor. I think he stalked her. He could have come up right here. I think he came in here and he looked at her through the window, this close. Close enough to affect the film in that camera.",40
+SCULLY,"Psychic photography? Mulder, I think that it's obvious that somebody doctored these images and planted them to be found here. Maybe as some kind of a smokescreen.",27
+MULDER,"Meant to conceal what? This isn't about mail fraud, Scully, that's just incidental. What if... what if... someone had this ability? An image like this would be a peak into that person's mind.",33
+SCULLY,Into their darkest fantasies.,4
+MULDER,The fantasy of a killer.,5
+DOCTOR,She's completely nonresponsive. We did a preliminary tox screen on her found traces of morphine and scopolamine.,17
+SCULLY,Twilight sleep.,2
+MULDER,The dental anesthetic.,3
+DOCTOR,It's basically a painkiller cocktail. It's also for women in labor.,11
+MULDER,Would that account for her condition?,6
+SCULLY,"No, it wouldn't.",3
+MULDER,What would?,2
+SCULLY,Give her a PET scan.,5
+TECHNICIAN,All set.,2
+SCULLY,Oh my God.,3
+MULDER,What is it?,3
+SCULLY,She's been given what's called a transorbital lobotomy. It used to be known as an icepick lobotomy. It involves inserting a leucotome through the eye sockets.,26
+MULDER,So we're looking for a doctor? Someone with training?,9
+DOCTOR,Not judging by this.,4
+SCULLY,"Whoever did this, Mulder, did it wrong.",7
+MARY,un... un... unruhe... unruhe...,4
+MULDER,Mary?,1
+MARY,un... un...,2
+MULDER,We better go in there and get her.,8
+MARY,Unruhe... un... unruhe...,3
+TROTT,We just got the call. There's been a second abduction.,10
+MAN,Unruhe. Hab keine Angst. Ich verde dir helfen. Du wirst deine Unruhe bald vergessen... deine Unruhe vergessen.,17
+SCULLY,Mulder.,1
+MULDER,"Charles Selchik, certified public accountant... dead from a stab wound through the ear... cleaning crew found the body.",18
+SCULLY,What about the missing woman?,5
+MULDER,"His secretary, Alice Brandt, age 32. Her family confirmed that she was working late last night.",16
+SCULLY,What's her connection to the first victim?,7
+MULDER,"Apparently none, but if the M.O. remains the same...",9
+SCULLY,"Yeah, the clock is running.",5
+MULDER,"Yeah. I keep thinking about that word that Mary LeFante was repeating - ""unruhe."" I checked the Michigan phone directory. It appears under three different spellings but none within 80 miles of here.",32
+SCULLY,It might be significant as a word.,7
+MULDER,"That's what I've been thinking. Apparently in German, it means trouble or strife.",13
+SCULLY,"""Unrest.""",1
+MULDER,"You took German in high school, Scully?",7
+SCULLY,College.,1
+MULDER,"Unrest, huh?",2
+SCULLY,"I'm working on these crime scene photos from the first abduction. If we're lucky, we're dealing with someone who gets a vicarious thrill from returning to the scene of a crime.",31
+MULDER,"He wasn't there, Scully.",4
+SCULLY,How do you know?,4
+MULDER,"It would have affected the photos. Trott, what did you find?",11
+TROTT,Nothing much. There's no cameras or film here whatsoever. It's all just accountants' offices so I don't know why there would be.,22
+SCULLY,"Is that what we're looking for here, Mulder? More evidence of psychic photography?",13
+MULDER,That may be the only evidence we get.,8
+SCULLY,I've got a bureau forensics team coming up from Detroit.,10
+MULDER,"What's here for them to find? This guy is obviously very good at what he does. He's left behind no witnesses, no latent prints. The only thing he's left are those photos, which leads me to believe he doesn't even know that he has that ability.",46
+SCULLY,We haven't found any new psychic photos here either.,9
+SCULLY,Wait a second.,3
+SCULLY,I want to show you something.,6
+SCULLY,"Right here. This. And look. It's the same company. What if the kidnapper was working construction at both sites? From these two vantage points, he would have been able to pick out the two women.",35
+MULDER,"You may be right, Scully, you should check it out. Let me know what you find.",16
+SCULLY,Where are you going to be?,6
+MULDER,I'll be back in DC. I want special photo to run this. I still think the answer is in here.,20
+SCULLY,"What if it's not, Mulder? This woman's time is running out.",11
+MULDER,"Well, that's all the more reason to fully investigate the one and only hard piece of evidence we do have. I'll be in touch.",24
+MAN,"Das ist für dich. Es ist wie das, dass sie getragen hat.",12
+ALICE,"Oh, get away from me! Get away from me you bastard! Let me go! No! No!",16
+MAN,Shh... shh... Bald sehr... sehr bald.,6
+MULDER,"Can you get rid of the blurriness surrounding her, here?",10
+TECHNICIAN,"Yeah. I just need to mark a place where the blur comes to a point, and let the computer do its business.",22
+TECHNICIAN,"Bingo. Lord, look at that. This guy's an artist.",9
+MULDER,Why do you say that?,5
+TECHNICIAN,"However he did this, however he put this together, it's seamless.",11
+MULDER,"What about this face, here? Can you bring that up at all?",12
+TECHNICIAN,Wait a sec... Let's try... I think I can sweeten it more.,12
+MULDER,"OK, do that.",3
+SCULLY,What have you got?,4
+CORNING,"We're running the construction company employees. Eighteen workers overlapped on both job sites. We're checking the records now, but so far nothing.",22
+SCULLY,What about day laborers?,4
+CORNING,"Mr. Iskendarian, there, says that his company doesn't hire workers off the books...",13
+ISKENDARIAN,I don't want any trouble with the IRS.,8
+CORNING,"... but that his foremen might hire a little cash-only day labor without his knowledge. He's got seven job sites going now, as many foremen.",24
+SCULLY,Gather officers to canvas. Which foreman was working the Midlothian Corporate Park?,12
+ISKENDARIAN,That job's finished.,3
+SCULLY,Find out where he is today. I'll take that one.,10
+ISKENDARIAN,Can I use your phone?,5
+MULDER,"OK, thank you. NCIC shows no match for that man. How about this shape up here? What is that? Can you take that and flip it so that that's on the bottom? Is that a shadow?",36
+TECHNICIAN,"Yeah, it is. Somebody's shadow.",5
+MULDER,"It's the kidnapper's shadow. It's like he's looming over her, it's like he's standing over her, he means to pass judgement on her, like a god.",26
+SCULLY,Hello? Hello? Hello? Hello?,4
+SCHNAUZ,"Hi, can I help you?",5
+SCULLY,"Uh, I hope so. Are you the foreman?",8
+SCHNAUZ,"Yes, ma'am. Gerry Schnauz.",4
+SCULLY,I'm Special Agent Dana Scully. I'd like to ask you some questions about the day laborers that you hire.,19
+SCHNAUZ,"What, is this some IRS thing?",6
+SCULLY,"No, sir, not at all.",5
+SCHNAUZ,"Well, my crew is at lunch if you want to talk to anybody, but everybody I've got on today is on the books, as far as I know.",28
+SCULLY,Excuse me. Sorry.,3
+SCHNAUZ,Sure.,1
+SCULLY,Scully.,1
+MULDER,"Scully, I may have something for you on the kidnapper. It's something about his legs.",15
+SCULLY,Yeah?,1
+MULDER,"They're unusually long, they're out of proportion. I'm thinking he's either very tall, or he's not but wants to be. Scully? Scully, are you there?",25
+SCULLY,Unruhe. Stand where you are!,5
+SCULLY,Don't move!,2
+SCULLY,Stop or I'll shoot!,4
+SCULLY,Hands behind your head! DO IT!,6
+SCHNAUZ,Who?,1
+SCULLY,"Alice Brandt. The second woman that you abducted. That's her name, Gerry. Where is Alice Brandt?",16
+SCHNAUZ,I don't... I have no earthly idea what you're talking about.,11
+SCULLY,"Tell us where she is, Gerry.",6
+SCHNAUZ,I'm sorry. This is a case of mistaken identity or something. I honestly... honestly have no idea what you're talking about.,21
+SCULLY,Explain this.,2
+SCHNAUZ,"We're running sheetrock today. I use that to start the holes in the sheetrock, to keyhole in all the fixtures.",20
+SCULLY,"No, you used this to kill the two men.",9
+SCHNAUZ,What two men?,3
+SCULLY,You used this on Mary LeFante.,6
+SCHNAUZ,"Who? What? Wait, a minute ago it was Alice Brandt. I don't believe this, I do not believe this is happening.",21
+MULDER,"You want to tell us about the first time you were arrested, Gerry? In 1980, you attacked your father with an axe handle. You beat him so severely that he spent the remainder of his life in a wheelchair.",39
+SCHNAUZ,"I was not jailed, I was institutionalized. I had a kind of chemical imbalance.",14
+MULDER,"Yeah, Gerald Thomas Schnauz, diagnosed and treated for a paranoid schizophrenic disorder six years in Melvoin Psychiatric Hospital, released 1986. So what you been up to since 1986, Gerry?",29
+SCHNAUZ,"Taking care of my father. Looking after him 24 hours a day. Making amends. He, uh, passed away January.",19
+MULDER,"Well, how did you feel about that?",7
+SCHNAUZ,Sad.,1
+MULDER,"Says here that you have a sister. Where is your sister, Gerry?",12
+SCHNAUZ,She passed.,2
+MULDER,"Actually, it says here she committed suicide in 1980. That was a bad year. What else happened in 1980, Gerry?",20
+SCHNAUZ,"Well, John Lennon got shot. Where the hell are you going with this? What are you, Sigmund Freud? Why don't you cut the BS?",24
+SCULLY,Then why don't we get back to Alice Brandt. Where is she?,12
+SCHNAUZ,You look troubled.,3
+MULDER,"Hey, Gerry. This your father?",5
+SCHNAUZ,Where'd you get that?,4
+MULDER,"You left it for me. You left it like a fingerprint. Is this what you see when you close your eyes, Gerry?",22
+MULDER,Is that what you see? Gerry... tell me where Alice Brandt is.,12
+SCHNAUZ,She's safe from the howlers. She's all right now.,9
+MULDER,Gerry... Tell me how I can find her.,8
+MULDER,"Hey, Scully, that word ""unruhe"", ""unrest"", is bothering me. Maybe he thought he was curing them somehow, saving him from damnation, from those things in the pictures, you know, he called them the howlers.",34
+SCULLY,"It's over, Mulder.",3
+MULDER,"Well, then that photo wouldn't be his fantasy. It would be his nightmare.",13
+SCULLY,What the hell does it matter?,6
+MULDER,Because I want to know.,5
+SCULLY,I don't.,2
+TROTT,"OK, Gerry. All in here, your wallet, jewelry, everything.",9
+TROTT,Eyes straight ahead. Step over to the table.,8
+TROTT,What the hell?,3
+SCULLY,Mulder.,1
+MULDER,This wound's in the wrong place. He was shot in the throat. He wasn't trying to save this victim.,19
+SCULLY,We just got a report of a strong-arm robbery. It's at the drugstore where the first victim disappeared.,18
+SCULLY,What happened?,2
+SCULLY,Thank you. It's Gerry.,4
+MULDER,He took the passport camera and all the film in the store.,12
+SCULLY,"He also took morphine, scopolamine, hydrobromide and insulin syringes. He's making more twilight sleep.",14
+MULDER,He wants to continue his work.,6
+SCULLY,"You know, that job site that I arrested him at, Mulder. What if he's... what if he's already picked out his next victim? There were... there were apartment buildings on all sides.",32
+MULDER,You think you interrupted his stalking?,6
+SCULLY,Let's go.,2
+MULDER,Hold on a second. You bring the car around. I just want to wait for this. I'll be right there.,20
+CORNING,Corning.,1
+SCULLY,Corning.,1
+CORNING,Yeah.,1
+SCULLY,Send units to the 300 block of Belmont Avenue. Check all of the apartments in the vicinity of that job site. I think he's heading back there.,27
+CORNING,Got it.,2
+SCULLY,Thanks.,1
+MULDER,Scully! Scully!,2
+MULDER,Scully!,1
+CORNING,Sir? Agent Scully's Explorer just turned up. It's abandoned at a Park & Ride about 20 miles up the US 81.,20
+MULDER,Any sightings?,2
+CORNING,"Uh, a report of an Audi stolen from the same lot.",11
+MULDER,He's switching cars. He's going to do that two or three times. He's got six fingers here...,17
+CORNING,Sir?,1
+MULDER,He's got six fingers. What about his apartment?,8
+SECOND OFFICER,"Got a unit at his boarding house, but he ain't coming back.",12
+MULDER,"What about friends, relatives, co-workers? Does he have a summer house? A winter house?",14
+CORNING,He doesn't seem to have much of anything. We're running a couple of phone numbers we found in his wallet but so far...,23
+MULDER,Let me see his wallet.,5
+CORNING,It's his father's obituary.,4
+MULDER,"Recipient of the Bronze Star medal during the Korean War... Gerald Schnauz, Sr., DDS. He's a retired dentist.",18
+MULDER,He was here.,3
+CORNING,Why would he take the chair?,6
+SCULLY,Let me go.,3
+SCHNAUZ,Shhhh...,1
+SCHNAUZ,Es ist alles in Ordnung.,5
+SCULLY,"It's over, Gerry. Let me go right now.",8
+SCHNAUZ,Ich werde dir helfen. Du wirst deine Unruhe bald vergessen.,10
+SCULLY,Aufhören! Ich habe keine Unruhe. Ich habe keine Unruhe. Ich brauche nicht gerettet zu werden.,15
+SCHNAUZ,"Yes you do. Everybody does, but especially you.",8
+SCULLY,"Why? Why me, Gerry? Do I remind you of your sister? Why did your sister kill herself, Gerry? What did your father do to her?",25
+SCHNAUZ,He didn't do anything. It was the howlers.,8
+SCULLY,"OK, then let's talk about the howlers.",7
+SCHNAUZ,"They live inside your head. They make you do things and say things that you don't mean, and all your good thoughts can't wish them away. You need help. You've got them - right there. Don't you feel them?",38
+SCULLY,"I don't have them, Gerry.",5
+SCHNAUZ,"See? They made you say that, just now, because they know I'm going to kill them.",16
+SCULLY,"What if you're wrong, Gerry?. What if there are no such things as howlers? What if you made them up inside your head to explain the things your sister said your father did?",33
+SCHNAUZ,"Great. Now they got you talking like Sigmund Freud. I am on to you! I know your tricks! Besides, I've seen them, in that picture that your partner showed me. Pictures don't lie. You saw them too.",37
+SCULLY,"If there are such things as howlers, Gerry, they live only inside your head.",14
+MULDER,"Six fingers, right. Why are there six? What?",8
+CORNING,We've got the State Police looking as far south as Grand Rapids. Still no sign of him.,17
+CORNING,Agent Mulder?,2
+MULDER,Damn it!,2
+CORNING,What do we do?,4
+MULDER,That's five headstones. And the father makes six. Come on!,10
+CORNING,Let's go! Let's go!,4
+MULDER,Fan out. Check the tree line.,6
+SCHNAUZ,Wh... what does this mean?,5
+SCULLY,"It means you need help, Gerry.",6
+SCHNAUZ,"No, I think what it means is that I don't have much time left.",14
+SCULLY,"No, Gerry, stop!",3
+MULDER,Scully!,1
+SCULLY,Mulder! I'm in here!,4
+SCULLY,Mulder! Help! Mulder!,3
+MULDER,Scully!,1
+MULDER,Are you hurt? Get an ambulance!,6
+SCULLY,"Addendum to case report. After his death, a diary was found among Gerald Schnauz's belongings, written in the second person and apparently intended as an open letter to his father. It includes the names of his victims, the women he desired to save. My name is contained in the last entry. I have no further explanation for the existence of the photographs, nor am I confident one is forthcoming. My captivity forced me to understand and even empathize with Gerry Schnauz. My survival depended on it. I see now the value of such insight. For truly to pursue monsters, we must understand them. We must venture into their minds. Only in doing so, do we risk letting them venture into ours?",121

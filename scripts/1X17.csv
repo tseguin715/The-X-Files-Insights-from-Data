@@ -1,0 +1,385 @@
+speaker,line,words
+FIRE CHIEF,"Hurry and get him out of there. I need two men on the left side, now. Wait a second. Where are you going with him?",25
+E.M.T.,He's dead.,2
+FIRE CHIEF,"Well, there's a woman over there who isn't, and she needs some oxygen.",13
+FIRE CHIEF,"Get on the horn, let them know we can release the hook and ladder in five minutes.",17
+SAMUEL,I want you to rise. Rise up and heal!,9
+FIRE CHIEF,What the hell are you doing?,6
+REVEREND HARTLEY,The boy's laying on hands.,5
+SAMUEL,Rise up and accept the miracle He has given you.,10
+REVEREND HARTLEY,Amen. Hallelujah.,2
+SAMUEL,I have the Holy Spirit of God within me tonight.,10
+FIRE CHIEF,You don't understand. The man's dead.,6
+REVEREND HARTLEY,"Then the boy can't possibly do any harm, now can he?",11
+SAMUEL,"For this is the power of belief, the power to separate the light from the darkness. To create life from death.",21
+REVEREND HARTLEY,Amen.,1
+FIRE CHIEF,"All right, everyone! Show's over! Let's clear the area! Go on home! Let's start getting that 1-inch back in the truck.",21
+REVEREND HARTLEY,"Hallelujah, Samuel. Hallelujah.",3
+REVEREND HARTLEY,"Yes, indeedy, oh hallelujah! Hallellujah, praise God! Yes, indeedy, praise God! Yes. I want everybody to say 'Hallelujah'!",18
+CROWD,Hallelujah!,1
+REVEREND HARTLEY,Praise the Lord!,3
+SCULLY,"The woman on the table has a malignant tumor on her spine. This boy, here, is going to attempt to heal her by simply laying his hands on her.",29
+MULDER,Where'd you get this?,4
+SCULLY,It came in from the regional office in Tennessee. The preacher's name is...,13
+MULDER,Reverend Calvin Hartley.,3
+SCULLY,You've heard of him?,4
+MULDER,"The boy's his adopted son, Samuel. He claims to have found him as an infant lying in the tall weeds on the banks of the muddy Mississippi.",27
+SCULLY,Did you know that he also claims the boy brought a man back from the dead?,16
+MULDER,It's more than a claim. The man he saved appears as a regular attraction in the Reverend's tent ministry. The boy's been performing miracles every week for the past ten years. Twice on Sundays.,34
+SCULLY,"Well, not according to the Kenwood Country sheriff. Local authorities think that Reverend Hartley and his son are a scam. They've been trying to shut him down for some time now, but without any luck, so they've turned to the FBI to try and get a prosecution.",47
+MULDER,For what? Fraud?,3
+SCULLY,"No, murder. Watch the tape.",5
+REVEREND HARTLEY,"Lucy Kelly has the cancer. Her doctors say it is inoperable. They say it is incurable. But I say to you that what the doctors cannot cure, the Lord can. Yes, indeedy, praise God! Because God can work miracles. Today the clear light of God's healing love is flowing through Samuel's healing hands.",53
+SCULLY,Twenty minutes later Lucy Kelly was rushed to the hospital. She was pronounced dead on arrival.,16
+MULDER,What was the cause of death?,6
+SCULLY,"I don't know, but it wasn't cancer. They've requested someone with a medical background to assist local police in the investigation. I know this isn't an X-File...",27
+MULDER,When do we leave for Tennessee?,6
+MULDER,I think I saw some of these same people at Woodstock.,11
+SCULLY,"Mulder, you weren't at Woodstock.",5
+MULDER,I saw the movie.,4
+SHERIFF DANIELS,You all right by yourself?,5
+LILLIAN DANIELS,I'll be fine.,3
+SHERIFF DANIELS,Good. I won't be long.,5
+REVEREND HARTLEY,"Most of you here today I know as neighbors and as cherished members of our Miracle Ministry. But some of you have come from far away, as far away as Pensacola, Florida, and Uniondale, Long Island. Wayne Ashton and his family. And it is especially to those of you who come from so far that I must apologize from the bottom of my heart, because unfortunately Samuel cannot be here this afternoon. I know, I know how very deeply disappointed each and every one of you must be feeling right now, but I say unto you, do not be dismayed. Do not despair. Do not lose your hope... because in two short days, Samuel will be back here at our very special Miracle Mission. Yes, indeed, praise God, he will be back here...",133
+SCULLY,Maybe we should head backstage and see what the Reverend has to say.,13
+MULDER,"No, wait, wait, this is the part where they bring out Elvis.",12
+REVEREND HARTLEY,"... on the faithful. Because as these blessed people up here are about to testify, Samuel can heal you. Samuel will heal you, but... only if you believe.",27
+MAN,"Fine sermon, Reverend!",3
+REVEREND HARTLEY,God bless you!,3
+SCULLY,Reverend Hartley? We're with the FBI.,6
+REVEREND HARTLEY,I see Sheriff Daniels has sent in the cavalry.,9
+SCULLY,"We just want to talk to Samuel for a couple of minutes, that's all.",14
+REVEREND HARTLEY,He's not here.,3
+MULDER,"Well, where is he?",4
+REVEREND HARTLEY,I don't know. I haven't seen him. The boy's been a bit troubled lately.,14
+VANCE,"We're running late, Reverend.",4
+REVEREND HARTLEY,If you'll excuse me...,4
+SHERIFF DANIELS,Agent Mulder?,2
+MULDER,Yeah.,1
+SHERIFF DANIELS,Sheriff Daniels. We spoke on the phone.,7
+MULDER,"Oh, yeah. This is Special Agent Dana Scully.",8
+SHERIFF DANIELS,Right. You requested a copy of the coroner's report.,9
+SCULLY,Right. Thank you.,3
+SHERIFF DANIELS,I see you folks got a chance to take in the Holy Rollers' Sideshow.,14
+MULDER,Something tells me you're not a member of the Reverend Hartley's flock.,12
+SHERIFF DANIELS,"Well, I remember Hartley when he was a soapbox preacher collecting dollar bills in coffee cans. Since the boy joined the act, he's got himself a Cadillac for every day of the week... bought for with money that should be used to improve our roads and schools.",47
+MULDER,"People want to believe, you know.",6
+SHERIFF DANIELS,Ninety-nine percent of the people in this world are fools... and the rest of us are in great danger of contagion.,21
+MULDER,"Well, even if Hartley and Samuel are fakes, it's still a long way from accusing the boy of murder.",19
+SHERIFF DANIELS,I got witnesses that say the boy was there laying hands on those people when they died.,17
+MULDER,You think that's how he killed them? With a touch?,10
+SHERIFF DANIELS,"I don't claim to know how or why he did it. But we've been looking for the boy since Tuesday, and he does not want to be found.",28
+SCULLY,"Well, there's nothing out of the ordinary about these reports, except that there were no autopsies performed.",17
+SHERIFF DANIELS,Hartley managed to block my autopsy requests on religious grounds. Also doesn't help that the country coroner is a dues-paying member of the Miracle Ministry.,25
+SCULLY,"Well, maybe we can arrange to have the bodies exhumed.",10
+MULDER,Sheriff.,1
+SHERIFF DANIELS,It's Reverend Hartley's group. Damn. I told my people to keep quiet so this wouldn't happen.,16
+MULDER,Looks like you may have a few believers on the payroll.,11
+VANCE,"On behalf of the Miracle Ministry, we demand that you stop this sacrilege.",13
+SHERIFF DANIELS,"You're not just dealing with me any more, Vance. You're dealing with the FBI.",14
+SCULLY,"We don't mean you any disrespect. We're investigating a possible homicide, and federal law requires that we do a post-mortem examination on these bodies.",24
+VANCE,I'm afraid we answer to an even higher authority than the U.S. government - one that considers grave digging and defiling corpses mortal sins.,23
+SHERIFF DANIELS,"We'll get that autopsy, Vance, sooner or later. You know we will.",12
+VANCE,The deceased's family does not want her grave disturbed.,9
+SHERIFF DANIELS,Carol Wallace had no family.,5
+VANCE,"We were her family. We were her family, and it was hard enough to bury her once. So if you insist on going through with this, we are prepared to maintain a vigil and do whatever it takes to stop you.",41
+SHERIFF DANIELS,Mulder? Scully? One of my men just spotted the boy's car downtown.,12
+SCULLY,"We can't do much here, anyway.",6
+MULDER,Let's go.,2
+SHERIFF DANIELS,Not a very likely place to be saving souls.,9
+SHERIFF DANIELS,"Where's the boy, Zook?",4
+ZOOK,He's in the can.,4
+SHERIFF DANIELS,What happened here?,3
+ZOOK,That damned fool started a fight. Figures them Bible-thumpers wouldn't know how to hold their liquor.,16
+SHERIFF DANIELS,"Where you been, Samuel? We've been looking for you.",9
+SAMUEL,Yeah. I've been thinking.,4
+SHERIFF DANIELS,"Well, you're gonna have plenty of time for that now, son. I'm putting you under arrest.",16
+SAMUEL,For murder?,2
+SHERIFF DANIELS,For suspicion of murder.,4
+SAMUEL,Mind if I finish my beer first?,7
+SHERIFF DANIELS,"No, you go right on ahead. I'm gonna have someone take a statement from you. I'll see what I can do about getting your Caddy towed.",26
+MULDER,"Hey, Sheriff? What evidence do you have to charge the boy with murder?",13
+SHERIFF DANIELS,"Well, what more do you want? The boy's practically giving himself up.",12
+MULDER,"Look at him, though. He's drunk.",6
+SHERIFF DANIELS,Then I'll add 'drunk and disorderly.' Let's get this straight. It's not a question about the boy's guilt - just how he did it.,23
+MULDER,Let me have a minute with him?,7
+SHERIFF DANIELS,Suit yourself.,2
+MULDER,"Samuel, I'm Agent Mulder. This is Agent Scully - from the FBI. Looks like you took quite a beating there.",19
+SAMUEL,"Penance, Mr. Mulder.",3
+SCULLY,Some might call it a plain old bar brawl.,9
+SAMUEL,You know what they say - he giveth then he taketh away. A man gets too proud - sometimes it does him good to get the crap kicked out him. Saves God the trouble.,32
+SCULLY,The trouble of what?,4
+SAMUEL,Humbling the guilty sinner.,4
+MULDER,Guilty of murder?,3
+SAMUEL,"Yes, sir.",2
+MULDER,"How'd you do it, Samuel?",5
+SAMUEL,"Apparently, my pride and weakness were an invitation to the Devil. I muddied the river of my own faith. Now my gift has been corrupted.",25
+SCULLY,So you're saying that you killed those people with a touch?,11
+SAMUEL,I've laid my hands on the ill. Given them health. I've healed the sick. I've even touched the dying and given them life. God has given me a special gift.,30
+SCULLY,"Did he buy you all that jewelry, too? I think there's something missing in your story, Samuel.",17
+SAMUEL,"Do you doubt the power of God, ma'am?",8
+SCULLY,No. But I doubt the veracity of your claims.,9
+SAMUEL,I've looked on the infirm and seen their sickness... their cancer. Just as I can see the pain on this man right here.,23
+MULDER,Really? What pain is that?,5
+SAMUEL,The pain you have regarding a brother or a sister. It's an old pain. It's never been healed.,18
+SCULLY,Is this some kind of a trick?,7
+SAMUEL,"No trick, ma'am.",3
+SCULLY,I think we should get the sheriff...,7
+MULDER,I want to hear more about this pain. Tell me.,10
+SAMUEL,"I can see it, plain as day. It was a sister. You lost her, a sister quite young. Someone took her away.",22
+MULDER,What else do you see?,5
+SAMUEL,Strangers. A bright light.,4
+SCULLY,Sheriff?,1
+SAMUEL,You should have come here earlier. Chance I could have healed your pain.,13
+SHERIFF DANIELS,"All right, let's get this over with.",7
+MULDER,"Hey, I need another minute with him.",7
+SAMUEL,I can't help you. Not any more. My gift is gone.,11
+SHERIFF DANIELS,"Cuff him. All right, let's go. You have the right to remain silent...",13
+SHERIFF DANIELS,You have the right to an attorney...,7
+SAMUEL,"I'll tell you, Mr. Mulder. God watches over his flock. He gives us signs every day. Open your heart. He might just open your eyes.",25
+SCULLY,How do you think he does it?,7
+MULDER,I don't know.,3
+DEFENSE ATTORNEY,"Given his exemplary record, and the highly circumstatial nature of this case, I ask that my client be released on his own recognizance, without bail...",25
+SAMUEL,Judge! That is not a good idea.,7
+REVEREND HARTLEY,Samuel!,1
+SAMUEL,Let me go and it'll be on your head!,9
+JUDGE,Enough! This is not a pulpit. This is a court of law. Is that understood?,15
+SAMUEL,"Yes, sir.",2
+DEFENSE ATTORNEY,Sorry.,1
+DISTRICT ATTORNEY,"Your honor. Despite the defendant's avowed guilt, we see no reason to burden the county with his maintenance until trial. But we do request a minimum bail of $100,000.",29
+JUDGE,"All right. If there are no objections, bail is set at $100,000, to be deposited directly into the clerk's probation account.",21
+JUDGE,My God! What the... Good God! What is this? What?,10
+DEFENSE ATTORNEY,Oh God!,2
+SAMUEL,How much more will it take for you to believe? The Lord has testified against me. Does the serpent have to bite you all on the ass 'til you understand?,30
+BALIFF,"Everybody, clear this courtroom!",4
+MULDER,"""And when it was morning, the east wind brought the locusts. And the locusts covered the face of the whole earth, so that the land was darkened and they did eat every herb of the...",35
+SCULLY,"Why, Mulder?",2
+MULDER,"... land, and all the fruit of the trees which the hail had left.""",13
+SCULLY,"A few thousand grasshoppers does not constitute a plague. Besides which, we're in farm country. This area is an agricultural smorgasbord for this type of infestation.",26
+MULDER,"Yeah, maybe in a cornfield, but this happened in a courtroom.",11
+SCULLY,"So what's next? The slaying of the firstborn? Mulder, does this have something to do with what Samuel said in the bar last night - about your sister?",27
+MULDER,I had these patient cases sent over from Kenwood County Hospital. These are physician-documented cases of patients who went to Samuel after conventional treatments failed.,25
+SCULLY,"""Spontaneous remission of metastatic cancer... regenerated nerve growth after post-trauma paraplegia...""",11
+MULDER,"I've encountered dozens of psychic healers in the X-Files, but none like this. I think the kid's for real.",19
+SCULLY,"Mulder, I admit this is intriguing, but there's a whole library of medical literature dealing with unexplained spontaneous cures.",19
+MULDER,"Well, western medicine treats the human body in biochemical terms, right?",11
+SCULLY,Um-hmm.,1
+MULDER,But the body can also be treated as an electromagnetic system.,11
+SCULLY,"So your theory is that if Samuel can repair this energy field in order to heal, he can also destroy it in order to kill.",25
+MULDER,Why not?,2
+SCULLY,"OK, say that Samuel's touch can kill. Why would he want to?",12
+MULDER,"Well, you heard him, Scully. He muddied the river of his own faith. That means he's...",16
+VANCE,"If you're available, the Reverend would like to see you.",10
+REVEREND HARTLEY,"I've been under a great deal of stress lately... which I know doesn't excuse my rude behavior yesterday, but I hope, somehow, you found it in your hearts to forgive me.",31
+MULDER,Why did you want to speak with us?,8
+REVEREND HARTLEY,I need your help.,4
+MULDER,Samuel's being tried for murder. I think what you need is a good lawyer.,14
+REVEREND HARTLEY,Samuel is innocent.,3
+MULDER,"Well, how can you be sure of that?",8
+REVEREND HARTLEY,Because he's my son.,4
+MULDER,"Somehow, I don't think that argument will work on a jury. And Samuel's confession won't help much, either.",18
+REVEREND HARTLEY,"You have to understand. Samuel is a very complicated young man. He feels things like no one else. To him, a pinprick becomes a gaping wound. His power comes from this ability to feel. But you see, some people fear that power. And out of their weakness and their fear, they seek to destroy it.",55
+SCULLY,You mean Sheriff Daniels?,4
+REVEREND HARTLEY,"I mean, it's no secret Sheriff Daniels has been trying to shut me down since I first opened my tent ten years ago.",23
+SCULLY,"Well, he seems to think that your ministry is a fraud.",11
+REVEREND HARTLEY,"He's a faithless man, Agent Scully. His wife - she suffers from a most painful arthritis, her fingers twisted like bitter roots. Yet he keeps Samuel from ministering to her.",29
+SCULLY,"In light of recent events, you can't blame him.",9
+REVEREND HARTLEY,"I don't know how those poor people died. I can't explain that. Which is why I'm asking you to be there tonight so you could see for yourselves, Samuel doing God's work. Can I count on you both to be there?",41
+SCULLY,"I think so. Mulder, what do you think?",8
+MULDER,Excuse me.,2
+MULDER,"Hey, where'd she go?",4
+MAN,Who?,1
+MULDER,A little girl.,3
+MAN,There's no little girl around here.,6
+SCULLY,Mulder. What is it?,4
+MULDER,It's a girl.,3
+SCULLY,Who? Jessica Hahn?,3
+MULDER,A little girl.,3
+VANCE,"Well, brothers and sisters, help yourselves. Now, let folks with the wheelchairs though, now, that's right, don't be shy.",19
+VANCE,"Hello there, welcome to the Miracle Ministry. Y'all come to see Samuel tonight?",13
+MARGARET'S MOTHER,Yes. Is he going to be here? The papers said...,10
+VANCE,"Oh, and don't mind what you read in the papers. God's work will be done. Young Samuel's here to cast out the Devil and heal the sick.",27
+MARGARET'S FATHER,"Did you hear that, honey?",5
+MARGARET HOHMAN,Will he be able to see me?,7
+VANCE,"Well, I'll tell you what. I'm gonna put in a special word, hmm. What's your name, darling?",17
+MARGARET HOHMAN,Margaret Hohman.,2
+VANCE,"Margaret? Well, Margaret, you wait right here. I'm gonna see if I can't get somebody to put you in the front row. How'd that be, huh?",26
+SAMUEL,I can't go out there... not after what's happened.,9
+REVEREND HARTLEY,"God tests the faith in us all, son. And because He's chosen you to act in His likeness, He's given you the toughest test of all. Do not forsake your gifts, Samuel.",32
+SAMUEL,"Aw, man...",2
+REVEREND HARTLEY,"I'm a preacher, son. That's my gift. But all the preaching in the world could not equal even a small miracle in consolidating the faith and hope of these people. Let this man - - whose life you saved, give witness tonight to the grace and goodness of your healing power.",49
+VANCE,"They're all waiting on you, Samuel.",6
+ANNOUNCER,Reverend Calvin Hartley.,3
+REVEREND HARTLEY,"Yes, indeedy, praise God. Hallelujah!",5
+ALL,Hallelujah!,1
+REVEREND HARTLEY,Praise the Lord!,3
+ALL,Praise the Lord!,3
+REVEREND HARTLEY,"God is here tonight. Oh, yes!",6
+ASSISTANT,Pass it down please.,4
+REVEREND HARTLEY,"I feel his presence. Oh, amen.",6
+SCULLY,Apparently miracles don't come cheap.,5
+REVEREND HARTLEY,"God is here, and He is here to heal!",9
+REVEREND HARTLEY,"Yes, heal. Hallelujah. There's a man I'd like to introduce to you - a man who has seen the face of God but who was not satisfied to go to that great place, oh no. No, God had work for him to do right here on earth... as it is in heaven, mm-hmm. I saw this man come back from beyond death's door. He stands here today as a living testament to the ability of God to work miracles. Ladies and gentlemen, brothers and sisters, our beloved friend, Leonard Vance.",89
+VANCE,"As it says in John, chapter 3, ""no man can do these miracles unless God be with him."" That man, to whom I owe my life, is Samuel Hartley, and he is here tonight to heal you.",37
+REVEREND HARTLEY,"Thank you, Leonard. Ladies and gentlemen, God's soldier... Samuel Hartley.",10
+SCULLY,Mulder?,1
+SAMUEL,Receive God's love. You have the power of God.,9
+SAMUEL,Pray with me.,3
+SAMUEL,Close your eyes.,3
+MARGARET'S FATHER,"What have you done, boy?",5
+REVEREND HARTLEY,"All right, everyone, remain calm. Let's give the young woman some room here.",13
+SCULLY,I'm a doctor.,3
+REVEREND HARTLEY,"Everybody, praise God. Say hallelujah!",5
+SCULLY,Somebody get an ambulance!,4
+REVEREND HARTLEY,"All right now, don't panic. Just praise the Lord!",9
+SCULLY,She's dead.,2
+VANCE,"... a loving friend. Children of God. Brothers and sisters. If you desecrate the body, then you slay the soul. Let's keep this poor woman's body intact.",26
+SCULLY,"We know the Reverend Hartley's been pressuring you, but this is the third death linked with the Miracle Ministry.",19
+MARGARET'S FATHER,Reverend Hartley says an autopsy is against scripture.,8
+SCULLY,"What illness did your daughter suffer from, Mr. Hohman?",9
+MARGARET'S FATHER,She had M.S.,3
+SCULLY,And has she ever had a siezure before this?,9
+MARGARET'S FATHER,Not to my knowledge.,4
+SCULLY,"You see, I think that the siezure she had is indicative of some kind of embolism or aneurysm.",18
+MARGARET'S FATHER,But the boy only touched her forehead.,7
+SCULLY,And are you going to be content to bury her without knowing the true cause of death? Without knowing if there was foul play involved?,25
+MARGARET'S FATHER,Give me a moment.,4
+MULDER,Do you think the boy really did it?,8
+SCULLY,No.,1
+MULDER,Why not?,2
+SCULLY,"I was raised a Catholic, and I have a certain familiarity with the scripture. And God never lets the Devil steal the show.",23
+MULDER,You must have really liked 'The Exorcist'?,7
+SCULLY,One of my favorite movies.,5
+SCULLY,So who were you pursuing in the crowd tonight?,9
+MULDER,I thought I saw someone I knew.,7
+SCULLY,"That boy really has you going, doesn't he?",8
+MULDER,Why do you say that?,5
+SCULLY,"In the bar, Samuel mentioned your sister. Is it your sister you keep thinking you're seeing?",16
+MULDER,I've seen her twice now.,5
+SCULLY,Maybe you just want to see her.,7
+MULDER,"Oh... I'm not delusional, Scully.",5
+SCULLY,"Mulder, don't discount the power of suggestion. A healer's greatest magic lies in the patient's willingness to believe. Imagine a miracle and you're halfway there. We learned that in med school.",31
+MULDER,You think this is what Margaret Hohman and her parents were imagining?,12
+MARGARET'S FATHER,We're gonna go along with your investigation.,7
+SCULLY,"11:21 pm, March 7. Subject's name is Margaret Hohman, female, caucasian, 107 pounds.",13
+SCULLY,"Mulder, take a look at this.",6
+MULDER,Do I have to?,4
+SCULLY,Lesions on the lungs here. I'm finding them throughout the cardiovascular and pulmonary systems. There's also a lot of damage to the mucous membranes. I think that she must have died from cellular hypoxia - a lack of oxygen to the cells.,41
+MULDER,What would cause that?,4
+SCULLY,"My guess? Ingestion or injection of sodium or potassium cyanide, maybe arsenic. I won't know exactly until I run a toxicology screen on her.",24
+MULDER,How soon?,2
+SCULLY,Labs won't be open 'til morning.,6
+MULDER,"See who you can push to have it done, as soon as possible.",13
+MULDER,Samuel? It's Agent Mulder.,4
+SAMUEL,Yeah. What do you want?,5
+MULDER,I want to talk with you. If you'd prefer your attorney were present...,13
+SAMUEL,Whatever. No.,2
+MULDER,I put a call in to Sheriff Daniels. He's on his way down here. I'm gonna ask him to release you.,21
+SAMUEL,"Why are you doing this? You were there, man. You saw for yourself.",13
+MULDER,Did you poison Margaret Hohman?,5
+SAMUEL,Did I poison her?,4
+MULDER,"Did you poison her using potassium or sodium cyanide, because that's what killed her.",14
+SAMUEL,What are you talking about?,5
+MULDER,"You're innocent, Samuel - unless you had a hand in administering it, and I don't think you did.",17
+SAMUEL,"Whatever the cause, Mr. Mulder, I am responsible.",8
+MULDER,"Well, the evidence will be presented at your arraignment tomorrow. The habeas corpus law will force them to release you, so you might as well go home and get some rest anyway.",32
+SAMUEL,"Just leave me alone, OK?",5
+MULDER,"Look, Samuel, if you think that the punishment for your sins is the deaths of those people...",17
+SAMUEL,"The Lord has testified against me, Mr. Mulder!",8
+MULDER,"I can't stand here and argue with your Biblical rhetoric, but I do know that the law will find you innocent!",21
+MULDER,You said you could see my pain. Look at me. What do you see now?,15
+SAMUEL,I see nothing. I am blind.,6
+MULDER,"I don't believe you. I've seen her. It was her, wasn't it?",12
+SAMUEL,Your sister?,2
+MULDER,"You made her appear to me, didn't you? Look at me.",11
+SAMUEL,"I am very tired, Mr. Mulder.",6
+MULDER,"Is she alive? Is that what I'm supposed to believe, or is this a trick?",15
+SAMUEL,You mean... a trick of the Devil?,7
+MULDER,Jailer!,1
+SHERIFF DANIELS,I see I'm a little late for this ball.,9
+MULDER,I called you down here to ask you to release the boy.,12
+SHERIFF DANIELS,On what pretense?,3
+MULDER,His innocence.,2
+SHERIFF DANIELS,"Aren't you a little out of your depth, Agent Mulder? This may be Hicksville to you, but we do try and hew to the legal system.",26
+MULDER,I don't want to pick a fight. He seems determined to stay here anyway.,14
+SHERIFF DANIELS,What does that tell you?,5
+MULDER,"It tells me that you're determined to have him charged, while your real homicide suspect is still at large.",19
+DEPUTY,"I got some company for you, Sam.",7
+DEPUTY,What are you looking at?,5
+SHERIFF DANIELS,I'll get it. I'll get it.,6
+DEPUTY TYSON,Ma'am. Sheriff.,2
+LILLIAN DANIELS,"Hey, Dennis. How are you?",5
+DEPUTY TYSON,"Just fine, ma'am, just fine. Except we had an incident down at the jail.",14
+SHERIFF DANIELS,"What incident would that be, Tyson?",6
+DEPUTY TYSON,The preacher boy - he's dead.,5
+SCULLY,He was alone in his cell when Mulder left him this morning. How could this have happened?,17
+SHERIFF DANIELS,The boy started a fight with a couple of rowdies we picked up on a DUI. He took some pretty mean blows to the head. He died before the ambulance got here.,32
+REVEREND HARTLEY,His blood is spilled! And it's all over you!,9
+VANCE,Reverend...,1
+REVEREND HARTLEY,How much longer are you gonna hide behind that badge before the truth is revealed.,15
+SHERIFF DANIELS,I have work to do.,5
+SCULLY,Reverend Hartley. We're sorry for your loss.,7
+REVEREND HARTLEY,That boy... he was blessed. He never hurt a soul.,10
+VANCE,"Come on now, Reverend. Our friends will be finding out about Samuel sooner than later, and well, it's probably best if they hear it from you. Come on. Ma'am.",29
+SCULLY,"You've got that look on your face, Mulder.",8
+MULDER,What look is that?,4
+SCULLY,The kind when you've forgotten your keys and you're trying to figure out how to get back in the house.,20
+SCULLY,What exactly are we trying to find?,7
+MULDER,Clues.,1
+SCULLY,Oh.,1
+SCULLY,What does it mean?,4
+MULDER,Let's find out.,3
+MULDER,"Scully. It's potato. Someone left a trail of food in the ventilation system, leading to the courtroom. You dump your locusts in here... instant plague.",25
+SCULLY,"Well, where did they all come from?",7
+MULDER,Biological supply houses usually hatch them on order to farms and universities. It shouldn't be too hard to find out who set this up.,24
+SCULLY,And you think whoever did this is responsible for the murders.,11
+VANCE,You're dead. They killed you.,5
+SAMUEL,I was dead. But here I am.,7
+VANCE,No!,1
+SAMUEL,Why did you betray me?,5
+SAMUEL,"You murdered those people. They came to me to be healed, and you murdered them. Why? After I gave you back your life?",23
+VANCE,You call this life?,4
+REVEREND HARTLEY,What in tarnation do you want?,6
+SHERIFF DANIELS,We have a warrant for the arrest of Leonard Vance. Where is he?,13
+REVEREND HARTLEY,You must be mistaken.,4
+SCULLY,"I'm afraid not, Reverend. We've traced a pesticide order to him from a chemical company in Knoxville. Cyanogen bromide - it's a cyanide derivative.",23
+REVEREND HARTLEY,Leonard poisoned those people?,4
+SHERIFF DANIELS,"Get your clothes on, Vance. You're under arrest.",8
+VANCE,I betrayed him.,3
+SCULLY,Cyanide - there's no way to tell how much he's ingested.,10
+MULDER,I'll call an ambulance.,4
+SCULLY,"It's too late, we have to get him to the hospital ourselves.",12
+VANCE,"I thought, ""why didn't he let me die?"" Beware of false prophets who come to you in sheep's clothing but inwardly are ravening wolves. That's what I thought he was, because who else would bring me back... looking like this. He was here.",43
+MULDER,Who?,1
+VANCE,Samuel.,1
+SHERIFF DANIELS,The man's delirious.,3
+VANCE,"He was here, Reverend. Right in this room. And he forgave me.",12
+SCULLY,"Rather than simply killing Samuel, Vance contrived to kill the ministry's faith in him. We have conclusive evidence connecting him both to the courtroom infestation and to the poisoning deaths of three members of the ministry. Vance's obsession outlived Samuel, however. His conscience haunted him until he became delusory and finally took his own life, effectively ending our investigation. In light of this information, it is highly doubtful that there have ever been any miracles in Kenwood, Tennessee.",78
+MULDER,Mulder.,1
+MULDER,Scully. Sheriff Daniels just called. Samuel's body is missing from the morgue.,12
+MULDER,Any witnesses?,2
+DEPUTY TYSON,"One, so far. The night nurse who made the report - Beatrice Salinger.",12
+MULDER,She saw somebody take the body?,6
+DEPUTY TYSON,Not actually.,2
+MULDER,"What do you mean, not actually?",6
+SHERIFF DANIELS,"Talk sense, deputy.",3
+DEPUTY TYSON,She didn't exactly see anyone taking the body.,8
+SHERIFF DANIELS,"Well, what then?",3
+DEPUTY TYSON,"She, uh, she claims she saw Samuel walking out by himself. Sounds crazy, I know, but that's what she told me.",21
+MULDER,"You coming, Sheriff?",3
+BEATRICE SALINGER,"I was drinking my coffee and going over the night orders for my ward, 7 South, when he walked right by me. His face was all black and blue.",29
+MULDER,And you're sure it was him?,6
+BEATRICE SALINGER,"Well, at first I thought my eyes were playing tricks, which happens a lot on graveyard. So I got up to look again, but I lost him around the corner. He just vanished. Then I went to check the morgue, and his body was gone.",45
+SHERIFF DANIELS,I don't believe this. This is insane. I'm not gonna listen to any more of this woman's crazy talk.,19
+BEATRICE SALINGER,"I'm not the only one who saw him, Sheriff, so I know I'm not crazy. Other people saw him, too. I'm not crazy. It was Samuel.",26
+LILLIAN DANIELS,"This isn't true, Maurice? Is it? The boy was an awful fake, just like you said, wasn't he Maurice? Wasn't he, Maurice?",22
+DEPUTY TYSON,Sir... gonna have to ask you to come with me. District Attorney wants to ask you some questions concerning the boy's death.,22
+SCULLY,Sundays will probably never be the same again in these parts.,11
+MULDER,I have a strong sense the Reverend Hartley's not going to be able to give up the pulpit.,18
+SCULLY,Even without his son?,4
+MULDER,"It might even strengthen his faith. Remember, the boy did rise from the dead. That kind of thing happens only once or twice every two thousand years or so.",29
+SCULLY,"Yeah, and I have a story about a plague of locusts. I just hope Reverend Hartley didn't arrange this body snatching as his miracle of miracles.",26
+MULDER,"Somehow, I don't think so.",5
+SCULLY,What exactly do you think?,5
+MULDER,I think people are looking hard for miracles... so hard that maybe they make themselves see what they want to see.,21
+SCULLY,"You coming, Mulder?",3

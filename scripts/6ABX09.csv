@@ -1,0 +1,276 @@
+speaker,line,words
+MALE AGENT,"Just a routine background check. Now, to the best of your knowledge has Mr. Wisnowski ever used any illegal drugs? Which illegal drugs?",23
+MULDER,"Yeah, in the time that you worked with... Ms. Ermentrout did you find her to be a trustworthy person? Punctual. Punctual is good.",23
+SCULLY,"No, no, ma'am. This is just a routine background check. Mr... Mr. Garber is not in any legal trouble whatsoever. Yeah. Okay. Thanks for your time.",26
+MULDER,"Hey, Scully maybe if we get really lucky next time they'll let us clean toilet bowls.",16
+SCULLY,You ready to quit?,4
+MULDER,No. That would make way too many people way too happy.,11
+SCULLY,Scully. I'm on my way.,5
+SCULLY,I've been called into Kersh's office.,6
+SCULLY,Just me.,2
+MULDER,"Just you? Don't forget your toilet brush. No. No, ma'am, not you.",12
+AD KERSH,Agent.,1
+SCULLY,Sir.,1
+AD KERSH,"Dana Scully, this is Agent Peyton Ritter with the Bureau's New York office.",13
+SCULLY,Agent Ritter.,2
+AGENT RITTER,Hi.,1
+AD KERSH,Show her what you have.,5
+AGENT RITTER,"Uh, well, our office is currently updating its case filing system. While I was involved in this project-- scanning old crime scene photographs into the computer-- I came across this.",30
+SCULLY,"Margareta Stoller age 57, cause of death-- an overdose of Nitraz....",11
+AGENT RITTER,Take a look at when they found her.,8
+SCULLY,A NEIGHBOR CALLED THE POLICE AT 11:14 p.m.,8
+AGENT RITTER,So what's wrong with that picture?,6
+SCULLY,"The clock says that it's 45 minutes earlier. Well, a clock can be wrong.",14
+AGENT RITTER,"They certainly can. So, I checked the Post from the following day. These are straight from their photo files.",19
+SCULLY,Hmm. Almost an hour and a half later.,8
+AGENT RITTER,"Two different negatives, same photographer. The guy's name is Alfred Fellig. He's rattled around Manhattan for years. Apparently a stringer for the wire services and on-call guy for NYPD.",29
+SCULLY,And you suspect this man Fellig? You think that Mrs. Stoller wasn't a suicide?,14
+AGENT RITTER,"This guy's into taking pictures, right? So I'm thinking, what if... what if he poisons this woman and gets his jollies by snapping a few of her dead body then winds up back in the same apartment an hour later, after Midtown North calls him over to do the job.",50
+SCULLY,That's quite a theory.,4
+AGENT RITTER,"Yeah. Well, the thing of it is he might have done it on more than one occasion. Now, I sifted through probably 2,000 of his police photos. Now, these three have measurable solar shadows. And since we know the location in each case...",43
+SCULLY,You can tell the time of day by the shadows.,10
+AGENT RITTER,"Right. And with it, these three are looking every bit as hinky.",12
+SCULLY,You've got another suicide here a heart attack and a very obvious murder for which another man was convicted. There's no consistent MO.,23
+AGENT RITTER,There's no consistent anything. I could sure use your help.,10
+AD KERSH,"Agent, would you step outside, please.",6
+AGENT RITTER,Sure.,1
+AD KERSH,I would say he has a promising career ahead of him. So did you... at one time.,17
+AD KERSH,With your expertise in forensic pathology you would be a substantial asset to this investigation. I know it would provide more challenge to you than running background checks.,28
+SCULLY,Agent Mulder and I will begin immediately.,7
+AD KERSH,Agent Mulder's a lost cause. I'm taking the chance you're not. It's you and Ritter. Do not let me down.,20
+SCULLY,Mulder...,1
+MULDER,Hmm?,1
+SCULLY,What are you doing?,4
+MULDER,Being nosy. Eating my heart out. They're sending you on an X-File.,12
+SCULLY,It's not an X-File.,4
+MULDER,That's not what I'm reading. I'm thinking murder by telekinesis. I'm thinking maybe a shamanistic death touch. I'm thinking about the Muslim superstition that to photograph someone is to steal their soul.,32
+SCULLY,Thank you. All very helpful.,5
+MULDER,"So they're splitting us up, huh?",6
+SCULLY,No.,1
+MULDER,No?,1
+SCULLY,This is a one-time thing.,5
+MULDER,"Who told you that? Obviously, if you do a good job they're not going to stick you back here.",19
+MULDER,Right?,1
+AGENT RITTER,Agent Scully we're all set.,5
+SCULLY,"Peyton Ritter, this is Fox Mulder.",6
+AGENT RITTER,"It's a pleasure to meet you, Fox.",7
+MULDER,"A pleasure to meet you, … Peyton.",7
+SCULLY,We should get going.,4
+AGENT RITTER,Off to New York.,4
+AGENT RITTER,Alfred Fellig-- what can you tell us about him?,9
+DESK SARGEANT,"What's to tell? He's one of about 10,000 people in town who have an official license to piss people off.",20
+SCULLY,"Well, he sometimes doubles as a crime scene photographer for your precinct.",12
+DESK SARGEANT,"Yeah, he comes in, snaps a picture. Keeps to himself.",10
+SCULLY,There's not much in the way of personal information there.,10
+DESK SARGEANT,There's not supposed to be. It's just a yearly renewal form.,11
+SCULLY,Would you happen to know when the original background check was done?,12
+AGENT RITTER,"Here he is again. Yearly renewal dating back to January, 1970 but still no original.",15
+SCULLY,I think I've got it. 1964.,6
+AGENT RITTER,Old-timer. Anything interesting?,3
+SCULLY,Maybe.,1
+AGENT RITTER,What you doing?,3
+SCULLY,Take a look at this.,5
+SCULLY,1996... '87...'73,2
+AGENT RITTER,"The guy's a regular Dick Clark. I don't know what to tell you, Dana. Other than the fact that this guy's always been a geezer, this is looking like a dead end.",32
+YOUNG MAN WITH LIGHT UP SNEAKERS,"Help! Help! Somebody call the police! Man, what do you want from me? Are you crazy?",16
+YOUNG MAN WITH LIGHT UP SNEAKERS,"Help! Help me, please! Come on lady, please! Help me! Man, what do you want from me, man? No! No no no no!",23
+AGENT RITTER,"The prints are Alfred Fellig's. Positive match right off his 1964 background check. I took the liberty of slipping them into the SAFIS database. First thing this morning, boom! Up they came.",32
+SCULLY,You're thinking this was Fellig's work?,6
+AGENT RITTER,It's a lock. The wound measurements match with the knife. I'd say he got pretty sloppy in his old age.,20
+SCULLY,What's this?,2
+AGENT RITTER,A whole lot of blood.,5
+SCULLY,Yeah. I got that.,4
+AGENT RITTER,It's pretty clear he took a second victim.,8
+SCULLY,Where's the second body?,4
+NY DETECTIVE,They found your boy.,4
+AGENT RITTER,Fellig? Where?,2
+NY DETECTIVE,Home watching TV. They're bringing him in now.,8
+AGENT RITTER,Yes!,1
+AGENT RITTER,"Check. Check. January 4, 11:36 a.m. 15th precinct, Manhattan.",9
+AGENT RITTER,Alfred Fellig.,2
+FELLIG,Hello.,1
+AGENT RITTER,"You're a photographer. I've seen, uh... seen some of your work. You, uh... specialize in some pretty dark subject matter. You're, uh... you're around death a lot. It must... it must fascinate you. Am I... boring you, Mr. Fellig?",39
+FELLIG,Ask me a question already.,5
+AGENT RITTER,All right. I want to know how you always happen to be Johnny-on-the-spot every time somebody dies. You're always there to take the picture. How does that happen?,28
+FELLIG,I have a... a nose for news.,7
+SCULLY,Mr. Fellig your fingerprints were found on a murder weapon at a crime scene. Could you give us a full accounting of your activities last night?,26
+FELLIG,The Bronx. I was on the job. Saw some jibone stealing a kid's tennis shoes. He chased me. Ran off.,20
+AGENT RITTER,He ran off? Some... unidentified murderer.,6
+FELLIG,I guess I could identify him.,6
+SCULLY,Your fingerprints were found on the knife. How did they get there?,12
+FELLIG,He left the knife behind. I guess I touched it... briefly.,11
+SCULLY,"Why would you do that? Were you injured Mr. Fellig? You seem to be in pain. Were you attacked? We found other blood at the crime scene and, when we have it tested I'm wondering if we're going to learn that it's yours.",43
+FELLIG,I got cut some.,4
+SCULLY,May we see?,3
+SCULLY,May I help you?,4
+AGENT RITTER,"Hey. Hey, take Mr. Fellig to get his blood drawn. Photograph his back, too.",14
+AGENT RITTER,"Hey, I'm confused. I thought we were trying to bust this guy not look for reasons to let him go.",20
+SCULLY,I thought we were looking for the truth.,8
+SCULLY,Scully.,1
+MULDER,Hi. My name is Fox Mulder. We used to sit next to each other at the FBI.,17
+MULDER,How's your X-File coming?,4
+SCULLY,"Mulder, it's not... We haven't made much headway. We arrested Alfred Fellig and we just released him.",17
+MULDER,You can't hold him? What about the stabbing?,8
+SCULLY,How do you know about that?,6
+MULDER,I told you I'm nosy. Why are you letting him go?,11
+SCULLY,"Well, we were able to pull another set of prints off of the knife. They belong to a convicted murderer by the name of Malcolm Wiggins.",26
+SCULLY,"That and the fact that Fellig's blood was found all over the crime scene tells me that his story checks out. At least that particular story, anyway.",27
+MULDER,"But you still think Fellig's a murderer, huh?",8
+SCULLY,"I don't know what to think. He's, uh... unusual.",9
+MULDER,"As in he, uh, plugs up like a cork when you stab him?",13
+SCULLY,"Mulder, where are you getting this stuff?",7
+MULDER,"Well, young man Ritter has been sending progress reports to Kersh. My computer may have inadvertently intercepted a few of those. He's got nice things to say about you, though... mostly. Why don't you let me do a little background check on Fellig for you.",45
+SCULLY,Mulder...,1
+MULDER,"Come on. It's, you know... it's what I do now. I'm getting good at it.",15
+SCULLY,I'm parked around the block.,5
+AGENT RITTER,Fellig's asleep. I haven't seen him move in over four hours. Have a lovely evening.,15
+SCULLY,"Mr. Fellig, open up, please!",5
+SCULLY,Explain this.,2
+FELLIG,What?,1
+SCULLY,You took that photo an hour before police arrived. You then purposely covered up that fact by photographing the scene again.,21
+FELLIG,I don't think I remember that one.,7
+SCULLY,"You have, Mr. Fellig, a long and uncanny history of being the first person at the scene of a death. You also have a history of covering up that fact. Why?",31
+FELLIG,Am I under arrest again?,5
+SCULLY,Are you a murderer?,4
+SCULLY,"Well, then explain yourself, sir. Because, I promise you until you do, you will not get a moment's peace.",19
+FELLIG,You want to take a ride with me? You come with me. I'll show you.,15
+SCULLY,It's been an hour. Are we going to drive around all night?,12
+FELLIG,Yeah. This is it. This is what I do. Looking for the shot.,13
+SCULLY,What shot?,2
+FELLIG,The shot.,2
+FELLIG,Her. She's about to die.,5
+SCULLY,What... what are you talking about?,6
+FELLIG,"It could happen in the next minute, in the next hour but it'll happen. It's as plain as day.",19
+SCULLY,"Look, Mr... Fellig, I don't know what you're planning but nobody here is going to die.",16
+FELLIG,I'm not planning anything. I'm just here to tell you what's going to happen.,14
+SCULLY,That … that woman right there is going to be murdered?,11
+FELLIG,"I didn't say ""murdered."" She's a smoker. She might die of lung cancer. The ""how"" is always a surprise. I... I just always know ""when.""",25
+SCULLY,You want me to believe that?,6
+HOOKER,Get out of my face. Get off me!,8
+SCULLY,FBI! Don't move!,3
+HOOKER HASSLER,"Damn, man! Where'd you come from?",6
+SCULLY,Shut up! Get down! Back up!,6
+HOOKER,You're not such a big man now!,7
+HOOKER HASSLER,"That gun ain't mine, Red.",5
+SCULLY,You all right?,3
+HOOKER,I'm out of here.,4
+(NEXT MORNING.  8,00. Precinct station. AGENT RITTER angrily runs up to SCULLY who is processing the HOOKER HASSLER. SCULLY looks dirty and exhausted.),21
+AGENT RITTER,"Dana, what the hell is going on?",7
+SCULLY,Assault and possession of an unregistered handgun. I'll be with you in a minute.,14
+AGENT RITTER,Why didn't you call me sooner?,6
+SCULLY,I apologize.,2
+AGENT RITTER,"What, you blew off the surveillance?",6
+SCULLY,"No offense, but the surveillance was blown before I got there.",11
+AGENT RITTER,"So, wait, wait-- you blew off the surveillance and what, took a little joyride with him?",16
+SCULLY,I confronted Fellig. I questioned him further about his involvement in the deaths that he photographed. Is that okay with you?,21
+AGENT RITTER,What did he say?,4
+SCULLY,"He said that he can tell when people are about to die. Look, if New York passes a Good Samaritan law we might be able to nail him on that but other than that, I doubt we're going to get him for murder.",43
+AGENT RITTER,Wrong. Let me show you something.,6
+AGENT RITTER,"They picked up Mr. Wiggins last night. Now, he says that it was Fellig who killed that kid in the alley, not him. He said he just happened along and he had to fight for his life.",37
+SCULLY,A convicted murderer half Fellig's age.,6
+AGENT RITTER,He said he would have come in on his own but he said he was afraid we wouldn't have believed him.,21
+SCULLY,"He's right. Tell me, Ritter, did he have any help concocting that story?",13
+AGENT RITTER,"Look, Fellig is a murderer. Whether or not he did this specific one, I don't care-- not if it buys me a few days in the box with him.",29
+SCULLY,No judge is going to issue a warrant based on this.,11
+AGENT RITTER,"No, no, no. I know the judge. We'll have it by noon.",12
+AGENT RITTER,"You know, Kersh warned me about you.",7
+SCULLY,"Uh, he did?",3
+AGENT RITTER,"Yeah-- you and your partner. God knows his reputation precedes him so I guess I should have seen this coming. You muck up my case, and Kersh'll hear about it. Are we clear, Dana?",34
+SCULLY,Scully.,1
+SCULLY,And we're done with this conversation.,6
+SCULLY,Yeah?,1
+MULDER,"Hey, Scully, uh, how's that X-File coming? And before you tell me that it's not an X-File...",17
+SCULLY,It is.,2
+MULDER,What happened?,2
+SCULLY,Alfred Fellig seems to know an awful lot about death.,10
+MULDER,"Oh, yeah? Well, that's not surprising, given that he's reached the ripe old age of 149.",16
+SCULLY,Excuse me?,2
+MULDER,I did a little low-tech background check on him. This stuff is so old that they don't even keep it on record on the computer but Alfred Fellig doesn't exist before 1964 but one Henry Strand does. He applied for a press pass from the Jersey City police in 1939 at the age of 53. His prints match Fellig's.,59
+SCULLY,"But Mulder, that must be some kind of a mistake.",10
+MULDER,"You think? Because this Henry Strand does not exist before 1939. However, one L.H. Rice is on record as having sat for the New York State civil service exam. Now, the records don't show whether he passed or not but his thumbprint? Fellig's. Want to know what L.H. Rice's birthday is? April 4, 1849. I'm not good at math, but I'm figuring that's a whole lot of candles on the cake.",71
+SCULLY,I have spent time with this man and-and he can't be more than 65 years old.,16
+MULDER,"I-I think that's what he wants you to think. Now we're talking about a guy for whom the phrase ""life in prison"" carries some seriously weighty connotations. I think you should get to him before he vanishes and becomes someone else.",41
+SCULLY,"You are going to be arrested, Mr. Fellig, in two hours, charged with murder, and this time you won't be able to just change your name.",26
+FELLIG,I showed you what I do last night. I just take the pictures.,13
+SCULLY,"What you showed me was a contemptible lack of compassion for another human being. You showed me that you profit off of people's deaths. Now, why shouldn't you go to prison?",31
+FELLIG,"What, do you want me to cry for them? You want me to make like I feel sorry for them? I don't. Lucky bastards. Every one of them.",28
+SCULLY,"""Lucky""?",1
+FELLIG,I'm just there to get the shot. I don't take those people. He does.,14
+SCULLY,Who's he?,2
+FELLIG,That's him. He's the one who takes them.,8
+SCULLY,You're saying that this is a photograph of Death itself?,10
+FELLIG,"It's a glimpse, just a glimpse. It's closer than I've gotten in... well, I-I can't even count the years.",19
+SCULLY,And this is the shot that you spoke of-- this is... what you try and get?,16
+FELLIG,Mm-hmm.,1
+SCULLY,"Mr. Fellig, I know... that you know more about photography than I do but this is just a lens flare.",20
+FELLIG,You're right. I do know more about photography than you do.,11
+SCULLY,"Okay, I mean... mmm … for the sake of argument... why bother? I mean, why... why take a picture of Death?",21
+FELLIG,So I can look into his face. So I can die. Pills don't work. Razors... … gas... bridges--- I can't tell you how many bridges I've jumped off of. All I get is wet. I got left behind. I don't want to be here anymore. I can't even remember a time when I did. And... this... this is all I know... to do.,63
+SCULLY,You know I don't believe you.,6
+FELLIG,"Yes, you do. That's why you're here.",7
+SCULLY,How is it you know when people are about to die?,11
+FELLIG,Oh... You chase it long enough you pick it up.,10
+SCULLY,Excuse me.,2
+MULDER,Mulder.,1
+SCULLY,"Mulder, it's me.",3
+MULDER,Hi.,1
+SCULLY,Those other two names that you said that Fellig went by-- Strand and Rice...?,14
+MULDER,Yeah. Henry Srand and L.H. rice.,6
+SCULLY,What about Louis Brady?,4
+MULDER,"Uh, no, but there's a... there's, like, a big gap before 1939.",12
+SCULLY,Will you check it out for me?,7
+MULDER,"Absolutely, yeah.",2
+SCULLY,"I'm sticking here to make sure he doesn't bolt. Louis Brady, Mulder. Tell me what you find out.",18
+SCULLY,Mr. Fellig?,2
+FELLIG,Oops. Excuse me. I have some film out. Hold on a second.,12
+AGENT RITTER,Ritter.,1
+MULDER,"Agent Ritter, it's Agent Mulder. Is Agent Scully there with you?",11
+AGENT RITTER,"No, she's not. Nobody seems to able to find her.",10
+MULDER,"Me neither, and D.C. Cellular says her phone is turned off.",11
+AGENT RITTER,"What can I do for you, Agent?",7
+MULDER,"Well, you can find her for me.",7
+AGENT RITTER,"Listen, Agent Mulder, I'm on my way to arrest Alfred Fellig.",11
+MULDER,"Good, because that's where I think she is. And you were right, Fellig is a murderer. Under the name of Louis Brady, he suffocated two patients in a Connecticut hospital. He says he meant to catch up with death. One year into his prison sentence he walked off a work detail. The manhunt never officially ceased.",56
+AGENT RITTER,When was this?,3
+MULDER,1929.,1
+AGENT RITTER,"Whoa, whoa, whoa, whoa-- when?",5
+MULDER,"Look, Ritter, don't sweat the math. It's him. Just get there and find Agent Scully.",15
+AGENT RITTER,All right. I'm on it.,5
+SCULLY,"You know, most people want to live forever.",8
+FELLIG,Most people are idiots. Which is one of the reasons I don't.,12
+SCULLY,"I think you're wrong. How can you have too much life? There's too much to learn, to experience.",18
+FELLIG,"75 years... is enough. Take my word for it. You live forever, sooner or later you start to think about the big thing you're missing and that everybody else gets to find out about but you.",36
+SCULLY,What about love?,3
+FELLIG,"What, does that last forever? 40 years ago I drove down to the city hall, down to the hall of records... record archives, whatever they call it. I wanted to look up my wife. It... bothered me I couldn't remember her name. Love lasts... 75 years, if you're lucky. You don't want to be around when it's gone.",58
+FELLIG,Count your blessings.,3
+SCULLY,"Why are you this way? I mean, if this is true give me something in the way of proof... help me find some science that I can hang this on.",30
+FELLIG,It has nothing to do with science. Someone took my place.,11
+SCULLY,Took your place?,3
+FELLIG,"I don't know her name. I don't think I ever knew it. I had yellow fever way the hell back then when it killed half of New York. Washington Square Park was a common grave they had so many bodies. They'd bury them shallow. They wrapped them in-in yellow sheets and the yellow sheets would stick up through the mud. I was in a city-run contagion ward. I was out of my head with fever... out of my mind. And I saw him-- saw Death. Wish I had had a camera then. At first, I... just saw him out of the corner of my eye. Then he got bolder and he started flitting around the room and he'd take this person and he'd take that person and I never saw his face. I didn't want to see his face. I figured if I saw it, he'd take me, too.",149
+SCULLY,But he didn't.,3
+FELLIG,"No. There was a nurse. She did the best she could. Back then, medical science was... they couldn't find their ass with both hands-- they still can't-- but she did the best she could. She sat with me, held my hand and I was on my deathbed and he came for me. I didn't look at him. I closed my eyes and turned my head. I didn't tell her not to look at him. I wanted her to look at him... I wanted her to look at him instead of me. And then I came to and the fever broke. They were carrying her out wrapped up in a yellow sheet. Since that time I realized you got to be careful what you wish for. I missed my chance. You're very lucky, you know that?",135
+SCULLY,What do you mean? Wait a minute. Say what's on your mind. You mean lucky like the others? You want me to believe that I'm about to die?,28
+FELLIG,I just want to take the picture.,7
+SCULLY,You took my picture. You took my picture last night. Is this why?,13
+FELLIG,"No, that was different.",4
+SCULLY,I'm not going to die! Turn that off.,8
+FELLIG,No.,1
+SCULLY,Turn it off right now! Put it down!,8
+FELLIG,There is nothing to be done for it.,8
+SCULLY,You took my phone. Why?,5
+FELLIG,"Please, just give me a chance.",6
+SCULLY,What don't you want me to know?,7
+FELLIG,He's coming….,2
+SCULLY,What don't you want me to know!?,7
+FELLIG,He's coming and you should just make your peace.,9
+SCULLY,Shut up!,2
+FELLIG,He's here.,2
+AGENT RITTER,Agent?,1
+AGENT RITTER,"Oh, god. Oh, no, no, no, no, no, no, no...",10
+AGENT RITTER,Come on... Come on... Dammit!,5
+AGENT RITTER,We need some help in here!,6
+FELLIG,Do you see him? Do you see him? Don't look. Close your eyes.,13
+MULDER,You're a lucky man.,4
+MULDER,"Coroner's report came back on Fellig. Says he died of a single gunshot wound. That's all it said. Well, I, uh... talked to your doctor and... he says you're doing great. You're making the fastest recovery he's ever seen.",39
+SCULLY,"Yeah, Mulder, I don't even know how I entertained the thought. People don't live forever.",15
+MULDER,"No, no, I-I... I think he would have. I-I just think that … that death only looks for you... once you seek its opposite.",24

@@ -1,0 +1,281 @@
+speaker,line,words
+GIRL,Hurry up!,2
+CHILDREN,Hi!,1
+MAN,All clear!,2
+MULDER,Come on in.,3
+SCULLY,What are you watching?,4
+MULDER,Something that just came in the mail.,7
+SCULLY,That's not your usual brand of entertainment. What is it?,10
+MULDER,"According to the magazine ad I answered, it's an alien autopsy. Guaranteed authentic.",13
+SCULLY,You spent money for this?,5
+MULDER,"Twenty-nine ninety-five, plus shipping.",4
+SCULLY,"Mulder, this is even hokier than the one they aired on the Fox network. You can't even see what they're operating on!",22
+MULDER,"But it, it does look authentic. I mean, the setting and the procedures. I mean, it does look as if an actual autopsy is being performed, doesn't it?",28
+SCULLY,"Well, technically, I don't know why they would be wearing gas masks.",12
+MULDER,"Well, maybe it's this green substance they seem to be extracting from the subject. Can you identify that?",18
+SCULLY,Olive oil? Snake oil? I suppose you think it's alien blood.,11
+MULDER,"It's widely held that aliens don't have blood, Scully.",9
+SCULLY,"I guess that begs the question, if this is an alien autopsy...",12
+MULDER,"Where's the alien. But what, what's so intriguing to me is the striking lack of detail here.",17
+SCULLY,"Well, What do you want for twenty-nine ninety-five?",8
+MULDER,"No, that, that autopsy you saw on TV was so fake precisely because it tried to show too much.",19
+SCULLY,And this is real because it doesn't?,7
+MULDER,"Yes, and because, uh... Because of this.",7
+SCULLY,Who's selling these tapes?,4
+MULDER,"Some guy in Allentown, Pennsylvania. Claims he pulled it off the satellite dish at two in the morning.",18
+SCULLY,Front door's been boarded up.,5
+MULDER,Back door's been busted open. Hope nobody left the rat out.,11
+SCULLY,"Mulder, in here. He's still warm.",6
+MULDER,"Federal agent! Come on down. I got tired of losing my gun. Okay, now face the fence. Face the fence! What's your name? You speak english? Great. Give me the bag. Give me the bag. Okay, let's go. Let's go!",40
+SCULLY,"Either they can't locate an interpreter, or the interpreter they located didn't interpret the instructions and got lost somewhere. I don't know which.",23
+MULDER,Did you try the F.B.I. field office?,7
+SCULLY,"Somehow, this is a tall request in Allentown this time of night.",12
+MULDER,"Well, look at this... a beacon in the night.",9
+SKINNER,"Agent Mulder, Scully.",3
+SCULLY,"This is a surprise, sir.",5
+MULDER,"You don't, uh, speak Japanese by any chance, do you?",10
+SKINNER,"I wish I could, it might save us all some embarrassment.",11
+SCULLY,What do you mean?,4
+SKINNER,I'm up here with a federal attorney trying to sort out a little international mess. He said you made an arrest tonight.,22
+MULDER,"A murder suspect, yeah.",4
+SKINNER,"Yeah, I'm afraid you're gonna have to release him.",9
+MULDER,What are you talking about?,5
+SKINNER,"According to the Japanese Diplomatic Corps, the man you arrested is a high-ranking diplomat.",14
+MULDER,"This man, sitting in here?",5
+SKINNER,That's Kazuo Sakurai.,3
+MULDER,"Oh, I didn't get his name. I was too busy getting my ass kicked.",14
+SCULLY,What about the murder victim or the paperwork?,8
+SKINNER,"It's all gonna be handled by some other agency. What are you two doing out here, anyway?",17
+MULDER,Tracking down a video piracy thing.,6
+SKINNER,"I suggest you keep your nose clean and head back to Washington, Agent Mulder... before someone takes another swipe at it.",21
+SCULLY,"I don't know, Mulder, it just doesn't track. What would a Japanese diplomat be doing in that house with a dead man with his head stuffed in a pillowcase?",29
+MULDER,Obviously not strengthening the international relations.,6
+SCULLY,"Well, what do you want to do now, drop it?",10
+MULDER,"No, I paid my twenty-nine ninety-five, Scully. I think I'm entitled to a few more answers, don't you think?",19
+SCULLY,What are you doing?,4
+MULDER,I just remembered a piece of evidence from the crime scene that I forgot to turn in.,17
+SCULLY,What are those?,3
+MULDER,They look like satellite photos. What would he be doing with these?,12
+SCULLY,"What would he be doing with a list of Mutual UFO Network members in the greater Allentown area with the name Betsy Hagopian circled? Hagopian, Edna Cooper and their addresses down. Hagopian's name is circled. Mulder looks around, then the two agents look at each other.)",46
+MULDER,"Maybe he was going to fit her for a pillowcase too. Why don't you stick around, get a motel room and check it out in the morning?",27
+SCULLY,What are you going to do?,6
+MULDER,"I'm going to go back to D.C. like a good boy, like Skinner told me to do, and show these to a few friends of ours.)",26
+LANGLY,The name of the boat is the Talapus. Just got to love those German optics.,15
+MULDER,So you're saying that's from a German satellite?,8
+BYERS,"No, the optics are German. The technology is probably ours, but the satellite is most likely Japanese.",17
+FROHIKE,Launched from South America.,4
+MULDER,"Got to love that global economy, huh?",7
+LANGLY,"Where'd you get this, Mulder?",5
+MULDER,Japanese diplomat.,2
+FROHIKE,"I'm surprised. The Japanese are very secretive about their espionage capabilities, and extremely careful with their intelligence data.",18
+MULDER,What exactly are they spying on there?,7
+BYERS,The Talapus was a salvage ship out of San Diego. They spent months looking for a Japanese sub that went down in World War II. It was rumored to be carrying a load of gold bullion.,36
+MULDER,Did they find it?,4
+LANGLY,"Not according to all the reports, but looking at this photo here, the ship never returned to San Diego.",19
+MULDER,Why do you say that?,5
+BYERS,"In the rest of these satellite photos, they track the ship through the Panama canal. All the way to Newport News, Virginia.",22
+MULDER,The naval shipyard.,3
+FROHIKE,But why would they go there?,6
+MULDER,"Well, maybe what they found wasn't a Japanese sub.",9
+DRIVER,"Good evening, Mister Sakurai.",4
+SCULLY,"Hi, Betsy Hagopian?",3
+LOTTIE HOLLOWAY,"No, I'm sorry, Betsy's not here right now.",8
+SCULLY,"Is there some way that I can get in touch with her? I'm sorry, um... My name is Dana Scully.",20
+LOTTIE HOLLOWAY,I know you.,3
+SCULLY,"No, I think you must be mistaken.",7
+LOTTIE HOLLOWAY,"We saw you. Penny? Penny, come here.",7
+SCULLY,"I'm, I'm afraid I'm not who you think I am.",10
+PENNY NORTHERN,"Oh, my God. She's one.",5
+SCULLY,One what?,2
+LOTTIE HOLLOWAY,One of us.,3
+SCULLY,"There must be some kind of mistake, I, I work for the F.B.I., and I'm here conducting a murder investigation.",20
+LOTTIE HOLLOWAY,A murder?,2
+PENNY NORTHERN,Cathy? I'm here at Betsy's. Can you call the group and get everyone over here right away?,17
+SCULLY,A man named Steven Zinnzser was murdered about two miles from here.,12
+LOTTIE HOLLOWAY,"Penny, do you hear that?",5
+PENNY NORTHERN,Steve Zinnzser was murdered?,4
+SCULLY,Did you know him?,4
+LOTTIE HOLLOWAY,He was a member of our chapter.,7
+SCULLY,"But you understand, I'm, I'm not a member, I'm an F.B.I. agent.",12
+LOTTIE HOLLOWAY,That's what you said.,4
+SCULLY,"But at the door, you said that I was one of you.",12
+LOTTIE HOLLOWAY,Did you have an unexplained event in your life last year? Were you missing for a period of time that can't be accounted for?,24
+SCULLY,Why did you ask me that?,6
+PENNY NORTHERN,"I think you better sit down, Miss Scully. I think there are some people you're going to want to meet.",20
+COAST GUARD OFFICER,The Talapus.,2
+MULDER,"It's a salvage ship registered in San Diego. According to the harbor master, you went out to meet the boat when customs wouldn't allow it into port.",27
+COAST GUARD OFFICER,"Oh, yeah, that's right. But it wasn't customs preventing her landing, it was the D.E.A.",15
+MULDER,"The D.E.A.? Why, what was the problem?",7
+COAST GUARD OFFICER,They were searching for contraband if I remember correctly. The boat came through Panama. There was some concern that her crew might have picked up a shipment.,27
+MULDER,Did they find anything?,4
+COAST GUARD OFFICER,We were never aboard. I think there was a question of confiscating the boat if the crew were to be arrested.,21
+MULDER,Were they?,2
+COAST GUARD OFFICER,"Apparently not. We were called off and the, uh, boat put out to sea the following morning.",17
+MULDER,"Well, that doesn't make any sense.",6
+COAST GUARD OFFICER,Excuse me?,2
+MULDER,"The Talapus came nonstop from Panama. She would have had to stop to refuel, wouldn't she?",16
+COAST GUARD OFFICER,I don't have all the details in my head.,9
+MULDER,Would you do me a favor? Would you see if there's any paperwork on this? See if there's a heading or a destination for the Talapus.,26
+COAST GUARD OFFICER,That might take some time.,5
+MULDER,That's all right. I'm happy to wait.,7
+SCULLY,"But I've never met any of you. I, I've never seen any of you before in my life.",18
+LOTTIE HOLLOWAY,You may not remember. You've only had one experience.,9
+PENNY NORTHERN,Most of us here have been taken many times.,9
+SCULLY,"Taken? Uh, taken where?",4
+LOTTIE HOLLOWAY,The bright white place.,4
+DIANE,"You remember it, don't you?",5
+SCULLY,I don't know.,3
+DIANE,There are men there performing tests.,6
+SCULLY,What men?,2
+LOTTIE HOLLOWAY,"They don't reveal themselves. They take our memories away, but somehow, they start to seep back.",16
+PENNY NORTHERN,"Some may have come back to you, but they didn't make sense.",12
+LOTTIE HOLLOWAY,Do you know about regression hypnosis?,6
+SCULLY,"Yes, I'm...",2
+LOTTIE HOLLOWAY,Have you ever considered it?,5
+SCULLY,I'm sorry. I don't think I'm ready to discuss this.,10
+DIANE,"You're afraid to remember, aren't you? It's okay. We were all afraid at first.",14
+COAST GUARD OFFICER,Agent Mulder?,2
+MAN,"We're gonna need about five more pilots here, Greg...",9
+LOTTIE HOLLOWAY,"I don't know, when I opened that door and saw you standing there? It was like a revelation. The image of your face was so clear to me.",28
+SCULLY,But why is it that I don't remember you?,9
+PENNY NORTHERN,"All you remember in the beginning is the light, and then sometimes the faces of the men who perform the tests.",21
+SCULLY,How do you know that you're not mistaking me for somebody else?,12
+DIANE,"You have the mark, don't you?",6
+SCULLY,What mark?,2
+DIANE,Here. On the back of your neck.,7
+LOTTIE HOLLOWAY,We all have them. It's where they put the implants.,10
+SCULLY,I really have to go. I just came...,8
+LOTTIE HOLLOWAY,To see Betsy.,3
+SCULLY,"Yes. To see Betsy Hagopian. Why are you all at her house, where is she?",15
+SCULLY,What's wrong with her?,4
+LOTTIE HOLLOWAY,Betsy's in the advanced stages of an undiagnosed cancer ailment. Her body's full of tumors that won't respond to any kind of treatment.,23
+SCULLY,And you think this is the result of her abduction experiences?,11
+PENNY NORTHERN,They've been taking Betsy since she was in her teens. This is what's going to happen to all of us.,20
+SCULLY,What do you mean?,4
+LOTTIE HOLLOWAY,"I don't know if you understand this or not, Dana... but we're all going to end up like Betsy.",19
+PENNY NORTHERN,We're all dying... because of what they do to us.,10
+SKINNER,Think they found what they were looking for?,8
+MULDER,I don't remember giving you a key.,7
+SKINNER,"I came to see you. Obviously, I was late for the party.",12
+MULDER,"Yeah, I guess I should really fire my maid, shouldn't I?",11
+SKINNER,"Put the gun down, Mulder. Somebody else might get hurt.",10
+MULDER,What are you talking about?,5
+SKINNER,"Kazuro Sakurai, the diplomat that you detained yesterday?",8
+MULDER,Our murder suspect.,3
+SKINNER,"He didn't make his flight last night. This morning, his body was found floating face-down in the C and O canal. I think we can assume he wasn't diving for pearls. The Japanese government believes that he was murdered for the contents of a briefcase that he was carrying... a piece of evidence that wasn't logged in the time of his arrest.",62
+MULDER,What do they think was in it?,7
+SKINNER,"I've got the state department breathing down my neck, Mulder. The Japanese are set to prosecute this outside of diplomatic channels, so let's cut the crap.",26
+MULDER,Am I being accused of murder?,6
+SKINNER,Where's the briefcase?,3
+MULDER,Agent Scully has it. She has it in the trunk of her rental car.,14
+SKINNER,And where is she?,4
+MULDER,"I don't know, I haven't spoken to her since I left her in Allentown.",14
+SKINNER,"Then you better find her, because whatever you stepped in on this case is being tracked into my office and I don't like the smell of it.",27
+MULDER,Mind if I tidy up a bit in here first?,10
+SKINNER,"This is bigger than me, you, or the F.B.I., Agent Mulder. I hope you've got other names in your phone book because I'm taking myself off the hook on this one. You're on your own.",35
+RICHARD MATHESON,"Hello, Fox.",2
+MULDER,Thank you for seeing me on such short notice.,9
+RICHARD MATHESON,I understand you're in a difficult position. Don't look so stunned. I'm on the intelligence committee. Secrets are the only real currency we deal in.,25
+MULDER,Then you already know what I'm up against.,8
+RICHARD MATHESON,"Perhaps better than you do, which I assume is why you've come here.",13
+MULDER,I need your advice on how to proceed.,8
+RICHARD MATHESON,Return the satellite photos.,4
+MULDER,I'd be implicating myself.,4
+RICHARD MATHESON,A good chess player knows which pieces to sacrifice... and when.,11
+MULDER,But I can't afford to become entangled in a murder investigation. Not now.,13
+RICHARD MATHESON,Why?,1
+MULDER,Because of what I've seen. Because it would give them time to bury it all where I might not find it again.,22
+RICHARD MATHESON,"Do you trust me, Fox? Then let me earn your trust with the truth.",14
+MULDER,I'm listening.,2
+RICHARD MATHESON,"Several weeks ago in Knoxville, Tennessee, four Japanese nationals were murdered. All prominent doctors apparently engaged in a highly classified project.",21
+MULDER,"What kind of project? The autopsy of an extraterrestrial lifeform, was that part of it?",15
+RICHARD MATHESON,"I can't tell you. Some secrets do remain secret, Fox, even to me. I was only just now given the names of the murdered scientists. Their credentials, however, are a matter of public record. Past deeds which may illuminate present treacheries. Your time is limited... before you become, as you say... Entangled in this past the point of being about to fully understand or expose it.",66
+MULDER,What am I onto here?,5
+RICHARD MATHESON,Monsters begetting monsters.,3
+MULDER,Scully.,1
+SCULLY,Why is the door locked?,5
+MULDER,I got something to show you.,6
+SCULLY,Do you have any idea where I've been?,8
+MULDER,Allentown?,1
+SCULLY,"I went to go see those MUFON members to find out about that woman, Betsy Hagopian.",16
+MULDER,"Oh, what'd you find?",4
+SCULLY,I found out that she's dying along with a lot of other women who claim to be dying too. All of them who say that they have these implanted in them. It's the same thing I had removed from my own neck.,42
+MULDER,"But you're fine, aren't you, Scully?",6
+SCULLY,"Am I? I don't know, Mulder. They, they, they said that they know me, that they've seen me before. It was freaky. They know things about me, about my disappearance.",30
+MULDER,That is disturbing. But I don't think you should freak out until we find out what this thing is. Mulder. I got a fax coming through.,26
+SCULLY,What is this?,3
+MULDER,That's a group of Japanese medical officers taken during World War II.,12
+SCULLY,I've seen this man before.,5
+MULDER,"No, I don't think so. Not unless you were in Japan in the last fifty years.",16
+SCULLY,"No, I... I've seen him before.",6
+MULDER,"His name is Doctor Takeo Ishimaru, he's been dead since 1965. He was the commander of an elite section of the Japanese medical corps known as ""seven thirty-one,"" a unit now known to have experimented on human subjects. They performed vivisections without anesthesia... Tested frostbite tolerance levels on infants... Exposed innocent prisoners of war to diseases, the plague. Like their Nazi counterparts, they were never brought to justice.",68
+SCULLY,What are you doing with this?,6
+MULDER,"Four of the doctors you see in this photo were on that videotape I showed you, performing that autopsy.",19
+SCULLY,"Yeah, but they were in full surgical dress, you couldn't tell one from the other.",15
+MULDER,"Somebody could, because those same four men were murdered yesterday, found here right on U.S. soil.",16
+SCULLY,Murdered for what?,3
+MULDER,That's what I'd like to know.,6
+SCULLY,"Well, murdered by whom?",4
+MULDER,Possibly our government.,3
+SCULLY,Our government? For what possible reason?,6
+MULDER,"For continuing their work. The work the Nazis were doing, trying to create an alien-human hybrid.",16
+SCULLY,"Mulder, that is still a fantasy.",6
+MULDER,"Scully, after all you've seen... after all you've told me you've seen. The tunnel with medical files, the, the beings moving past you, the... the implant in your neck, why do you refuse to believe?",35
+SCULLY,"Believing's the easy part, Mulder. I just need more than you, I need proof.",14
+MULDER,"You think that believing is easy? Well, we have proof. I identified what those five photos were tracking. A ship that pulled a UFO off the bottom of the Pacific Ocean. A UFO that's in a warehouse right now being guarded by military US personnel... A UFO that was probably carrying that E.B.E. we saw in that autopsy tape.",59
+SCULLY,What am I looking at?,5
+MULDER,Part of our government's secret railroad. Train cars used to carry test subjects. Used to conduct that autopsy we saw being performed.,22
+SCULLY,Where did you get this?,5
+MULDER,From someone like you who wants proof... Who's also willing to believe.,12
+PENDRELL,Hmmph. Amazing.,2
+SCULLY,Do you know what it is?,6
+PENDRELL,Looks like some kind of microprocessor.,6
+SCULLY,So you're saying that this is manmade?,7
+PENDRELL,"What else would it be? I mean, it's definitely state of the art. The microlithology's extremely complex. I've never seen anything even close to this density.",26
+SCULLY,Any way of finding out who manufactures it?,8
+PENDRELL,"Uh, there are a few companies out in San Jose, couple in Boston. Could be any one of them.",19
+SCULLY,What are these chips used for?,6
+PENDRELL,"Video games, brake systems... they're finding new apps everyday. I just read about one being designed to help the severely disabled operate computers using brainwaves.",25
+SCULLY,How?,1
+PENDRELL,"Through direct electrochemical interface with the cerebral cortex. Pretty incredible, huh?",11
+SCULLY,Yeah.,1
+SCULLY,Scully.,1
+MULDER,"Hey, Scully, it's me.",4
+SCULLY,Where are you?,3
+MULDER,"A trainyard in Quinnimont, West Virginia. A group of Japanese men just put someone in one of those boxcars we saw in the satellite photos.",25
+SCULLY,I thought you said that it was our government's railroad.,10
+MULDER,"Something serious is going down here, Scully.",7
+SCULLY,What do you mean?,4
+MULDER,The thing they put in the train? It was alive.,10
+SCULLY,Mulder...,1
+MULDER,I got to get on that train. It's hooking up with a Canadian passenger train outside Cincinnati.,17
+SCULLY,"Mulder......I was right about Doctor Ishimaru. He's not dead. In fact, he's on your videotape.",15
+MULDER,"Well, that's where you know him from, then.",8
+SCULLY,"No, that's not where I know him from at all.",10
+ANNOUNCER,"Your attention, please. All passengers on Canadian Northwest Express for Vancouver, prepare for boarding on Track Four. All passengers on Canadian Northwest...",22
+MULDER,"Express train to Vancouver, what track is it on?",9
+TRAIN STATION CLERK,It just left.,3
+MULDER,"When, when did it leave?",5
+TRAIN STATION CLERK,You just missed it. It just pulled out of the station.,11
+MULDER,Thanks.,1
+X,Agent Scully.,2
+SCULLY,What are you doing here?,5
+X,Have you spoken to Agent Mulder?,6
+SCULLY,"No, why?",2
+X,He's in danger.,3
+SCULLY,How do you know?,4
+X,He's tracking a train. You can't let him get on it.,11
+SCULLY,I don't know what you're talking about.,7
+X,You've got to get word to him.,7
+SCULLY,Why should I trust you? You've lied to us before.,10
+X,You're wasting time. Do you understand?,6
+MULDER,Mulder.,1
+SCULLY,"Mulder, don't get on the train.",6
+MULDER,Why not?,2
+SCULLY,Because they know where you are......and they know what you're doing.,11
+MULDER,Who told you that?,4
+SCULLY,"Look, Mulder, it's just too dangerous.",6
+MULDER,"Who told you, Scully? It's coming, Scully.",7
+SCULLY,Let it go.,3
+MULDER,I can't.,2
+SCULLY,"Mulder, don't get on the train. Mulder. Mulder! Mul...",9

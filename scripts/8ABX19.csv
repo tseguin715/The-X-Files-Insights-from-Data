@@ -1,0 +1,287 @@
+speaker,line,words
+YOUNG MAN,It's freezing out there.,4
+OLDER MAN,You weren't gone long.,4
+OLDER MAN,Did you do what I asked?,6
+YOUNG MAN,Yes.,1
+OLDER MAN,"It's important, Gary. Promise me you did it.",8
+YOUNG MAN,"You're sick, Dad. You should be in a hospital not stuck out here in the middle of nowhere. You don't owe this guy Stites anything.",25
+OLDER MAN,It's not about owing.,4
+YOUNG MAN,"I freeze my butt off, checking and re-checking the locks every night. For what?",14
+OLDER MAN,You don't need to know.,5
+YOUNG MAN,"Yeah, that's for sure. I'm gonna fix some dinner.",9
+OLDER MAN,"Oh, Lord.",2
+YOUNG MAN,"Oh, God.",2
+YOUNG MAN,Dad?,1
+DOGGETT,Agent Scully.,2
+DOGGETT,Can I take your coat?,5
+SCULLY,"I'm not staying, Agent Doggett. My doctor told me to take my maternity leave. In fact, she insisted on it.",20
+DOGGETT,"That's not bad, Agent Scully, you could use some time for yourself.",12
+DOGGETT,What is it?,3
+SCULLY,"It's a medallion commemorating the Apollo 11 space flight. I'd like to give this to you, Agent Doggett.",18
+DOGGETT,Thanks.,1
+DOGGETT,Because?,1
+SCULLY,"Agent Mulder gave it to me a few years back. It symbolizes team-work, partnership. . It means no-one gets there alone. And after this past year and everything that we've been through, it just, I wouldn't be here without you.",39
+DOGGETT,"Agent Scully. This pregnancy leave - it's just a leave, right? I mean, you are coming back eventually?",17
+DOGGETT,"You're not gone five minutes, Agent Scully, and already I'm starting to feel a stranger in my own off...",19
+HARRISON,I'm sorry?,2
+DOGGETT,Can I help you?,4
+HARRISON,"I'm here to help you, actually. I'm Leyla Harrison. I've been looking forward to meeting you.",16
+DOGGETT,Uh-uh?,1
+HARRISON,"I've got a case here. An X-File, I think. At least the local PD can't explain it. A murder last night in up-state New York. I've booked us on a flight to Buffalo, Niagara. Here's the crime report.",38
+DOGGETT,"I'm sorry, Ms. Harrison. Who are you?",7
+HARRISON,"Oh, gosh. They didn't tell you? This is so embarrassing. I, uh, I'm your new partner.",16
+HARRISON,I've asked that the body be sent to DC. It was found in the woods about 50 yards beyond the house. Maybe we should begin there.,26
+DOGGETT,Let's begin inside the house.,5
+HARRISON,OK then.,2
+HARRISON,"The deceased is Arlen Sacks, aged 72, caretaker for the estate on which this house is situated. There were no signs of physical trauma but local PD suspect homicide due to the dumping of the body. Mr. Sacks was confined to a wheelchair for the last few months and cared for since then by his son Gary, who's their chief suspect.",61
+DOGGETT,Why?,1
+HARRISON,"Um, because he's missing too.",5
+DOGGETT,"Someone killed this man without leaving a mark. That would suggest premeditation and an attempt to disguise a murder. That doesn't fit with dumping the body in the woods and fleeing the scene, both of which indicate panic, haste.",39
+HARRISON,That's great. What was that last part again about the premeditation? What is that? Slime?,15
+DOGGETT,"There's a small streak of it on the floor over there, too.",12
+HARRISON,"So it's not someone, it's something? God, this really is an X-File, isn't it?",14
+DOGGETT,Congratulations.,1
+HARRISON,I gave the slime to the Buffalo PD. I told them we wanted to see the results right away.,19
+DOGGETT,"How much field experience do you have, Agent Harrison?",9
+HARRISON,"Um, actually this is my first time in the field.",10
+DOGGETT,"Let me guess - Deputy Director Kersh handed you this job, filling in for Agent Scully.",15
+HARRISON,"Yes, yes he did.",4
+DOGGETT,"I don't know how to tell you this, Agent Harrison. You're being used. Deputy Director Kersh is no friend of the X-Files.",22
+HARRISON,"I don't think you understand something, Agent Doggett. I begged for this assignment.",13
+DOGGETT,You begged for it.,4
+HARRISON,I was in accounting. I processed Agents Mulder and Scully's travel expenses.,12
+DOGGETT,Then you are qualified.,4
+HARRISON,"Maybe I'm not. But I know the X-Files, Agent Doggett. Inside and out. Other people don't even want to admit these questions exist but you face them every day. I am just so excited to be part of this. Aren't you?",41
+HARRISON,Mr. Sacks' body was found here but they found no footsteps leading to it.,14
+HARRISON,Oh my god. There's more of it.,7
+DOGGETT,Looks like it.,3
+HARRISON,You know what that could be? It could be bile.,10
+DOGGETT,Bile?,1
+HARRISON,"From a liver-eating mutant. Mulder and Scully chased one into an escalator once. It died but, but, there was just...",20
+DOGGETT,"This is not a liver-eating mutant, Agent Harrison.",8
+HARRISON,"It could be an alien that shed its skin. According to Agent Mulder's case reports they leave behind a mucus-like residue when they, ah, You don't think it's that either. I'll take a sample of this and have it sent to the lab for comparison.",45
+DOGGETT,"That's good thinking, Agent Harrison.",5
+MULDER,Hey. Ready to roll?,4
+SCULLY,Yeah. I'll just get my keys.,6
+MULDER,"Hey, don't forget this. . Relax the back, breathe in, breathe out .",11
+SCULLY,"How do you know all these things, Mulder?",8
+MULDER,I'm unemployed. I have a lot of time on my hands. Oprah. I watch a lot of Oprah.,18
+SCULLY,Thank you for doing this with me.,7
+MULDER,What's the matter?,3
+SCULLY,"I don't know, I, uh, maybe it's hormones, or, I just, it's just, I'm just feeling so strange about all this.",21
+MULDER,This having-a-baby this?,3
+SCULLY,"No, no, leaving work, I guess. I mean, I, I walked out of that office today feeling like a deserter.",20
+MULDER,"You paid your dues there, Scully. More than paid them. You're concerned about Agent Doggett?",15
+SCULLY,"You know, the entire time that I was down there I had someone to watch my back.",17
+MULDER,I'm betting that Agent Doggett can take care of himself. He's a big boy. You gotta worry about the little boy. Or little girl. Boy? Or girl?,27
+HARRISON,Whoa!,1
+DOGGETT,"Agent HARRISON, what are you doing here?",7
+HARRISON,I followed you.,3
+DOGGETT,It's here.,2
+HARRISON,It? What it?,3
+DOGGETT,"You're armed, right?",3
+HARRISON,What do you want to me to do.,8
+DOGGETT,"I want you to go outside, and I want you to stand by the front door. Whatever it is, I'm gonna to try and flush it out.",27
+DOGGETT,Agent Harrison? Take the safety off.,6
+DOGGETT,Harrison! Agent Harrison!,3
+SKINNER,Skinner.,1
+SCULLY,Is it true?,3
+SKINNER,Agent Scully.,2
+SCULLY,I can't reach Agent Doggett and someone told me he's gone missing.,12
+SKINNER,He was investigating a murder. He hasn't reported back.,9
+SCULLY,Why wasn't I told?,4
+SKINNER,"Agent Scully, don't worry.",4
+SCULLY,I'm heading into the Bureau right now.,7
+SKINNER,"No, you're not.",3
+SCULLY,"Sir, are you ordering me not to go looking for Agent Doggett?",12
+SKINNER,I've got every available law enforcement officer out here.,9
+SKINNER,You are on maternity leave now. Just trust that we are doing everything that we know to do.,18
+SCULLY,I know that you are. But what if it's not enough?,11
+ASSISTANT,I'll just take this to the lab.,7
+SCULLY,Thank you.,2
+MULDER,"It seems like old times. You in scrubs, slicing and dicing.",11
+SCULLY,"What are you doing here, Mulder?",6
+MULDER,"Actually, I, I wandered away from my tour. Better question is what are you doing here?",16
+SCULLY,"I found something that may prove helpful in locating Agent Doggett. This is Arlen Sacks, the murder victim Doggett was investigating. This old man was not murdered, Mulder, he died of heart failure evidently after he was blinded by a chemical substance of some kind. The orbits have residual traces of a slimy substance, known as hydrolytic enzymes.",58
+MULDER,Venom. Produced by reptiles.,4
+SCULLY,How do you know that.,5
+MULDER,Before Agent Doggett and his partner went missing they sent in samples to be analysed. Hydrolytic enzymes. Skinner told me.,20
+SCULLY,"I, uh, I also found some bacteria in the venom which I am going to do a culture on.",19
+MULDER,Let somebody else do it. There are other concerns right now.,11
+SCULLY,"I know. But this is an X-File, Mulder, and you are out of the Bureau. If now I go home, where is Skinner going to find someone qualified to look into this.",32
+MULDER,I know where he could find somebody...,7
+HARRISON,Agent Doggett?,2
+DOGGETT,Right here.,2
+DOGGETT,Are you alright?,3
+HARRISON,It's burned my eyes with something. My vision's all blurry.,10
+DOGGETT,Makes two of us.,4
+HARRISON,"Three, actually.",2
+HARRISON,"I think this is Gary Sacks, the son of the murder victim.",12
+DOGGETT,How did you get down here?,6
+HARRISON,It dragged me down here. Not sure. So what do we do now.,13
+DOGGETT,I don't know.,3
+HARRISON,"Mulder and Scully investigated a case once in Florida, that involved subterranean men who took people underground.",17
+DOGGETT,No. This is not a man. I fell through some kind of trap. I guess that someone put that there to provide live meals for this thing.,27
+HARRISON,You're not saying that includes us?,6
+DOGGETT,I don't intend to wait around to find out. These tunnels were built by bootleggers back in prohibition. There's got to be one that leads back to the house.,29
+HARRISON,"There's something up there, I think, some kind of light.",10
+DOGGETT,I can't tell how high up that is.,8
+SKINNER,"Mulder, you're not supposed to be out here.",8
+MULDER,I'm not out here. What happened to the search?,9
+SKINNER,The police in West Ellicot found Doggett's car parked at a convenience store about half an hour from here.,19
+MULDER,How did it get there?,5
+SKINNER,"I don't know, but we are re-directing our searches.",9
+SKINNER,Where are you going?,4
+MULDER,I think I'll take a walk in the woods.,9
+SKINNER,"We've already had 40 people looking around out there, Mulder.",10
+MULDER,"Now, what the hell, I'm out of a job already, right?",11
+(CUT BACK TO,"Agent DOGGETT, still climbing up the shaft.)",7
+(CUT BACK TO,Shaft - Agent DOGGETT is still climbing.),6
+MAN,I thought all you people left.,6
+MULDER,You are?,2
+MAN,Herman Stites. I own this property.,6
+MULDER,"You're just the man I want to speak to, Mr. Stites. Have you seen anything unusual around here?",18
+STITES,Unusual? How?,2
+MULDER,"Dangerous animals, reptiles.",3
+STITES,"I'm confused. I thought the police were looking for a man. Arlen's son, Gary.",14
+MULDER,That is what they are looking for.,7
+HARRISON,Agent Doggett?,2
+DOGGETT,I'm alright.,2
+MULDER,"I don't think Gary Sacks committed the crime, Mr. Stites. I think he is a victim himself.",17
+STITES,"I didn't catch your name, Agent.",6
+MULDER,Kersh. Alvin Kersh.,3
+STITES,"I am a scientist, Mr. Kersh.",6
+MULDER,What kind of scientist are you?,6
+STITES,Biologist. So I know something about animals. They don't generally carry men off into the woods like poor Mr. Sacks.,20
+MULDER,I don't think this was an animal. I think it was a man using some kind of reptile venom to blind them first.,23
+STITES,That would be quite a trick.,6
+MULDER,"Well, you would really have to know what you were doing. You would have to be, say, a scientist.",19
+STITES,"Are you accusing me of something, Mr. Kersh?",8
+MULDER,"No. I'm just thinking out loud, Mr. Stites.",8
+(CUT BACK TO,"Overhead shot of DOGGETT very close to the top of the shaft. He pushes up a metal grating and gets one hand on the ground. He sees feet approaching, a figure - it is STITES.)",34
+DOGGETT,I need a hand.,4
+HARRISON,Agent Doggett. What happened?,4
+DOGGETT,"I lost my grip, with a little help from the man upstairs.",12
+DOGGETT,Hey! Hey!! Hey!! I'm a Federal Agent!,7
+HARRISON,I don't understand. Why would he want to keep us down here?,12
+DOGGETT,"You wanted to face the unknown, Agent Harrison, well you're facing it now.",13
+HARRISON,But who is he?,4
+DOGGETT,"Some kind of scientist, I think. I saw some books and papers on biology in his library.",17
+HARRISON,It could be some kind of symbiotic relationship between this man and this creature. Mulder and Scully...,17
+DOGGETT,"Mulder and Scully aren't here, Agent Harrison, we are. And wild speculation isn't going to help us find the way out.",21
+HARRISON,"You think I'm pretty foolish, don't you.",7
+DOGGETT,"I appreciate your enthusiasm, but you want to take leaps unsupported by the facts. Now what I want you to do is, stay with that guy right there while I look for another way out. And if this thing comes near you I want you to shoot.",47
+HARRISON,Agent Doggett!,2
+HARRISON,He's gone.,2
+DOGGETT,"What do you mean, he's gone?",6
+HARRISON,I don't know. It must have taken him.,8
+MULDER,Mulder.,1
+SCULLY,"Mulder, what are you doing?",5
+MULDER,"I'm spitting sunflower shells on Herman Stites' driveway. What are you doing, Scully?",13
+SCULLY,I just got off the phone with Skinner who is furious. This man Stites just called him saying you've been impersonating Deputy Director Kersh and making baseless accusations.,28
+MULDER,"Well, what's he mad about? Me impersonating Kersh or me harassing Stites?",12
+SCULLY,"Mulder, the victim had reptile venom in his eyes, are you now saying that it was a man who did this?",21
+MULDER,"What are you saying it is, Scully?",7
+SCULLY,I know this may be hard to believe coming from me but some kind of reptile attack is the only explanation consistent with the scientific evidence.,26
+MULDER,"I don't think it is a monster we are dealing with here, I think it is a man.",18
+SCULLY,Now why do you say that?,6
+MULDER,You re-gifted.,2
+SCULLY,I'm sorry?,2
+MULDER,My Apollo medallion.,3
+SCULLY,You found it?,3
+MULDER,Yeah. I found it on the grass on Stites' estate. Doggett must be around here somewhere.,16
+ASSISTANT,Agent Scully.,2
+SCULLY,I gotta go.,3
+SCULLY,What am I looking at?,5
+ASSISTANT,"As you asked, we cultured the bacteria from the hydrolytic enzymes that were sprayed in the old man's eyes.",19
+SCULLY,It looks like they're breaking down the tissue.,8
+ASSISTANT,"That's exactly what they're doing. The venom blinds its victim, then the bacteria excretes protease and collagenase throughout the victim's body.",21
+SCULLY,Digestive enzymes.,2
+ASSISTANT,"Muscle, bone, all of it is slowly liquefied for easy digestion while the victim's skin is made hard and brittle forming a sac or shell from which the reptile can drink.",31
+SCULLY,"So the reptile sprays its victim, then all it has to do is wait.",14
+ASSISTANT,There are precedents for this sort of thing in nature.,10
+SCULLY,"Yeah, but there are no species that can do all of this. At least not yet.",16
+ASSISTANT,What do you mean?,4
+DOGGETT,Talk about the blind leading the blind.,7
+HARRISON,"I owe you an apology, Agent Doggett.",7
+DOGGETT,"You're doing fine, Agent Harrison. Hang tough.",7
+HARRISON,You're right. I am not qualified.,6
+DOGGETT,"We're going to find a way out of here, Agent Harrison.",11
+HARRISON,I don't think I am.,5
+DOGGETT,What is it?,3
+HARRISON,"Whatever happened to Sacks, I think it's happening to me. I'm completely blind now.",14
+HARRISON,Oh god. Agent Doggett!,4
+HARRISON,I think it's Gary Sacks.,5
+MULDER,Mulder.,1
+SCULLY,"You were right about Herman Stites, Mulder.",7
+MULDER,What did you find.,4
+SCULLY,"Well, Stites is a crypto-biologist, specialising in reptile genetics. Listen to this. It says here that he published a monograph last year claiming to be on the verge of creating a new species of reptile.",35
+MULDER,"You don't think he succeeded, do you?",7
+SCULLY,"I don't know. He dropped out of sight and never published a follow-up. But Mulder, the bacteria inside this venom - if Stites is genetically altering reptile breeds it may explain the peculiar properties.",33
+SCULLY,"Mulder, are you listening to me?",6
+SCULLY,Mulder? Mulder?,2
+MULDER,I think Mr. Stites may have a lot more than that to explain.,13
+SCULLY,Mulder! Mulder!,2
+MULDER,"Mr. Stites! Mr. Stites, open up!",6
+MULDER,Mr. Stites! Open the door!,5
+MULDER,Mr. Stites!,2
+MULDER,Mr. Stites!,2
+STITES,What do you want?,4
+MULDER,"Where is it, Mr. Stites? This thing you're protecting, this creature of yours. I don't think you meant for it to, but it got out last night and attacked the caretaker and his son and then it attacked my colleague. Now, I can have 50 men in here to comb this place within the hour. Where are they, Mr. Stites?",60
+DOGGETT,It's alright. It's just me. It don't make any damn sense. There's no exit except that door.,17
+HARRISON,Maybe it does.,3
+MULDER,Agent Doggett!,2
+DOGGETT,Right here.,2
+MULDER,"It's alright, Agent Doggett. We're gonna get you out of here.",11
+DOGGETT,Who's that with you?,4
+MULDER,It's the man who lives here.,6
+DOGGETT,He's been protecting this thing. He's kept us down here.,10
+MULDER,"Agent Doggett, I know...",4
+HARRISON,"It's him. He's not protecting it, he *is* it.",9
+DOGGETT,Agent Mulder.,2
+MULDER,Agent Doggett. I don't have a weapon. I'm coming to get yours.,12
+MULDER,"Or, I'm not.",3
+DOGGETT,"Mulder, I can't see. Mulder, where is it?",8
+MULDER,It's right above you. It's coming this way.,8
+DOGGETT,"Where, Mulder? I can't see.",5
+MULDER,Get down. Aim at the sound of my voice.,9
+DOGGETT,No! I'll shoot you.,4
+MULDER,You're not going to shoot me.,6
+DOGGETT,I can't see!,3
+MULDER,Aim at the sound of my voice.,7
+DOGGETT,Where is it!,3
+MULDER,Aim at me!,3
+DOGGETT,No!,1
+MULDER,I'll tell you when to fire. Fire!,7
+DOGGETT,Agent Mulder! Agent Mulder!!,4
+MULDER,"Right here. Right here, Agent Doggett.",6
+SCULLY,Agent Doggett.,2
+DOGGETT,Is this it?,3
+SCULLY,No. No.,2
+MULDER,We just came by to visit Agent Harrison.,8
+SCULLY,How is she?,3
+DOGGETT,"She's on the same anti-venom treatment I got. Her eyesight's pretty much back, the doctors say she's gonna be fine physically.",21
+SCULLY,Skinner said she won't be returning to the X-Files.,9
+DOGGETT,That was her choice. So it's gonna be me for a while.,12
+MULDER,I want to return something to you that I think you deserve to keep.,14
+DOGGETT,"I appreciate the gesture but if it's all the same to you, there's someone else who should have it.",19
+HARRISON,"No way. This means, I can't tell you what this means to me.",13
+HARRISON,Can I ask you something?,5
+MULDER,Sure.,1
+HARRISON,When you went to Antarctica to save Agent Scully from being taken by that spaceship and you ran out of gas in your Sno-cat. How did you get back?,29
+SCULLY,"Um, well, first of all, it was never actually proven that it was a spaceship...",15
+MULDER,It wasn't?,2
+SCULLY,"Well, no, what happened was that we fell off of something that...",12
+MULDER,Something?,1
+SCULLY,... that rose out of the ice.,6
+MULDER,Well what do you think that was?,7
+SCULLY,"Well, I don't know what it was. But we never got, we didn't actually get to see a spaceship.",19
+MULDER,I can't believe that you're saying it's not a spaceship.,10
+SCULLY,"Well, it couldn't have been a spaceship.",7
+MULDER,Course it was a spaceship.,5
+SCULLY,"Well, we don't know it was a spaceship. But you don't have a picture of it or anything.",18
+MULDER,You know it was a spaceship. You saw it.,9
+SCULLY,"No, no, no, no, remember, I was unconscious and when I woke up there was no spaceship.",17
+MULDER,"Now, come on, Scully. It was a spaceship.",8
+SCULLY,"Mulder, n-n-n-no.",2
+SCULLY,"And you were frozen, and I hugged you....",8

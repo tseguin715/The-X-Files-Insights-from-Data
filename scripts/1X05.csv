@@ -1,0 +1,233 @@
+speaker,line,words
+JANE,"Lauren, I've been looking everywhere! Are you all right? You want some water?",13
+LAUREN,"No, I'm fine.",3
+JANE,"Oh honey, it's been a couple of weeks now. Do you want to talk?",14
+LAUREN,"No. Really, Jane, I'm OK. It's just that I don't know a lot of people who have died, that's all. I've never known anyone that's killed themselves.",27
+JANE,"Oh, maybe after everything gets packed away it will get easier. There won't be a constant reminder. Here's your paycheck. Come on... go home.",24
+LAUREN,Ok.,1
+MALE,Hey... I know a great place to crash... up that fire escape. Come on. I'll give you a boost.,19
+MAN,"Agent Scully, Agent Mulder, Chief Blevins assures us of your cooperation. We regret any inconvenience at this extreme hour.",19
+WOMAN,We hope your expertise in extraordinary phenomena matters will help us in our investigation.,14
+MULDER,"You're not FBI, are you?",5
+SECOND WOMAN,Have you ever seen anything like this before? Abnormal post mortem muscle reflex. Both corpses are still responding to high levels of electrostatic charge.,24
+SCULLY,Any sign of external legions or surface burns?,8
+SECOND WOMAN,None.,1
+MULDER,Time of death?,3
+SCULLY,"Well, it can't be long. The body's still warm.",9
+SECOND WOMAN,Somatic death occurred sometime over 6 hours ago. Their body temperatures have yet to drop below 98.3 degrees.,18
+MULDER,"Where did you find them? Look, at least tell us the mode of transport. That might tell us why the bodies haven't cooled. Hey, you called us down here. If you want some answers you have to give some.",39
+MAN,They traveled 60 minutes by air.,6
+MULDER,Thank you.,2
+SECOND WOMAN,"The most troubling aspect of their deaths is the throat area. Larynx, esophagus, and hyoid bone all have been crushed like chalk. There is no evidence of tissue damage. It's as if their throats were crushed... from the inside.",39
+MULDER,Who are these guys?,4
+SCULLY,"If you've conducted your investigation, why consult us?",8
+WOMAN,Because of your work on the X Files. Have you ever seen anything like this?,15
+MULDER,"Ah, uh. Never.",3
+MAN,"Well, thank you for your time Agent Mulder, Scully. If any inquiry into this meeting be made, we request full denial.",21
+MULDER,I'd say you people already suffer from full denial.,9
+SCULLY,"You lied. You have seen this before, I can tell. You lied to them.",14
+MULDER,I would never lie. I willfully participated in a campaign of misinformation.,12
+SCULLY,Who do you think they were?,6
+MULDER,"NSA, CIA, some convert organization Congress will uncover in the next scandal. It's not important who they are but what they have and I'm sure they have no idea because they pulled us in. I have X Files. Each case with an element of what we saw tonight. Residual electrostatic charge, internal mutilation without any external causality - but none has all the elements combined in one case.",67
+SCULLY,How can the esophagus be crushed without the neck even being touched?,12
+MULDER,Psychokinetic manipulation.,2
+SCULLY,Psychokinesis? You mean how Carrie got even at the prom?,10
+MULDER,The Russians were doing studies on it. The Chinese still are. Their findings are kept secret.,16
+SCULLY,"Ok, I'm intrigued. How can we investigate, we have nothing to go on.",13
+SECRETARY,"Just getting in, Lauren? Mr. Graves used to let you get away with that but Mr. Dorland is in charge now. I was wondering if I could have a minute with him.",32
+SECRETARY,Tomorrow... at 3.,3
+LAUREN,Can I see him today? It's really important.,8
+MR. DORLAND,Is everything all right out here?,6
+LAUREN,Can I speak with you?,5
+DORLAND,Please.,1
+LAUREN,I'm here to give my two week's notice.,8
+DORLAND,"Lauren, Jane told me about your crying in Howard's office and I wanted to tell you that you aren't alone. As a matter of fact, we share something special. Howard and I started this company 10 years ago and as long as I've known him he had no interest besides work. So we became like family. I was his brother and you were like a daughter to him. So, of course, I feel very close to you and I want to take care of my family. Stay, Lauren. Please, the company needs you. Especially now. I won't let you leave, Lauren.",101
+LAUREN,What's wrong? I can't. I have to leave. I can't be here anymore.,13
+DORLAND,You've got two weeks.,4
+MULDER,Mohamed Amalaki. Convictions: Illegal possession of firearms. Illegal possession of explosives. Falsification of export licenses.,15
+SCULLY,He has ties to extremist group operating in the US. The Isfahan. They take their name from a city in Iran. Recently they've been working out of Philadelphia.,28
+MULDER,That's 60 air minutes.,4
+SCULLY,I'll talk to the Philly P.D.,6
+COP,It was last Wednesday night. I was on routine patrol. This is where we found them.,16
+SCULLY,Who discovered their bodies?,4
+COP,"Nobody. It was about 10. I was on patrol. Just saw them hanging around. The folks that come around here, they don't witness very much. You hear what I'm saying?",30
+MULDER,A daily visual record is made of everyone who makes a transaction.,12
+SCULLY,We'll just have to interview everyone who was at the machine before 10 last night.,15
+MULDER,There. Back up.,3
+SCULLY,"Lauren Kyte. 858 Franklin, Bensalem. Why would the Isfahan being robbing someone for 40 bucks at an ATM machine?",19
+MULDER,Look at that.,3
+SCULLY,It's another person.,3
+MULDER,"Maybe, maybe not.",3
+SCULLY,"Well, the resolution is too poor. It won't help much to enhance it.",13
+MULDER,That leaves only one person we know we can talk to.,11
+LAUREN,Hello?,1
+MULDER,"Miss Lauren Kyte, please. I'm Agent Fox Mulder and this is Agent Dana Scully. We're with the Federal Bureau of Investigation. Do you mind if we come in?",28
+LAUREN,"Um, I was just in the middle of...",8
+MULDER,Thank you. We won't be long.,6
+SCULLY,Have you seen either of these two men before?,9
+LAUREN,No.,1
+SCULLY,Take your time.,3
+LAUREN,I'm sorry. I've never seen them before.,7
+SCULLY,I'm afraid you have. This is a surveillance picture from your ATM.,12
+MULDER,Can you tell us what happened that night?,8
+LAUREN,"Um... These guys, I was depositing my paycheck. They grabbed me, I got away. I ran. I just didn't want to file a report.",24
+MULDER,They were found dead.,4
+SCULLY,Have you ever seen this person before?,7
+LAUREN,No. I'm sorry. I can't tell you.,7
+MULDER,Does that mean you know?,5
+LAUREN,It means I can't tell who it is.,8
+MULDER,"When you can tell me, this is the number where I can be reached at anytime, ok?",17
+LAUREN,Ah hum.,2
+SCULLY,A woman her size breaking free and out running those men?,11
+MULDER,And somehow crushing their necks?,5
+SCULLY,She knows who the other person in that photo is.,10
+MULDER,"Packing, running away, from what?",5
+SCULLY,What the hell's going on?,5
+MULDER,Hang on! You ok?,4
+SCULLY,Yeah.,1
+SCULLY,Hi.,1
+MULDER,Hi. The paramedics check you out?,6
+SCULLY,Yeah. I'm fine. Except I have a waiting-in-line-at-the-DMV-sized headache.,9
+MULDER,Mine's more IRS sized.,4
+SCULLY,They check out the car?,5
+MULDER,"Yeah, it's brand new. Only a 100 miles.",8
+SCULLY,Then someone tampered with it while we were in her house.,11
+MULDER,"Mechanic said everything is in proper order. Nothing cut, nothing greased. Check out the lights.",15
+SCULLY,They are on.,3
+MULDER,They're not. The filaments are heated due to massive levels of electrostatic charge. Just like the bodies at the morgue. And isn't it interesting that Lauren Kyte was present at both incidents?,32
+SCULLY,She was in our presence the entire time we were at her house.,13
+MULDER,What if it's possible somehow to raise a body's electrostatic charge to levels we've been seeing and use that energy to affect objects?,23
+SCULLY,"If a person could generate that much energy, their body would break down. They'd start glowing like those lights.",19
+MULDER,"Well there's evidence of this all through the X Files. Furniture moving untouched, objects levitating, unexplained electrical discharges. Frequently people who have psychokinetic power are unaware of their own capability.",30
+SCULLY,Are you saying Lauren Kyte crashed our car?,8
+MULDER,Either that or a poltergeist.,5
+SCULLY,They're here...,2
+MULDER,They may be.,3
+SCULLY,"Oh, come on Mulder, look at the tangible evidence. Two Mid-East extremists are killed trying to assault a woman working for a manufacturer of parts for the Defense Department. While we questioned her our car is sabotaged. Now in both those cases, someone else may have committed those acts. Maybe the same someone we saw in those ATM photos. The mystery isn't psychokinetic energy, it's her accomplice.",67
+SCULLY,"She's clean. No arrest, not even a traffic ticket. The only thing is, she's in deep with her credit card company... $15,000.",22
+LAUREN,"No, no. I'll talk to somebody, just go.",8
+MULDER,"A little upset over losing a parking space, wouldn't you say? So, who is Howard Graves anyway?",17
+MULDER,She was his secretary. That's three people dead in the last month all associated with Lauren Kyte.,17
+MULDER,You don't see too many bosses graves without people dancing on it.,12
+SCULLY,Look at this one.,4
+MULDER,"Excuse me, Sir? Is there an office here so that I can get information on those people?",17
+GROUNDSKEEPER,I attend every funeral. I'm the last person to see them put to rest.,14
+MULDER,Do you know how Sarah Lynn is related to Howard Graves?,11
+GROUNDSKEEPER,His daughter. They were at home one day and he didn't latch the pool gate. She drowned. His wife left him a year later. She's buried in a plot in the Northeast corner.,33
+MULDER,"Thank you, Sir.",3
+GROUNDSKEEPER,You're welcome.,2
+SCULLY,She was only three years old.,6
+MULDER,"If she'd lived, she'd be Lauren's age.",7
+SCULLY (VOICE OVER),"Further investigation into Lauren Kyte's personal history reveals an estrangement from her family. Phone records confirm no contact with her parents for the last two years. Her actions observed during surveillance indicate a strong relationship between Lauren Kyte and her employer, the late Howard Graves. Was this relationship somehow the motivation for his suicide? How are the attack and the subsequent murders of the Isfahan agents related, if at all? I am certain that the answers to these questions lie in finding the identity of Lauren Kyte's accomplice.",88
+SCULLY,Enhance it by 10. That's Howard Graves. He's alive.,9
+MULDER,Not necessarily.,2
+LAUREN,"Oh, Howard.",2
+SCULLY,I think Howard Graves faked his own death.,8
+MULDER,"Do you know how difficult it is to fake your own death? Only one man has pulled it off, Elvis.",20
+SCULLY,He and Lauren Kyte are in on something. Maybe an illegal deal through his company. Something the CIA was interested in.,21
+MULDER,You may be right.,4
+SCULLY,"Wait, you think I'm right?",5
+MULDER,"Sure, all you got to do is prove that Howard Graves is still alive.",14
+ELLEN,Howard Graves is very dead.,5
+SCULLY,"May we see the autopsy report, please?",7
+ELLEN,Knock yourself out.,3
+SCULLY,Cause of death... arterial hemorrhage...,5
+ELLEN,4 to 6 liters of blood down the tub.,9
+SCULLY,Well there seems to be some blood work missing here.,10
+ELLEN,We only do that when we suspect homicide.,8
+MULDER,I don't suppose you ran any dental conformation?,8
+ELLEN,What for? It was him.,5
+SCULLY,How did you know?,4
+ELLEN,It said so on the toe tag.,7
+MULDER,Who made positive ID on the body?,7
+SCULLY,Lauren Kyte.,2
+MULDER,But Howard Graves was cremated. There would be no way to run a dental check or to get a DNA sample.,21
+SCULLY,"Yes, there is. His body's tissues and organs were donated.",10
+MAN,"Howard Graves is in 5 different people. They harvested his organs immediately after death. His kidneys were sent to Boston, his liver to Dallas, and his corneas to Portland, Oregon. They've all been transplanted. Because of his age, we could only cryo-preserve the dura matter, the membrane of the spinal column. We have Mr. Graves' hospital records, we'll extract a sample, run a test and in a couple of hours... confirm the identity of the donor.",76
+JANE,"I knew you would rush, so I made sure to have your check before you leave. Oh, I'm going to miss you.",22
+LAUREN,What? Here.,2
+JANE,Bye.,1
+LAUREN,Bye.,1
+DORLAND,"You're going to leave without saying goodbye? Well, I've come to say goodbye... to wish you luck, and to leave you with this little thought... I know Howard told you and if it ever gets out, I won't waste my time trying to pin the source. I'll go straight to you.",51
+LAUREN,And you'll do to me what you did to Howard? I know you had him killed.,16
+DORLAND,Why would you say that?,5
+LAUREN,He told me.,3
+MULDER,Mulder.,1
+LAUREN,It's Lauren Kyte. How soon can you get to my house?,11
+MULDER,Why?,1
+LAUREN,Please hurry.,2
+SCULLY,"The tests are conclusive, the dura matter does belong to Howard Graves. He is indeed, very dead.",17
+LAUREN,Just a second.,3
+MAN,Go run the bath.,4
+LAUREN,Get out of here! No!,5
+SCULLY,"You know, you're not under arrest. You're just here for questioning. The sooner you talk to us the sooner you get to go home. What happened to those people tonight? Do you have any idea who they might be. Why did they attack you?",44
+MULDER,Do you know who this is?,6
+MAN,"Scully, Mulder... He'll keep an eye on her. Come. Now.",10
+WOMAN,You've seriously compromised our investigation.,5
+MULDER,We were following leads pertaining to an X File.,9
+MAN,I want to know every detail of your activities concerning this case.,12
+SCULLY,What case? You're the ones who've been withholding information.,9
+MULDER,Then we have nothing more to talk about.,8
+WOMAN,We believe HTG Technologies was selling restricted parts to the Isfahan. Partial serial numbers from their manifest were recovered in the wreckage of a July bombing of a Navy transport van.,31
+MULDER,How's Lauren Kyte involved?,4
+MAN,We don't quite know. Your actions impeded our investigation.,9
+WOMAN,"In any case, we don't have enough evidence to hold her. If she doesn't talk, she goes free and we lose our chance to break this company.",27
+MAN,I could make her talk.,5
+MULDER,My advise to you. Don't get rough with her. LATER,10
+WOMAN,That was a waste of time.,6
+MAN,Your turn.,2
+SCULLY,Lauren?,1
+LAUREN,"I won't talk to you, either.",6
+MULDER,"Ok, then you're free to go.",6
+LAUREN,I can't go back to that house.,7
+MULDER,Why? Because of Howard Graves?,5
+LAUREN,He's dead.,2
+MULDER,"I know. He's watching over you, isn't he? LATER",9
+LAUREN,"I don't know if you've ever been a secretary. Sometimes your boss can talk as if you weren't even in the room, which can hurt, you know? Sometimes... you're all he has to talk to. Which is how it was all the time with me and Howard. One night, late, I went into his office. He was crying, more scared than sad. The Pentagon contracts were being canceled, the company was going under, he felt personally responsible for each of his employees... seeing and feeling their fear every day... it really wore him down. Then this one time, Dorland came with that group... that Mid East group... Isfahan, that terrorist group. They'd buy parts at an outrageous price. Not just once, but for as long as they could get away with it. That night Howard was crying, he'd just found out the Isfahan had just claimed responsibility for killing a couple of sailors in Florida. He was never the same. And I thought that was why he killed himself. But he didn't... I saw... Howard showed me how Dorland had him killed. Made it look like a suicide because he see Howard was going to put an end to the deal.",201
+MULDER,So now Howard is protecting you?,6
+LAUREN,It sounds so ridiculous.,4
+SCULLY,But you believe it.,4
+LAUREN,He was closer to me than my father. I told him that. I still feel his presence. Sometimes... I even smell his aftershave. If you just could've... seen... the things I've seen... I just... want all that to go away. I'm leaving. Maybe he can move on.,47
+SCULLY,"That's not enough. You've been given the chance to tell him again. Take it. Tell him you love him, by showing him, by... helping us finish his unfinished business. Lauren, how will you ever be able to rest if he never can?",42
+LAUREN,"Ok. I'm a mess. I'm um, going to wash up.",10
+MULDER,What are you doing Scully? You don't believe.,8
+SCULLY,"Mulder, there's no such thing as ghosts or psychokinesis. I'm sure there's an explanation. But I believe that she believes. And my priority is to get her to help us stop Dorland.",32
+MULDER,Well we may have just sacrificed our best opportunity to observe spectral phenomena.,13
+SCULLY,I'm giving us a chance to solve a case that's tangible instead of chasing after shadows.,16
+MULDER,You ready?,2
+SCULLY,"All right, everyone. We have a warrant to search the premises for evidence of the sale of restricted manufactured parts. The evidence may be in the form of falsified export licences, parts manifests, communiques. It could be on computer disks or hard copy.",43
+MAN,"Once there, when in doubt, ask. We need this to be clean. This is the culmination of a year long investigation. If we don't come out of there today with something proving a connection to the Isfahan, this guy could walk.",41
+SCULLY,"Lets go. Now, it will most likely be in Dorland's office. We'll conduct the search, but we need you to guide us so we need you to be strong, okay?",30
+SCULLY,"Everybody stay calm. Federal Bureau of Investigation. Ma'am, could you step away from those files, please? DORLAND'S OFFICE LATER",19
+WOMAN,This is all we could find.,6
+MULDER,We don't have him. He's not even breaking a sweat.,10
+MAN,Our case is blown. A wasted year. This guy is going to walk.,13
+SCULLY,Let's get out of here.,5
+MULDER,"Lauren, it's over. We have to go. What we're looking for isn't here.",13
+DORLAND,"Look! She isn't an agent. I've been more than cooperative and I don't want to be combative, but she has no right destroying my personal property.",26
+LAUREN,Destroying property? What about that van that blew up and killed those servicemen?,13
+DORLAND,"Oh, I don't know what you're talking about you stupid bitch!",11
+MULDER,"Lauren, No!",2
+LAUREN,Don't kill him. Help us find it!,7
+MULDER,Get down.,2
+SCULLY,Mulder!,1
+SCULLY,My God.,2
+MULDER,I guess what we're looking for is here.,8
+SCULLY,The US Attorney's office is going after Dorland with everything they've got. Including the murder of Howard Graves.,18
+LAUREN,I'll come back to testify.,5
+MULDER,Where are you going?,4
+LAUREN,Away from here. Thanks.,4
+MULDER,"Boy, she's in a rush to get out of here.",10
+SCULLY,"Out of here, or away from the ghost of Howard Graves?",11
+MULDER,"Hey, Scully. Do you believe in the afterlife?",8
+SCULLY,I'd settle for a life in this one.,8
+MULDER,Have you ever seen the liberty bell?,7
+SCULLY,Yes.,1
+MULDER,"You know, I've been to Philadelphia a 100 times and I've never seen it.",14
+SCULLY,"You're not missing much. It's just a big bell with a big crack, and you have to wait in a long line.",22
+MULDER,"Yeah, but I'd really like to go.",7
+SCULLY,Why now?,2
+MULDER,I don't know. How late do you think they stay open?,11
+HEAD SECRETARY,"Miss Kyte, I asked for this 25 minutes ago.",9
+LAUREN,I know. I'm sorry.,4
+HEAD SECRETARY,"Maybe that's the way they work back in the East, but here in the Midwest, punctuality is a virtue. We really need to find a new office space. Every time a truck goes by the whole building shakes. That's all Lauren.",41

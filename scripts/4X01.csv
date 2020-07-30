@@ -1,0 +1,236 @@
+speaker,line,words
+REPAIRMAN,"Get away. Oh, damn it! A bee stung me, ay? Well, now... don't you all take the cake? Does your mom ever mix you up?",25
+JEREMIAH SMITH,I've come to you at great risk... I mean you no harm.,12
+SCULLY,"Mulder, he knows about your sister.",6
+MULDER,How do I know you're for real?,7
+JEREMIAH SMITH,I can explain everything to you.,6
+MULDER,First I want you to come somewhere with me. I want you to come with me to see my mother.,20
+MULDER,"Stay out of his way, Scully, he doesn't want to hurt you. You can't use your gun!",17
+SCULLY,"Stop right there, sir!",4
+MULDER,Come on.,2
+SCULLY,Mulder!,1
+MULDER,"Scully, get the car! This way. Damn. This way.",9
+MULDER,"Hey! Jeremiah! Jeremiah, stop! What are you doing?",8
+JEREMIAH SMITH,There'll be more right behind him!,6
+MULDER,You can't leave here!,4
+JEREMIAH SMITH,They'll kill me!,3
+MULDER,I need your help! My mother is dying!,8
+SCULLY,Mulder! Mulder! Mulder! Mulder!,4
+ALIEN BOUNTY HUNTER,Where are they going?,4
+SCULLY,Uh... I don't know...,4
+ALIEN BOUNTY HUNTER,I need to know.,4
+SCULLY,"Please, I don't know.",4
+JEREMIAH SMITH,They know where to find us. They'll be waiting for us.,11
+MULDER,Who?,1
+JEREMIAH SMITH,Your government men. They'll be waiting at the hospital with your mother.,12
+MULDER,"What can they do? We're working in the light. They, they can't stop us without exposure, without consequence.",18
+JEREMIAH SMITH,"You have to understand something. I must perish. Whatever the consequences to that end, they are incalculable to the preservation of the larger plan.",24
+MULDER,The larger plan? You mean colonization.,6
+JEREMIAH SMITH,"Hegemony, Mister Mulder. A new origin of species.",8
+MULDER,I don't understand...,3
+JEREMIAH SMITH,I can show you.,4
+MULDER,My mother is dying. I need to take you to see her right now.,14
+JEREMIAH SMITH,"And if they are waiting for us? If they're willing to kill me and then face the consequence of their actions and stand before your ineffectual justice system, I will be dead. I won't be able to save your mother. The work will go on. The plan will continue to be executed. Or you can stop it.",57
+MULDER,How can I stop it?,5
+JEREMIAH SMITH,"I can take you to a place, show you the work in progress, where you can see...",17
+MULDER,"No, look, there's no time!",5
+JEREMIAH SMITH,Where you can see your sister!,6
+"PROVIDENCE, RHODE ISLAND; 4",55 AM,2
+ELDER,He isn't coming.,3
+CSM,I told you.,3
+ELDER,Then where is he?,4
+CSM,"I don't know. Certainly, he anticipated we'd be here, waiting.",10
+ELDER,Unless we have a security leak.,6
+CSM,Who?,1
+ELDER,I've come in receipt of some pictures... of your visit to Mrs. Mulder's summer house. Were you aware you were being photographed?,22
+CSM,By whom?,2
+ELDER,I believe that can be determined by a simple planting of information... to see where that information flows.,18
+CSM,What information?,2
+ELDER,That Mrs. Mulder's life is in danger... that left unprotected... she may come to an unnatural end.,17
+SCULLY,Scully.,1
+MULDER,"Scully, it's me. Where are you?",6
+SCULLY,"I'm right where you left me, Mulder. I'm sitting here in my car.",13
+MULDER,Why?,1
+SCULLY,Because you wouldn't answer your phone and because I didn't know what else to do.,15
+MULDER,"Are you okay, Scully?",4
+SCULLY,"Yes, I'm fine.",3
+MULDER,"Listen to me, there's going to be... there's going to be people looking for me. They're going to think they can get to me through you.",26
+SCULLY,Mulder...,1
+MULDER,"No, no, no, hold on, just, just listen for a second, Scully. I need you to do something for me. I had to steal a car from an airport in Alberta. There's going to be a record of me going through Canadian customs and I need you to cover my tracks. I also need you to know that I'm okay, Scully. I'm fine. Okay?",64
+SCULLY,"Mulder, he's coming after you.",5
+MULDER,Who?,1
+SCULLY,The man you left for dead. He's alive.,8
+JEREMIAH SMITH,That's it for the gas.,5
+MULDER,How much further from here?,5
+JEREMIAH SMITH,About twenty miles. Maybe half that... on foot over those hills.,11
+MULDER,Let's go.,2
+SCULLY,Sir.,1
+SKINNER,Agent Scully.,2
+SCULLY,I heard that you were looking for me.,8
+SKINNER,There's been some concern about you and Agent Mulder.,9
+SCULLY,"We're fine, sir. We've been searching for this man, Jeremiah Smith.",11
+SKINNER,Did you find him?,4
+SCULLY,No.,1
+SKINNER,"I received a memo from you that there's more confusion about this man... that the Social Security administration has five men with this name working in branch offices around the country... with identical photo I.D.s. I ran a check on these men. All five have not reported to work in three days. Now, would you or Agent Mulder like to let me in on what it is your suspicions are?",70
+SCULLY,"I'm afraid we haven't exactly formulated any clear suspicions, sir.",10
+SKINNER,"Well, we have, Agent Scully.",5
+SCULLY,Sir?,1
+PENDRELL,"We were able to download the hard drive data from each of the five missing men's social security workstations, and in each case, we found an enormous amount of files and data that cannot be identified. Do not correspond with any kind of accounting or document collection done as normal departmental business. The data was all locked in password files.",60
+SCULLY,How much of it is there?,6
+PENDRELL,"Enough to fill seven ten-gigabyte hard drives, roughly, uh, a billion entries.",12
+SKINNER,It appears to be some kind of personal record-keeping or accounting.,11
+SCULLY,Could it be some kind of cryptograph?,7
+PENDRELL,"If it is, I can't crack it.",7
+SCULLY,I'd like to get a copy of a portion of this. I might be able to figure it out.,19
+PENDRELL,Seriously?,1
+SCULLY,Maybe. There's somebody I want to run it by.,9
+SKINNER,Agent Mulder?,2
+SCULLY,"No. I think, sir, this is more along my field of expertise.",12
+MULDER,What happened to this man?,5
+JEREMIAH SMITH,"I wouldn't touch the body, Mister Mulder.",7
+MULDER,"There's a work order here. It's for yesterday. He's only been here a little more than twenty-four hours. You know what killed him, don't you?",25
+JEREMIAH SMITH,"It's not much further. You're looking at the future, Mister Mulder.",11
+MULDER,What is it?,3
+JEREMIAH SMITH,A flowering shrub. But it's specific epithet can't be found in any of your taxonomic charts.,16
+MULDER,Being grown for what?,4
+JEREMIAH SMITH,Pollen.,1
+MULDER,What is this? What's going on here?,7
+JEREMIAH SMITH,"What did I tell you, Mister Mulder?",7
+MULDER,"That looks just like my sister. But that's not possible. She's no older than the day she was taken. Samantha? Samantha! Samantha? Samantha? Samantha? Samantha, it's me. It's me, Fox, your brother. Do you remember me? What's wrong with her?",40
+JEREMIAH SMITH,She has no language.,4
+MULDER,What do you mean?,4
+JEREMIAH SMITH,"She's a drone, Mister Mulder. A worker.",7
+MULDER,What are you talking about?,5
+JEREMIAH SMITH,There's more you should see so that you might understand.,10
+MULDER,How'd they get here?,4
+JEREMIAH SMITH,They're stationed here. They're part of an agrarian work force.,10
+MULDER,Who takes care of them?,5
+JEREMIAH SMITH,They take care of themselves. Parenting is unnecessary... a needless division of energy.,13
+MULDER,They're clones.,2
+JEREMIAH SMITH,"Serial ovotypes. Have you seen enough, Mister Mulder? We can't stay around here much longer. I'll go see if I can find some gas.",24
+X,"Open the door, Agent Scully.",5
+SCULLY,How did you know I was here?,7
+X,I've been trying to reach Agent Mulder. I watched you enter the building. Where is he?,16
+SCULLY,I don't know.,3
+X,I have information for him. A matter that would concern him greatly.,12
+SCULLY,Concern him how?,3
+X,Concerning his mother.,3
+SCULLY,Has something happened to her?,5
+X,"No. No, not yet.",4
+SCULLY,Is she in danger?,4
+X,I prefer to speak with Agent Mulder directly. Let me just say she is unprotected.,15
+SCULLY,From whom? From whom?,4
+X,"If you want to involve yourself, Agent Scully, you might do well to give this information to your partner.",19
+SCULLY,Not until you give me some information first. These are data entries taken from social security records...,17
+X,"You're going in the wrong direction, Agent Scully.",8
+SCULLY,All beginning with the letters S-E-P. You know what these are. Confirm or deny.,14
+X,Smallpox eradication program.,3
+SCULLY,Smallpox?,1
+X,"Don't unlock doors you're not prepared to go through, Agent Scully.",11
+SCULLY,What's that supposed to mean?,5
+X,Leave it alone. Protect the mother.,6
+JEREMIAH SMITH,What are you doing?,4
+MULDER,She's coming with us.,4
+JEREMIAH SMITH,You can't do this. She's not your sister.,8
+MULDER,"Well, then who is she?",5
+JEREMIAH SMITH,"You have a chance here to understand something so much greater, to comprehend it, to expose it.",17
+MULDER,"Well, then explain it to me. Explain it to me now! Bees.",12
+JEREMIAH SMITH,It's an apiary.,3
+MULDER,Are bees what killed that man we found?,8
+JEREMIAH SMITH,Yes.,1
+MULDER,It's probably not a good idea to hide in there.,10
+JEREMIAH SMITH,"No, you have no immunity to them.",7
+MULDER,"But you do? Somebody lead me, I can't see anything. Is that the only way out?",16
+JEREMIAH SMITH,We've walked into our own trap.,6
+MULDER,Come on!,2
+SCULLY,"Are you busy, Agent Pendrell?",5
+PENDRELL,"No, I was just, uh...",5
+SCULLY,"Good, because I think I've made some headway on this data. Can you call up the files?",17
+PENDRELL,"Yeah. I got to tell you, I've gotten nowhere.",9
+SCULLY,"""SEP."" Smallpox Eradication Program.",4
+PENDRELL,Smallpox? How'd you figure that?,5
+SCULLY,"I got lucky, but the key is in this first string of letters.",13
+PENDRELL,Twenty-letter strings. Thirty different variations.,5
+SCULLY,"You say ""a twenty-letter code"" to any scientist, and they immediately think ""protein amino acid sequence..."" which is what this turned out to be.",24
+PENDRELL,Protein sequence for what?,4
+SCULLY,Cowpox virus... the virus used to inoculate humans against smallpox.,10
+PENDRELL,"Okay, right. These guys were keeping records of smallpox inoculations. Why?",11
+SCULLY,"I haven't worked that out yet, but the big question is this second alphanumeric string. Fifteen digits.",17
+PENDRELL,"Yeah, I checked. Each one is different... an infinite number of variations.",12
+SCULLY,An inventory.,2
+PENDRELL,Of what?,2
+SCULLY,Of us.,2
+SECOND SENIOR AGENT,"With all due respect, Agent Scully... it looks like something from the Hubble telescope.",14
+SCULLY,"Actually, it's an image created by what's called a confocal microscope. You're looking at a three-dimensional picture of the location of a protein. In this case, cowpox structural protein number six. It's one of the inoculants used in smallpox vaccines.",40
+SENIOR FBI AGENT,Where'd it come from?,4
+SCULLY,"From me. I had a biopsy taken from the smallpox vaccination scar on my upper arm. Through a process called immunohisto chemical staining and through the addition of an antibody for the cowpox virus six, I was able to get this picture of the location of a protein... a single, non-random, protein pattern.",53
+SKINNER,"I'm not a scientist, Agent Scully, and I don't know that many people in this room...",16
+SCULLY,What I'm saying is that I think this protein is a tag... some kind of genetic marker that was applied to me when I was inoculated against smallpox as a child.,31
+SENIOR FBI AGENT,Why you?,2
+SCULLY,Not just me... all of us... quite possibly anybody who's been inoculated over the past fifty years.,17
+SECOND SENIOR AGENT,"Agent Scully... frankly, this sounds like something we would might have expected from Agent Mulder.",15
+SCULLY,"I had my doubts... and I'm still not certain. But I performed the same procedure on Agent Pendrell. The location of the protein from his biopsy should be identical to mine, but it's slightly different, which might correspond to the alphanumeric entries collected by the men at the, uh, social security administration.",52
+SKINNER,"So what you're saying, Agent Scully, is we're being tagged, catalogued and inventoried? By who?",15
+SCULLY,"I don't know, but it would have to be a government agency.",12
+SENIOR FBI AGENT,And to what purpose?,4
+SCULLY,"I don't know that either, and I think the only man who might be able to give us that information is Jeremiah Smith.",23
+SKINNER,"Agent Scully, can I see you outside for a moment? Alone. Do you realize what you're promoting in there? You're rounding these people up in the middle of the work day to imply that there's...",35
+SCULLY,"I am a scientist, sir. What I'm promoting in there is reductive evidence. It's the reason I believe I was assigned to the X-Files in the first place, is it not? To put Agent Mulder's work to the test of science? Excuse me. Scully.",44
+MULDER,"Scully, where are you right now?",6
+SCULLY,"I'm in Skinner's office, where are you?",7
+MULDER,"I'm still in Canada, but I'm catching a plane soon. I need you to meet me on the other end.",20
+SCULLY,Just tell me where.,4
+MULDER,At the hospital where my mother is.,7
+SCULLY,"Mulder, I don't...",3
+MULDER,Her life depends upon me and my party getting there safely.,11
+SCULLY,Who?,1
+MULDER,"Jeremiah Smith... and someone else. I'm going to need some protection, Scully.",12
+SCULLY,"Oh, believe me, Mulder, you're going to have it.",9
+MULDER,What do you mean?,4
+SCULLY,There's a lot of people who want to talk to Jeremiah Smith.,12
+MULDER,They'll get their chance.,4
+MULDER,"Please, you can't kill him...he can't die.",7
+ALIEN BOUNTY HUNTER,He must.,2
+MULDER,That girl is my sister.,5
+ALIEN BOUNTY HUNTER,"He shows you pieces, but tells you nothing of the whole... because he's inconsequential... a traitor to the project.",19
+MULDER,"Kill me, let them go.",5
+ALIEN BOUNTY HUNTER,You'd trade your life for his?,6
+MULDER,For my mother's.,3
+ALIEN BOUNTY HUNTER,Everything dies.,2
+SKINNER,"Five hours we're out here swinging in the wind, Agent Scully.",11
+SCULLY,Something's wrong. Something happened.,4
+SKINNER,You don't have any way of getting hold of him?,10
+NURSE,This is beginning to seriously compromise our ability to treat patients.,11
+SCULLY,"Oh, my God... Mulder...",4
+MULDER,I can't... there's nothing.,4
+SCULLY,"Oh, dear... no... he's freezing. He's in, you're in shock, Mulder.",11
+SKINNER,What happened?,2
+MULDER,She'll never know. She'll never know...,6
+MULDER,"I could have saved her, Scully.",6
+SCULLY,"As long as she's lying here, you can't give up on her. I don't care what the doctors say.",19
+MULDER,I had one chance... and I let it slip away.,10
+SCULLY,"We don't know that, Mulder. You can't blame yourself for what you could only hope.",15
+MULDER,He took me to a place with green fields. And I saw my sister. She was just a little girl. I've seen too many things not to believe.,28
+SCULLY,I've seen things too. But there are answers to be found now. We have hope that there's a place to start. That's what I believe.,25
+MULDER,"You put such faith in your science, Scully. But... the things I've seen, science provides no place to start.",19
+SCULLY,"Nothing happens in contradiction to nature, only in contradiction to what we know of it. And that's a place to start. That's where the hope is.",26
+MULDER,I feel like I came so close.,7
+SCULLY,I feel it too. I know it.,7
+MULDER,How?,1
+SCULLY,I was warned... By a man we both know... who I believe knows the truth... who can lead us to a place to start.,24
+COVARRUBIAS,Mister Mulder. My name is Marita Covarrubias. I'm the assistant to the Special Representative.,14
+MULDER,"Hi, was he able to review the material that I sent him?",12
+COVARRUBIAS,Yes.,1
+MULDER,And will he see me?,5
+COVARRUBIAS,"I'm afraid he's been called into something important. Can I ask who sent you here, Mister Mulder?",17
+MULDER,"A friend. You know, I've been inquiring with each of the special representatives all month about the farmland in Canada. I've been trying to get some answers and all I've gotten are dead ends.",34
+COVARRUBIAS,"Well, I can tell you that farm has been abandoned. The crops you described were left to die, but they have been identified as ginseng. No evidence of beehives or bee husbandry was found. I know it's not the answer you wanted. No, I, uh...",45
+COVARRUBIAS,Can I ask why this is so important to you?,10
+MULDER,"I've suffered... I've suffered some very personal... losses recently, and... I was... I was hoping... That, um...",17
+COVARRUBIAS,"Not everything dies, Mister Mulder.",5
+ALIEN BOUNTY HUNTER,I need to know the reasons why this should be.,10
+CSM,So that the work may continue. So that the project may proceed unabated by removing an unnecessary obstacle.,18
+ALIEN BOUNTY HUNTER,What obstacle?,2
+CSM,"Agent Mulder, actually. If his mother were to die, he would...",11
+ALIEN BOUNTY HUNTER,He what?,2
+CSM,You see... the fiercest enemy is the man who has nothing left to lose. And we both know how valuable Agent Mulder is to the equation.,26

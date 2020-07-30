@@ -1,0 +1,322 @@
+speaker,line,words
+TONY,"Max. Max, you there?",4
+MAX,"You're late, kid. You get lost?",6
+TONY,Sorry. Had to wait till my mom took off.,9
+CHASTITY,"It's way past his bedtime, Max. He's not cut out for this.",12
+TONY,Cut out for what?,4
+MAX,"Oh, there's more here than just trees. Before you can find out what, I got to know that you're not going to tell anyone about this place.",27
+TONY,I won't. I swear.,4
+MAX,"It's a vow, Tony. Don't make it if you're going to break it.",13
+TONY,"I won't break it, man. Not ever.",7
+MAX,No matter what? Even if someone dies tonight?,8
+DEPUTY FOSTER,"Anthony Reed. Got any outstanding warrants, Anthony?",7
+TONY,"No, of course not.",4
+DEPUTY FOSTER,"Well, I'm going to have to check it out for myself so put your hands on the vehicle.",18
+TONY,"Look, I was just taking a walk.",7
+DEPUTY FOSTER,"Uh-huh. Right past all those big ""no trespassing"" signs? Now, you just stand there for a minute.",17
+TONY,"Come on, man, I didn't do anything.",7
+DEPUTY FOSTER,I wish I had a nickel for every time I had to drag you kids out of these woods. It would be a lot of nickels. Deputy Foster to Dispatch...,30
+WOMAN ON RADIO,"Dispatch to Deputy Foster, can you repeat that request?",9
+TONY,Sir?,1
+WOMAN ON RADIO,Dispatch to Foster. I didn't quite copy your last transmission.,10
+TONY,Officer?,1
+WOMAN ON RADIO,Dispatch to Foster. Do you copy?,6
+WOMAN ON RADIO,"Deputy Foster, this is Dispatch. Do you copy? Deputy Foster, sir, what's your 20?",14
+MULDER,Uh. There you are. Heavy traffic?,6
+SCULLY,Slow going. Let's just say I had ample time to read the police report that you faxed me.,18
+MULDER,Thoughtfully provided by the local authorities even though it doesn't begin to tell the whole story.,16
+SCULLY,"Sheriff's deputy is slain during a routine patrol. It's a tragic occurrence but I don't see the mystery here, Mulder.",20
+MULDER,Except that the deputy was beaten to death by an invisible assailant.,12
+SCULLY,"Yes, but that's according to the young man who's accused of his murder.",13
+MULDER,"One Tony Reed, and I'm guessing wrongfully accused. He's an ""A"" student moved here a few months ago from Philadelphia. He's never been in trouble in his life.",28
+SCULLY,"Mulder, tell me you've got more than SAT scores to show that this Tony Reed didn't commit this crime.",19
+MULDER,Maybe. Take a look at the body.,7
+MULDER,"The former Deputy Ronald Foster. As you can see, the report doesn't quite do it justice.",16
+SCULLY,"Oh, my God, it looks like he was hit with a sledgehammer.",12
+MULDER,Police flashlight. One blow.,4
+SCULLY,"The damage to the maxillofacial bones and the cranium is consistent with a blunt-force trauma, but... I'd say that, uh, Tony eats his Wheaties.",24
+MULDER,Check out the back of his head.,7
+SCULLY,Ugh. His eyeglasses.,3
+MULDER,"Penetrated to the back of his skull. Babe Ruth couldn't hit this hard, let alone a high school sophomore.",19
+SCULLY,"Well, maybe if he was under the influence of PCP or some kind of stimulant.",15
+MULDER,"No, his tox screen came back negative.",7
+SCULLY,"Well, even so, I mean, stress and fear may have triggered an adrenaline response which is known to enable feats of near-superhuman strength.",23
+SHERIFF HARDEN,Agent Mulder? How long are you planning on being down here?,11
+MULDER,"Uh, Sheriff Harden, this is my partner, Agent Scully.",9
+SHERIFF HARDEN,"How long you planning on being down here? I'd like Ron left in peace. I don't know what there is to see, anyway. We got the kid who did it.",30
+SCULLY,"Sheriff, we don't mean to second-guess you. We're just hoping to be of some assistance.",15
+SHERIFF HARDEN,"Well, I don't need it. I got the murder weapon with bloody fingerprints and once the state crime lab matches that up with Tony Reed, it's open and shut.",29
+MULDER,"Well, uh... we're done here. Right? But, Sheriff Harden, you won't mind if I talk to Tony Reed, do you? I mean, it won't hurt your case and if he did do it, you'll want to know why.",38
+MULDER,What?,1
+MULDER,"Well, Tony, this must be your lucky day for visitors. This is Agent Scully with the FBI...",17
+TONY,I'm not talking anymore. Okay?,5
+SCULLY,"Well, that might make things worse and they seem pretty bad already. In your statement you say that Deputy Foster stopped you but you don't say why.",27
+MULDER,"Come on, you were cruising, right? I mean, a small town like this you're not exactly living La Vida Loca. I know-- I grew up in Dullsville, too, you know. Nothing to do but drive and park.",37
+TONY,How long ago was that?,5
+TONY,Look. Don't you think I know what you're doing? You're like the tenth cop who's come in here trying to relate to me till I confess.,26
+SCULLY,"If you didn't do it, it's all the more reason to clear it up.",14
+TONY,Everything I know is in my statement.,7
+MULDER,"Okay, but bear with us 'cause we're old and stupid. How long was it between the time you heard the scream to the time you found Deputy Foster?",28
+SCULLY,"Tony, you're not likely to get a fairer hearing than this.",11
+TONY,Maybe ten... 15 seconds.,4
+MULDER,"Okay, but you didn't see anyone near the patrol car? You didn't hear anything? And you're still gonna stick with your story that you were the only one there. Is that right?",32
+TONY,I want to go back to my cell.,8
+SCULLY,16 years old and his life is over unless he starts telling the truth.,14
+MULDER,"If you really think he's guilty, Scully, why don't you ask Why didn't he say that, uh, a pickup full of hillbillies drove by and clobbered the Deputy and ran away?",31
+SCULLY,"I'm not saying he's guilty, Mulder. I'm inclined to agree that Tony Reed did not commit murder but I think that he saw the person who did, and he may be covering up for him.",35
+MULDER,I'm not sure there was a person to see. I think there was a force at work here.,18
+SCULLY,What kind of force?,4
+MULDER,"I don't know-- some kind of territorial or spiritual entity, maybe. Poltergeists have long been associated with violent acts like this and they tend to manifest around young people. They seem to be drawn to the turmoil of adolescence.",39
+SCULLY,Mulder. Rather than spirits... can we at least start with Tony's friends? Please? Just... for me? I think there's one person in particular I'd like to talk to.,28
+MR BABBITT,"Let's wrap it up, people. Two minute warning.",8
+MR BABBITT,"There goes half your grade, Max. You missed the midterm.",10
+MAX,Not if I take it right now.,7
+MR BABBITT,In one minute?,3
+MAX,"Oh, I've been studying.",4
+MR BABBITT,I don't care who your father is. You fail my test-- it sticks.,13
+MAX,"Well, I guess I'd better ace it, then, huh?",9
+MR BABBITT,"Take your seat, young man.",5
+MAX,Piece of cake.,3
+MR BABBITT,It is when you mark them at random.,8
+MAX,Go ahead-- check it.,4
+MAX,Maybe I got more going on than people know.,9
+SCULLY,Chastity Raines? I'm Agent Scully. This is Agent Mulder. We're with the FBI.,13
+CHASTITY,"Yeah, I remember you.",4
+MULDER,"Chastity, what did you and Tony talk about this morning?",10
+CHASTITY,He didn't kill that cop.,5
+MULDER,How can you be so sure?,6
+CHASTITY,Tony just doesn't have it in him.,7
+SCULLY,Do you?,2
+MULDER,Were you there when it happened?,6
+CHASTITY,"Look, I got to go.",5
+SCULLY,Do you realize that Tony could go to prison for the rest of his life for this?,17
+MULDER,"Chastity, if you know something now is the time to mention it.",12
+MAX,"Unless they got a warrant, you don't have to say nothing.",11
+MULDER,"Wow, you must be her lawyer.",6
+MAX,Let's go.,2
+MULDER,"Gee, butting in to our investigation. I wonder what your father, the sheriff, would think.",15
+MAX,How do you know who my dad is?,8
+MULDER,You got the same last name.,6
+MAX,"Oh, you're good. We're done here. Come on, babe. You must have been a Betty, back in the day.",19
+SCULLY,"A ""Betty""?",2
+MULDER,Back in the day.,4
+SCULLY,Scully. What about the murder weapon?,6
+SHERIFF HARDEN,"All I know is, we put the flashlight in here and now it's gone. It's like it just disappeared into thin air.",22
+SCULLY,How many people have access to this room?,8
+SHERIFF HARDEN,Only me and the dozen deputies under my command.,9
+SCULLY,What does the tape show?,5
+SHERIFF HARDEN,That no unauthorized persons came in and no one went anywhere near this locker.,14
+MULDER,Was this here before?,4
+SHERIFF HARDEN,I don't know.,3
+SCULLY,Can we take a look at the surveillance tape?,9
+SHERIFF HARDEN,You can see that the flashlight was properly secured. It's not like we're running some kind of a half-assed operation here.,21
+SCULLY,"No one's saying that you are, Sheriff.",7
+SHERIFF HARDEN,"Here's when the state police showed up to take it to the crime lab. There's me going to get it. We open up the locker and it's gone. I maybe, uh, didn't give y'all the warmest welcome but if you have any ideas...",43
+MULDER,May I?,2
+SHERIFF HARDEN,I watched it a dozen times.,6
+SCULLY,Could there be a malfunction with the VCR?,8
+SHERIFF HARDEN,"I don't see how plus there's no gap in the time code. The murder weapon was the only hard evidence we had. Without it, we got no case. You know what I got to do now? I got to call Ron Foster's widow and tell her that I got to turn his killer loose.",54
+MULDER,"Scully, check this out.",4
+SCULLY,What am I supposed to be seeing?,7
+MULDER,"Oh, here it comes. Now you see it... and one more frame... now you don't. What do you make of that, Scully? Take another look. Now it's here... Now it's not.",31
+MRS. REED,Are you ready to be straight with me?,8
+TONY,"Leave me alone, Mom. Would you just leave me alone? I'm tired.",12
+MRS. REED,"This isn't like a bad report card, Anthony. A man is dead.",12
+TONY,"I told you, I didn't do it.",7
+MRS. REED,It's just that what you say happened doesn't make sense. There's got to be more to it.,17
+TONY,"Well, there isn't. Okay?",4
+MRS. REED,Are those kids involved in this? That boy Max?,9
+TONY,"No. Mom, they're the only friends I have here.",9
+MRS. REED,"Well, you're done seeing them.",5
+TONY,You don't even know them.,5
+MRS. REED,"I do know them-- I was your age once. Tony... we came here to get a fresh start, get away from them bad schools... the wrong crowd. You are doing so well here.",33
+TONY,How would you know? You're never around.,7
+MRS. REED,"You think it's my dream to work two jobs? I'm doing it for you, Tony.",15
+TONY,I just want to get some sleep. That's all I want.,11
+MRS. REED,You got a chance at a good life... a real future. We didn't come all this way so you could throw it away.,23
+MAX,"Listen to that, man. This car's got guts. Sort of like you that way.",14
+TONY,"Who's car is this, Max?",5
+MAX,"Chastity told you to shut up, sit tight, and things would be fine. You did that-- it tells me a lot.",21
+TONY,Everything's not fine. We're in a stolen car; a cop is dead.,12
+MAX,"Calm down, man. He'd been snooping around. He had to go.",11
+TONY,What do you mean he had to go? What happened out there?,12
+MAX,You got to learn not to ask so many questions.,10
+TONY,"Slow the hell down, man. You're freaking me out!",9
+MAX,You ain't seen nothing yet.,5
+TONY,"Max, look out!",3
+MAX,I'm going to make you one of us... But I call the shots. Always remember that.,16
+MULDER,"Hey, Chuck.",2
+SCULLY,Sorry to make you trek over here for what's probably a glitch.,12
+MULDER,What'd you come up with?,5
+CHUCK BURKS,"Nothing but eyestrain at first. Then I ran it through my imaging software. I'm here to tell you, it's not a glitch. It's what the camera saw.",27
+MULDER,"Buckle up, Scully. I believe Chuck is about to take us on a ride into the paranormal.",17
+CHUCK BURKS,"Well, yes and no. Initially, I was thinking spectral manifestation but, uh, with spirit activity you'd expect to see light streaks, auras, atmospheric disturbances, translucent figures. Whatever this is... it's not a ghost.",33
+SCULLY,Especially since ghosts don't go around leaving synthetic polymers in their wake.,12
+MULDER,That's what the gunk on the floor turned out to be.,11
+CHUCK BURKS,Ah. I dig a mystery with layers.,7
+MULDER,"Chuck, I get the feeling you don't know what the hell this is.",13
+CHUCK BURKS,I cross-referenced the shape's silhouette against every organic and inorganic object in the Library of Congress database. The closest match was a Soviet Acula-class submarine.,25
+SCULLY,I think we can rule that out.,7
+CHUCK BURKS,And then there's this weirdness. My enhancement brought up this dark edge... around the anomaly.,15
+MULDER,A shadow.,2
+CHUCK BURKS,"It would fit with the lighting in the room. The problem is, it can't be throwing a shadow unless...",19
+MULDER,Unless it's a solid object.,5
+SCULLY,Which is impossible because it only appears for a single frame.,11
+CHUCK BURKS,"One-thirtieth of a second. Now, maybe, uh, SCAG can give us a clearer picture.",14
+SCULLY,Scag?,1
+CHUCK BURKS,"Spectrographic color attribute generator. I'm, uh, beta-testing it for JPL. It's still in the tweaking phase but the basic idea is I assign known color values onto the black-and-white image. Then SCAG assigns chromatic values throughout the frame in effect, making an educated guess at, uh...what all the colors might be. It still needs fine-tuning.",55
+SCULLY,What?,1
+MULDER,"You recognize these colors, Scully?",5
+CHASTITY,"Hey, Tony.",2
+TONY,Everyone's looking at me like I'm a criminal.,8
+CHASTITY,I'm not. I heard you took a ride.,8
+TONY,What was that? How did he do it?,8
+CHASTITY,You'll find out.,3
+TONY,Maybe you were right... About me not being cut out for this.,12
+CHASTITY,It's a little late for second thoughts.,7
+MAX,You trying to move in on my girl?,8
+MAX,Saved by the bell.,4
+MAX,"Hey... you want to stare at someone, stare at me.",10
+MR BABBITT,"Well, class... I've graded your midterms. Save for a few of you, the news is not good. Mr. Pembleton... What happened? Welcome back, Mr. Reed. Expect to make up the test tomorrow. Mr. Harden, you're here on time for a change.",41
+MAX,What's this?,2
+MR BABBITT,"Self-explanatory, isn't it?",3
+MAX,I got every answer right.,5
+MR BABBITT,Not because you knew the material.,6
+MAX,Are you saying I cheated? How?,6
+MR BABBITT,"I have no idea how, but you did, and I won't tolerate it.",13
+MR BABBITT,"Back to business, people. Mr. Geider... Mr. Baker...",8
+TONY,How do I tell Max that I want out?,9
+CHASTITY,"I wish I could help you, Tony. I can't even help myself.",12
+BOY,Babbitt!,1
+GIRL,"Oh, my God!",3
+(LATER,SCULLY ducks under the police tape holding back numerous curious students and enters the lunch room past a COP.),19
+SCULLY,"Excuse me, please. Thank you.",5
+COP,Just stay back.,3
+MULDER,I'll show you my theory if you show me yours.,10
+SCULLY,"Based on the eyewitness accounts of the students I spoke to, at this moment I'd have to say that I don't have one.",23
+MULDER,What about for these globs of goo?,7
+SCULLY,The ones we found in the evidence room?,8
+MULDER,Yep. I'm guessing Max Harden could tell us how they got there.,12
+SCULLY,You think Max did this? Based on what?,8
+MULDER,"I spoke to a few students myself. Apparently, Max was angry at Mr. Babbitt because he failed him on his mid-term exam so he had motive.",26
+SCULLY,"Well, he may have had motive but he didn't have opportunity. There was nobody here who saw him even go near the victim.",23
+MULDER,"Maybe he didn't need to. I pulled his records. Rising attendance and discipline problems over the last few months, but look at his transcript. As his behavior was getting worse his grades were going through the roof. This kid has changed, Scully.",42
+SCULLY,"Well, Mulder, he's a teenager. Everything about him is changing. His body and his brain chemistry is in a state of unparalleled upheaval, plus there's peer pressure and substance abuse. Any one of these factors could alter his behavior radically.",40
+MULDER,But what if it's given him a kind of psychokinetic or paranormal ability...... that allows him to exert force over a victim without ever laying a finger on him?,29
+SCULLY,That's your theory?,3
+MULDER,"Yes, it is. Soon to be proven as soon as I get Max in for questioning.",16
+DEPUTY,"Agent, you needed to speak to Sheriff Harden?",8
+MULDER,"Yeah, I want to talk to him about his son.",10
+DEPUTY,"Uh, he's with him now. They're taking him to the emergency room. Max just collapsed in the parking lot.",19
+TONY,You hear about Max? You okay? Where are you going?,10
+CHASTITY,"Tony, the less you know, the better, all right?",9
+MAX,What? No candy? No flowers?,5
+SHERIFF HARDEN,"My deputy told me you were coming and why, so you can just turn right around. Whatever the hell happened at that school, my son didn't do it.",28
+SCULLY,"Sheriff, we'd like to ask your son a few questions if that's okay.",13
+SHERIFF HARDEN,The boy's sick. The doctors can't even say what's wrong with him.,12
+MULDER,"Max could tell them. You know why you collapsed don't you, Max?",12
+MAX,"Yeah, too much teen spirit.",5
+MULDER,You think? Smells like murder to me.,7
+SHERIFF HARDEN,Who do you think you're talking to here?,8
+MAX,"Yeah, it's not like you got a damn thing on me.",11
+MULDER,"You got a problem with authority figures, don't you, Max?",10
+MAX,"If I wasted Babbitt, then how did I do it? Am I like Carrie or something? I used some kind of mental powers?",23
+MULDER,"No, something else. You figured out a way to tap into something that gives you superhuman powers. It came in handy with Babbitt and Deputy Foster.",26
+MAX,"Man, you're whistling ""Dixie.""",4
+SCULLY,"High temperature and heart rate, low blood sugar, electrolytes show acidosis. All of these symptoms are consistent with extreme exertion and withdrawal.",22
+SHERIFF HARDEN,Withdrawal? From what?,3
+MULDER,The rush. I think whatever it is that gives you the power to rearrange furniture and turn a flashlight into a battering ram also gives you quite a buzz.,29
+MAX,"Well, if I can do all that, then what's stopping me from doing it to you?",16
+MULDER,I don't know. Maybe the effect's worn off. Maybe you need another fix.,13
+MAX,"Well, as soon as I blow out of here, I'll be sure to get one.",15
+SCULLY,That's not going to happen any time soon. Your condition's getting worse and we're not going to be able to help you unless you can tell us what's going on.,30
+SHERIFF HARDEN,"Boy, is any of this true?",6
+MAX,No.,1
+SHERIFF HARDEN,You'd better pray I don't find out it is.,9
+MULDER,Sir... Can we have a word outside?,7
+SHERIFF HARDEN,He's not a bad kid. He just needs discipline.,9
+MULDER,If your son is in trouble I'm sure you'd want to know about it. With that in mind we'd like permission to search your house.,25
+SHERIFF HARDEN,You're not getting it. I'm not ready to jump on a bandwagon and call my boy a murderer.,18
+SCULLY,There's some test results missing from Max's chart. I think we should track them down.,15
+NURSE,Thank you.,2
+SCULLY,Hot off the presses.,4
+MULDER,Anything interesting?,2
+SCULLY,This can't be right.,4
+MULDER,What is it?,3
+SCULLY,"Oh, my God.",3
+MULDER,What?,1
+SCULLY,"Evidence of cerebral lesions from repeated concussions... arthritis in his spine and major joints. Stress fractures, numerous muscle and... and ligament micro-tears.",22
+MULDER,What would cause this?,4
+SCULLY,"In a teenager? I can't even imagine. This is the kind of thing that you'd see in someone who's crashed race cars or played pro football for 15 years. Whatever Max is doing, it's killing him.",36
+MULDER,I think I'm starting to get it.,7
+NURSE,I thought I saw a young lady come in here.,10
+MAX,I wish.,2
+MULDER,Max Harden's personal effects.,4
+SCULLY,Yeah.,1
+MULDER,"Oh... This is it. Those globs we found? This is where they came from. Speed, Scully. Somehow, Max Harden has found a way to move faster than the eye can see.",31
+SCULLY,Mulder...,1
+MULDER,"That would explain how Babbitt was killed. It would also explain how a chair and a table appeared to move on their own with enough force to penetrate a wall. Force equals mass times acceleration, isn't that right?",38
+SCULLY,"Yes, Mulder, but it's impossible. The human body just isn't designed to move like that.",15
+MULDER,"Exactly. That is, that is why his is falling apart.",10
+NURSE,"Agents, could you...?",3
+CHASTITY,"Max, Max, please, don't do this. You can stop.",9
+MAX,"Sure, just like you can.",5
+CHASTITY,"I mean, hurting people. Haven't enough people been hurt? This is not why I got you out! Look, let's just leave here, okay? Let's just go away.",27
+MAX,And do what?,3
+CHASTITY,Find a place to get some help.,7
+MAX,Help for what? This is the best thing that's ever happened to me. I can't go back to things standing still... and neither can you.,25
+CHASTITY,"Tony, what are you doing here? You went in that cave, didn't you? You shouldn't have done that.",18
+TONY,It was such a rush... Moving fast like that.,9
+CHASTITY,I didn't want this for you. How did you find it?,11
+TONY,I followed you. I was worried about you.,8
+CHASTITY,That's so sweet. I wish things were different than how they are.,12
+TONY,"Maybe they can be. With Max in the hospital, we could go to the cops.",15
+CHASTITY,He's out.,2
+SHERIFF HARDEN,"Oh, my God.",3
+SHERIFF HARDEN,Hello?,1
+MAX,Boo!,1
+SHERIFF HARDEN,You killed Ron Foster.,4
+MAX,"Yeah, I did.",3
+SHERIFF HARDEN,Why?,1
+MAX,I don't know. You want some great reason?,8
+SHERIFF HARDEN,You little son of a bitch!,6
+SHERIFF HARDEN,Ow!,1
+MAX,He thought he was really something-- always liked to push people around. Same as Babbitt. Same as you. I'm not afraid of you anymore.,24
+TONY,"I can't let you do this, Max.",7
+MULDER,"Yo, Scully... How bad are his injuries?",7
+SCULLY,"Well, it's too soon to tell. He's unconscious and bleeding internally apparently from a blow to the abdomen.",18
+MULDER,Yeah. Delivered with this: Max's weapon of choice against cops.,10
+SCULLY,Why would he leave it behind? You think he's doing it to taunt the police?,15
+MULDER,"No, I think somebody intervened. I think that's why the Sheriff is still alive and why his gun is missing.",20
+SCULLY,But if he can do what you claimed then... then who could possibly intervene?,14
+MULDER,It's someone who knows exactly how Max does what he does and someone who's finally standing up to him.,19
+SCULLY,Tony. How do we find him?,6
+MULDER,"Well, I would guess the source where Max gets his power from.",12
+SCULLY,"The woods near where the deputy was killed. You know, Tony never came clean about what he was doing out there.",21
+MULDER,"Well, maybe that's why the deputy was killed. Maybe he got too close to the truth.",16
+TONY,"Chastity, we don't have to be doing this. I told you, I took care of things with Max.",18
+CHASTITY,"No, you didn't, and you shouldn't have tried.",8
+TONY,He was gonna kill his father. I had to stop him.,11
+CHASTITY,"You stopped him because he let you. He was slowing down. Tony, you've slowed down, too. If we don't get back to the cave before Max does, we're history.",29
+CHASTITY,Hurry!,1
+TONY,I'll catch up.,3
+TONY,Chastity?,1
+TONY,Are you okay?,3
+MAX,"You're late, kid.",3
+TONY,What did you do to her?,6
+MAX,"Well, she took a swing at me. You believe that? You got it all turned around.",16
+MAX,"Come on, man. Who do you think you're dealing with?",10
+MAX,"All I ever wanted was for you to be my friend, Tony. You stuck a knife in my back. Now I'm going to mess you up.",26
+CHASTITY,"I'm sorry, Tony. I can't go back.",7
+TONY,Chastity?,1
+SCULLY,Did the USGS show up?,5
+MULDER,Yeah. 18 geologists and three semis full of gear. They covered every inch of that cave.,16
+SCULLY,And what did they come up with?,7
+MULDER,"Nothing. Well, bat guano and above-normal magnetic field readings but nothing that would cause a physiological effect.",17
+SCULLY,"What'd you expect them to find, Mulder?",7
+MULDER,"I don't know. A vortex, like the one in Oregon. Gravitational aberrations, unique chemical compositions, uh, relics that would indicate that the cave was a sacred site... something, anything. I don't know.",32
+SCULLY,"Well, you and I were both in there and nothing happened to us. We're still slowpoking around.",17
+MULDER,"What if we're too old? Well, you said that teenagers differ from adults chemically and physiologically. What if whatever is in that cave affects only them?",26
+SCULLY,"Well, that's doubtful. But no more so than any other theory. I mean, it's worth checking out.",17
+MULDER,"Yeah? Well, we can't. As of an hour ago, they pumped concrete into the cave. Sealed it for precautionary reasons. We'll never know. How's he doing?",26
+SCULLY,"Bruises and muscle strains, mostly. He'll recover... go back to being a normal kid.",14

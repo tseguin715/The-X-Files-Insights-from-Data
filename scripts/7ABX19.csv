@@ -1,0 +1,314 @@
+speaker,line,words
+AGENT,Radio check. Perimeter is clear.,5
+SKINNER,Copy that. Give me a check every ten.,8
+SKINNER,"Why don't you folks make yourselves comfortable? Watch some television, get some rest. Try to put your minds at ease. Just try to stay away from the windows and doors, if you would.",33
+MRS. SCOBIE,Do we have to ask you if we can use the bathroom? I feel like I'm a prisoner in my own home.,22
+SKINNER,"Ma'am, I apologize for the imposition but my job is to protect you. As of this evening, the FBI's top priority is keeping you safe.",25
+MRS. SCOBIE,For how long? A week? A month? Then what?,9
+MRS. SCOBIE,"Jim, don't do this, please. You don't have to testify. It's not worth it. These people have a long reach. They're powerful.",22
+JIM SCOBIE,I have to do this.,5
+MRS. SCOBIE,I'm going to bed.,4
+JIM SCOBIE,Thank you.,2
+SKINNER,The Grand Jury convenes at 9:00. We'll leave here at 7:30. I'll be right outside the door if you need me.,21
+MRS. SCOBIE,Jim? Jim? Are you feeling all right?,7
+MRS. SCOBIE,Jim? Mr. Skinner... Mr. Skinner! Jim?!,6
+SKINNER,Dr. Scobie?,2
+MRS. SCOBIE,Jim!,1
+WATER AGENT,Ma'am...,1
+SKINNER,"Yes, at the time, I was in another part of the house. Yes... Yes, sir... Yes, sir. Yes, sir, I will have answers for you, I...",26
+MULDER,Rough night?,2
+SKINNER,"Oh, it's shaping up to be a rougher morning. Follow me.",11
+SKINNER,There's fingerprints everywhere but as they all belong to the deceased and his wife they don't help us.,18
+SCULLY,This is where the body was found?,7
+SKINNER,Yeah.,1
+MULDER,What can you tell us about him?,7
+SKINNER,"Dr. James Scobie, age 44. R&D biochemist with Morley tobacco. If he were alive as of … … 26 minutes ago he'd be giving testimony against his former employer before a federal grand jury.",34
+SCULLY,Testimony concerning what?,3
+SKINNER,"Not even his wife or his lawyer know the specifics, only that it concerns research that he was involved in potentially extremely damaging to Morley... enough so that Scobie received death threats. Given the high-profile nature of the case the Director charged me with insuring Dr. Scobie's protection.",48
+SCULLY,And you think that someone made good on these threats?,10
+SKINNER,"I do. And we've yet to determine how someone got in here, or... what killed him.",16
+MULDER,Can't blow the whistle with a mouth like that.,9
+SCULLY,"It's almost as if his flesh has been stripped or eaten away. I mean, an assailant could have thrown acid on him.",22
+MULDER,"Well, if it was acid in the face he would have screamed bloody murder.",14
+SKINNER,"We're looking at all possibilities, Agent. We need answers, we don't have a lot of time and we're going up against one of the biggest corporations in America. The Director himself personally instructed me that he wants this case closed as swiftly as possible. I trust I can count on your help.",52
+SKINNER,"All right, I want you to perform the autopsy. The body's in the county morgue.",15
+SCULLY,I'll get right on it.,5
+SKINNER,Thank you.,2
+MULDER,Huh.,1
+SKINNER,What?,1
+MULDER,There's no ashtrays. Dr. Scobie and his wife don't smoke?,10
+SKINNER,Not that I've witnessed.,4
+MULDER,"A tobacco employee that doesn't smoke-- Isn't that kind of like a GM executive who drives a Ford? If this was a hit it seems unnecessarily high-profile. It kind of draws attention to itself, don't you think?",37
+SKINNER,That could be the point-- to intimidate potential witnesses. Scobie had a supervisor at Morley-- a Dr. Peter Voss. I want to talk to him.,25
+MULDER,You mind if I tag along?,6
+SKINNER,No.,1
+AGENT,"Sir, would you take a look at this?",8
+SKINNER,What have you got?,4
+SKINNER,We're here to see Dr. Voss.,6
+SECURITY MAN,Do you have an appointment?,5
+SECURITY MAN,Do you have an appointment?,5
+SKINNER,Maybe you missed this the first time around.,8
+DAVID BRIMLEY,"Gentlemen, I can help you. Daniel Brimley, head of Corporate Security. A pleasure.",13
+DAVID BRIMLEY,"You're here concerning Dr. Scobie's death, I take it.",9
+SKINNER,We are.,2
+DAVID BRIMLEY,We're all extremely sorry to hear about it. Jim has a lot of friends in this building.,17
+MULDER,Really? No hard feelings that he was about to turn federal witness against your company?,15
+DAVID BRIMLEY,Nobody was happy about Jim's decision but the timing of his death couldn't have been worse.,16
+SKINNER,So you have problem with us speaking to Dr. Voss?,10
+DAVID BRIMLEY,Absolutely not. Whatever we can do to help. Please.,9
+DR. PETER VOSS,"Could you, um...",3
+DR. PETER VOSS,"Would you give my sincerest condolences to Jim's wife, Joan? How is she?",13
+MULDER,I'm sure she'll take comfort in finding out why her husband died.,12
+SKINNER,"Dr. Voss, can you enlighten us as to what Dr. Scobie intended to tell the grand jury? We know it had to do with company research.",26
+LEAD COUNSEL,I'm sorry. Dr. Voss would be in violation of his employment confidentiality clause in answering that question.,17
+SKINNER,Dr. Scobie was your friend?,5
+DR. PETER VOSS,"Yeah, for 14 years, mm-hmm.",5
+SKINNER,And yet you demoted him five weeks ago. You took him off a particular project. Can you tell us why that happened?,22
+LEAD COUNSEL,"As before, Dr. Voss would be in violation of his confidentiality clause in answering questions regarding the nature of his work here at Morley. I'm sure you understand our cooperation cannot extend itself to revealing corporate secrets.",37
+SKINNER,"I'm not sensing any ""cooperation"" whatsoever. In fact, I'm one more non-answer away from getting a federal warrant and searching this entire building.",23
+LEAD COUNSEL,Then this meeting is over. Dr. Voss.,7
+MULDER,Dr. Voss... can you tell me what that is?,9
+DR. PETER VOSS,It's a tobacco beetle. Why?,5
+MULDER,We found it at Jim Scobie's house.,7
+DR. PETER VOSS,"Well, you'll find a lot of these around here. They're everywhere. There's probably a dozen in the grill of your car right now.",23
+LEAD COUNSEL,"May I ask where you're going with this, Agent?",9
+MULDER,"I'm sorry, I can't. Answering that question would violate FBI confidentiality due to the sensitive nature of our investigation.",19
+DARYL WEAVER,Evenin'.,1
+DR. PETER VOSS,What are you doing here?,5
+DARYL WEAVER,"Run out of smokes. Me and Dr. Scobie had an arrangement, as you know. So I figured, uh... Dr. Scobie not being around that my arrangement with him... slides on over to you.",33
+DR. PETER VOSS,Here you go.,3
+DR. WIEDER,That won't hold me.,4
+DR. PETER VOSS,"I'll-I'll bring you more. Just-just-just don't come here anymore, all right?",11
+DR. WIEDER,"It seems everybody's acting funny around me all of a sudden, you know? Telling me not to talk to stay away from their houses? Huh. Too bad about Dr. Scobie, huh?",31
+DR. PETER VOSS,Yeah...,1
+DR. WIEDER,"I bet people are wondering how he died, huh? I've been working my own theory up in the old noggin. I'd be happy to share it with you someday.",29
+DR. PETER VOSS,I think that you should leave now.,7
+DR. WIEDER,"Yeah. I don't want to wear out my welcome. We'll be seeing a lot of each other, I expect.",19
+MULDER,Smoke 'em if you got 'em.,6
+SKINNER,What have you found?,4
+SCULLY,"Well, the tissue damage on Dr. Scobie's mouth extends all the way down his trachea into his lungs. His alveoli look like corned beef.",24
+SKINNER,What about this being the result of some sort of corrosive agent?,12
+SCULLY,"No, that's not the case. There's no acids present, no caustics. This damage isn't the result of any kind of chemical reaction. His airways have more or less just been reamed out. I can tell you what killed him, though... strictly speaking.",42
+MULDER,What?,1
+SCULLY,"Hypoxemia. The, uh, inability to transfer oxygen from the lungs to the bloodstream.",13
+SKINNER,He choked to death.,4
+SKINNER,"I mean, this damage-- however it was accomplished, someone did do this to him.",14
+MULDER,"Well, not necessarily. There weren't any signs of struggle in the room. Maybe no one was ever there.",18
+SKINNER,Where are you going with this?,6
+MULDER,"Well, that this isn't a homicide. You... examined the body Scully. Did you... find any of these?",17
+SCULLY,A bug?,2
+MULDER,"Well, it's a, tobacco beetle, yeah.",6
+SCULLY,"I didn't find anything like that, Mulder. Were you expecting me to?",12
+SKINNER,Killer bugs? This is what I'm supposed to tell the Director?,11
+MULDER,I don't know but judging from Dr. Voss's reaction to this I think it's the thing we should investigate.,19
+NEIGHBOR,"Hey, I've been telling you all week! How many times I got to say it? No smoking! You hear me?",20
+DARYL WEAVER,"America, man! E. Pluribus, uh...",5
+NEIGHBOR,"I'll get you kicked out, you son of a bitch! You think I'm kidding? I'll do it!",17
+NEIGHBOR,The law's on my side.,5
+MULDER,"Guests check in, but they don't check out.",8
+SCULLY,"Oh... Well, judging from the condition of the body, I'd say that he died in the same manner as Dr. Scobie.",21
+SKINNER,"Except this man's no corporate whistle blower. ""Thomas Gastall."" Out-of- date Massachusetts license... food coupons... and a certificate of completion for a court- ordered anger-management class.",26
+SCULLY,What could Morley Tobacco have against a transient from Massachusetts?,10
+MULDER,Probably nothing.,2
+SKINNER,"What are you suggesting, Mulder?",5
+MULDER,That Jim Scobie wasn't murdered. Neither was this man.,9
+SKINNER,"Well, then what killed them?",5
+MULDER,These.,1
+SKINNER,We didn't find any insects in Dr. Scobie's bathroom.,9
+MULDER,But there was an open window through which they could have escaped.,12
+SCULLY,"It's a long shot, Mulder, but it could be some form of contagious agent, like an insect-borne bacterium which would mean that there might be other victims in this building.",30
+MULDER,FBI.,1
+MULDER,Sorry to wake you.,4
+DARYL WEAVER,"You, you didn't wake me.",5
+DARYL WEAVER,Come on in.,3
+MULDER,Thank you. We're investigating the death of a man who lived right next to you-- a Thomas Gastall. Do you know him?,22
+DARYL WEAVER,I knew his voice. He yelled a lot.,8
+MULDER,He yelled?,2
+DARYL WEAVER,"Yeah. He said I smoked too much. Whatcha gonna to do, man? It's a free country. E. Pluribus, uh...",19
+DARYL WEAVER,You mind?,2
+MULDER,No. You don't seem surprised that he's dead.,8
+DARYL WEAVER,Guess his number come up. Just glad it wasn't me.,10
+MULDER,"What is your name, sir?",5
+DARYL WEAVER,Daryl Weaver.,2
+MULDER,"Mr. Weaver, did you see or hear anything unusual last night?",11
+DARYL WEAVER,Little Korean fellow down the hall. Dresses like wonder woman. But that's every night.,14
+MULDER,Other than that?,3
+DARYL WEAVER,"Say, there wouldn't happen to be, uh... any reward money involved would there? I mean, I could use an extra buck or two.",23
+MULDER,"The FBI would appreciate your voluntary cooperation, sir. That's the way it works.",13
+DARYL WEAVER,"Ain't that always the way? Nope. My mind is, uh, just drawing a complete blank.",15
+MULDER,"That's my card. Thank you, Mr. Weaver.",7
+MULDER,Anything?,1
+SKINNER,Two deaths in less than 24 hours. We're no closer to an answer.,13
+SCULLY,"And the only thing I have to go on medically at this point is Mulder's bug. You know, I know an entomologist at UNC Wilmington-- Dr. Libby Nance.",28
+MULDER,Good. Talk to her.,4
+SKINNER,Where are you going?,4
+MULDER,See about something else that's been bugging me.,8
+MULDER,Mrs. Voss?,2
+ANNE VOSS,Yes?,1
+MULDER,Fox Mulder. Is your husband home?,6
+ANNE VOSS,Um...,1
+DR. PETER VOSS,"It's okay, honey. It's okay. It will just be a minute.",11
+ANNE VOSS,Sure thing.,2
+DR. PETER VOSS,I really shouldn't be talking to you without our lawyers.,10
+MULDER,"I understand your reluctance to talk, sir. You have a nice family-- a lot to lose.",16
+DR. PETER VOSS,"What do you want, Agent Mulder?",6
+MULDER,There's been another victim-- Thomas Gastall. Died exactly the same way Scobie did.,13
+DR. PETER VOSS,I'm sorry to hear that. But what's that got to do with me?,13
+MULDER,"Well, we found these all over him. I believe that that's what killed both men.",15
+DR. PETER VOSS,Tobacco beetle. It's an herbivore. It eats tobacco. Hence its name.,11
+MULDER,"I... I understand that, but... maybe these don't.",8
+DR. PETER VOSS,"I'm not really required to talk to you, am I?",10
+MULDER,"No. But why are you hiding behind your lawyers, doctor? How many people have to die before you do the right thing?",22
+DR. PETER VOSS,I'll get it. Hello?,4
+DAVID BRIMLEY,What did he want?,4
+DR. PETER VOSS,Are you spying on me?,5
+DAVID BRIMLEY,"I'm not spying on you, Peter. I'm looking out for you. What did he want?",15
+DR. PETER VOSS,There's been another death. Downtown.,5
+DAVID BRIMLEY,How did it happen?,4
+DR. PETER VOSS,I don't know. I don't know. This has gone on long enough. We should come forward. I should.,18
+DAVID BRIMLEY,"Do you hear what you're saying, Peter? Now, I want you to just take a moment. I want you to think about what really matters to you. Now, tell me where I can find Darrel Weaver.",36
+DR. PETER VOSS,Why?,1
+DAVID BRIMLEY,This was my mistake. I'll clean it up.,8
+DR. PETER VOSS,I don't know where he is.,6
+DR. LIBBY NANCE,This doesn't make sense.,4
+SKINNER,What doesn't make sense?,4
+DR. LIBBY NANCE,"Well, it's a lasioderma serricorne-- a tobacco beetle. Only... I've never seen one exactly like this.",16
+SCULLY,Hmm. What are the differences?,5
+DR. LIBBY NANCE,"Physical differences-- uh... minor but definitely notable. Deviations in the mandibles, the antennae, the body segmentation.",16
+SCULLY,What if such deviations arose from genetic engineering?,8
+DR. LIBBY NANCE,Engineering the bugs themselves?,4
+SCULLY,"No. I was thinking about another possibility: ""Transgenomics.""",8
+SKINNER,Which is...?,2
+SCULLY,It's a form of DNA manipulation-- alterations made on the genetic level.,12
+DR. LIBBY NANCE,"It is pretty widely known that tobacco companies have been pouring money into that kind of research-- changing the tobacco plant itself in order to make it heartier, give it less nicotine, more nicotine, make it naturally menthol-flavored... you name it.",41
+SKINNER,"A form of what-- ""super tobacco""?",6
+SCULLY,Which possibly could have created super bugs. I guess the real question is could they have become dangerous to humans?,20
+DR. PETER VOSS,Mr. Weaver! Mr. Weaver?,4
+DARYL WEAVER,"Sorry, doc, no vacancy.",4
+DR. PETER VOSS,What happened there?,3
+DARYL WEAVER,"Well, you tell me. You're the one with the Ph.D. I'm just a big old guinea pig.",17
+DR. PETER VOSS,"Now, listen... um... You have to leave town.",8
+DR. WIEDER,And give up all this? Me not doing my part for science?,12
+DR. PETER VOSS,"Here. Take it. It's everything I have in the bank. $4,000.",11
+DARYL WEAVER,"It's not much, but, uh... It's a start.",8
+DR. PETER VOSS,"Wait, wait a minute. I'm not kidding. You got to get out of here.",14
+DARYL WEAVER,"Why? I got a good thing going here. I got cash money. I got all the coffin nails I can suck down. Although... lately, I've been thinking this particular brand … it doesn't, um... do anyone else any favors-- healthwise.",40
+DARYL WEAVER,"You've been thinking that, too, huh?",6
+DARYL WEAVER,Would it bother you if I lit one up?,9
+DARYL WEAVER,Toodles.,1
+DR. PETER VOSS,"No, you... You don't understand. Morley is a multi-billion-dollar global corporation. You think they're going to let you endanger that, huh? They'll kill you first.",25
+DARYL WEAVER,Sounds like a Darrel Weaver problem to me.,8
+DR. PETER VOSS,Yeah.,1
+SKINNER,What am I looking at?,5
+SCULLY,Thomas Gastall's left lung and bronchus.,6
+SKINNER,"Well, I guess that explains where the beetles came from.",10
+SCULLY,"Hey, Mulder. Where have you been?",6
+MULDER,Talking to lawyers over at Justice. Trying to get a look at Morley's files.,14
+SCULLY,"Well, take a look at this.",6
+SCULLY,"They're the larval stage of the tobacco beetle, Mulder and somehow, they have ended up nesting in Thomas Gastall's lungs.",20
+SKINNER,But what doesn't make any sense is why Scobie's lungs didn't show this same condition.,15
+SCULLY,The larvae must pupate inside the lungs and then once they mature into beetles exit the body en masse.,19
+SKINNER,"Well, that explains the condition of the face and throat.",10
+SKINNER,"Only, how do they get into the lungs to begin with?",11
+SCULLY,Mulder?,1
+SKINNER,How is he?,3
+SCULLY,"They're using a deep-suction technique that's been designed for asthma and cystic fibrosis. And, so far, we're having some luck at clearing his lungs.",24
+SKINNER,But...?,1
+SCULLY,For every one of those things that are in his lung tissue there may be a dozen eggs that have yet to be hatched.,24
+SKINNER,Eggs?,1
+SCULLY,His pulmonary tissue is riddled with them and they're going to hatch. It's just... … we're buying time.,18
+SKINNER,"Well, how did this happen? These eggs-- how did they get into his lungs?",14
+SCULLY,I'm thinking he inhaled them.,5
+SCULLY,"Well, the tobacco beetle lives out its life cycle on or around the tobacco plant. That's where it lays its eggs. If those genetically-altered beetles that we found did that then maybe the eggs survived the processing into cigarettes.",39
+SKINNER,And been carried into Mulder's lungs as smoke?,8
+SCULLY,"Right-- like spores or pollen, somehow small enough to be airborne.",11
+SKINNER,"But Mulder isn't a smoker, and neither was Scobie.",9
+SCULLY,Maybe they were around someone who was.,7
+SKINNER,Don't bother calling security.,4
+SKINNER,"Federal search warrant, as promised.",5
+SKINNER,Do it.,2
+SKINNER,"You're going to talk to me, Doctor. One of my agents is dying of the same thing that killed Dr. Scobie. I believe you have information that can save him.",30
+LEAD COUNSEL,"We stand by our contention that any and all such information is proprietary, and is therefore the sole property of Morley Tobacco.",22
+SKINNER,"You listen to me, you son of a bitch. This isn't about Morley or your precious research. This is about saving lives.",22
+DR. PETER VOSS,That's exactly what we were trying to do.,8
+LEAD COUNSEL,"Dr. Voss, I'm advising you not to speak.",8
+DR. PETER VOSS,This has gone on long enough.,6
+DR. PETER VOSS,We thought we were doing a good thing. We knew people were never going to stop smoking no matter how unhealthy it was so why not genetically engineer a safer cigarette?,31
+SKINNER,"Except you engineered the bugs, as well.",7
+DR. PETER VOSS,"We recruited test smokers. We conducted focus groups. There were no problems. And, um... after a few months in, things... things got bad. We had four test subjects and, uh... three of them died.",34
+SKINNER,Is that what Dr. Scobie was going to testify about?,10
+DR. PETER VOSS,"Yeah. Yeah. And the company wanted us to keep it quiet. I thought, let's correct the mistakes and face the consequences. Jim didn't. He was monitoring the focus group, and that's... that's how he got infected.",36
+SKINNER,You said only three died. Who was the fourth?,9
+SKINNER,Clear.,1
+DR. PETER VOSS,He told me he meant to get Weaver.,8
+SKINNER,Looks like Weaver got to him first.,7
+SKINNER,Mr. Brimley can you hear me?,6
+DARYL WEAVER,You got Mickey's Big Mouth?,5
+CLERK,There's no smoking in here.,5
+DARYL WEAVER,Mickey's Big Mouth.,3
+CLERK,Anything else? Carton of cigarettes?,5
+DARYL WEAVER,You don't have my brand.,5
+DEPUTY'S RADIO,This is code 4148. … 81 clear. 8814 clear.,9
+MULDER,Mmm. It must be bad.,5
+SCULLY,How do you feel?,4
+MULDER,Like a dust buster attacked me.,6
+SCULLY,We're looking for someone who may be able to help you-- a Morley test subject by the name of Darrel Weaver.,21
+MULDER,"Mr. ""E pluribus…""",3
+SCULLY,Yeah. Mr. Weaver seems to have some kind of tolerance or immunity and we're hoping that once we find him we'll be able to figure out how to treat you.,30
+SCULLY,Mulder...,1
+SCULLY,Doctor!,1
+SCULLY,His SAT's down to 72. Get some O-2 on him and call the Code.,14
+DOCTOR,"Susan, Code Blue!",3
+NURSE SUSAN,"Right, Doctor.",2
+DOCTOR,Over to my side.,4
+DOCTOR,"Dr. Scully? We've got him stabilized on ECMO for the moment but we're not going to be able to maintain him on it for long. Of course, you see why.",30
+SCULLY,There's more now than there were six hours ago.,9
+DOCTOR,"They're beginning to block the flow of blood. Our best bet is to go back in there. I think this time, we have to crack the chest.",27
+SCULLY,"No. No, I... He's too weak for thoracic surgery. He-he'd die on the table.",14
+DOCTOR,I don't know what our other options are.,8
+SCULLY,"I'd say for the time being, we just wait.",9
+DOCTOR,That'll definitely kill him. Sooner or later.,7
+SKINNER,"Mrs. Voss, I'm Assistant Director Walter Skinner with the FBI. May we come in?",14
+ANNE VOSS,What is this? What's going on?,6
+SKINNER,I have to ask for your cooperation. These men are here to protect you and your family.,17
+ANNE VOSS,"Oh, my God. Why?",4
+SKINNER,Your husband hasn't spoken to you about this?,8
+ANNE VOSS,He's not here.,3
+SKINNER,He told me he was headed home. Try Dr. Voss at work.,12
+ANNE VOSS,I-I've just been trying. There's no answer.,7
+DR. PETER VOSS,Behind you.,2
+DARYL WEAVER,I was just leaving. I got what I came for.,10
+DR. PETER VOSS,He took the test cigarettes. I couldn't stop him.,9
+SKINNER,Stop right there!,3
+DARYL WEAVER,Why? You gonna shoot me?,5
+SKINNER,I'm not going to let you go infect more people.,10
+DARYL WEAVER,You're going to let me do whatever I want to do. Dr. Voss here tells me you need me. You need me to save your boy.,26
+SKINNER,Don't do it.,3
+DARYL WEAVER,"They say these things kill people, you know? Any brand, sooner or later. But you know, it doesn't have to be that way. I think Dr. Voss is really onto something with his research. I do.",36
+DR. PETER VOSS,"It's over, Weaver. I'm through.",5
+DARYL WEAVER,"Oh... Come on, now. I mean... you gotta figure... the first, um, car killed a bunch of people before they perfected it 'cause it's all just part of the scientific process, you know?",33
+SKINNER,"Mr. Weaver, I will shoot you.",6
+DARYL WEAVER,"No, you won't.",3
+DARYL WEAVER,"I'm a regular damn scientific marvel. They, uh... study me, they're gonna, uh... write scientific papers about me... I could be the cure for cancer. Me, Darrel Weaver.",28
+DARYL WEAVER,You ain't gonna shoot me. Toodles.,6
+SKINNER,How's Mulder?,2
+SCULLY,Not good. Let's get the blood work on this man.,10
+SCULLY,Wait a minute. Wait a minute. Get me 30 milligrams of methyl pyrrolidinyl pyridine.,14
+DOCTOR,Nicotine?,1
+SCULLY,Yeah. I think this could save Mulder's life.,8
+SCULLY,Hey. Good to be back?,5
+MULDER,Beats the alternative.,3
+SCULLY,"Well, you'll be interested to know that Morley Tobacco has subpoenaed all of our files on the case. They seem extremely interested in your recovery.",25
+MULDER,What about Darrel Weaver?,4
+SCULLY,"He's, uh, well enough to have been moved to the hospital ward at Raleigh Correctional.",15
+MULDER,It was the nicotine itself that was keeping him alive?,10
+SCULLY,"Well, his fingertips were stained yellow with it. He was a four-pack-a-day smoker-- far heavier than any of the focus group members who died. You know, nicotine is extremely poisonous. It's actually one of the oldest known insecticides.",38
+MULDER,It's good for killing tobacco beetles.,6
+SCULLY,"Well, once we loaded your system up with enough of it, it acted as a sort of chemotherapy... except it almost stopped your breathing at the same time.",28
+MULDER,That's not all it did.,5
+MULDER,I bought these on the way to work.,8
+SCULLY,You're not going to start smoking.,6
+MULDER,"Well, they say the addiction is stronger than heroin.",9
+SCULLY,Mulder...,1
+SCULLY,"Good. Well, Skinner's waiting for us in his office.",9
+MULDER,I'll be right up.,4

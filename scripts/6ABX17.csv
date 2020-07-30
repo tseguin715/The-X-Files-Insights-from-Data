@@ -1,0 +1,272 @@
+speaker,line,words
+GUARD,Last wall... Pour it on!,5
+WHALEY,"Man, this little piece of wood ain't gonna hold no twister! We need to dig a hole, you know what I'm saying?",22
+GUARD,Whaley!,1
+WHALEY,"A big hole. The man ought to be givin' us shovels. This whole damn place is going to blow away. Why even bother? Yo, boy, back me up, here!",29
+PINKER RAWLS,Shut up and hold it still.,6
+WHALEY,"I know you ain't talkin' to me! You a big man, huh? Is that right? Charley potatoes. Big-ass criminal. You a bad man? You a bitch, that's all you are. You ain't got no money. You ain't got nothing. I'll hold it still.",43
+WHALEY,Is that still enough for ya?! Huh?!,7
+GUARD,"Put down the hammer, Rawls! Rawls!",6
+FELLOWES,"Messed up old Whaley, did he?",6
+GUARD,Messed him up good.,4
+FELLOWES,Now what'd you go and do that for?,8
+PINKER RAWLS,"Man pissed me off, Boss.",5
+FELLOWES,Who the hell doesn't? Box him.,6
+PINKER RAWLS,"You can't put me in that box, Boss. The... the storm's coming.",12
+FELLOWES,Should have thought of that before you messed up old Whaley.,11
+PINKER RAWLS,"Well, to hell with Whaley. You can't put me in that box! Boss! You can't put me in there! You can't put me in that box! You can't do it! You're going to kill me, Boss! Boss!",37
+GUARD,You know they're saying tornado touchdowns all over the county.,10
+FELLOWES,I can't be responsible for Acts of God.,8
+GUARD,"Sorry, Rawls.",2
+PINKER RAWLS,"Let me out! Let me out!! Heeeelp!! Somebody!! Somebody help me, please!",12
+GUARD,"Oh, hell.",2
+GUARD,"Hello, sir?",2
+GUARD,"Oh, my god...",3
+SCULLY,Should we arrest David Copperfield?,5
+MULDER,"Yes, we should... but not for this. Now this is, uh, Raybert Fellowes superintendent of Road Farm Six, Mississippi Department of Corrections. One of his guards found him in his office. Not a drop of blood in the place.",39
+SCULLY,"Well, maybe he was killed elsewhere.",6
+MULDER,"No, I don't think so. Whoever did it took 40 minutes to do it in the middle of a tornado. What do you make of that?",26
+SCULLY,"I don't know. It's, uh... it's not a simple bisection. There's a considerable amount of his abdomen missing. I mean, it almost looks like a burning but it's too localized. Maybe an industrial acid.",34
+MULDER,"There's, um... no acid found in his office.",8
+SCULLY,Oh. Spontaneous human combustion.,4
+MULDER,Scully...!,1
+SCULLY,"Well, isn't that where you're going with this?",8
+MULDER,Dear Diary: Today my heart leapt when Agent Scully suggested spontaneous human combustion.,13
+SCULLY,"Mulder, there are one or two somewhat well-documented cases.",9
+SCULLY,"Mulder, shut up.",3
+SCULLY,Okay. What do you make of this?,7
+MULDER,I don't have a theory. But I know of someone who does.,12
+GUARD,"Hell, yes, Pinker Rawls who did it. Though you got me as to how.",14
+SCULLY,And who is Pinker Rawls?,5
+MULDER,An inmate.,2
+GUARD,Mean son of a bitch.,5
+MULDER,Rawls was the prisoner who supposedly died in the tornado that preceded superintendent Fellowes's murder.,15
+SCULLY,So you're saying that a ghost did this?,8
+GUARD,"I'm not putting the word to it. That's up to y'all. All I know is that Rawls hated the Captain. Captain locked him in the box when the storm hit and Rawls didn't want to be locked in the box and when we found the box biggest piece was about yay big... … three miles from here. Now, this whole place was locked and boarded up tight. No man got in here. That's all I'm saying.",76
+SCULLY,So we're looking for a dead man?,7
+MULDER,"I disagree. I think this Pinker Rawls is still very much alive. You know, they never found his body.",19
+SCULLY,"Okay. Well, at the risk of further ridicule, Mulder, what if this wasn't a murder? I mean as I understand it, current theory on spontaneous human combustion is that climatic conditions play a large part. So, possibly a tornado may fit the bill. We've got lightning, um, static electricity at a high potential.",53
+MULDER,I can't argue with that. But I do think it's murder.,11
+SCULLY,"Well, then how did Rawls or whoever do this? How did he get in and out of a locked office and prop a body up against the inside of a door?",31
+MULDER,Termites?,1
+GUARD,This is all he had in his bunk area.,9
+SCULLY,"Wilson Pinker Rawls, age 34. Eight years into 30 for robbing a wire office in Bay Saint Louis. The $90,000 he stole was never recovered.",25
+MULDER,"Well, it's not in here. Hey. Look at this.",9
+MULDER,Ouch.,1
+SCULLY,His record dates to 1978. Mostly small-time. History of violence throughout.,11
+MULDER,I wonder who she is.,5
+WERTHER,"Thanks, Cutie. Hey, you broke out the good stuff.",9
+JUNE,"Well, we're worth the good stuff.",6
+WERTHER,Mmm.,1
+JUNE,"Hey, Robert?",2
+WERTHER,Hmm?,1
+JUNE,"Can I show you something? I mean, just a little food for thought?",13
+WERTHER,"Wh... Oh. Wait, Sweetie. They're talking about the tornado.",9
+NEWSCASTER,"Take a look at this video just in. Hardest hit was a state prison farm outside the village of Stringer where two deaths are reported in the wake of the storm. A funnel cloud with winds topping 150 miles per hour tore through the isolated work camp passing within yards of a barracks filled with terrified inmates. Among the dead, Captain Raybert Fellowes, the farm's superintendent a 28-year veteran of the Department of Corrections. A second authorities say...",78
+JUNE,Excuse me.,2
+NEWSCASTER,...whose job was to secure the prison...,7
+WERTHER,"You okay, June?",3
+NEWSCASTER,"...from the oncoming storm. High winds apparently carried the man away. Though his body has not been found, Rawls is presumed dead. In other news …",26
+BOBBY THE SECURITY GUARD,You got a gun pointed at you. Don't try to run.,11
+PINKER RAWLS,I ain't runnin'.,3
+BOBBY THE SECURITY GUARD,"Oh... Hey! Hey, that's store property. Take those off.",9
+PINKER RAWLS,Oh... There's something so nice about putting on a brand-new pair of socks. I don't know what it is.,19
+BOBBY THE SECURITY GUARD,"I said, take those off, boy.",6
+PINKER RAWLS,"Mmm... Ooh! Oh... Oh, my. What you think? That's me, right? And room to grow in.",16
+BOBBY THE SECURITY GUARD,"You got an attitude, I'll say that.",7
+BOBBY THE SECURITY GUARD,Get the hell up. Turn around. Hands behind the pole.,10
+BOBBY THE SECURITY GUARD,This is Bobby in security. I've detained an intruder at the Val-U-Mart on Nine Mile Road and Route 60. … I don't know how the hell he got in here… Got him cuffed in the back.,36
+MULDER,Is that the guy?,4
+BOBBY THE SECURITY GUARD,"Yeah, could be. I guess. It was pretty dark.",9
+MULDER,How'd he get away?,4
+SCULLY,Whoever he was.,3
+BOBBY THE SECURITY GUARD,You got me. The guy's like Houdini. Turned my back and he was gone. I had him right here.,19
+MULDER,You had him handcuffed... here. Can I see your handcuffs?,10
+MULDER,We have a last known address for Pinker Rawls?,9
+PINKER RAWLS,What's up?,2
+PINKER RAWLS,"Where is she? ago. You mad 'cause her and me shacked up? I'm sorry, buddy.",15
+PINKER RAWLS,"Bo, I want what's mine.",5
+PINKER RAWLS,You got nothing in there but your nine.,8
+PINKER RAWLS,"Bo, you're going to shoot me? Boo! Bleah! Are you gonna do something? Ha!",14
+MULDER,This is Rawls's last known address. Security guard's car.,9
+SCULLY,Mulder.,1
+MULDER,Ugh! Ugh. Gesundheit.,3
+SCULLY,"Oh, my god.",3
+SCULLY,"Pistol in his hand, slide locked open, shell casings everywhere. I don't see any bullet holes anywhere, Mulder.",18
+MULDER,"Don't recognize him from his driver's license, do you?",9
+SCULLY,Bo Merkle. This is his house.,6
+MULDER,"Yeah, but Rawls used to live here and he's come back looking for something.",14
+SCULLY,"$90,000. The wire office robbery eight years ago. The money hasn't been recovered.",13
+MULDER,I don't think he spent that in prison.,8
+SCULLY,"I don't think Mr. Merkle did either, judging by the decor.",11
+MULDER,"Maybe she knows. That's this house, isn't it?",8
+SCULLY,Yeah.,1
+MULDER,Yeah.,1
+SCULLY,I can run down the name.,6
+MULDER,"Yeah, I bet Rawls is looking for her.",8
+SCULLY,"Yeah, this is Special Agent Dana Scully with the FBI. There's been a murder here at 922 Washington Avenue in Jackson. I need crime scene support on-site as soon as possible. Thank you. Oh, and could you transfer me to the records division, please?",44
+SCULLY,"Got a name to go with the face. June Gurwitch. There's no current address, though and, uh, no record of her since 1996.",23
+MULDER,Maybe she changed her name. Maybe she was afraid she'd end up like that.,14
+SCULLY,The state police have put out an APB on Rawls.,10
+MULDER,You might warn them not to shoot to kill. He seems to find that annoying.,15
+SCULLY,"Look, Mulder, even if those were bullets...",7
+MULDER,They are. It's just that their composition has been changed just like the handcuffs and just like the prison wall.,20
+SCULLY,"Even if these were bullets, there is no way that they could pass through Rawls in the way that you're describing-not, not without leaving him sprawled dead on the ground for us to find.",34
+MULDER,"I think they just went right through him, - whsssht - like his wrist went through the handcuffs and like he walked right through that prison wall.",25
+SCULLY,He walks through solid objects?,5
+MULDER,"Changing their composition fundamentally-- making steel brittle, turning lead bullets into powder.",12
+SCULLY,And flesh into carbon.,4
+MULDER,"I don't know how else to explain what happened to that prison superintendent or to poor Mr. Merkle over there, who's got no face anymore.",25
+SCULLY,"But where's the science in all of this, Mulder? You're talking alchemy.",12
+MULDER,I'm not saying that it can't be explained scientifically. Maybe it's the tornado. You suggested it yourself. Unusual climatic conditions... high electrical potential...,23
+SCULLY,I'm sorry I even brought it up.,7
+MULDER,"Okay, we both agree on who he's looking for?",9
+SCULLY,June Gurwitch.,2
+MULDER,And do we have any idea of how to find June Gurwitch?,12
+SCULLY,"She has a sister named Jackie, and I have the address.",11
+JUNE,Hello.,1
+JACKIE,"Hey, it's me. Is this a good time?",8
+JUNE,"No, Jackie, it is never a good time.",8
+JACKIE,"Look, the Jackson City police just called me… Yeah. They're looking for you.",13
+JUNE,What'd you tell them?,4
+JACKIE,Nothing but they brought up Pinker and they wanted to know what he might want with you.,17
+JUNE,Pinker's dead. I heard it on the news today.,9
+JACKIE,"Well, maybe you'd better call him... just in case he's not.",11
+WERTHER,June?,1
+JUNE,I got to go.,4
+JACKIE,June?,1
+PINKER RAWLS,"Hey, Jackie.",2
+PINKER RAWLS,"That's not very friendly, Jackie.",5
+PINKER RAWLS,Jackie...,1
+PINKER RAWLS,Tell me where she is.,5
+JUNE,I'm not telling you anything.,5
+SCULLY,Jackie Gurwitch? FBI!,3
+MULDER,Where'd he go?,3
+JACKIE,He left.,2
+SCULLY,"Her son's spending the night at a friend's house and she's going to meet them there. She said that she didn't tell Rawls where her sister was. Mulder, she said that he walked right through the wall.",37
+MULDER,Bo Merkle's car is parked down the street. That's how he got here. I don't know how he left.,19
+SCULLY,Maybe he left on foot or he stole another car.,10
+MULDER,Why would he leave without getting the information he wanted?,10
+SCULLY,"Well, maybe he's still in the neighborhood. I think the, uh, local PD can search but we have to get going.",21
+MULDER,Where to?,2
+SCULLY,To Meridian. That's where June Gurwitch lives... or June Burdett as she's now called.,14
+WERTHER,Yes?,1
+SCULLY,"Agents Scully and Mulder with the FBI. We are looking for June Gurwitch, also known as June Burdett.",18
+WERTHER,"""also known as..."" June. Look, what's this all about?",9
+SCULLY,An escaped convict by the name of Wilson Pinker Rawls-- we believe that he may be pursuing Ms. Gurwitch with the intention of harming her.,25
+WERTHER,"""Gurwitch""? I don't understand.",4
+MULDER,June?,1
+JUNE,"Pinker's alive, isn't he?",4
+JUNE,Jackie? She and her son...?,5
+SCULLY,They're fine.,2
+MULDER,Who is Rawls to you?,5
+JUNE,"A mistake. The biggest one of many. We lived together. Are you sure you know who you're looking for? I remember one time this guy cuts Pinker off on the highway. I mean, just cut him off-you know, kind of thing that happens to everybody every day. He followed this guy for 62 miles right over the state line-- 62 miles-me pleading with him the whole way to stop. Follows the guy up to his house. The guy gets out of his car, smiling. He doesn't know what's coming to him. Pinker pulls a picket off a white picket fence and cracks that guy's skull open with it. He's not going to stop.",113
+MULDER,"What does Rawls want? The money? $90,000 from the Bay Saint Louis robbery?",13
+JUNE,"I didn't even know about that till they came to the door to arrest him, okay? I mean, Pinker was already in prison before I found that money.",28
+JUNE,By accident.,2
+SCULLY,So you took it.,4
+JUNE,"Eventually, yeah. I thought about it for about a week or two.",12
+MULDER,And where's the money now?,5
+JUNE,Put a down payment on this place. Bought a couple of sofas... chintz curtains... PC for Robert.,17
+JUNE,I just wanted another chance.,5
+ROBERT WERTHER,"Look, I have a job. I've got responsibilities. I can't just disappear like this.",14
+SCULLY,It's best you both stay under 24-hour guard until Rawls is apprehended. It's for your protection.,16
+ROBERT WERTHER,"No, it's for her protection. Let's be clear here. This guy Rawls or whoever, he's not looking for me. She took his money.",23
+JUNE,"Robert, I'm sorry...",3
+WERTHER,"Excuse me. I've got my own place. I promise to stay the hell away from here, okay? How about it?",20
+WERTHER,"Look, I just want to get out of here, okay? I didn't break any laws.",15
+SCULLY,"Don't discuss this with anyone, Mr. Werther.",7
+ROBERT WERTHER,I'm forgetting it ever happened.,5
+MULDER,Give me your keys.,4
+MULDER,Get her out of here. I want a guard on her at all times.,14
+SCULLY,Rawls was in the trunk?,5
+MULDER,Yeah. And we took him right where he wanted to go.,11
+SCULLY,Mulder?,1
+MULDER,You think he's trying to tell us something?,8
+MULDER,"Scully, look at this. I'm assuming Rawls wrote this with his finger just like the other one. Look here.",19
+SCULLY,He stopped at the mirror.,5
+MULDER,"Or the mirror stopped him. What makes an object solid, Scully? I mean, what, what prevents one solid object from passing through another solid object, usually?",26
+SCULLY,Electrostatic repulsion. Individual electrons repelling one another like magnets.,9
+MULDER,Electrons. What if Rawls's ability somehow has to do electricity? What would preclude it or contain it?,17
+SCULLY,"Resistance against electrical current. A good insulator like rubber, like glass.",11
+MULDER,Exactly. Rawls couldn't pass through this.,6
+SCULLY,"Say... say that your theory is correct- that he can walk through walls. Why go through all this effort over an old robbery score? It's $90,000-- he could get that anywhere, right?",32
+MULDER,It's not about the money. It's never been about the money.,11
+SCULLY,Yet he turned this place upside down which means he was looking for something. And I think it has to do with this. It's a lien on unpaid hospital bills dating back to 1992 and the patient name is June Gurwitch. And this is an IC D-9 number-- a hospital diagnostic code. This particular one means...,56
+MULDER,Pregnancy.,1
+SCULLY,"Right. Specifically, c-section.",3
+MULDER,This is seven years ago. That's just a few months after Rawls was sent to a prison farm.,18
+SCULLY,"Uh-huh. ""I want what's mine."" This man is looking for his child, Mulder.",13
+NEWSCASTER,...and will return in time to take part in meetings at the UN. a statewide manhunt is underway at this point as escaped convict Wilson Pinker Rawls-- a man previously thought to be a victim of Tuesday's storm-- continues to elude police. He is to be considered armed and extremely dangerous.,51
+JUNE,I'd like to call my sister.,6
+TROOPER COLLINS,"Sorry, ma'am. No calls.",4
+TROOPER COLLINS,"This is a non-smoking room, ma'am.",6
+ANOTHER TROOPER,Looks like Collins put up a fight. Guess it wasn't enough. I can't tell you what happened here-- how Rawls got in-- but he took the woman with him.,29
+MULDER,Where are they headed?,4
+ANOTHER TROOPER,They stole a station wagon. Last seen headed south.,9
+SCULLY,He has to intend for June to lead him to his child.,12
+MULDER,"Yeah, we got to get there first.",7
+SCULLY,"Yeah, but where? We don't have a name or an address. I mean, June may not either, for that matter. If the child was … was adopted... I think our best bet is to go through state records but it's going to take some time.",45
+MULDER,I'm going to need some equipment. Special issue.,8
+JUNE,"Pinker, I apologize. Look, I'm really scared right now, okay? Talk to me. Please... please say something. Anything. Look, I'm sorry about the money-- your money. I shouldn't have taken it. It was wrong. I was wrong. Pinker, I can pay you back.",43
+PINKER RAWLS,What was it? What'd you have?,6
+PINKER RAWLS,You dumb bitch. You don't even know what I'm talking about. What'd you have? Was it a boy or a girl?,21
+JUNE,A boy... a boy.,4
+PINKER RAWLS,"A boy … a boy... a boy. What's his name? You know his name, don't you?",16
+JUNE,Trevor Andrew.,2
+PINKER RAWLS,Trevor what?,2
+JUNE,Trevor Andrew.,2
+PINKER RAWLS,"Trevor Andrew … Rawls. You never were going to tell me. I'd have gone to my grave never knowing. But years later, a million-to-one shot, I hear on the Farm from a guy who knew a guy who knew a guy. You know what that means? That means God wanted me to know. He fixed it so I'd hear... and then he fixed it so I'd have passage. And I'm here. God's will.",73
+JUNE,What do you want with the boy?,7
+PINKER RAWLS,He's my son. Now you're going to take me to him.,11
+SCULLY,"Yeah, can you also check her alias, please? It's Burdett, B-u-r-d-e-t-t. …",12
+MULDER,"It was a live birth-- that's all you can tell me? Yeah, can you check on that, please?",18
+TROOPER,This what you were looking for?,6
+MULDER,Yes. Thank you.,3
+SCULLY,"All right, thank you very much. No match on Burdett or Gurwitch.",12
+MULDER,Riot slugs-- rubber. Uh-huh. … Yeah. … No. … Thank you. It's a boy. That's all I got.,18
+SCULLY,Sealed files?,2
+MULDER,"No official files. No adoption records, no records of foster care in Alabama, Mississippi, Louisiana, nothing.",16
+SCULLY,"Well, maybe she didn't go through official channels. Maybe the kid's with a friend or a relative somewhere.",18
+TREVOR,"Vroom, vroom, blam!",3
+JACKIE,"Come on, Trevor, put your...",5
+TREVOR,Blam!,1
+JACKIE,"Trevor, put your toys away. Dinner's almost ready. Trevor?",9
+TREVOR,I'll get it.,3
+JACKIE,No. Go wash your hands. I'll get it.,8
+MULDER,"Jackie, this is Agent Mulder…",5
+JACKIE,June.,1
+JUNE,I'm so sorry.,3
+PINKER RAWLS,"You could have saved me a trip. Where is he? My boy, where is he?",15
+PINKER RAWLS,"Right. I appreciate all you've done. Taking care of him. You're a good mother. Better than some, I could say.",20
+PINKER RAWLS,Something smells good in here. What are you going to have?,11
+TREVOR,"Hi, Aunt June.",3
+JUNE,"Hey, baby.",2
+PINKER RAWLS,You shut up!,3
+JUNE,No! No!,2
+PINKER RAWLS,"Now you... you sit him back down, and you feed him his supper. It's all right. It's going to be all right. D-d-don't be upset. I ain't mad at you, buddy.",31
+JACKIE,"It's okay, Trevor, Mama's here, okay?",6
+PINKER RAWLS,"Come on, I'm not going to hurt you. It's okay, buddy. Why don't you come over here. We'll have a man-to-man. Just have uh, a nice talk, you and me.",30
+PINKER RAWLS,"Uh... you're Trevor, right? Trevor Andrew. That's your name. My name is Pinker. But you can call me Pinky.",19
+PINKER RAWLS,"Any-anyway, uh... You and me, we're going to take a trip.",11
+JACKIE,Pinker.,1
+PINKER RAWLS,"Shut up, please. You got some stuff you want to pack up? Some toys and stuff? Trevor...? Jackie?",18
+JACKIE,"Trevor, go. Go and pack some stuff, okay?",8
+TREVOR,Okay.,1
+PINKER RAWLS,He's a good boy.,4
+JACKIE,"Trevor, run!",2
+PINKER RAWLS,Trevor! Trevor...!,2
+PINKER RAWLS,"Trevor...! Trevor? Hey, buddy.",4
+PINKER RAWLS,"Hey, buddy. Hey, Trevor.",4
+PINKER RAWLS,"Hey, buddy!",2
+MULDER,"Get him out of here, Scully.",6
+MULDER,Don't make me shoot you. Don't make me shoot you.,10
+PINKER RAWLS,Trevor!,1
+SCULLY,Okay... Everything's going to be all right. We're going to get you to a safe place.,16
+SCULLY,Let's go. Run. Run. Run. Get inside. Get inside. Get inside. Get inside.,13
+PINKER RAWLS,"Give me my son! Trevor! Give me my son! Trevor! Give me my son, now!",15
+SCULLY,No!,1
+PINKER RAWLS,Trevor!,1
+JUNE,I had to do it. He would have hurt Trevor. He would... God only knows what he was thinking.,19
+JUNE,What did he want?,4
+MULDER,Maybe another chance.,3

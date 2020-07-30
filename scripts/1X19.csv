@@ -1,0 +1,306 @@
+speaker,line,words
+DYER,"You’re supposed to be in charge here, Perkins.",8
+PERKINS,I am in charge.,4
+DYER,"Well, these men want some answers. They want to know what you’re plan is. Let’s face it, this thing could kill us all.",23
+PERKINS,We should’ve been gone two days ago. Nobody would listen to me.,12
+DYER,"Nobody knew what it was two days ago, Perkins. Nobody knows now.",12
+PERKINS,Somebody has to go for help.,6
+DYER,What about the rest of us? What are we supposed to do? Just wait here until help arrives?,18
+PERKINS,"We have to take a chance, one of us has to hike out!",13
+DYER,"That person might not make it in time. He might not make it down to the road before nightfall! Then what? I say we make a run for it, split up, take our chances!",34
+PERKINS,"It’s suicide, Dyer.",3
+DYER,Fine. You stay here. Tell us how it turns out.,10
+MAN,Hurry up!,2
+ANOTHER MAN,You’re going the wrong way!,5
+DYER,I think it’s broken.,4
+PERKINS,"Come on, you got to get up.",7
+DYER,I don’t think I can make it.,7
+PERKINS,We gotta keep moving.,4
+DYER,We’re not going to make it. We’re not going...,9
+MULDER,"Take a good look, Scully.",5
+SCULLY,What am I looking at?,5
+MULDER,"Thirty loggers working a clear-cutting contract in Washington State. Rugged, manly men in the full bloom of their manhood.",19
+SCULLY,"Right, but what am I looking for?",7
+MULDER,"Anything strange, unexplainable, unlikely... boyfriend?",5
+SCULLY,"I don’t know, I... I give up, Mulder.",8
+MULDER,"You give up? Funny, that’s apparently what the Federal Forest Service has done as well.",15
+SCULLY,"Why, what happened to them?",5
+MULDER,"In a word, they vanished. Or so it would appear. This is Doug Spinney and Steven Teague. They call themselves ""monkey wrenchers."" The guys who drive spikes into trees, sabotage logging equipment and otherwise make life miserable for lumberjacks and lumbermills.",41
+SCULLY,Ecoterrorists or militant environmentalists.,4
+MULDER,"Right. Two weeks ago, the group of loggers I just showed you radioed a message that Spinney and Teague had gone on a spree. Spiking trees, sabotaging equipment, causing general mischief. One week later, all radio communication was cut off.",40
+SCULLY,Do they know why?,4
+MULDER,No. The lumber company that employs the men has asked the Federal Forest Service to look into the matter. Two officials were sent in a week ago and no one has heard from them since.,35
+SCULLY,It appears as if these monkey wrenchers are doing more than just a little mischief-making.,15
+MULDER,That’s what the lumber company and the Federal Forest Service are accusing. They’ve asked the F.B.I. to investigate. I had to pull a few strings to make sure we got the case.,32
+SCULLY,For an ecoterrorism case? Do I dare ask why?,9
+MULDER,"In 1934, long before anyone even knew what an ecoterrorist was, a W.P.A. crew vanished from that same area without a trace. Not one of those men was ever found or heard from again.",34
+SCULLY,And you suspect what? Bigfoot?,5
+MULDER,"Not likely. That’s a lot of flannel to be choking down even for Bigfoot. Come on, Scully, it’ll be a nice trip to the forest.",25
+MULDER,"Hi. Fox Mulder, this is Dana Scully, we’re with the F.B.I.",11
+MOORE,"Larry Moore, Federal Forest Service. You can put your gear in the back of the truck.",16
+SCULLY,"Must be pretty rugged where we’re going, huh?",8
+MOORE,Yeah.,1
+MULDER,What’s that in your windshield there? Is that a bullet hole?,11
+MOORE,.22 caliber.,2
+MULDER,Somebody took a shot at you?,6
+MOORE,So it would appear. There’s not much to hunt around here with that type of ammo except Freddies.,18
+SCULLY,"""Freddies?""",1
+MOORE,"Employees of the Federal Forest Service. It’s, uh, it’s what the ecoterrorists call us.",14
+MULDER,Is that who you think took a shot at you?,10
+MOORE,Let me get this out of the way. I have no quarrel with these ecoterrorists in principle. And I’m as concerned for this forest and the environment as anybody. It’s their methods I can’t condone.,35
+SCULLY,Do you think they’d go so far as to kill a man?,12
+MOORE,"Well, there’s thirty men up there unaccounted for, each with survival experience. Something happened to them.",16
+HUMPHREYS,"Sorry I’m late. I was down talking to Bob Perkins’ wife. He’s one of our missing loggers. Hey, Larry.",19
+MOORE,Hey.,1
+HUMPHREYS,"Steve Humphreys, head of security for Schiff-Immergut Lumber.",8
+MULDER,"Mulder, Scully.",2
+HUMPHREYS,"Well, we’ve got a four hour drive ahead of us. Plenty of time to get to know each other.",19
+SCULLY,Get the impression that we’ve walked into the middle of a war that’s already started? Why do these men work so far up in the wilderness?,26
+HUMPHREYS,That’s where the trees are.,5
+SCULLY,"You’re kidding, right?",3
+HUMPHREYS,"No, environmentalists have pretty much made sure that all the land you see here is untouchable. We’re forced to take our timber where we can get it. Even then, we plant saplings for every tree we take.",37
+MULDER,So why do the ecoterrorists target you?,7
+HUMPHREYS,"See, these tree-huggers comes from the same kind of boys that went up to Canada during the Vietnam war. They’re cowardly and so are their tactics.",26
+MOORE,Damn it. Homemade tire spike. Clear through the sidewall. It’s unfixable.,11
+MULDER,"You got a spare, don’t you?",6
+HUMPHREYS,"Right tire’s history too. Monkey wrenchers call it a caltrop. The roads back here are littered with them. Indiscriminate terrorism. Can you imagine somebody putting these down or spiking the roads of Washington, D.C.? I’d like to see how much sympathy they get then.",44
+SCULLY,So how are we going to get up to the camp?,11
+MOORE,We’re going to have to hike. Anybody here?,8
+MULDER,Someone forgot to clean their plate.,6
+SCULLY,Looks like they left in a hurry too.,8
+HUMPHREYS,Find anything?,2
+MULDER,Party favors.,2
+HUMPHREYS,"All the vehicles have all been monkey wrenched, power generator’s busted.",11
+SCULLY,Somebody really turned this place upside-down.,6
+HUMPHREYS,"Whoever did it didn’t want the fact broadcast, either.",9
+MOORE,Radiators are all full of rice. Looks like sugar or sand in the crankcases. They really did a number here.,20
+HUMPHREYS,Sun’s going down in an hour and a half.,9
+MOORE,Better take a look around before it gets dark.,9
+HUMPHREYS,I’ll see if I can get that generator working.,9
+SCULLY,"Well, you were right about one thing.",7
+MULDER,What’s that?,2
+SCULLY,It definitely wasn’t Bigfoot.,4
+MULDER,Look at that.,3
+SCULLY,What is it?,3
+MOORE,Looks like a hive. Maybe a cocoon of some kind.,10
+MULDER,Made by what?,3
+MOORE,"I don’t know, I’ve never seen anything like it.",9
+SCULLY,Got it.,2
+MOORE,Can you cut it down?,5
+SCULLY,"Yeah, I think so.",4
+MULDER,"You alright, Scully?",3
+SCULLY,"Oh God... It feels, uh... it feels dessicated and hard and dry, almost... preserved.",14
+MOORE,Like it’s been enbalmed.,4
+SCULLY,"No, more like all the fluids have been bled from this body. Almost like it’s been cured. I think... it’s a male.",22
+MULDER,Barely.,1
+MOORE,"I’d say it’s, uh, some kind of spider’s nest or insect cocoon.",12
+SCULLY,What kind of an insect could have gotten a man all the way up into that tree?,17
+MULDER,Itsy-bitsy spider.,2
+HUMPHREYS,Don’t move. Who are you? Doug Spinney. I oughta shoot you where you stand.,14
+SPINNEY,Might as well shoot yourself too.,6
+HUMPHREYS,You’re in a hell of a spot to be testing me. What happened to my men?,16
+SPINNEY,What men?,2
+HUMPHREYS,The men who were working this camp.,7
+SPINNEY,I don’t know what happened to them. Probably the same thing that’ll happen to us when the sun goes down.,20
+MULDER,What are you doing?,4
+HUMPHREYS,This animal is Doug Spinney. He’s the man responsible for all the monkey wrenching. He’s probably a murderer as well.,20
+SPINNEY,I’m no murderer.,3
+HUMPHREYS,You’re a liar.,3
+MULDER,Let’s just hear what he has to say.,8
+SPINNEY,"If we stand around here talking, there’ll be nothing left to say. I’d start thinking about how to get that generator started. Darkness is our enemy.",26
+HUMPHREYS,What’s he talking about?,4
+SPINNEY,Someone want to give me a hand?,7
+HUMPHREYS,Now he’s giving orders? I’m the one who fixed the damn thing!,12
+MULDER,"Hey, it’s alright. Why did you say that darkness was our enemy?",12
+SPINNEY,That’s when they come.,4
+SCULLY,When who comes?,3
+SPINNEY,"I don’t know what it is. They come from the sky, take a man right off his feet and devour him alive. I saw it happen.",26
+MULDER,Happen to who?,3
+SPINNEY,I need to eat. I haven’t eaten in three days.,10
+HUMPHREYS,"What kind of a B.S. story is that, huh? You believe that?",12
+SCULLY,We found something in the forest.,6
+HUMPHREYS,What?,1
+MOORE,A man caught in some kind of insect cocoon.,9
+MULDER,What happened here?,3
+SPINNEY,"We camped two valleys over, four of us. Three now.",10
+HUMPHREYS,More rats for the wood pile.,6
+SPINNEY,Our truck has a dead battery so we drew straws to see who would make the hike over here to steal one from the loggers.,25
+MULDER,Why not just hike out?,5
+SPINNEY,More than a day’s hike. No way we’d want to be caught out in the forest after dark. Not after what happened to Teague.,24
+SCULLY,That’s the man you said that was devoured alive?,9
+SPINNEY,Yeah.,1
+MULDER,What are you guys doing out here?,7
+SPINNEY,Camping.,1
+HUMPHREYS,"Yeah, right. The kind of camping you do is a federal offense.",12
+MULDER,"Just, just hold off a second, okay?",7
+MOORE,"No, he’s right. This man is an admitted felon. He could be placed under arrest.",15
+SPINNEY,"What about your offense, my friend, huh? What about the offense against nature you perpetrate?",15
+HUMPHREYS,We operate completely within the law. We pay for the right to take those trees.,15
+SPINNEY,"Oh, yeah? Well, I got news for you. Your logging crew has taken trees that nobody has the right to, trees that are marked and protected so don’t talk to me about breaking the law! Sir.",36
+MOORE,They’ve been taking marked trees?,5
+SPINNEY,"Yes sir, marked in orange.",5
+MOORE,"Old growth trees? You know anything about that, Steve?",9
+HUMPHREYS,No. You going to take this man’s word over mine?,10
+SPINNEY,You don’t want to go out in the night. Take my word on that. It’s out there.,17
+HUMPHREYS,"What? If I go out that door, something’s going to attack me, eat me alive and spin me in it’s web?",21
+SPINNEY,Yes.,1
+HUMPHREYS,"What, it’s too polite to come in here and get me?",11
+SPINNEY,"For some reason, it’s, uh, afraid of the light.",9
+HUMPHREYS,It’s afraid of the light.,5
+MOORE,"There may be something to what he’s saying, Steve.",9
+HUMPHREYS,"You know what I think? I think this man is a liar and a murderer and just clever enough to make up a story like that. Even whip up that cocoon just to save a few trees and I’m going to prove I’m right. This is ridiculous. Where is it, Spinney? I thought it was going to come and, uh, devour me! Hey! Here I am! Come out, come out wherever you! Aw, don’t be shy! Come on! Huh? It’s just like a told ya. There’s nothing out here but a bunch of trees. Trees that this man values more than human life. And I’m going to see him tried on murder charges.",113
+SCULLY,What do you think?,4
+MULDER,I think I’m going to suggest that we sleep with the lights on.,13
+SPINNEY,You see this Douglas Fir? It’s been standing here since before your time and your men cut it down.,19
+SCULLY,Who marks these trees?,4
+MOORE,"Federal Forest Service. They’re only supposed to cut trees with a blue ""X.""",13
+MULDER,This tree must be hundreds of years old.,8
+MOORE,At least.,2
+SCULLY,You must get a lot of lumber from a big tree like this.,13
+SPINNEY,"Thousands of boards. Hell of a lot easier than taking a lot of smaller, younger trees.",16
+HUMPHREYS,"Well, let me remind you that monkey wrenchers like Spinney here are not above marking trees with their own paint.",20
+MOORE,"This tree’s 500 years old if it’s a day, Steve.",10
+MULDER,"Hey, look at this. What would this represent?",8
+MOORE,I don’t know. I’ve never seen a ring like that before.,11
+SCULLY,"Those center rings are the older rings, right?",8
+MOORE,"Yeah. Every ring represents a season growth. And you see these? These are 500, 600 years old. They’re a recorded history of rainfall and climate. But this one... I don’t know. I should take a core sample.",37
+HUMPHREYS,Have we finished with this nature walk? I want an answer to what happened to those loggers.,17
+SCULLY,"That’s what we’re trying to determine, sir.",7
+HUMPHREYS,Looking at a tree stump? Don’t you think you should be interrogating this man?,14
+MULDER,I don’t think he did it.,6
+HUMPHREYS,"Well, I think he did and I want him arrested.",10
+MULDER,"Well, he’s not going anywhere!",5
+HUMPHREYS,"No, not with a gun on him. But what happens when you’re poking around and his three buddies show up and do to you what they probably did to those two Federal Forest officers? Huh? Larry?",36
+MOORE,"I just want to take a core sample of this tree, Steve.",12
+HUMPHREYS,"Hey, I got families down there who want some answers about their loved ones and so do you! Answers that aren’t going to be found in that tree.",28
+SPINNEY,Only crime we’re here to investigate is the death of that tree.,12
+HUMPHREYS,"Yeah, we’ll see about that.",5
+MOORE,"Steve, where you going?",4
+HUMPHREYS,"I’m going to hike down to your truck, get on the horn and get some people up here who’ll take some action!",22
+MOORE,Steve!,1
+SPINNEY,"Aw, let him go. Let him find out for himself.",10
+MOORE,"This is odd. This yellow ring’s got something living in it, some kind of… tiny bug. It doesn’t make sense.",20
+SCULLY,Why not?,2
+MOORE,"Well, parasites attack a tree in a variety of ways, but they always attack the living parts. The leaves, the roots, the new growth rings. Even if they’re borers of something, they wouldn’t be working so deep in the tree.",40
+MULDER,Maybe the wood in this ring is different. They’re feeding on it.,12
+SCULLY,Can you identify them?,4
+MOORE,It’s a wood mite of some kind. It’s nothing I’ve ever seen before.,13
+MULDER,Could they have been living in that tree for hundreds of years?,12
+MOORE,"I don’t see how. I mean, these inner rings are essentially dead wood. The tree’s vascular system is limited to the outer few rings, they need water to survive.",29
+SCULLY,"Well, they appear to be hatching out of the porous wood. Maybe when you drew out this core, you tapped into a larger nest.",24
+SPINNEY,Can they build a cocoon? Right after that tree was cut down is when Teague died. It’s about the same time the loggers disappeared too.,25
+SCULLY,You think these mites are what killed the men?,9
+SPINNEY,Maybe they been lying there dormant for hundreds of years. Maybe they woke up hungry.,15
+HUMPHREYS,"Damn it! Alright, you monkey wrenchers! Come on out now! I know what you’re up to!",16
+MOORE,Humphreys should have been back by now.,7
+SCULLY,These bugs aren’t moving anymore. They’re either dead or they’re asleep.,11
+SPINNEY,It’s the light. They don’t like the light.,8
+SCULLY,"That’s weird, I mean, usually bugs are attracted to light.",10
+SPINNEY,These obviously are not your ordinary bugs to say the least.,11
+MULDER,"What do you know about insects, Scully?",7
+SCULLY,"Uh, just what I learned in my biology courses. That they’re the foundation of our ecosystem. That there’s lots of them, something like 200 million per person on this planet.",30
+MULDER,"And they’ve been around a long time, right?",8
+SCULLY,"Yeah, something like 600 million years, even before the dinosaurs. Why?",11
+MULDER,"And this tree is what, 5, 6, 700 years old?",10
+MOORE,Yeah.,1
+MULDER,"And these rings represent a history of climatic changes, which means that in this year or season in the life of the tree, there was some kind of strange event that produced an abnormal ring.",35
+SCULLY,"Well, like what, exactly?",4
+MULDER,A volcanic eruption. This whole chain of mountains running from Washington to Oregon is still extremely active. Remember Mt. St. Helens?,21
+SCULLY,"Yeah, but how does that explain the bugs?",8
+MULDER,"When Mt. St. Helens erupted, there was a large amount of radiation that was released from inside the earth. Strange things started to grow. There’s actually this lake where they’ve discovered a kind of amoeba that can literally suck a man’s brains out.",43
+SCULLY,"Oh, a brain-sucking amoeba.",4
+SPINNEY,"No, it’s true. Spirit Lake. And there’s documented cases of swimmers being infected.",13
+SCULLY,But an amoeba is a single-celled organism. It can be mutated. An insect is a complex animal. It would take years and years to evolve.,25
+MULDER,"Well, then maybe what we’re dealing with isn’t a mutation at all. What if it’s some kind of... extinct insect larvae in that ring, deposited during a period of volcanic activity, brought up through the tree’s root system. Ancient insect eggs. Thousands, maybe millions of years old lying dormant until...",50
+SPINNEY,"Until those loggers cut down that tree. That would be rather poetic justice, don’t you think? Unleashing the very thing that would end up killing them and your friend Humphreys? And who knows? Maybe us. Sweet dreams.",37
+MOORE,Humphreys might have just hiked out of here. We don’t know that he didn’t. Maybe we’re letting ourselves get carried away with this bug story.,25
+MULDER,"Yeah, maybe. Going somewhere?",4
+SPINNEY,"No, I was just...",4
+MULDER,Doing a little auto repair. Looks to me like you’re planning on cutting out of here.,16
+SPINNEY,"I gotta save my friends. They only had enough gas to keep their generator running fifteen, twenty hours max. They’re gonna die if I don’t get back there.",28
+MULDER,So why are you sneaking around?,6
+SPINNEY,"Freddy. Forest Service guy, he wouldn’t go for it. He’d never trust me.",13
+MULDER,He’s got no reason to. Neither do I.,8
+SPINNEY,"Look, I can save us all, man. We’ve got a jeep over there, it’s just two valleys over, all it needs is a battery. Now, I can get there, I can get back here in the morning. We can all drive out tomorrow. You got to trust me, man.",49
+MULDER,Radio is back up.,4
+SCULLY,It’s working?,2
+MULDER,I’m not getting any reception so the reciever could be trashed.,11
+SCULLY,"What about transmissions, could we send a message?",8
+MULDER,"We could try. This is a call for help, is there anyone at this frequency? This is Special Agent Mulder of the F.B.I., we have an emergency and a possible quarantine situation. Our position is... What happened to the generator?",40
+MOORE,I turned it off.,4
+MULDER,"Well, turn it back on, I got the radio working.",10
+MOORE,What happened to the gas can?,6
+MULDER,Spinney took it.,3
+MOORE,He took it? You mean he’s gone?,7
+MULDER,He left earlier this morning. He took a battery and some gas. He’s gonna come back for us in the morning.,21
+MOORE,"Yeah, what, he gave you his personal guarantee on that?",10
+MULDER,"He gave me his word, yeah.",6
+MOORE,Did you stop to think that the man who gave you his word has made an art out of sabotage? And defying authority? And is probably the same man who put the bullet through my windshield?,36
+MULDER,"Well, what would you have done? At least now we’ve got one chance of getting out of here alive which is one more chance than we had before.",28
+MOORE,Or one less.,3
+SCULLY,What do you mean?,4
+MOORE,"Your partner let Spinney leave with the last of the gas. This generator’s got about a quarter tank left, maybe less.",21
+SCULLY,What about the gas in the trucks?,7
+MULDER,"There is no more gas, the other tanks have all been ruptured or filled with sugar.",16
+MOORE,By the same man who we are now trusting to keep his word and come back for us.,18
+SCULLY,"Well, then we’ve got to get back on the radio, we’ve got to send out a mayday.",17
+MOORE,"Every drop of fuel we waste is fuel that’s gonna keep this gennie powered tonight. I mean, I don’t want to be waiting around hoping somebody heard that transmission when this thing quits running about two o’clock in the morning. Do you?",42
+SCULLY,Mulder...,1
+MULDER,"Look, it’s done. I shouldn’t have let him go. Let’s just move past it, okay?",15
+SCULLY,Fine. What do you suggest?,5
+MULDER,I don’t know. We’ll think of something.,7
+SCULLY,"Look, I think we both have a pretty good idea of what happened to those loggers and what happened to the group in 1934.",24
+MULDER,We only found one cocoon.,5
+SCULLY,It’s a big forest.,4
+MULDER,"Look, Scully, what would you have done?",7
+SCULLY,"You mean, would I have made a decision by myself that would have affected the whole group?",17
+MULDER,"Oh, will you cut the sanctimonious crap?",7
+SCULLY,"Well, what do you want me to say? Let’s face it, Mulder, we might die up here! If we’re lucky, they’ll find our bodies spun up in a tree or they may not find us at all!",37
+MULDER,You’re right. And we’re wasting time arguing about it.,9
+SCULLY,What are you going to do?,6
+MULDER,"Button this place up. If we’re gonna spend the night in here, we’ve got to do everything we can to make sure the bugs stay out there.",27
+MOORE,I’d be careful with that. It’s the only bulb that works.,11
+SCULLY,"I can see them. You guys, look at this. Look, they’re coming through the wall down where it’s dark. You see them? They’re on me.",25
+MULDER,"It’s alright, Scully, Scully...",4
+SCULLY,Get them off me!,4
+MULDER,Stop moving! Stop!,3
+MOORE,"Whoa, watch it!",3
+MULDER,Stand still! Stand still!,4
+SCULLY,"Can you see them? Mulder, get them off me!",9
+MULDER,They’re not just on you. They’re everywhere. I think that’s what that greasy residue is over everything.,17
+SCULLY,I thought we were supposed to be safe in the light!,11
+MULDER,We are. I think the light keeps them from swarming. We’ll be safe as long as we stay in the light. How are you doing?,25
+SCULLY,I’m okay. They’re oxidizing enzymes. Just like fireflies. Maybe that’s why they cocoon their prey... so they can oxidize the proteins taken from the fluids in the body. What if the generator goes? Are they all going to swarm in here and drain the life out of us?,48
+MULDER,We got an hour and a half till sunrise.,9
+SCULLY,And then what? It’s over a day’s hike out of here. We won’t make it on foot by nightfall.,19
+MULDER,Maybe somebody heard our radio transmission. Help could be on the way.,12
+SCULLY,"Oh, you sent that call hours ago. I mean, help would have been here by now.",16
+MULDER,"Well, I’m not going to give up on Spinney. He gave me his word he’d come back to get us.",20
+SCULLY,And if he doesn’t?,4
+MULDER,We’ll think of something. You got a patch kit or an extra tube in your truck?,16
+MOORE,Yeah.,1
+MULDER,"Maybe we can patch this or at least get it to hold some air. With the spare in your truck, maybe we can limp down the mountain. If not, at least we can get on the radio and warn them what’s out there.",43
+MOORE,See it?,2
+MULDER,Yeah.,1
+MOORE,Listen. You hear that? It’s a car!,7
+MULDER,"No, it’s a jeep!",4
+SPINNEY,"We gotta move, let’s go! Let’s go!",7
+MOORE,Wait! What about the body... Humphrey’s body?,7
+SPINNEY,"Leave it, I’ve radioed for help.",6
+MULDER,What happened to your friends?,5
+SPINNEY,They didn’t make it. We’re not going to make it either unless we haul ass! Damn it! I don’t believe it.,21
+MOORE,When you talk about shooting yourself in the foot...,9
+MULDER,Get out of there! Get back in the car!,9
+MAN,"We have an emergency evacuation situation. Requesting quarantine facility for two, possibly three victims with undiagnosed infection or exposure to unknown biological vectors. Repeat, that’s an emergency evacuation situation. Two, possibly three victims...",33
+ANNOUNCER,"Attention, all personnel. High level bio-clearance required on third floor.",10
+MAN,How are you feeling?,4
+MULDER,Better. How did the tests come back?,7
+MAN,Your respiratory charts were good. We’re more concerned with the extent of damage due to inhalation. There were large concentrations of the chemical determined as Luciferene.,26
+MULDER,Which is what?,3
+MAN,The same enzymes we find in fireflies and other bioluminescent insects. Our entomologists are still trying to determine the specific epithet of the insects you encountered.,26
+MULDER,Scully? How is she doing?,5
+MAN,"She’s still not out of the woods, so to speak. She lost a lot of fluids. Two or three more hours of exposure, she might not have made it.",29
+MULDER,I told her it was going to be a nice trip to the forest. How you going to contain it to the forest. What if the swarm migrates?,28
+MAN,"The government has initiated eradication procedures. They’re quite certain that by using a combination of controlled burns and pesticides, they will be successful.",23
+MULDER,And if they’re not?,4
+MAN,"That is not an option, Mr. Mulder.",7

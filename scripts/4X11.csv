@@ -1,0 +1,368 @@
+speaker,line,words
+FLAKITA,"Quiet! Quiet, listen to me. It was a terrible thing. You’re not going to believe me, even when I tell you. Some say it is a story, a fairy tale. But I saw it. I saw it with my own eyes.",41
+ANGLO MAN,Quiero hombres fuertes. Rapido. Let’s go. Vamos.,7
+ELADIO,"I missed you last night, my love.",7
+MARIA,I’m not your love,4
+SOLEDAD,Gracias.,1
+MARIA,Your brother will see us. He says I’m breaking his heart.,11
+ELADIO,Are you?,2
+MARIA,No.,1
+ELADIO,Si.,1
+MARIA,No.,1
+MARIA,No. Are you calling me a liar?,7
+ELADIO,Si.,1
+FLAKITA,Maria! What are you doing? The goats! The goats are escaping!,11
+FLAKITA,Two brothers. One woman. Trouble.,5
+VILLAGE WOMAN,nan,1
+FLAKITA,Mm hmm.,2
+FLAKITA,Look – the rain is strange.,6
+FLAKITA,Look at the water - it’s yellow. Las cabras. Maria! Maria! Maria! Maria!,12
+FLAKITA,Madre de Dios.,3
+SCULLY,"Mulder, this happened how long ago?",6
+MULDER,"Tres dias. Muy incredible, no?",5
+SCULLY,"Only the smell. Mulder, you brought me out here on the pretense of investigating an unexplained death. Can you tell me why we’re standing out here in the middle of a field looking at a dead goat?",37
+MULDER,"Well, according to eyewitnesses, the death we’re investigating was preceded by a Fortean event. That’s a highly unusual or infrequent meteorological phenomenon also known as a transient.",27
+SCULLY,A transient.,2
+MULDER,"Yeah. Witnesses described a bright flash about 30 degrees off the horizon, then a hot yellow rain fell from a cloudless sky. Fortean researchers call these ""liquid falls."" Black and red rains are the most common, but there have also been reported cases of blue, purple and green rains.",49
+SCULLY,Purple rain?,2
+MULDER,"Yeah. Great album. Deeply flawed movie, though.",7
+SCULLY,"Mulder, this ""transient,"" as you call it, this bright flash in the sky - I assume you think it has some connection to -",22
+MULDER,"Fortean events have been linked to alien encounters, cattle mutilations, the kind of exsanguinated animal carcass you were just looking at.",21
+SCULLY,"And the victim, Maria Dorantes, did she die in a similar fashion?",12
+MULDER,I would assume so.,4
+SCULLY,You assume? Nobody’s examined the body?,6
+MULDER,"Nobody cares, Scully. The victim and many of the witnesses are illegal immigrants. Migrant farm workers.",16
+MULDER,I thought it might be important to talk to them. Before they migrated.,13
+FLAKITA,La Migra! La Migra!,4
+MULDER,No La Migra! No La Migra!,6
+SCULLY,"No La Migra, no La Migra.",6
+MULDER,No La Migra.,3
+SCULLY,"La FBI, no La Migra.",5
+MULDER,"It’s all right. We don’t want to take anybody away. Relax. No, it’s okay. Tranquile.",15
+FLAKITA,What do you want?,4
+MULDER,We want to know what happened to Maria Dorantes. Does anybody know what happened to Maria Dorantes? Did anybody see anything?,21
+FLAKITA,El Chupacabra. That’s what happened to Maria Dorantes.,8
+SCULLY,El Chupacabra?,2
+MULDER,"Yeah, its a Mexican folktale. El Chupacabra, the goatsucker. It’s a small gray creature with a big head and a small body and big black bulging eyes.",27
+FLAKITA,Si! Si! Si. Light. Then rain. Then La Chupacabra. He comes and eats away Maria’s eyes and face.,18
+MULDER,Did you see the Chupacabra?,5
+FLAKITA,No. But everyone here knows that this is the truth.,10
+SOLEDAD,This woman’s a liar! There is no Chupacabra. The Chupacabra is nothing but a story told to children. I know the killer of Maria Dorantes.,25
+SCULLY,"Who would that be, sir?",5
+SOLEDAD,"It’s my brother, Eladio Buente. He killed Maria because she loved only me.",13
+MULDER,"Uh, how do you explain the uh, the yellow rain and the dead goat over the hill?",17
+SOLEDAD,It’s a trick for fools who believe in fools’ superstitions.,10
+SCULLY,"Thank you, Mr. Buente. You’ve been very helpful.",8
+SCULLY,Maria... Maria... I just met a girl named Maria.,9
+MULDER,"I doesn’t make a whole lot of sense, Scully.",9
+SCULLY,"It makes perfect sense, Mulder. Admit it. You fell for it. Your ""Fortean Event"" turned out to be nothing more than the oldest story in the world. Two men. One woman. Trouble.",32
+MULDER,"I admit, there’s a strong suspicion of motive and intent - but the amount of detail, the description of that Chupacabra...",20
+SCULLY,"Mulder, what we’ve walked into here is a Mexican soap opera, and one for the local cops.",17
+MULDER,"Local cops don’t care, Scully. I don’t know who does.",10
+SCULLY,"Okay, I care, but what are we supposed to do about it?",12
+MULDER,Find out what killed Maria Dorantes. Take a look at her body.,12
+SCULLY,While you do what?,4
+MULDER,"Try to find this man, Eladio Buente.",7
+MULDER,Agent Lozano? I’m Special Agent Mulder. I’m with the FBI.,10
+LOZANO,The FBI? Here?,3
+MULDER,We’re investigating the death of a migrant worker.,8
+LAZANO,Really?,1
+MULDER,I’m looking for a man named Eladio Buente. He hasn’t been seen for three days and he’s not in police custody. I thought he might be in INS custody.,29
+LOZANO,"He might. Let’s see. Okay! We have a Jose Feliciano. We have Juan Valdez, we have Cesar Chavez, we have Placido Domingo here. But I don’t see any Eladio Buente",30
+MULDER,So you are telling me that no one here uses their real name.,13
+LOZANO,What is this man wanted for?,6
+MULDER,Possibly the murder of a woman named Maria Dorantes.,9
+LOZANO,"Oh, man. The Chupacabra?",4
+MULDER,Yeah. You’ve heard of it. You don’t believe in it?,10
+LOZANO,"I believe these people. But their lives are small. So they have to make these fantasies just to keep on going - to feel alive. Because they are strangers here. They feel hated, unwanted. Whenever their passions become inflamed, they resort to violence. And then they cannot turn to the law, so they make up these fantastic tales. Call it anything you want, but this is an age old story.",69
+MULDER,I’ve heard that.,3
+LAZANO,"Well, let’s see if we can find your Eladio Buente.",10
+SCULLY,Excuse me? Excuse me?,4
+CORONER,Can I help you?,4
+SCULLY,I’m Agent Dana Scully with the FBI. I’m investigating the death of a migrant worker.,15
+CORONER,Juan or Juanita?,3
+SCULLY,I’m sorry?,2
+CORONER,Doe. A man or a woman?,6
+SCULLY,"Uh, a woman named Maria Dorantes. I need to determine a cause of death in order to close out an investigation.",21
+CORONER,"Oh, it sounds vaguely familiar, but I don’t think I’ve been able to get to her, yet.",17
+SCULLY,"Well, I’m a medical doctor. If you show me the body I can examine it myself.",16
+CORONER,It’s in the fridge.,4
+SCULLY,I don’t think he’s going anywhere.,6
+CORONER,That’s her.,2
+CORONER,"Oh, my God.",3
+MULDER,Why is he segregated like this?,6
+LOZANO,Por que lo tiene segregado?,5
+GUARD,Los otros detenidos lo molesteban mucho. Ninguno se la aserga a el. La tienen un miedo terrible.,17
+LOZANO,He said that the other detainees were giving him a hard time. Causing trouble. They don’t want to go near him.,21
+MULDER,They think he’s the Chupacabra.,5
+LOZANO,"That may be, but I will tell you with a tremendous degree of certainty this guy is not Erik Estrada.",20
+(MULDER SMILES. THEY LOOK AT HIS FOLDER,"ERIK ESTRADA, HISP, M, 6-0, 190, CALIF, USA)",8
+LOZANO,Buente!,1
+LOZANO,El fbi. Quieren hacerte unas pregunttas.,6
+MULDER,Ask him if he killed Maria Dorantes.,7
+LOZANO,Quiere sabar si mataste a Maria Dorantes?,7
+ELADIO,No! No lo hice! Soy innocente! No soy asesino!!,9
+MULDER,What did he say?,4
+LOZANO,"""I didn’t do it.""",4
+MULDER,Ask him what happened.,4
+LOZANO,Que fue lo que paso?,5
+ELADIO,Huvo un ruido cumo un relampago muy cerca...,8
+LOZANO,"""There was a noise like thunder, but very close ..""",9
+ELADIO,...un rayo muy brilliante ..,4
+LOZANO,"""...and then there was lightening, very bright. It blinded me. I fell to the ground, and then I felt the hot rain fall on me. And when I finally could open my eyes and see...""",35
+LOZANO,"""...I saw the dead goat. And then I saw Maria... Maria. She called my name... once. She was lying in a puddle of yellow rain. Something had eaten at her face. Then I held her in my arms. Then she died. And then I got up, and I ran, screaming.",50
+ELADIO,Soy innocente!!!!,2
+LOZANO,This guy’s *better* than Erik Estrada.,6
+MULDER,Hmm.,1
+MULDER,What’s going to happen to him?,6
+LOZANO,"He’ll get his 45 seconds before the judge, and he’ll be placed on a south bound bus.",17
+MULDER,There any way to delay that?,6
+LOZANO,Why would you want to do that?,7
+MULDER,Try to solve an unexplained death.,6
+LOZANO,"I would think the FBI’s got better things to do. File your paperwork. By the time they process it, he’ll probably be back here, anyway.",25
+SCULLY,Did you find Eladio Buente?,5
+MULDER,"Yeah, I found him.",4
+SCULLY,Did he confess to the murder of Maria Dorantes?,9
+MULDER,"Not exactly, no.",3
+SCULLY,Did he tell you what happened?,6
+MULDER,Flash of light... yellow rain .. Maria! Maria!!!,7
+SCULLY,"He didn’t kill her, Mulder. I examined the body of Maria Dorantes, and I believe that her cause of death was natural, albeit strange. She seems to have succumb to a massive fungal infection.",34
+MULDER,A fungus?,2
+SCULLY,"Aspergillis, according to the coroner. It’s a mold that's found in dead leaves, compost, even household dust.",17
+MULDER,And it can kill?,4
+SCULLY,Not normally. It’s actually very common and quite harmless.,9
+MULDER,You don’t think that’s weird.,5
+SCULLY,"Well, aspergillis can be lethal to people with immunodeficiencies like AIDS patients and ah, transplant recipients. And I found high levels of methyl bromide in her blood workup. It’s a - a pesticide that’s used for soil sterilization. Highly toxic. Now I think that her body was so ravaged by pesticides that a normally benign fungus may have compromised her whole immune system.",62
+MULDER,It still doesn’t explain the flash of light and the yellow rain. And El Chupacabra.,15
+SCULLY,"Mulder, I know you don’t want to hear this, but I think the aliens in this story are not the villains. They’re the victims.",24
+SCULLY,Look at that.,3
+SCULLY,Mulder.,1
+MULDER,What does it look like?,5
+SCULLY,It appears this man died of systemic shock. Brought on by what appears to be another massive fungal infection,19
+MULDER,The same fungus that killed Maria Dorantes?,7
+SCULLY,"No. It looks dissimilar. I don’t know what this is. But its speed and its aggressiveness are frightening. The infection’s covered 90 percent of his body, Mulder, through both layers of skin.",32
+MULDER,Did you find him?,4
+LOZANO,We were able to round up most of the people who escaped from this vehicle but Eladio Buente wasn’t among them.,21
+SCULLY,No one knows where he ran?,6
+MULDER,"Agent Lozano, this is my partner, Agent Scully.",8
+LOZANO,"They all ran the other way, away from the Chupacabra. The man they say is responsible for this tragedy.",19
+SCULLY,Eladio Buente didn’t kill this man. He didn’t kill anybody.,10
+MULDER,"I’m not so sure about that, Scully.",7
+SCULLY,"Mulder, this is the work of a pathogen of - of some kind of a highly virulent strain.",17
+MULDER,"I’m not questioning that, but right now Eladio Buente is the only connection we have to this death and to the death of Maria Dorantes, which is why I need you to spare any manpower you can to try to find him.",42
+LOZANO,Manpower? We don’t have the resources to go chasing after one poor illegal.,13
+SCULLY,"Mulder, whatever you hope to learn by finding this man we have to first make a definitive classification of the fungi taken from the victims. I need to isolate it and I need to get a sample of it to a mycologist as quickly as possible.",46
+MULDER,Good. You should do that. While Agent Lozano and I try to find El Chupacabra.,15
+ELADIO,Senor?,1
+BARBER,What do you want?,4
+ELADIO,I need to go back to Mexico.,7
+BARBER,You want to go back? Estas loco?,7
+ELADIO,I know you have a truck – the one that brought me here.,13
+BARBER,We haul mucho basura with that truck. What makes you think we haul it back?,15
+ELADIO,Your driver must go back to the border. I need him to take me. I’ll pay you.,17
+BARBER,Give me money.,3
+ELADIO,"I have no money now, but I’ll give it to you when I return to Mexico.",16
+BARBER,"How long have you been in this country? Ni credito! Ni caridad. Equi es America, you dumb wet.",18
+ELADIO,"Please, I’ll get the money. I must leave here.",9
+BARBER,"Truck stop at dusk. No dinero, no ride. Comprende?",9
+ELADIO,Si. Dinero.,2
+BARBER,Dinero.,1
+CULVER,"Construction. I need two construction workers. Dos! Okay, you two in the back. Let’s go.",15
+CULVER,"I only need two, amigo. Dos. Hey, out of the truck. I got work to do. Hey, where are you going?",21
+CULVER,You’ll have to do.,4
+STEEN,"What you’re looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.",16
+SCULLY,Athlete’s foot?,2
+STEEN,One of the survivors of countless extermination efforts. Historically underrated. And unfairly overshadowed by the ever-popular cockroach.,17
+SCULLY,"But our body has natural defenses against this kind of invasion. I mean, even in the absence of an immunoresponse a fungi like this one or like the aspergillis sample that I gave you, don’t they need the right environment to multiply?",42
+STEEN,"Yes, unless they have help.",5
+SCULLY,What’s this?,2
+STEEN,"It’s an enzyme I isolated from both your specimens, but that’s about all I can tell you. It’s unlike any enzyme I’ve ever seen.",24
+SCULLY,"So it’s not the fungi, but the enzyme that kills.",10
+STEEN,Acting as a catalyst. As an accelerant. Let me show you. This is pucchinia graminis. Black stain rust. It’s been the cause of a fairly containable crop blight here in the Valley. Now---,33
+SCULLY,"Oh, my God.",3
+STEEN,"I must say if this were to get out into the environment, dermatophytosis might give the cockroach a run for its money. Hmm?",23
+LOZANO,"Gracias. He was here, all right. They say he got into the truck a foreman named Culver.",17
+MULDER,The story’s out.,3
+LOZANO,"Oh, yeah. I told you. These people love their stories. It’s the one thing that keeps them from going mad when they’re out there standing on the street corner all day waiting for work.",34
+MULDER,So they really don’t think he’s the Chupacabra?,8
+LOZANO,No. They’re certain of it.,5
+MULDER,Did you tell them about the fungal infection?,8
+LOZANO,"Yeah, they wouldn’t listen. They’re only interested in what will become of Eladio Buente.",14
+MULDER,What will become of him?,5
+LOZANO,When his brother finds him?,5
+MULDER,He’ll kill him,3
+LOZANO,"Yes, probably. A man cannot live with vengeance in his heart.",11
+MULDER,So we got to find him first.,7
+LOZANO,My mother used to say that blood should be left to cleanse itself. God curses the man who stands between two brothers.,22
+MULDER,"Well, in this case, he’ll curse the man who doesn’t.",10
+ELADIO,Senor? Senor? Jefe? Senor Culver?,5
+ELDAIO,"Jefe? Hey, Jefe?",3
+SOLEDAD,Eladio Buente! Eladio?,3
+SOLEDAD,"Eladio Buente. Come out of there! Come out like a man so I can split open your face, bastard.",19
+SOLEDAD,Assesino!!!,1
+ELADIO,Gabrielle! Gabrielle!,2
+GABRIELLE,"What are you doing here, Eladio",6
+ELADIO,"I’m going to Mexico. Come with me, Gabrielle.",8
+GABRIELLE,Have you lost your mind? Do you want me to lose my job?,13
+ELADIO,I’m very afraid. My brother wants to kill me for something I didn’t do.,14
+GABRIELLE,"They say that you are the Chupacabra, and that you killed Maria Dorantes and many more.",16
+ELADIO,"Gabrielle, I’m not a killer.",5
+GABRIELLE,Quiet! The lady of the house will hear us.,9
+ELADIO,I need your help. I need money.,7
+GABRIELLE,My job at the market pays me tonight.,8
+ELADIO,"Gabrielle, I can’t wait.",4
+GABRIELLE,Eladio!,1
+SCULLY,"Mulder, it’s me.",3
+MULDER,"Hey, Scully. Where are you?",5
+SCULLY,"I’m at the state university bio department. Mulder, listen to me. I think you’re right. I think Eladio Buente is responsible for those two deaths.",25
+MULDER,"Responsible, how?",2
+SCULLY,By spreading an enzyme produced by what appears to be a new strain of conidial fungi.,16
+MULDER,How’s he spreading it?,4
+SCULLY,My guess is by touch.,5
+MULDER,"I saw this man, Scully. He was unaffected.",8
+SCULLY,"He could be just a carrier, then – a kind of Typhoid Mary.",13
+MULDER,You’re saying it’s a new strain?,6
+SCULLY,"Yes. Mulder, it’s extremely important that you not come into direct contact with this fungus. You must not inhale it, you must not touch it...",25
+MULDER,"Lozano, careful. Scully, I’ve been thinking. I know that’s dangerous, but just bear with me. These Fortean transients that the women described? They could have been caused by an object falling at a high rate of speed through the atmosphere creating a sonic boom and a flash of light. What astronomers call a bollide.",54
+SCULLY,A bollide?,2
+MULDER,Created by a meteorite or a piece of extraplanetary material - of which two thousand tons falls to the Earth every day. Now - now this yellow rain. Space debris could have fallen into a nearby lake superheating the water and sending it skyward. Which would mean this is alien.,48
+SCULLY,"Mulder, I think this is beside the point, right now.",10
+MULDER,"Oh, and the fungus...",4
+SCULLY,"Mulder, let me work on the fungus, okay? What you need to do is to find the man who might be spreading it.",23
+MULDER,Kay.,1
+LOZANO,"So. You’ve got your own ""stories"" too, huh?",8
+LOZANO,"Hey, it’s El Barbera.",4
+BARBER,"Hey, Lozano. I hear you’re looking for the Chupacabra. For a modest fee, I can tell you where he might be found.",22
+MULDER,Eladio! Don’t touch him.,4
+MULDER,I lost him!,3
+MULDER,Uh!,1
+SCULLY,More goats.,2
+MULDER,Agent Lozano! How does this man keep eluding us?,9
+LOZANO,These people are invisible. You look at them and you don’t see them. They’re just workers - cheap labor to pick crops and clean houses. To most people they are aliens in the true sense of the word.,37
+FLAKITA,"Ay, Chupacabra!",2
+LOZANO,"It’s okay. Calm down, calm down.",6
+FLAKITA,"Can a man do this? Can Eladio Buente do this? Eladio, he went to his cousin, Gabrielle’s house asking for money.",21
+LOZANO,When?,1
+FLAKITA,"Today! He say he kill nobody. But Soledad, he went to Gabrielle’s house trying to kill Eladio.",17
+LOZANO,Calm down.,2
+GABRIELLE,Quien es?,2
+LOZANO,"Gabrielle Buente. This is Agent Lozano, INS.",7
+LOZANO,Where is he?,3
+GABRIELLE,Que?,1
+LOZANO,"Don’t give me your ""que."" You know who. Where is he? Eladio.",12
+GABRIELLE,"He is not here, please. I would not let Eladio Buente in here. Please, you must believe me.",18
+SCULLY,Maybe you should check the back.,6
+MULDER,"What about his brother, Soledad?",5
+GABRIELLE,No. He is not here! No one is here! I am alone!,12
+MULDER,Have you seen either of them?,6
+GABRIELLE,Si. But I am afraid. Because of what they say about Eladio. About El Chupacabra.,15
+SCULLY,"There is no El Chupacabra, Gabrielle. Eladio is a very sick man. If he comes here, you must not let him in. If he comes to this door you must call the police. Do you understand?",36
+LOZANO,"There’s nobody. I’m going to be watching you, Chiquita. Every move. Comprendes?",12
+GABRIELLE,Si.,1
+MULDER,I think we should hold up a moment.,8
+SCULLY,For what?,2
+MULDER,Something’s going on here.,4
+STORE CLERK,"Hey, Jose! This ain’t no restaurant! You know you have to pay for all that!",15
+STORE CLERK,"Hey what are you doing? Come back here! Hey, you have to clean that up!",15
+MULDER,That’s our man.,3
+SCULLY,Eladio Buente?,2
+LOZANO,No. That’s his brother - Soledad.,5
+ELADIO,Bueno.,1
+GABRIELLE,Eladio?,1
+ELADIO,"Si, Gabrielle. Where are you? Why didn’t you come to work?",11
+GABRIELLE,"Listen to me, Eladio. Soledad - I could only lie to him so long. Eladio? Eladio!!?",15
+LOZANO,"Soledad Buente! Stop, stop!",4
+SCULLY,Drop your weapon!,3
+MULDER,Drop the gun!,3
+SCULLY,Drop it!,2
+LOZANO,Fuetala!,1
+SCULLY,Put it down! Now!,4
+MULDER,Apurate! Drop it!,3
+LOZANO,Fuetala!,1
+SOLEDAD,"I only want vengeance. My own brother killed my Maria. I want the revenge of brother against brother. I must avenge her death. Solo quiero vengarme, pues!",27
+LOZANO,nan,1
+SOLEDAD,Eladio!!!,1
+LOZANO,"Quiet, loco!",2
+SOLEDAD,nan,1
+SCULLY,Mulder.,1
+MULDER,He’s been here.,3
+GABRIELLE,Quien es?,2
+ELADIO,Eladio.,1
+GABRIELLE,Eladio? What’s wrong? What happened to you?,7
+GABRIELLE,No.,1
+ELADIO,What are you afraid of?,5
+GABRIELLE,Look! Look at your face!,5
+GABRIELLE,You are what they say you are.,7
+ELADIO,No.,1
+GABRIELLE,You killed Maria Dorantes!,4
+ELADIO,No!,1
+GABRIELLE,You are the Chupacabra.,4
+ELADIO,Nooooo!! Nooooooooooo!!!!!!!,2
+MULDER,Eladio? Eladio Buente?,3
+GABRIELLE,He’s not here. He’s gone.,5
+SCULLY,Gone where?,2
+GABRIELLE,To Mexico. Where he can hide his terrible face.,9
+MULDER,How’s he going to get to Mexico?,7
+GABRIELLE,I gave him all my money!,6
+SCULLY,You gave him your money?,5
+GABRIELLE,"Yes! Because I was afraid. I was afraid that the Chupacabra would kill me, too!",15
+LOZANO,What can I say?,4
+MULDER,How are we going to find this man?,8
+LOZANO,Good luck. I’m gonna go process the brother.,8
+SCULLY,"You know, what she said about Eladio Buente, about his face...",11
+MULDER,"I don’t know what to believe anymore, Scully. These people sure love their stories.",14
+SCULLY,"Mulder, he could be anywhere right now. If - if he were to enter a metropolitan area with what he’s carrying...",20
+MULDER,He won’t.,2
+SCULLY,If he’s going to Mexico...,5
+MULDER,"She’s lying. If this man really thinks he killed Maria Dorantes, he won’t be going to Mexico.",17
+SCULLY,Then where is he going?,5
+MULDER,The same place Agent Lozano and Eladio’s brother are going. He’s going to face his brother.,16
+SCULLY,I don’t understand.,3
+MULDER,God curses the man who stands between two brothers. Get on your cell phone and have a haz-mat team assembled.,20
+LOZANO,Eladio Buente! Come on out! Be a man and face your brother!,12
+FLAKITA,Madre de Dios.,3
+FLAKITA,"Eladio, NOOOOOO!!!!!!",2
+FLAKITA,Y me dicho la Chupacabra.,5
+FLAKITA,"They came from the sky, more Chupacabras.",7
+FLAKITA,"Coming to save Eladio. I slammed the door and prayed that they would not come to kill me, too.",19
+VILLAGE GIRL,What will happen to Soledad.,5
+FLAKITA,He was taken up by a Chupacabra. He will suffer for his treachery. He is made to suck the blood of only the sick and dying goats when the Chupacabra comes to feed.,33
+VILLAGE GIRL 2,That is not what Gabrille says.,6
+FLAKITA,What does Gabrielle know?! I was there! I saw it with my own eyes.,14
+VILLAGE GIRL,"Gabrielle says she lied to La FBI, so that her cousin, Eladio, might live. But La Migra Lozano knew that Soledad could not live with vengeance in his heart.",29
+LOZANO,Alto! Turn around and face the man whose love you killed!,11
+SOLEDAD,"You killed Maria! Because she wouldn’t love you! Because her heart belongs to only one man! Don’t make me shoot you in the back, Eladio! Turn! See my tears! Turn around like a man!",34
+ELADIO,No. I am not a man! I am the Chupacabra!,10
+GABRIELLE,"""Shoot! Shoot!"" La Migra shouted. But Soledad began to cry. ""No! No!"" cried Soledad. I cannot shoot my brother! He is my brother! My flesh, my blood.""",27
+LOZANO,Shoot him! He’s El Chupacabra!,5
+GABRIELLE,...shouted La Migra.,3
+LOZANO,We cannot let him go!,5
+GABRIELLE,"""He is the goat-sucker and he must be killed!"" But Soledad, he could not kill Eladio because he knew I would never forgive him.",24
+MEN,Que paso? Que paso?,4
+LOZANO,Cobarde!,1
+SOLEDAD,No! No!,2
+GABRIELLE,"La Migra Lozano tried to pull the gun from Soledad’s hand, calling him a coward. ""No!"" cried Soledad. ""He is my brother!"" And the gun went off. Bang! Bang! And La Migra Lozano fell dead.",35
+MEN,"Ah, esta buena!",3
+GABRIELLE,"Pero, no! La Migra Lozano brought Soledad to kill Eladio so he would not be cursed. So God cursed Soledad for his treachery and turned him into El Chupacabra - like his brother.",32
+MAN,Have you seen him? Your cousin?,6
+GABRIELLE,"No. Together, they run. To Mexico.",6
+SKINNER,El Chupacabra?,2
+SCULLY,"Yes, sir.",2
+SKINNER,"Frankly, I’m confused by this story.",6
+MULDER,I don’t blame you.,4
+SCULLY,"We can’t exactly explain it ourselves, sir.",7
+MULDER,"At any rate, we arrived just after the haz-mat team...",10
+MULDER,"They established a perimeter, then secured the area. An eyewitness was found, but her testimony was questionable.",17
+SCULLY,The Haz-mat team were able to contain the fungal infection within the migrant camp. No other casualties were reported. And we found no other traces of the accelerating enzyme.,29
+MULDER,Except on the body of Agent Lozano. We found him dead at the scene with a bullet wound to the chest.,21
+SCULLY,And the fungal infection already starting to eat away at him.,11
+SKINNER,What happened to the brothers?,5
+SCULLY,They were nowhere to be found. Lozano’s revolver turned up ten miles away near the car of a man known locally as El Barbera.,24
+MULDER,"Apparently, the brothers paid this man for a ride to Mexico, but they didn’t get very far.",17
+SKINNER,"So these men are still at large, carrying a highly contagious... fungus, that can kill a man in his tracks?",20
+SCULLY,"It’s not a fungus, sir. Actually, it’s an enzyme to which the brothers had an abnormal tolerance, and which came from what I believe to be an anti-enzyme gene.",29
+SKINNER,And this enzyme came from where?,6
+MULDER,"Outer space, sir.",3
+SKINNER,So this is the story you’re asking me to report? You would think that with the resources we have we’d be able to find these men. I’m not hearing a good explanation of why this hasn’t happened.,37
+SCULLY,"Well, sir, they, um...They have a way of being almost invisible.",11
+MULDER,"The truth is, nobody cares.",5

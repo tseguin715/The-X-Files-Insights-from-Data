@@ -1,0 +1,330 @@
+speaker,line,words
+LARKEN,Name please?,2
+AMY,Amy Jacobs.,2
+LARKEN,Fill out your address card. May I have the next on in line?,13
+LARKEN,"Carl, I need a reload.",5
+LARKEN,"Hey, Carl. Hey! I need more film.",7
+WADE,I haven’t loaded it yet.,5
+LARKEN,Why you even bother coming in if you’re not going to do your job?,14
+WADE,Nobody’s going to spoil us.,5
+SISTER,Amy? Amy! Mom!,3
+WAITRESS,"Hurry up with those drinks, Lucy. We’re backing up. What are you doing? These are regular. They all ordered large. What …?",22
+WAITRESS,What happened?,2
+LUCY,Nobody’s going to spoil us … Nobody’s going to spoil us … Nobody … Nobody’s going …. Nobody’s going to spoil us … Nobody’s going to spoil … Nobody’s going to spoil … Nobody’s going to spoil us …,39
+MULDER,I’m looking for the agent in charge.,7
+OFFICER,And you are?,3
+MULDER,Special Agent Mulder.,3
+OFFICER,I’ll let him know you’re here.,6
+MULDER,Mrs. Jacobs? I’m Fox Mulder. I’m with the FBI. I’m sorry about your daughter.,14
+MRS. JACOBS,It’s her birthday on Tuesday.,5
+MULDER,We’re going to do everything we can to find her.,10
+MRS. JACOBS,Who could do such a thing? Who could take somebody who wasn’t theirs?,13
+MULDER,I know you must be feeling …,7
+MRS. JACOBS,I’m sorry … but how could you really know how I feel?,12
+AGENT EUBANKS,"It’s blood. Amy had a nosebleed. Her little sister said it happened when the kidnapper put his hand over her mouth. We’re running it anyway. Walt Eubanks, Special Agent in Charge.",31
+MULDER,Fox Mulder. Any leads on a suspect?,7
+AGENT EUBANKS,A vague description from the sister. Hair and fiber pulled some promising bits but he didn’t leave any prints here or in the flower beds out front.,27
+MULDER,The neighbors?,2
+AGENT EUBANKS,Nobody saw anything. Not a car – nothing. It was someone who knew her – that much we can figure. He knew right where he was going.,27
+MULDER,"No, I bet that he didn’t know her so well or else he wouldn’t have been so bold.",18
+AGENT EUBANKS,"Either way, we’re pretty much chasing our tails until something or someone turns on this.",15
+MULDER,What about this woman at the restaurant?,7
+AGENT EUBANKS,You heard?,2
+MULDER,"Yeah, that’s why I came down here.",7
+AGENT EUBANKS,Seems like a pretty thin lead.,6
+MULDER,Mind if I talk to her?,6
+AGENT EUBANKS,"Hey, save me the time.",5
+MULDER,Great. Thanks.,2
+SCULLY,Mulder.,1
+MULDER,I thought you missed your flight.,6
+SCULLY,We were delayed in DC. I tried you on your cell phone.,12
+MULDER,I forgot it. I left in kind of a hurry.,10
+SCULLY,Your message said something about a kidnapping?,7
+MULDER,"Yeah, 15 year old girl, Amy Jacobs was taken from her",11
+SCULLY,Is she here?,3
+MULDER,No. They haven’t found her.,5
+SCULLY,What are we doing here?,5
+MULDER,A 30-year-old woman named Lucy Householder was from some kind of seizure and what her doctors are calling glossolalia.,19
+SCULLY,Incoherent speech.,2
+MULDER,"Technically, but whether she knew it or not, she was repeating the exact words spoken by Amy’s abductor the exact same time 20 miles across town.",26
+SCULLY,"Well, that’s spooky.",3
+MULDER,"That’s my name, isn’t it? Turns out, Lucy Householder knows a little something about kidnapping herself. When she was eight years old she was taken from her bedroom while her parents were asleep. She was missing for five years until she escaped and someone found her by the side of the road. Apparently, her abductor had kept her locked in a basement the entire time. They never caught him.",69
+MULDER,Lucy? I’m Fox Mulder. This is Dana Scully. We’re with the FBI. We’d like to ask you a few questions.,20
+LUCY,I’d like a cigarette. They won’t let me smoke in here.,11
+SCULLY,Are you feeling any better?,5
+LUCY,"Yeah, I’m fine. I’d just like a cigarette.",8
+MULDER,A young girl was kidnapped last night. Have you heard anything about that?,13
+LUCY,What are you asking me for?,6
+MULDER,Do you remember what you were saying last night when you collapsed at work?,14
+LUCY,What?,1
+MULDER,"You were saying ""Nobody’s going to spoil us.""",8
+SCULLY,Does that mean anything to you?,6
+LUCY,No.,1
+SCULLY,Can you think of any reason why you might have said it?,12
+LUCY,What did I just say?,5
+MULDER,"Those were the exact words spoken by the kidnapper to the little girl when he took her last night. So you can see, that under the circumstances, it might seem strange that you …",34
+LUCY,So what’s your point? All of us kidnap victims gotta stick together?,12
+MULDER,"No. We just want to find the little girl any way we can, and if you know anything …",19
+LUCY,"Look, what I’ve been through all my life I wouldn’t wish on anybody. It doesn’t mean I can make it any better for me or anyone else.",27
+MULDER,"All right, well thanks for talking to us, Lucy.",9
+LUCY,Yeah.,1
+LUCY,Hey! When do I get out of here?,8
+SCULLY,I’m sure as soon as your doctors feel it’s okay for you to go.,14
+LUCY,No. They say it’s up to you.,7
+MULDER,"No, we can’t hold you here. You’re free to go.",10
+SCULLY,I guess she’s not too big on confined spaces.,9
+MULDER,Yeah.,1
+TOW TRUCK DRIVER,You the one that called for a tow?,8
+WADE,No. Not me.,3
+TOW TRUCK DRIVER,Gary Mosier?,2
+WADE,No. Wrong guy.,3
+TOW TRUCK DRIVER,While I’m out here I might as well give you a hand.,12
+WADE,It’s okay. We’ll be fine.,5
+TOW TRUCK DRIVER,"Hey, it looks like you’re in a world of hurt. Blown sidewall. You’re going to need a new tire.",19
+WADE,Yeah. Looks that way.,4
+TOW TRUCK DRIVER,Got a spare in the trunk?,6
+WADE,Yeah.,1
+TOW TRUCK DRIVER,Twenty bucks cash. My boss don’t gotta know about it. Have you on the road in five minutes.,18
+WADE,I can’t pay you.,4
+TOW TRUCK DRIVER,"Make it ten. Pop the trunk. Take me five minutes, max.",11
+WADE,Leave me alone!,3
+TOW TRUCK DRIVER,"Hey, man, what the hell’s your problem?",7
+WADE,Leave me alone! Get out of here!,7
+TOW TRUCK DRIVER,Lunatic! Freak!,2
+AGENT EUBANKS,Hold on a second. Agent Mulder. Lucy Householder --- you get anywhere on that?,13
+MULDER,I’m working on it.,4
+AGENT EUBANKS,"One of my guys says she’s got a criminal record --- prostitution, narcotics convictions. She’s done some time.",17
+MULDER,It doesn’t surprise me given her history.,7
+AGENT EUBANKS,She’s also got a boyfriend doing time for assault and child endangerment. Used to live with him up in the hills. Pretty sketchy characters.,24
+MULDER,I don’t think she’s involved.,5
+AGENT EUBANKS,Closest thing I got right now to a lead. I can tell them to shift some men …,18
+MULDER,"No. Let me follow up on that, okay? Thanks.",9
+SCULLY,Mulder… I got something – something weird.,7
+MULDER,What?,1
+SCULLY,I was going over Lucy Householder’s medical work-up and something hit me. Her blood type is O-positive.,17
+MULDER,Yeah?,1
+SCULLY,Forensics lifted two blood types off of her work clothes -- O-positive and B -positive. Two guesses as to what Amy Jacobs’ blood type is.,24
+MULDER,How could it be Amy Jacobs’ blood? Lucy was all the way across town.,14
+SCULLY,"I don’t know, Mulder, but it begs the question.",9
+MULDER,"Why? Because it matches the victim’s blood type? How many people have B -positive blood, Scully? One in five? That’s got to be hundreds of thousands of people in the local population alone.",33
+SCULLY,We’re not talking about the local population. We’re talking about a woman who is tied to this case who had somebody else’s blood on her uniform.,26
+MULDER,"Lucy is a victim, Scully, just like Amy Jacobs. If she’s got any connection to this case that’s the extent of it.",22
+SCULLY,"Well, we’ll know soon enough.",5
+MULDER,What are you talking about?,5
+SCULLY,I’m running a PCR on her blood to see if there’s a DNA match.,14
+MULDER,Will you do me a favor? Will you keep that under your hat?,13
+SCULLY,Why?,1
+MULDER,"‘Cause I don’t want Lucy Householder treated like a suspect in this case until it’s absolutely certain she is one, okay?",21
+HENRY,Lucy?,1
+LUCY,I’m cold.,2
+HENRY,I brought you another blanket. We should call the doctor.,10
+LUCY,No!,1
+HENRY,Let me see your face. What did you do to yourself?,11
+LUCY,It’s dark. Why is it dark? I can’t see.,9
+HENRY,You hold on now.,4
+LUCY,I can’t see.,3
+MULDER,How’s she doing?,3
+EMS,Fine. Blood pressure’s back to normal. Temperature’s back up. She must have gone down the rabbit hole for a while. You should get something to eat soon. Get your blood sugar back up.,33
+MULDER,Thanks.,1
+MULDER,"What do you say, Lucy? Can I take you to dinner?",11
+MULDER,You feeling better?,3
+LUCY,Better than what?,3
+MULDER,Better than Amy Jacobs?,4
+LUCY,Wouldn’t know.,2
+MULDER,"If anybody knows, I’d say you do.",7
+LUCY,"I’ve got my own set of problems now, thank you.",10
+MULDER,How’d you scratch your face?,5
+LUCY,Must’ve done it in my sleep.,6
+MULDER,"Are you using again, Lucy?",5
+LUCY,I’m clean. Passed my test last week. You can ask Henry.,11
+HENRY,With flying colors.,3
+MULDER,Have you ever experienced temporary blindness before?,7
+LUCY,I’ve probably experienced just about everything once or twice. It’s all been pretty temporary.,14
+MULDER,"That girl’s in trouble, Lucy.",5
+LUCY,And there’s not a damn thing I can do about it. You understand? I can’t help you.,17
+MULDER,"I think you can, Lucy.",5
+LUCY,How?,1
+MULDER,"Well, that’s something you have to tell me.",8
+LUCY,What can I possibly do?,5
+MULDER,Lead us to her.,4
+LUCY,I don’t know where she is. I don’t care. I’m not interested.,12
+MULDER,"Well, that’s too bad, Lucy, because right now I think you’re her best hope.",14
+LUCY,If I’m her best hope then that little girl’s in a hell of a lot more trouble than you think.,20
+AMY,Who are you? What do you want? Why are you doing this? Please … I want to go home.,19
+SCULLY,"Mulder, I’ve got a ----",4
+MULDER,"Scully, take a look at this.",6
+SCULLY,Is that Lucy?,3
+MULDER,"Yeah. Taken in 1978, the week she was found. She’d been held in the dark so long her eyes were hypersensitive to the light. Whoever held her captive wasn’t very big on conversation, either. She’s 13 years old and can barely string two words together. It’s amazing she’s gotten anywhere in life.",52
+SCULLY,"Well, by most yardsticks, she hasn’t, Mulder. Look, I think we’ve got a break in the case. A big one.",20
+MULDER,What is it?,3
+SCULLY,School pictures were mailed out this week to everyone in Amy’s class except Amy. One of Eubanks’s men discovered it.,20
+MULDER,Who’s the photographer?,3
+SCULLY,"It’s an outfit called Larken Scholastic. Now, the photographer checked out but his assistant was fired the day after the shoot – a man named Carl Wade.",27
+MULDER,What have you got on him?,6
+SCULLY,"DMVs, and old address, but he spent the good part of the past 15 years institutionalized for a bipolar condition. The only thing current we have on him is this photo taken by his employer trying out a new camera.",40
+MULDER,Have you shown this picture to Amy’s little sister?,9
+SCULLY,They’re doing it right now.,5
+MULDER,I’m going to take it and show it to Lucy.,10
+MULDER,Lucy?,1
+MULDER,"Lucy, wait.",2
+LUCY,No. I’m done with you.,5
+MULDER,"I just want to ask you a question. Lucy, wait a second.",12
+LUCY,Don’t touch me. I don’t like to be touched.,9
+MULDER,I’m sorry.,2
+LUCY,"I was doing okay until this, you know? Figures.",9
+MULDER,"I just want to show you a photograph, okay?",9
+MULDER,You recognize him don’t you?,5
+MULDER,Lucy.,1
+MULDER,Lucy?,1
+LUCY,What’s happening to me?,4
+MULDER,He’s probably changed a lot over the last 17 years. Did you even know his name? Carl Wade. He worked as a photographer’s assistant. School pictures mostly. That’s where he saw Amy Jacobs.,33
+LUCY,So what do you want from me?,7
+MULDER,I want you to tell me what you’re going through. It might feel good to tell somebody.,17
+LUCY,I feel like it’s happening all over again.,8
+MULDER,"You can actually feel what she’s going through, can’t you?",10
+LUCY,I don’t want to go through this again.,8
+MULDER,"Lucy, she needs your help.",5
+LUCY,There’s nothing I can do.,5
+MULDER,Lucy ….,2
+MULDER,"Wait here a second, okay?",5
+MULDER,What’s going on?,3
+AGENT EUBANKS,We’re here to arrest Lucy Householder.,6
+MULDER,Why?,1
+AGENT EUBANKS,"I think you know why, Agent Mulder.",7
+MULDER,What the hell is happening?,5
+SCULLY,"Mulder, the blood on Lucy’s uniform was an exact DNA match. Lucy was covered in Amy Jacobs’ blood.",18
+MULDER,"She didn’t do it, Scully.",5
+SCULLY,"Mulder, it’s incontrovertible evidence.",4
+AGENT EUBANKS,Agent Mulder. Where is she?,5
+MULDER,She was just here.,4
+AGENT EUBANKS,"Well, she’s gone now.",4
+AMY,Please. I’m – I’m thirsty.,5
+WADE,You shouldn’t have run. I was taking care of you.. I thought you understood that. Why did you run away?,20
+AMY,"Please, Mister. I need some water.",6
+WADE,You shouldn’t have run!,4
+AMY,Please. I’m so thirsty.,4
+AMY,"I want my mom. I don’t want to die here. Please. Please, Mister! Don’t let me die!",17
+MULDER,You’re going to drive her away with this.,8
+AGENT EUBANKS,"She’s been driven away, Agent Mulder. I’m trying to find her.",11
+MULDER,A half a dozen witnesses placed her across town at the time of the kidnapping.,15
+AGENT EUBANKS,I’m well aware of the facts.,6
+MULDER,"Well, then trust me on this. She’s not working with Wade.",11
+AGENT EUBANKS,How did she get the blood on her?,8
+MULDER,She may have bled it.,5
+AGENT EUBANKS,She bled Amy Jacobs’ blood?,5
+MULDER,Yes. It may explain why there was so little of it on the carpet in Amy’s bedroom.,17
+AGENT KRESGE,"Agent Eubanks, line three.",4
+AGENT EUBANKS,"I don’t have time for this nonsense, Agent Mulder. We’ve got a young girl’s life at stake.",17
+SCULLY,"I hate to say this, Mulder, but I think you just ran out of credibility.",15
+MULDER,"He’s wrong, Scully.",3
+SCULLY,You are protecting her beyond the point of reason.,9
+MULDER,"I’m protecting her because I think she’s connected to Amy Jacobs, just not the way everybody else thinks she is.",20
+SCULLY,Did you consider for one minute that the person she’s connected to is Carl Wade?,15
+MULDER,Carl Wade? Why would she be connected with Carl Wade?,10
+SCULLY,"For the same twisted reason that abused children crave their parents’ love or hostages develop sympathy for their captors. I mean, maybe Lucy developed some kind of emotional dependency.",29
+MULDER,"After five years in a dark pit, I’m sure she developed some kind of connection with Wade, just not the kind that you’re suggesting.",24
+SCULLY,It makes a lot more sense than the notion that she’s bleeding Amy Jacobs’ blood.,15
+MULDER,"I don’t know how to explain it, but I think that Wade’s abduction of Amy triggered some kind of physical response in Lucy – some kind of empathic transference.",29
+SCULLY,"Mulder, you can’t ----",3
+MULDER,"That’s how I account for what Lucy’s going through. That’s how I account for the identical words that corresponded to Amy, and the spontaneous wounds and blood, as well.",29
+SCULLY,"Then why did she run? If she’s innocent, what was she running from?",13
+MULDER,Because she’s afraid.,3
+SCULLY,"You don’t see what you’re doing, do you, Mulder? You are so close to this that you just don’t see it.",21
+MULDER,What don’t I see?,4
+SCULLY,"The extreme rationalization that’s going on. Your personal identification with the victim, or in this case, the suspect. You’re becoming an empath yourself, Mulder. You are so sympathetic to Lucy as a victim like *your sister* that you can’t see her as a person who’s capable of committing this crime.",50
+MULDER,"You don’t think I’ve thought of that? I have. And not everything I do, say, think, and feel goes back to my sister. You, of all people should realize that sometimes motivations for behavior can be more complex and mysterious than tracing them back to one single childhood experience.",49
+AGENT EUBANKS,Agent Mulder. We’ve got a man on the way in who’s spotted Wade.,13
+TOW TRUCK DRIVER,"Yeah, that’s the guy. I offered to fix his flat. Tried to do the guy a favor and he went wacko on me. Started freaking the minute I got out of my truck.",33
+MULDER,What about the girl? Was she with him?,8
+TOW TRUCK DRIVER,I didn’t see anyone else. Guess she could have been in the trunk.,13
+AGENT EUBANKS,Can you give us an exact spot?,7
+TOW TRUCK DRIVER,Yeah.,1
+AGENT EUBANKS,Right in the middle of nowhere.,6
+MULDER,Which way was the car headed?,6
+TOW TRUCK DRIVER,West.,1
+MULDER,"Okay, Interstate 12… county 15 north … 903…. look at this. Right off the 903.",15
+AGENT EUBANKS,Easton?,1
+MULDER,That’s where Lucy was found 17 years ago.,8
+MULDER,"It’s a small town, Scully. Somebody’s bound to know Wade’s face. Know where he lives.",15
+SCULLY,"But we already stick out like a sore thumb, Mulder. If we start canvassing Main Street somebody’s going to pick up the phone to him.",25
+MULDER,"But he’s a photographer, right?",5
+SCULLY,Yeah.,1
+MULDER,He should have an account here.,6
+MULDER,Amy?,1
+SCULLY,Mulder!,1
+MULDER,Yeah.,1
+SCULLY,What’s happening? Did you find her?,6
+AGENT EUBANKS,"Where are they, Lucy? Tell us where Wade took Amy.",10
+LUCY,I don’t know.,3
+AGENT EUBANKS,Anything happens to that girl and you’ll be tried as an accomplice. Were they here when you arrived?,18
+LUCY,No.,1
+AGENT EUBANKS,You haven’t seen them? You haven’t spoken with them?,9
+LUCY,I said no.,3
+AGENT EUBANKS,Then why are you here?,5
+LUCY,I don’t know.,3
+AGENT EUBANKS,Just showed up for no reason in particular? That’s what you ask us to believe?,15
+LUCY,I’ve been here before. A long time ago. That was where he kept me.,14
+AGENT EUBANKS,So why are you here now? Take her outside and place her in custody.,14
+MULDER,"No. I’ll take her. Come on, Lucy.",7
+AGENT EUBANKS,Agent ---,1
+SCULLY,It’s all right.,3
+LUCY,"He hasn’t touched her. Not yet. He wants to, but he can’t. That’s why he takes the pictures.",18
+MULDER,"What else, Lucy? Tell me what else?",7
+LUCY,If he can’t have her all to himself that’s when he’s dangerous. That’s when he’ll start hurting her.,18
+MULDER,"Lucy, you came here to help her.",7
+LUCY,No.,1
+MULDER,Why else would you come back here if not for Amy? You’re sharing her pain.,15
+LUCY,I can’t …,3
+MULDER,You’re the survivor. You’re the strong one. Now Amy needs some of your strength.,14
+LUCY,She’s not going to make it.,6
+MULDER,She has to make it and you have to help her.,11
+LUCY,"She’s cold. She’s cold and, and wet.",7
+MULDER,"Lucy, Lucy, sit down. Sit down.",6
+SCULLY,Mulder. They found Wade’s car north of here.,8
+MULDER,They’re in the water.,4
+SCULLY,What?,1
+MULDER,There’s a river near here. I think that’s where they are.,11
+SCULLY,But the river’s east and they found Wade’s car a mile north.,12
+MULDER,Wade lives here. He knows these woods. He could be doubling back.,12
+SCULLY,Did she tell you that?,5
+MULDER,"No, but I think that’s what she’s trying to do.",10
+SCULLY,"Mulder, wait!",2
+SCULLY,Stay with her and get word to Eubanks that Wade may be heading towards the river.,16
+AMY,Please! Stop! I can’t!,4
+WADE,Come on! They’re coming!,4
+AMY,I can’t! Please!,3
+WADE,Nobody …. Nobody’s going to spoil us.,7
+AMY,No!,1
+AGENT KRESGE,Can you sit up? Can you breathe? Are you able to breathe?,12
+AGENT KRESGE,"This is Agent Kresge. I’ve got what looks like an emergency situation. Requesting EMS, over.",15
+MULDER,Wade! Federal Officer! Hold it right there!,7
+MULDER,She’s not breathing. No pulse either.,6
+SCULLY,"One … two… three…. four…. wet, staring blankly. Her chest suddenly rises. AGENT KRESGE is with her, also performing CPR, but LUCY is in sync with MULDER.)",27
+SCULLY,One … two… three…. four….,5
+MULDER,"Come on, Amy, breathe.",4
+SCULLY,…two… three…. four…five.,3
+SCULLY,"There’s nothing. Mulder, it’s no good. I’m sorry.",8
+MULDER,"Damn it, Amy, come on!",5
+SCULLY,"Mulder, stop. You can’t help her. Mulder. It’s no use. Mulder. Mulder, stop it. Stop it. Mulder, stop!",18
+SCULLY,Mulder. She’s breathing.,3
+AGENT EUBANKS,Have you got her? Is that her?,7
+SCULLY,"Yeah, we got her. We have to get an EMS unit here right away with some heat and some oxygen.",20
+AGENT EUBANKS,They’re close. We’ve got them up at Wade’s place right now. They’re working on Lucy Householder.,16
+AMY,I’m cold. I want to go home.,7
+SCULLY,It’s getting dark. We have to get her off the river.,11
+AGENT KRESGE,"I don’t know what happened. She just started coughing, then she couldn’t breathe. By the time the EMS guys got here she was already gone.",25
+MULDER,How’s Amy?,2
+SCULLY,"She’s exhausted, but it looks like she’s going to be fine. The doctors want to keep her for a day or two just to be sure.",26
+MULDER,How serious were her injuries?,5
+SCULLY,Wade must have left her alone. There were no injuries.,10
+MULDER,He must have dragged her through the woods for at least a mile.,13
+SCULLY,"I know, Mulder. I can’t explain it. She didn’t have a cut on her and nobody wants to talk about that right now. Everyone’s just relieved to have her back again – to have her safe.",36
+MULDER,Did they finish up on Lucy?,6
+SCULLY,"Yes. They, uh … they brought in the State Pathologist last night so I stopped by to get the autopsy reports on my way.",24
+MULDER,"She drowned, didn’t she?",4
+SCULLY,They found five liters of water in her lungs.,9
+MULDER,She saved Amy’s life.,4
+SCULLY,"Mulder … Whatever there was between them, you were part of that connection. Did you think about that? Lucy may have died for Amy, but without you, they never would have found her.",33
+MULDER,I think she died for more than Amy.,8
+SCULLY,What do you mean?,4
+MULDER,"I think finally, it was … the only way she could escape. The only way she could forget what happened 17 years ago. Finally, the only way she could outrun Carl Wade.",32

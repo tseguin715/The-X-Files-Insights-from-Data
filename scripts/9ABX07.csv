@@ -1,0 +1,221 @@
+speaker,line,words
+DOGGETT,"Hey, damn it! My shoe...",5
+CRACKHEAD,Dejame en paz!,3
+DOGGETT,Give me my shoe!,4
+CRACKHEAD,Policia! Policia! Me están robando. Auxilio! Me están asaltando!,9
+DOGGETT,"Misunderstanding, officers. I'm the victim here! The guy ripped me off. Here, look -",13
+DOGGETT,Hey!,1
+POLICE OFFICER,Eres Americano? Tienes papeles?,4
+POLICE OFFICER,Paper... paper. Visa... Passport?,4
+POLICE OFFICER,Cuál es tu nombre? Nombre? What is your name?,9
+DOGGETT,"I - I- er, I don't know.",6
+DOGGETT,"Hey, guard! Come here! Andale! Hey, guard! Somebody come here!",10
+DOGGETT,Something funny?,2
+DOMINGO,"Nice touch. Putting it back on, your one shoe.",9
+DOGGETT,"Yeah, well, maybe I like to hop. You speak English, why didn't you say something before?",16
+DOMINGO,You weren't funny before.,4
+DOGGETT,Uh-huh. Where are we? What's the name of this place?,10
+DOMINGO,"What, the jail?",3
+DOGGETT,The town? Tell me the name of the town. Tell me where I am.,14
+DOMINGO,Sangradura.,1
+DOGGETT,Mexico?,1
+DOMINGO,"Man, if you can't remember, you must have had one fine good time getting here. What's your name? Damn, you don't know that either, huh?",25
+DOMINGO,"Call you ""One Shoe."" Señor un zapato, huh?",8
+DOMINGO,"One Shoe, what do you know?",6
+DOGGETT,I know I'm getting the hell out of here.,9
+DOMINGO,You got money to bribe the Police? That's what it takes.,11
+DOGGETT,I just need to get to a phone and call the U.S. Embassy.,13
+DOMINGO,"Yeah, they can get you home, I guess. Where is home?",11
+DOMINGO,"You know what I think, One Shoe? Maybe getting home is not in your best interest.",16
+DOGGETT,How's that?,2
+DOMINGO,"This isn't Tijuana or Cabo. We don't see Americans in this town unless they're on the run from something, somebody. This town... people like you come here to disappear.",29
+DOGGETT,People like me? You don't know me.,7
+DOMINGO,"Hey, *you* don't know you.",5
+LUKE,"Daddy, daddy!",2
+POLICIA,Domingo Salmeron.,2
+DOMINGO,Me estoy poniendo Viejo aquí encerrado.,6
+NESTOR,"Trabajé lo más rápido que pude, esas cosas toman tiempo.",10
+DOMINGO,"Caballeros, ha sido un placer.",5
+DOMINGO,Cuánto por él? Es caro?,5
+GUARD,No mucho. Por qué? Estás enamorado?,6
+DOMINGO,"Hey, One Shoe, nobody coming for you. You want to hop out of here with me? I've got a job for you.",22
+NESTOR,Domingo?,1
+DOMINGO,Nestor...,1
+DOGGETT,What kind of job?,4
+DOMINGO,What the hell do you care?,6
+DOMINGO,Hey! Right here!,3
+DOGGETT,Thanks. Some other time.,4
+DOMINGO,Hey! Hey!,2
+DOGGETT,You watch your hands.,4
+DOMINGO,You're bought and paid for. You understand? I own you like I own that car.,15
+DOGGETT,I'll pay you back your money.,6
+DOMINGO,You don't tell me what you'll do. I tell you what you'll do.,13
+DOMINGO,This makes one thing we know about you. You're not a man of your word.,15
+CRACKHEAD,Cállate! Estoy tratando de concentrarme.,5
+DOGGETT,"It fit good? Mi zapato. What else of mine you got? My wallet, my documents? Mi documentos?",17
+CRACKHEAD,No. No documentos...,3
+DOGGETT,What else did you take from me? Show me what else you got. Show me! Show me! Que es mío? Repito...,21
+CRACKHEAD,"Ya estuvo, no más. Desaparecido.",5
+DOGGETT,Desaparecido? I'm desaparecido? What does that mean? No comprendo.,9
+DOGGETT,What's the job?,3
+DOMINGO,We're movers.,2
+DOGGETT,What do you move?,4
+DOMINGO,"Mexicanos, Guatemaltecos, sometimes even Chinese. Drive them up north, across the border into McCallen.",14
+DOGGETT,You're coyotes.,2
+DOMINGO,"Don't turn your nose up at me. For all you know, you've spent your life fondling little boys.",18
+NESTOR,No digas que quieres trabajar con este hijo de perra.,10
+DOMINGO,You start tomorrow. I'd invite you to have a drink with us but Nestor hates you. They'll rent you a room upstairs.,22
+DOGGETT,I don't have any money.,5
+DOMINGO,First month's salary. Don't try and leave town.,8
+DOGGETT,This mean anything to you?,5
+DOMINGO,"Not a thing, other than the fact that you have silver in your pocket and you still ask me for money.",21
+NESTOR,"Why are you doing this? It's a bad idea, Domingo. You don't know what this one wants.",17
+DOMINGO,He just wants to remember. Same as all the rest.,10
+DOGGETT,I'm a Marine. Semper fi.,5
+KERSH,"AD Skinner, Agent Scully. What's this I'm hearing about Mexico?",10
+SCULLY,"Well, this came in last night from US Customs. It's a blow-up from a security camera at the border",19
+KERSH,We're sure this is Doggett?,5
+SKINNER,It's been scanned to Agent Reyes. She also believes it is him.,12
+KERSH,I'd say this reshapes the investigation.,6
+SKINNER,"It's our first solid lead. Now with your permission, I'd like to contact our Legat's office and extend our task force south of the border.",25
+KERSH,I'm not extending the task force. I'm disbanding it.,9
+SCULLY,Excuse me?,2
+KERSH,"I see no other choice. For the past 12 days I've had 40 agents working overtime scouring the entire State of Texas, in what appears to be a waste of effort. I can't move them lock, stock and barrel into Mexico, not on the strength of this. Turn it over to the Mexican Federal Police. Doggett's in their jurisdiction, not ours.",61
+SCULLY,"Sir, he could be injured.",5
+KERSH,Whether you believe it or not I want to find him as badly as you do. But the FBI's resources are already taxed by National Security concerns. There are political realities I have to account for.,36
+SKINNER,"Sir, Agent Reyes is still in San Antonio. She was raised in Mexico. She could offer the Federal Police some on-site help.",22
+KERSH,She can help them all she wants. But from *this* side of the border.,14
+REYES,"Mr. Molina, you're a hard man to get an audience with. I've been trying for the better part of two weeks. What's keeping you so busy?",26
+MOLINA,"Selling tractors. I own the biggest farm equipment dealership in South Texas. AGCO, John Deere, New Holland, CAT...",18
+REYES,"Impressive. What about drugs? Are they on your inventory, too? You know... cocaine, AGCO, John Deere?",16
+MOLINA'S LAWYER,"I'm sorry, I don't speak Spanish.",6
+MOLINA,She says I sell drugs.,5
+MOLINA'S LAWYER,Please don't speak Spanish anymore.,5
+REYES,"You know Hollis Rice, don't you? Vice President of Pan American Mercantile?",12
+MOLINA,Sure. I do business with this man. I know he's missing.,11
+REYES,"My partner, John Doggett, was investigating his disappearance. I'm betting he came to you with questions.",16
+MOLINA,When would this have happened?,5
+REYES,Two weeks ago.,3
+MOLINA,Sorry. I don't remember any person named Doggett.,8
+MOLINA'S LAWYER,"Agent, I don't quite know what you're implying. Mr. Molina's an upstanding businessman and a pillar of the c...",19
+REYES,"... Pillar of the community? Does anyone actually use that phrase except Mob lawyers? I'll tell you what's clear to me. You're some kind of middleman in a smuggling operation. Hollis Rice laundered money for your cartel until something went wrong - maybe he got greedy, maybe he talked too much. Your cartel made him disappear.",54
+MOLINA'S LAWYER,Agent...,1
+REYES,"My partner has disappeared, too. He's in Mexico, I know that much and I will find him, whatever it takes. Your only personal hope for the future is that I find him alive. Now where is he?",37
+MOLINA'S LAWYER,"Unless my client is under arrest, this meeting is over. No? Come on, Mariano.",14
+REYES,"Think hard about your future, Mr. Pillar of the Community.",10
+LUKE,Daddy.,1
+DOGGETT,Hmmm?,1
+LUKE,"Get up, I want to show you something. Come on.",10
+LUKE,"Let's go, Daddy! Come on! Please!",6
+DOGGETT,Can it wait another hour?,5
+LUKE,No.,1
+DOGGETT,"Why, what is it?",4
+LUKE,A surprise. Come on!,4
+DOGGETT,"Shh, don't wake your mom.",5
+OPERATOR,Señor? Señor? Cabina tres.,4
+STAFF SERGEANT MCCORMICK,Marine Corps Public Affairs Office. Staff Sergeant MCCORMICK speaking.,9
+DOGGETT,"Yeah, uh... this is Detective, uh... ..Ladatel calling from Mexico. I'm hoping you can give me some help.",18
+STAFF SERGEANT MCCORMICK,"Yes, Sir, if I can.",5
+DOGGETT,We've got a Marine down here who's been hit by a taxicab. He's been messed up pretty good. He doesn't remember his own name. He doesn't have any ID. We need to contact his family. I-I assume there's somebody somewhere who's worrying about him.,44
+STAFF SERGEANT MCCORMICK,Any chance you can give me a social security number or a date of birth?,15
+DOGGETT,"No, unfortunately, uh, the only thing I have to go by is there's a tattoo on his left shoulder that says ""24th M.A.U. We shall not forget."" You have any idea what that means?",34
+STAFF SERGEANT MCCORMICK,"Yes Sir, I do. The 24th Marine Amphibious Unit. It refers to the Lebanon barracks bombing in 1983. That narrows things down.",22
+DOGGETT,"Yeah, good, good. This guy's um, I don't know, he's six feet, 190 pounds, er, brown hair, blue eyes, about 40 years old. If you could just put a name to him. If you could just tell me anything at all about him. Anything.",44
+STAFF SERGEANT MCCORMICK,We'll definitely look into it.,5
+STAFF SERGEANT MCCORMICK,"Detective, do you have a number where I can reach you? Detective?",12
+DOMINGO,Hey. Sounding good.,3
+DOGGETT,Sounding better than it was. It won't sound good until it gets new seals.,14
+DOMINGO,"Ah, tu ves? Más de lo que tu hayas hecho, sentado ahí.",12
+DOMINGO,Thank God I got somebody worth a damn. If you'd only drive for me.,14
+DOGGETT,"You got a few odd jobs, fine. I'm not breaking the law for you.",14
+DOMINGO,A man of principle... as far as you know.,9
+DOMINGO,Found something out about you today.,6
+DOMINGO,"You're not going to like it. Says your name is Henry Bruck. The Federales are looking for you in connection with a double murder. Doesn't give details but that description's you as far as I can see. Don't take it so hard. A man does what he does, I'm not judging you. Just keep away from the Federales, okay? We'll keep you safe.",63
+NESTOR,May I speak with you?,5
+NESTOR,"You know Domingo, my boss? He's a friend to the Cartel, as am I. Domingo took on one of the disappeared ones. An American. But this American, whoever he is, he's different. I sense I'm telling you something you already know.",41
+CABALLERO,He's an FBI agent.,4
+NESTOR,Why is he still alive?,5
+CABALLERO,"Same as everyone, I take my orders from the Cartel. My orders didn't mention killing the man. Cartel. Mis órdenes no mencionan matar. Claro que si él muriera ésta noche, no me importaría.)",33
+SCULLY,Monica.,1
+REYES,Dana.,1
+SCULLY,"Surprise, surprise.",2
+REYES,How did you escape Kersh's cost-cutting regimen? Did you see? He shut us down.,14
+SCULLY,"Well, actually he doesn't know that I'm here. Nor does he know that Skinner is headed to Mexico to consult with the Federal Police.",24
+SCULLY,"Perfect timing, I hope. Look what just got handed to me. This says that someone in Mexico is trying to track down a former Marine matching Doggett's description. It says that he was in an accident and possibly suffering from amnesia.",41
+REYES,Wait... Detective Ladatel?,3
+SCULLY,"Yeah, that's who placed the call. Does that sound familiar to you?",12
+REYES,Ladatel is a Mexican telephone calling card.,7
+SCULLY,We'll trace the call.,4
+DOGGETT,"Domingo, is that you? Siempre trabajo.",6
+NESTOR,"I speak English, by the way.",6
+DOGGETT,Yeah?,1
+NESTOR,"Yeah. See you in hell, FBI.",6
+DOMINGO,Nestor?,1
+DOMINGO,Nestor!,1
+DOMINGO,You?,1
+DOGGETT,Did you send him after me?,6
+DOMINGO,What? What's that mean? DOGGETT raises the gun and aims straight at DOMINGO.),13
+DOGGETT,Did you send him to kill me? Tell me who I am.,12
+DOMINGO,I don't know who you are.,6
+DOGGETT,Tell me who I am!,5
+DOMINGO,"I don't know, you son of a bitch! But you killed my friend. You're a killer. That's who you are.",20
+DOMINGO,Desaparecido. You're one of the disappeared ones.,7
+DOGGETT,"What's that mean, disappeared? Disappeared by who?",7
+DOMINGO,"The cartel. They own the town, everything and everybody. People who make trouble for them wind up dead. Other people who make more trouble dead than alive get this.",29
+DOGGETT,They took away my memory? How? How do I get it back?,12
+DOMINGO,You don't. That's the point.,5
+LUKE,"Daddy? Daddy? Get up, I wanna show you something. Come on! Come on! Come on!",15
+POLICE OFFICER,Who's asking?,2
+REYES,Just a concerned party.,4
+POLICE OFFICER,May I see some identification?,5
+POLICE OFFICER,You're Mexican?,2
+REYES,Born and raised.,3
+REYES,"Please, help me brother. He ran out on me and my kids.",12
+POLICE OFFICER,"Come to think of it, our previous shift came upon an American. They reported he'd been beaten very badly, sorry to say.",22
+REYES,Where is he now?,4
+POLICE OFFICER,I apologize. It's not the one in your photo. Just some homeless gringo. I guess.,15
+REYES,What are those?,3
+DOMINGO,"Sir, my friend Nestor is dead.",6
+DOMINGO,I come to you because I realize Nestor would not have tried to kill the American without your permission.,19
+CABALLERO,Where is the American now?,5
+DOMINGO,"I left him lying in my garage. He held a gun on me, but I took it from him.",19
+CABALLERO,You killed him?,3
+DOMINGO,I left him there for you.,6
+CABALLERO,You talked with the American while he held a gun on you? What did you tell him?,17
+DOMINGO,Nothing.,1
+CABALLERO,I find that hard to believe. I'm afraid I'll have to see with my own eyes.,16
+REYES,"John, I've been looking for you everywhere.",7
+DOGGETT,Who the hell are you?,5
+REYES,"I'm your partner Monica. Your name is John Doggett. You're an FBI Agent. Do you remember? John, trust me. We gotta leave. I'll explain it in the car but we're not safe here.",33
+POLICIA,"A todos los ocupantes del edificio. Salgan en estos momentos, inmediatamente! Salgan con las manos en alto!",17
+REYES,They're telling us to come out.,6
+DOGGETT,"Sure, they want us to make it easy for them. Cartel owns the cops in this town. They're going to kill us.",22
+REYES,They're going to try.,4
+DOGGETT,Take cover. It won't be long before they get tired of waiting.,12
+DOGGETT,"So, we're partners, huh? How long we been working together?",10
+REYES,Not long. But we've known each other for years.,9
+POLICE OFFICER,"Tiene un minuto para salir, ahorita.",6
+DOGGETT,"What's the name of my son? Think it's weird. It's the only thing I can remember is I have a son. I can see his face, but I can't remember his name.",32
+REYES,Luke.,1
+DOGGETT,Luke. How old is Luke? I can't even remember that.,10
+DOGGETT,"Oh God. Oh God, no.",5
+DOGGETT,He's dead. He was murdered. Is that right? Is that right?,11
+DOGGETT,He was kidnapped. He was just a little boy. He was... oh!,12
+REYES,The FBI got involved. I was assigned to the case. That's when you and I met.,16
+DOGGETT,Oh God!,2
+REYES,"Oh God, John, they're smoking us out. John, I need you here. I need you to focus here John.",19
+REYES,John! JOHN! If we're going to die here you're going to die on your feet! You hear me? Do you hear me?,22
+DOGGETT,Get in the bus.,4
+DOGGETT,Hang on!,2
+DOGGETT,You work for the cartel. You make their enemies disappear. Desaparecido. You understand me?,14
+CABALLERO,"I speak English, but I don't understand you.",8
+DOGGETT,Like hell you don't.,4
+DOGGETT,"You gave me these when you took my memory. I have no idea how you do it but everything I am, everything I have, my identity, you robbed that from me.",31
+CABALLERO,I don't know who has been saying those things to you. How can you prove them?,16
+DOGGETT,"I was searching for a man, a banker from Texas. Hollis Rice was the banker. He was out of his mind, he didn't even know his name. You robbed him of that. And then you tried to do the same thing to me. You failed, you son of a bitch. I remember everything.",53
+SKINNER,Agent Doggett. Leave him to us.,6
+CABALLERO,"Why would you want to remember? You can't tell me you're happier now, because you recall your life. I saw it all. So much pain. Why would you want to struggle, so long, and hard, to get that pain back?",40
+DOGGETT,Because it's mine.,3
+LUKE,"Look, daddy! I can do it.",6
+REYES,John. I'm so sorry about Luke. About you having to relive that.,12
+DOGGETT,I'll take the bad as long as I remember the good.,11

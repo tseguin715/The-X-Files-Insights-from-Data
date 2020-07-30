@@ -1,0 +1,249 @@
+speaker,line,words
+BEARDED MAN,Get going.,2
+BOB,Please...,1
+BEARDED MAN,Do your damn job.,4
+JANET,"You can't think Milli Vanilli is cool. I would disown you. You are unbelievable. Okay, I may puke, but I have to ask. Which one do you intend to marry? Rob or Fab?",33
+MOTHER,"Janet, get that.",3
+JANET,Hang on. I'm like the servant around here.,8
+JANET,Yeah?,1
+BOB,Triboro Cable.,2
+JANET,What do you want?,4
+BOB,Your cable's out.,3
+JANET,Is it? I don't think so.,6
+BOB,"Okay, I'm sorry.",3
+JANET,Wait a sec. Maybe my dad called you. You'd better... come in.,12
+JANET,The TV's in here. Dad? Cable guy's here.,8
+DAD,Can I help you?,4
+BOB,There's a problem with your cable?,6
+DAD,"I was just watchin' the game upstairs. I think you got the wrong house, buddy.",15
+DAD,Is... that your work order? Who called it in?,9
+DUKE,"Police! Don't move! Oh God, almighty. Face the wall. Face the wall! Johnny, check the other rooms!",17
+DOGGETT,They're all dead!,3
+DOGGETT,"Got you. Got you, you bastard.",6
+DOGGETT,"D-O-G-G-E-T-T. Two ""G's"" and two ""T's"". I was the arresting officer. You're makin' a huge mistake. I don't care what it shows!! I appreciate that. But I don't care what it shows. It's wrong! I was there! We got the right guy!",42
+REYES,An X-File?,2
+DOGGETT,"I'm tellin' you, you let this guy go, more people are gonna die.",13
+REYES,Was that the D.A. on the case?,7
+DOGGETT,Assistant D.A. Some jack-off who was probably in ninth grade when this happened.,13
+REYES,What is it exactly you want 'em to do?,9
+DOGGETT,"Keep the bastard locked up where he belongs! Did you read that? My partner and I busted this guy, Fassl, when I was a beat cop thirteen years ago. He killed seven people. Now they want to let him go so he can kill again.",45
+REYES,It says here the DNA evidence proves he's innocent.,9
+DOGGETT,"It's wrong. It's some lab mistake. Simple as that. My partner, Duke and I, we catch this nine-one-one. Neighbours hearing screaming coming from this house on Flatbush Avenue. We get there. Teenage girl, mother, father, all dead. There's blood... I can still remember the sound of the blood squishing under my shoes. This guy, Fassl's just standing there.",58
+REYES,So you... didn't actually catch him in the act?,9
+DOGGETT,Ten seconds earlier through the door and we would have.,10
+DOGGETT,Tell me you've got good news.,6
+SCULLY,"I have combed through every detail of this M.E.'s report. I have read and re-read it. And I am sorry, Agent Doggett, but the DNA fingerprinting does indeed exonerate this man.",31
+DOGGETT,You're tellin' me there's no way? There's not even a million-to-one chance that these DNA tests are wrong?,18
+SCULLY,"Actually, a hundred million.",4
+DOGGETT,I need the reports run again. I need you to do it yourself.,13
+SCULLY,"Agent Doggett, you don't... It'd take at least 48 hours.",10
+DOGGETT,That's too long.,3
+REYES,Where are you going?,4
+DOGGETT,New York. I can't just sit here and wait for this guy to kill again.,15
+REYES,John...,1
+DOGGETT,"Look, I get it. Enough people tell you you're drunk, it's time to lie down. But I know what I know. I could really use your help.",27
+GUARD,It's time to go.,4
+GUARD,"Congratulations, Bob. Best of luck to you..",7
+REPORTER #1,How does it feel to be a free man?,9
+REPORTER #2,What are doing in New York? Are you gonna sue the police?,12
+REPORTER #1,What do you think you'll do next?,7
+JANA,"I think it goes without saying that my client is happy once more to be a free man. I myself, am overjoyed. I think today is a day to celebrate. But tomorrow, we will be looking very closely at the reasons why Bob was falsely accused and incarcerated. Thirteen years of his life were stolen from him. We'll be looking. at the Brooklyn D.A.'s office, and the New York City Police Department.",72
+JANA,Bob? Let's get you out of here. Thank you.,9
+REPORTERS,How do you feel?,4
+JANA,Thank you.,2
+REPORTERS,"Did you ever feel like givin' up, Bob? Bob?",9
+JANA,Thank you.,2
+DOGGETT,"Wait a minute. On top of springin' loose a murderer, you're tellin' me the city of New York is gonna pay him off?",23
+KAILER,Hell yes. And count ourselves lucky. We didn't spring a murderer. We sprang an innocent man. Or maybe you didn't glean that from our previous conversation.,26
+SCULLY,"Mr. Kailer, on the off chance that that's not true, what would be the harm in letting us look through your documents pertaining to this case? I mean, who knows. Maybe we can save the city some settlement money.",39
+KAILER,"Or maybe it gets me in an even bigger jackpot when Jana Fain starts crying ""police vendetta"", yelling at the papers about the disgruntled former cop who's out to get her client?",32
+DOGGETT,"Somebody committed these murders, right? And now that you've sprung Mr. Bob Fassl, the victims' families are gonna start askin' who. How you gonna answer 'em?",26
+SCULLY,There's a lot of material here. Where should we start?,10
+DOGGETT,Right there. The original arrest report.,6
+SCULLY,"""Arresting Officer John Doggett."" Must have been a career maker.",10
+DOGGETT,"Well, it didn't hurt when I put in for detective. The murders had been front page news for weeks. The sense of relief everybody felt when we caught Fassl, it was...",31
+SCULLY,"You know, John? Whatever we find here, sometimes... sometimes even good cops make mistakes.",14
+DOGGETT,"Yeah. And I've made more than I can count. But this wasn't one of 'em. Whatever you think, I'm not here tryin' to cover my ass.",26
+SCULLY,That's not what I think. It's not. I just... I just worry that maybe this is about you feeling guilty.,20
+DOGGETT,"I feel guilty? Like what, subconsciously? Like I was told I sent an innocent man to prison, only I refuse to accept it? A cop I know, a man I respect deeply, he told me one time... ""You don't clock out at the end of your shift unless you know you did everything you could."" That's what this is about. Me not clockin' out.",64
+JANA,"Bob, I just want you to make yourself at home while you're here. Just relax. Mrs. Dowdy, this is Bob Fassl. He'll be staying with us for a while.",29
+MRS. DOWDY,"Oh, I have your room all made up. I hope you'll be quite comfortable.",14
+JANA,"Uh, thank you very much, Mrs. Dowdy.",7
+BOB,You're rich.,2
+JANA,"Well, my parents were. I inherited this when they died. I've been very fortunate, so I try and use my family's resources to help where I can.",27
+BOB,You do good things. You're a good person.,8
+JANA,"I guess it takes one to know one. I know some business people who are sympathetic to your situation, and when you're ready, we'll set up some job interviews.",29
+JANA,I can only imagine what you must be feeling right now. I'm so sorry for everything you've been through. And I'm so happy for you now.,26
+DOGGETT,"Hey, buddy! You steal that car?",6
+DUKE,If it ain't the FBI!,5
+DOGGETT,Duke Tomasick. Lookin' good.,4
+DUKE,"Well, hell yeah. I was always the pretty one.",9
+DOGGETT,"Not that I'd steal you away from even one minute of retirement, but I gotta get another viewpoint on this case from someone who was there that night. Duke, I'm rackin' my brain on this thing, and I'm comin' at it from every possible angle. Was there somethin' we missed?",50
+DUKE,"Well yeah, we arrested the wrong man. Ah, I'm sorry, John. I've been torn up about this since I read it in the paper. But unless there's somethin' that you know that I don't? Then it looks like, uh, we're just gonna have to face facts.",46
+DOGGETT,"Duke, you were there that night. Fassl was the only one in the house. He killed those people.",18
+DUKE,"John, wise up, will ya? Drop this thing.",8
+DOGGETT,What did you always tell me about bein' a good cop? You said never to clock out.,17
+DUKE,"I got another lesson for ya. Keep after this thing, it's gonna bite you in your ass.",17
+JANA,"I'm sorry. I just wanted to see how you were settling in, and... I should have knocked. I read in your file that you had once attended the seminary, that you studied to be a priest? I think it's wonderful that all you've been through hasn't diminished your faith.",49
+BOB,I pray all the time. I pray even when it looks like I'm not praying.,15
+JANA,"I know someone's listening, Bob. Goodnight.",6
+BOB,No. Don't. Please don't hurt her. Please!,7
+SCULLY,Were you here all night?,5
+DOGGETT,"There's gotta be somethin' here the prosecution overlooked, I overlooked. Somethin' I can hang this guy with, DNA or no.",20
+SCULLY,Speaking of DNA.,3
+DOGGETT,"Ah, come on.",3
+SCULLY,"The re-tests of the typing confirm the original results, that the hair samples do, indeed, belong to someone other than Robert Fassl.",22
+DOGGETT,"So what do we do, we just go home? This is wrong. This is...",14
+SCULLY,"John, there is something else. Something that explains why 13 years ago, the science of the day identified the hair as Fassl's. I spoke to the forensic examiner who ran the tests, and he found a match in 12 of the 13 key genes.",44
+DOGGETT,What does that mean?,4
+SCULLY,"It means that the mitochondrial DNA in the hair sample is genetically similar to Fassl's. In fact, it is remarkably similar. It is so similar that it must be from a blood relative.",33
+DOGGETT,Wait a minute. Fassl's an only child. His parents died when he was 13. He's got nobody.,17
+SCULLY,I know.,2
+DOGGETT,You know. And you know that what you're sayin's impossible.,10
+SCULLY,"And yet, somehow it's true.",5
+JANA,"Would you get dressed and come on downstairs, please?",9
+JANA,Bob? This morning I noticed something that I have to talk to you about. The dresser drawers in my bedroom had been opened and somebody had been through my things.,30
+BOB,You weren't home last night?,5
+JANA,"I think you know that I wasn't. As it happens, I was called down to County Lockup on behalf of another client. If you're going to stay here, then you have to respect me, my privacy, my possessions. You're a free man now. And with freedom comes responsibility. I am late for a deposition. Help yourself to breakfast. Mrs. Dowdy seems to be running late this morning.",67
+HUTCHINSON,"Agent Reyes. I'm Brian Hutchinson, Superintendent.",6
+REYES,I appreciate you seeing me on such short notice.,9
+HUTCHINSON,Anything I can do to help.,6
+REYES,Great. I'm reviewing evidence pertinent to the Fassl case.,9
+HUTCHINSON,"Whatever I can do to ensure he gets locked back up again. By all means, tell me what you need.",20
+REYES,Thank you. That's an extremely helpful attitude. What's your reason for it?,12
+HUTCHINSON,I just don't think the system should've let him go.,10
+REYES,"Why, exactly? The court says he's innocent.",7
+HUTCHINSON,Maybe. But there's another murder they don't know about.,9
+HUTCHINSON,"Bob Fassl's cellmate... was a biker named Spud Jennings, a real bad ass. Or at least he thought he was.",20
+REYES,Jennings was murdered?,3
+HUTCHINSON,Oh yeah. We found him in a hallway that Bob Fassl had been mopping. He was lying ten feet from Bob Fassl's mop bucket. Fassl nowhere to be found.,29
+REYES,And Fassl killed him?,4
+HUTCHINSON,The murderer was caught on a security camera once he turned the corner. This is a videograph. A pretty clear one. You can see the blood on his hand.,29
+REYES,One problem. This isn't Fassl.,5
+HUTCHINSON,"This isn't anybody. This man doesn't fit the description of any inmate currently incarcerated here. We haven't been able to find him since. Don't ask me to explain it. We couldn't charge Fassl with it, either. But I sure as hell know he had something to do with it.",49
+KAILER,"Agent Doggett? A word, please?",5
+KAILER,"Don't you have something to tell me, Agent Doggett?",9
+DOGGETT,What do you mean?,4
+KAILER,The DNA retests. I understand you received the results this morning. Mr. Fassl has been exonerated. Again.,17
+DOGGETT,The results aren't that simple. The DNA is similar to Fassl's to a degree we haven't quite made sense of yet.,21
+KAILER,"Look, I just spoke to the D.A. He's authorized a settlement offer, which I intend to deliver to Mr. Fassl's counsel, post haste. I'll send the bailiffs down to retrieve the case files. Have a nice flight back to D.C.",40
+DOGGETT,We need more time to get to the truth!,9
+KAILER,"This isn't about the truth. This is about getting a conviction, Agent Doggett. And if we can't get a conviction, then the truth doesn't matter.",25
+REYES,John. I may have a break in this case. A suspect.,11
+DOGGETT,A suspect? Not Fassl?,4
+REYES,You really need to see this.,6
+DOGGETT,So who is he?,4
+REYES,"I'm wondering more along the line of what is he. I ran him through the Known Offender Database, Facial Recognition, came up with nothing. It's like he has no identity. Yet somehow, this person materialized inside a maximum security prison, killed an inmate, and then vanished into thin air.",49
+DOGGETT,"Materialized how, like Casper the Friendly Ghost? When Duke and I entered that house back in '89, we didn't find ZZ Top here. We found Bob Fassl. End of story.",30
+REYES,"Yeah, but what if the two were somehow connected?",9
+DOGGETT,"Monica, for God sakes, this is not an X-File. Don't try to turn it into one.",16
+REYES,"In prison, this being, this person, whatever you want to call him, he acted as if he were protecting Bob Fassl.",21
+DOGGETT,"Protecting? How, by getting him locked up in prison in the first place?",13
+REYES,"So either he's doing Fassl's bidding, or Fassl's doing his. However you slice it, I'm thinking this bearded man was the one who committed the other seven murders. I think we can prove it. DNA evidence in the Sing Sing murder was gathered and filed by the prison authorities. All we have to do is compare it to the DNA from the 1989 murders.",64
+SCULLY,"No. Unfortunately, that's not gonna work. The 1989 evidence has to be thrown out.",14
+DOGGETT,What are you talkin' about?,5
+SCULLY,"The hair samples logged to your crime scene, Agent Doggett, were not there on the day the crimes were committed.",20
+DOGGETT,Are you accusing me? Are you accusing me of planting evidence?,11
+SCULLY,"I am simply stating the facts, okay? The DNA evidence that was used to convict Bob Fassl... was planted.",19
+KAILER,Fassl? I'm Damon Kailer.,4
+KAYLOR,I need to speak with your attorney. Is she here?,10
+BOB,You were at my hearing.,5
+KAILER,I'm the Assistant District Attorney. Is... Jana home?,8
+BOB,She's not here.,3
+KAILER,"Mr. Fassl, I came to make a settlement offer on your case. There's no reason to be upset. This is good news for you. Tell her to call me. We'll work it out.",33
+BOB,I want to go back.,5
+KAILER,I'm sorry?,2
+BOB,Please send me back to prison.,6
+KAILER,"Oh listen, Mr. Fassl, I shouldn't even be discussing this with you without your attorney present.",16
+BOB,But it's my fault.,4
+KAILER,I-I... I can't be hearing this.,6
+BOB,It's the truth.,3
+KAILER,That's not my concern.,4
+DUKE,"I'm sorry, John.",3
+DOGGETT,You framed Fassl.,3
+DUKE,"You saw how it was goin' down. we arrested him at the scene. But he... he left no prints, no hair, no fibre. Nothin' to actually tie him to the murders.",31
+DOGGETT,How did you do it?,5
+DUKE,"I took, uh, part of a hair sample that was found at a... at a previous murder, and put it in with the evidence from our crime scene.",28
+DUKE,"Johnny, it was the one and only time I ever did anything like that. I was scared Fassl would walk, and... and I couldn't let that happen. Not when I knew that... that he was guilty. Oh, God almighty.",39
+DOGGETT,"You know this is gonna come out. No one's gonna hear it from me, but... but I can't put Agent Scully on the spot. I can't ask her to lie.",30
+DUKE,I don't want you to.,5
+DOGGETT,"Duke, you son of a bitch! This is a felony!! I don't know how I can forgive you for this! You break my heart.",24
+SCULLY,Excuse me. Agent Doggett? A.D.A. Kailer. I assume you haven't seen him?,12
+DOGGETT,No. Why?,2
+SCULLY,Apparently nobody has.,3
+REYES,"Mr. Fassl, when was the last time you saw Damon Kailer?",11
+JANA,Two days ago at his release hearing. My client had nothing to do with Mr. Kailer's disappearance.,17
+REYES,No direct involvement?,3
+JANA,None.,1
+REYES,I think we can accept that. We're also prepared to accept that Mr. Fassl had no direct involvement in the seven murders he was previously convicted of.,27
+JANA,How magnanimous of you. It's too bad you're thirteen years too late. Is that it?,15
+REYES,"No. Actually, we believe this person committed the murders.",9
+REYES,What do you think? Do you recognize this man?,9
+JANA,We're here as a courtesy. Which is something the police and the prosecution never showed Bob once.,17
+SCULLY,"Are you a Catholic, Bob? So am I. I remember times in my life when my Rosary was a great comfort to me. Comfort in times of tribulation. And watching you now, I get the feeling... that this is a tribulation for you.",43
+SCULLY,"This man. Is it that he won't leave you alone, Bob? Is it that you just want him to go away? Tell us about him. Tell us so we can help make him go away.",35
+JANA,No more mind games. We're done.,6
+DOGGETT,What the hell was that?,5
+REYES,"I don't know about you, but that was me changing my theory.",12
+DOGGETT,"What, no more ghosts?",4
+REYES,"Nope. Just Fassl. What if a man of profound faith, a devout Catholic, was incapable of contrition?",17
+SCULLY,As in he couldn't admit his own sins?,8
+REYES,"Or even that he had a sinful side to him, as we all do. What if he were so frightened by it that he couldn't even admit it to himself. Might not someone like that manifest a second personality?",39
+DOGGETT,But it wouldn't explain the DNA evidence.,7
+REYES,It would if he physically became that other personality.,9
+DOGGETT,"So what, we've moved on from Casper the Friendly Ghost to Dr. Jekyll and Mr. Hyde?",16
+REYES,There is a precedent in the Catholic Canon itself. Transubstantiation. The manipulation of matter and energy.,16
+SCULLY,You mean water into wine?,5
+REYES,Or the Communion wafer into the body of Christ.,9
+DOGGETT,"Well Monica, I've slept through my share of Sunday Schools, but I never heard the story about the guy becoming another guy.",22
+REYES,"It's the one explanation that makes sense. It explains what happened thirteen years ago, and it explains what's happening now.",20
+SCULLY,"So what you're saying is because this man won't face himself, won't face his own sins, that he is forced to become someone else? A killer.",26
+DOGGETT,So how does someone go about catching a killer who hides inside an innocent man?,15
+BEARDED MAN,Do it!,2
+BOB,I don't want to hurt her!,6
+JANA,"Bob, are you okay?",4
+BEARDED MAN,Kill her.,2
+JANA,"Oh, my god. What happened?",5
+BOB,"I, uh... I-I fell.",4
+JANA,I'll fix you up. You'll be okay.,7
+REYES,"I'll take the next couple of hours. You should get some shut-eye. John, give yourself a break. You haven't slept in 48 hours.",23
+DOGGETT,"I'll sleep once we make sure this guy, Fassl, never kills again. Fassl or this... Charlie Manson sidekick.",18
+REYES,They're one and the same person.,6
+DOGGETT,"Monica, I don't want to hear...",6
+REYES,But I just need to hear another theory that makes sense.,11
+DOGGETT,That theory doesn't make any sense. How the hell to you does that make sense? Meat and potatoes police work is what busted this guy thirteen years ago. And it's what's gonna bust him again. And that's enough. And the day that's not enough? Then I don't know what to tell ya. 'Cause I got nothin' else.,57
+DOGGETT,"Check it out, the front door.",6
+DOGGETT,Jana Fain! Check on her!,5
+JANA,"Oh my god, he was here! He was here, the man in your photo!",14
+REYES,The Bearded Man. Where's Bob Fassl?,6
+JANA,"Oh, he-he was right there, and then he wasn't. I don't... I don't know where.",15
+DOGGETT,Agent Reyes!!,2
+REYES,Call the police!,3
+DOGGETT,Agent Reyes!,2
+DOGGETT,Cable access. Fassl worked for Triboro Cable.,7
+DOGGETT,The trail ends here.,4
+REYES,Blood. He could've gone either way.,6
+DOGGETT,You okay?,2
+DOGGETT,Come on.,2
+REYES,I'll take this way. REYES John! DOGGETTMonica!,7
+REYES,"Let him go, you hear me? Let him go!",9
+DOGGETT,Don't waste your breath. Just shoot the bastard!,8
+REYES,"Bob Fassl, I'm talking to you. I know you're in there, Bob. There's some small part of you in there that couldn't kill Jana Fain when you had the chance.",30
+BEARDED MAN,I'll kill him!!,3
+REYES,"I believe you, Bob. Because you're a murderer.",8
+BEARDED MAN,Shut up!! I'm not him.,5
+REYES,"You're not just a murderer, you're a sinner!",8
+BEARDED MAN,Shut up!! Shut up!! Shut up!!,6
+JANA,"My housekeeper, Mrs. Dowdy, can I see her?",8
+SCULLY,It's better that you don't.,5
+JANA,And the District Attorney?,4
+SCULLY,There are a lot of bodies in there.,8
+SCULLY,There are many more victims than anyone ever knew.,9
+JANA,I saw a Bearded Man. I know what I saw.,10
+SCULLY,"Ms. Fain, I think we'd better get you home.",9
+REYES,John...,1
+DOGGETT,"I've been 48 hours without sleep. I found out my ex-partner's a liar, a felon. Don't ask me to explain how this could be.",24
+REYES,"So what happened tonight, that was just you seeing things?",10
+DOGGETT,"I can't accept this. If you can, God love ya, but, it's not the way my mind works.",18
+REYES,"You closed this case. This time around, that was enough.",10
+DOGGETT,What happens next time?,4

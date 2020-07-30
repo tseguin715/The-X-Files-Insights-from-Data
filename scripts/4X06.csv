@@ -1,0 +1,325 @@
+speaker,line,words
+NURSE WAITE,"Miss Holland, I’m Nurse Waite. I’ll be assisting in your procedure.",11
+HOLLAND,Is it going to hurt?,5
+NURSE WAITE,You won’t feel a thing. There isn’t even any blood. Dr. Lloyd’s done over a thousand lipo procedures. You’re in good hands.,22
+ORDERLY,"OK, here we go.",4
+NURSE WAITE,"I’m going to give a tranquilizer now, and then right before the operation the doctor will give you injections of saline and anesthetic. And all you have to worry about is buying a new wardrobe.",35
+DUTY NURSE,Here are your messages doctor.,5
+BACKGROUND DOCTOR,"Oh, fine thanks.",3
+NURSE WAITE,Your liposuction patient is prepped and waiting in room five.,10
+DR. LLOYD,"Fine, what else am I scheduled for?",7
+NURSE WAITE,"You’ve got a scalp reduction, and a blepharoplasty following.",9
+DR. LLOYD,Are they prepped?,3
+NURSE WAITE,"Um, no. Would you like me...",6
+DR. LLOYD,Get them ready please. I’d like to move right along this morning.,12
+NURSE WAITE,"Yes, doctor.",2
+NURSE WAITE,How are you doing?,4
+HOLLAND,Is the doctor going to be much longer? I think my tranquilizer’s starting to wear off.,16
+NURSE WAITE,"I’m sorry, um, I -- I don’t know where...",8
+NURSE WAITE,Doctor Lloyd!!,2
+DOCTOR LLOYD,I think this patient is finished.,6
+DOCTOR LLOYD,What else do you call it? When you’re in your body and out if it at the same time? Without the ability to control your actions – to stop yourself from doing what I did to that poor young man? What else do you call it?,46
+MULDER,"Spirit possession or demon possession. While these kinds of extraordinary mental states have been well documented throughout history, they’ve been much maligned, rightly or wrongly, and haven’t held up in court well as a criminal defense.",36
+LAWYER,"I would like to reiterate that I have advised my client against speaking to you, and I would appreciate it if you would direct any legal discussion to counsel.",29
+SCULLY,"Doctor Lloyd, are you currently taking any kind of medication?",10
+DOCTOR LLOYD,"The occasional sleeping pill, and uh, uh, prescription antacid for my stomach.",12
+SCULLY,"Would you mind allowing me to check the dosage, and which ones?",12
+DOCTOR LLOYD,"No, I really... I would like to know why, because I...",11
+LAWYER,I think you’ve gotten a clear picture of my client’s story and his willingness to go along with your investigation.,20
+MULDER,"Yes, I believe we have.",5
+SCULLY,"Doctor Lloyd, you say that you’ve taken sleeping pills. How much sleep did you get the night before?",18
+DOCTOR LLOYD,": I, uh...I can’t recall.",4
+SCULLY,The sleeping pill he was taking was something called Somanil.,10
+MULDER,I’ve heard of it.,4
+SCULLY,It’s popular because it works directly on the central nervous system and it isn’t stored in body tissue past its intended use. But it’s also very controversial for its addictivness and its effect on long term behavior.,37
+MULDER,"What – What was the date of ah, Dr. Lloyd’s prescription?",11
+SCULLY,"Well, he started taking the drug five years ago, and he went through – ooh, he took a lot of it. 19 one hundred tablet refills.",26
+MULDER,Wow.,1
+SCULLY,Yeah.,1
+SCULLY,"You know, that’s more than a pill a day.",9
+MULDER,An addiction in other words.,5
+SCULLY,An addiction which very well could have altered his ability to do his job.,14
+MULDER,How many of these procedures would you say Dr. Lloyd’s performed?,11
+SCULLY,"Judging from his schedule the day of the accident, hundreds, and probably thousands.",13
+MULDER,And not one fatality.,4
+SCULLY,"You’re missing my point here, Mulder. This – this place is a veritable factory. Cosmetic surgery is the boom industry of the medical world. And ASU wards like this are a gold mine.",33
+MULDER,"Everybody’s doing it, so I hear.",6
+SCULLY,"And a brand new, state of the art facility like this can support an entire hospital.",16
+MULDER,What do you suppose these are?,6
+SCULLY,What?,1
+MULDER,These five marks on your brand new state of the art floor?,12
+SCULLY,"Well, they look like they were made by, uh, the coasters from an OR table or some kind of equipment.",20
+MULDER,They look to me like they were burned or scorched.,10
+MULDER,In the shape of a pentagram.,6
+SCULLY,"Mulder, if you want to connect the dots here, you should look at the facts. Latrogenic deaths or – or deaths due to doctor error are upwards of 80,000 a year. Dr. Lloyd was pushing his limits. He was an accident waiting to happen.",44
+MULDER,"I’m not a doctor , Scully, but you’ve got to be pushing pretty hard to mistake a beer belly for a bald head – not to mention door number three.",29
+MULDER,It’s amazing that no one saw him in time to stop him.,12
+SCULLY,Maybe they were all possessed.,5
+MULDER,"I don’t think it’s just a simple possession, Scully. I think it’s more like sorcery or black magic or something like that.",22
+MULDER,"Excuse me, what kind of procedure is that up there?",10
+NURSE WAITE,"It’s a rhinoplasty. I’m sorry, who are you?",8
+SCULLY,"Uh, we’re with the FBI. I’m Agent Scully, and this is Agent Mulder. We’re investigating a patient’s death here.",19
+NURSE WAITE,"Oh, uh...yes.",2
+SCULLY,You’re Rebecca Waite. You were the attending nurse at the time. Am I correct?,14
+NURSE WAITE,Yes.,1
+SCULLY,Could you explain to me what happened to Dr. Lloyd. How - how a mistake like this could happen?,18
+NURSE WAITE,"No - no I-I can’t really, um, I wasn’t in the OR at the time and... it’s, uh, difficult for me in my position.",23
+SCULLY,Did you observe Dr. Lloyd at all before the accident?,10
+NURSE WAITE,I helped prep the patient. I was supposed to assist. I did my job as a nurse.,17
+MULDER,Are you aware that Dr. Lloyd is claiming he was possessed during the incident?,14
+NURSE WAITE,I guess it’s cheaper than malpractice insurance.,7
+MULDER,Uh huh.,2
+DR.SHANNON,Give him 500 c.c.s of ringers wide open before he goes to recovery. I need you to keep up with me here.,22
+NURSE WAITE,"Right away, Dr. Shannon.",4
+SCULLY,"Uh, Dr. Shannon, can we have a word with you, please?",11
+DR. SHANNON,I’m sorry. I’ve got a patient who can’t wait.,9
+SCULLY,"Yeah, there’s magic going on here, Mulder, only it’s being done with silicone, collagen, and a well placed scalpel.",19
+DR. KAPLAN,What we have to do here is keep calm and do nothing out of the ordinary. The appearance here of any dissembling or impropriety will only deepen the FBI’s probe on top of Dr. Lloyd’s insurance investigation.,37
+DR. ILAQUA,Dr. Lloyd has made us a target.,7
+DR. SHANNON,The last thing we need is to be caught up in an expose.,13
+DR. KAPLAN,"Then they start looking at our books again. I mean it’s bad enough we have to explain why buttock lipostructures cost 4,000 a pop.",24
+DR. ILAQUA,"We look greedy, therefore we look guilty.",7
+DR. FRANKLYN,"We haven’t done anything wrong, Dr. Ilaqua.",7
+DR. KAPLAN,"If we give any credence or credibility to Dr. Lloyd’s story, they’re going to burn us at the stake.",19
+DR. SHANNON,What about the other personnel. They were talking to the nurse .. Waite?,12
+DR. FRANKLYN,She can’t tell them anything.... because she doesn’t know anything.,10
+FEMALE PATIENT,"I can’t feel my feet. I’m having a skin peel, but I can’t feel my feet.",16
+NURSE WAITE,"It’s okay, it’s okay. Your feet are still there. They aren’t going anywhere.",13
+FEMALE PATIENT,I... it’s just .. I’m afraid to be put to sleep. What if I don’t wake up?,16
+NURSE WAITE,"Not to worry, not to worry. I want you to relax and think about your beautiful new face.",18
+NURSE WAITE,You’re in good hands. We’re going to protect you.,9
+SCULLY,You wanted to show me something?,6
+MULDER,Yeah. A videotape. This videotape of the operation shows that the five marks delineating the pentagram were in evidence prior to the patient’s death.,24
+SCULLY,"Stop it a second. My god, Mulder. He basically stabbed the man to death in his sleep.",17
+MULDER,Which only underscores the strangeness. A sane man acting under his own volition could never perform such an act. Look. There.,21
+SCULLY,"Well, presuming that has anything to do with this, who would have put them there?",15
+MULDER,I don’t know. A pentagram is supposed to be a symbol of protection and positive power used to control the elemental forces.,22
+SCULLY,"Well, then it doesn’t even make sense.",7
+MULDER,"Yeah, but it does make sense that - that witchcraft or black magic would find a theatre in a place like this, preying on the weak and vainglorious.",27
+SCULLY,But there’s no other evidence of anything like witchcraft taking place here.,12
+MULDER,"Maybe there is. What was that, uh, prescription that Dr. Lloyd was taking?",13
+SCULLY,The sleeping pills?,3
+MULDER,"No, the stomach antacid. Read me what it’s made from.",10
+SCULLY,"""An anti-spasmodic whose active ingredients include belladonna alkaloids –""",9
+MULDER,Belladonna. It’s also known as Witch’s Berry – that’s an herb used in hexing rituals.,15
+SCULLY,"Mulder, do you know how many pharmaceuticals listed in the PDR contain belladonna?",13
+MULDER,"Yeah, just one – the one Dr. Lloyd was taking.",10
+SCULLY,"Well, if it’s that simple, why don’t you put out an APB for someone riding a broom and wearing a tall black hat?",23
+MULDER,"You jest, Scully, but there’s a good chance that this hex or ritual or whatever it is, may not be finished.",21
+DR. SHANNON,"Well, the FBI seemed to have backed off at least for the time being.",14
+DR. ILAQUA,Yes.,1
+DR. SHANNON,Are you finished for the day?,6
+DR. ILAQUA,Yes.,1
+DR. SHANNON,"I’ve got a laser peel. Then I’m out of here. We’re going to get through this, Eric. All we have to do is keep our heads on straight.",28
+NURSE WAITE,"The patient is prepped, Dr. Shannon. Is there anything you need me to do?",14
+DR. SHANNON,"Yes, I’m going to need a clean pair of scrubs from the laundry. I forgot to pick some up.",19
+NURSE WAITE,"I’ll get them now. Is there anything you need, Dr. Ilaqua?",11
+DR. ILAQUA,"No, thank you.",3
+DR.SHANNON,Am I prepped in another room?,6
+NURSE WAITE,"No, your patient’s in OR 2. Who’s that?",8
+DR. SHANNON,That’s Dr. Ilaqua. What the hell is he doing with my patient?,12
+DR. SHANNON,"Dr. Ilaqua! Open this door! Eric! Open this door immediately! Dr. Ilaqua, do you hear me? You’ve got to stop this now!",22
+DR. SHANNON,This is wrong! What are you doing? Stop this right now! Eric open this door immediately! This is Dr. Shannon! I said stop this now! STOP!!!!!,26
+SCULLY,"You don’t remember anything, Dr. Ilaqua? How you got in the room, or what compelled you to do such a thing?",21
+DR. ILAQUA,"No, I was on my way home.",7
+SCULLY,Do you realize what you’ve done now?,7
+DR. ILAQUA,Yes.,1
+SCULLY,May I? I’ll be right back.,6
+MULDER,Did you examine the victim?,5
+SCULLY,"No, just Dr. Ilaqua, why?",5
+MULDER,I found something else on the videotape. Right there.,9
+SCULLY,What are they? Bruises?,4
+MULDER,"I don’t know, but the orientation of the points describes a pentagram again. See.",14
+SCULLY,"Well, I found something, too.",5
+MULDER,That’s the same prescription Dr. Lloyd was taking.,8
+SCULLY,You think it’s just a coincidence?,6
+DR. SHANNON,Any change in scheduling or workload is going to give the appearance of covering guilt. We can’t compromise our position on this.,22
+SCULLY,"Sorry to barge in, but this is a matter of some urgency.",12
+DR. FRANKLYN,"Uh, no, please. Dr. Jack Franklyn. May we ask that you sit down?",13
+MULDER,It appears we’ve interrupted a *gathering.*,6
+DR. FRANKLYN,"Gathering? Sir .. can you imagine this group’s concern about what’s happened, and our urgency to resolve this? And to finally bring the person responsible to justice.",26
+SCULLY,Finally.,1
+DR. FRANKLYN,"I don’t know how much of this you know, but uh, ten years ago there were several deaths at this hospital here in the ASU and like uh, the recent deaths they were all ruled accidental.",36
+MULDER,Were any of you here at the time?,8
+DR. FRANKLYN,"A few of us, yes, but .. more importantly... there’s a nurse, Rebecca Waite. She was on the ward during those incidents. Six weeks ago, she transferred back here to the ASU.",31
+SCULLY,Do you have any other reasons to suspect her?,9
+DR. FRANKLYN,"Well, she’s the only person on the ward who had some contact with each of the victims and the doctors involved.",21
+MULDER,Have you spoken with her?,5
+DR. FRANKLYN,"No, she left the uh, hospital early, and no one’s been able to find her.",15
+MULDER,Probable cause.,2
+SCULLY,On the suspicion of being a witch?,7
+SCULLY,What could she have been doing in here?,8
+MULDER,Probably not tax returns.,4
+911 RECORDING,You have reached the 911 emergency line. Please stay on the line...,12
+NURSE WAITE,"You don’t know what you’re doing! Let me go, now! They don’t understand. You have to tell them!",18
+MULDER,I want to speak to her.;,6
+NURSE WAITE,Tell them!,2
+MULDER,I need to speak to her...,6
+SCULLY,"Mulder, don’t...",2
+NURSE WAITE,"I tried to stop him, but it’s too powerful. Someone has to stop....",13
+SCULLY,Get the paramedics over here! Get the paramedic over here now!,11
+EMT,Watch it. Come on.,4
+SCULLY,She’s swallowed straight pins and is bleeding internally. You’ve got to get her into surgery immediately.,16
+EMT,There we go.,3
+SCULLY,I’m going with her to the ER.,7
+DR. FRANKLYN,"I would have done it myself, but I’m still a little shaky.",12
+DR. SHANNON,"Jack, you’re a lot cooler than I’d be if it’d been me.",12
+DR. FRANKLYN,"Ah, well, the important thing is it’s over now.",9
+MULDER,"Dr, Franklyn?",2
+DR.FRANKLYN,"Ah, Agent Mulder.",3
+MULDER,I came by to see if you were okay.,9
+DR. FRANKLYN,Yes. I - I’m fine. Thank you.,6
+DR. SHANNON,That woman broke in here. She was in here waiting for him.,12
+MULDER,Looks like she took a pretty good shot at you.,10
+DR. FRANKLYN,"Yes, apparently.",2
+MULDER,"Nothing that a little plastic surgery won’t fix up though, huh? Do you have any uh, idea why she might have attacked you?",23
+DR. FRANKLYN,"Well, I’m the one who voiced suspicion about her.",9
+MULDER,She wouldn’t have known that.,5
+DR. SHANNON,Could have been any one of us – she’s obviously quite mad.,12
+MULDER,"Ah, we have reason to believe that she’s a practitioner of ritual magic.",13
+DR. FRANKLYN,Ritual magic?,2
+MULDER,A practicing witch.,3
+DR. SHANNON,You’re saying she’s who’s responsible for Dr. Lloyd and Dr. Ilaqua? That witchcraft caused them to kill those patients?,19
+MULDER,I think a lot remains to be proven.,8
+DR. FRANKLYN,"Hem, I’m sorry. Ah, This evening has been a bit much, and I really need to get some rest.",19
+DR. SHANNON,I think all of us would like to get some rest... get back to work and put this behind us.,20
+SCULLY,"Mulder, it’s me.",3
+MULDER,"Come in, it’s open.",4
+MULDER,"God, you look tired.",4
+SCULLY,"I do? I was just at the hospital. Our suspect, Rebecca Waite was just pronounced 20 minutes ago.",18
+MULDER,Cause of death?,3
+SCULLY,Massive blood loss due to esophageal hemorrhaging caused by the expulsion of hundreds of straight pins.,16
+MULDER,You ever seen anything like that?,6
+SCULLY,"Well... in med school I saw some weird stuff. Uh, there’s a - a psychiatric disorder called pica which is characterized by the craving for non-food objects like clay, rocks, glue, but if she swallowed...",34
+MULDER,"She would have died long before she yacked them up on the driveway. Unless, of course she didn’t ingest them at all, which would fit with the phenomenon called allotriophagy.",30
+SCULLY,Allotriophagy?,1
+MULDER,"Yeah, the spontaneous vomiting or disgorgement of foul or strange objects usually associated with someone possessed.",16
+SCULLY,"Mulder, I - I won’t refute that this woman may have been practicing the occult, but... what comes out must first go in.",22
+MULDER,"Well, according to this book people throughout history have coughed up all kinds of things from cue balls to butcher’s knives without any explanation of how they got there.",29
+SCULLY,Where’d you get this from?,5
+MULDER,Rebecca Waite’s house. It’s the same place I got this. This calendar was open to April. The 30th was marked by a symbol that you’re familiar with by now?,29
+SCULLY,What’s the significance of the 30th?,6
+MULDER,"It’s one of the four Greater Witches' Sabbaths, there seasonal high holy days – according to that book over there, it’s also known as ""Roodmas."" It’s also the birth date of the first victim. Now July 31st, is also marked with a pentagram. This coincides with ""Lammas"", another one of the Witches' Sabbaths. It’s also the birth date of the second victim.",62
+SCULLY,So you think she was choosing her victims based on their birthdays.,12
+MULDER,"No, no, remember, I said the pentagram is a - is a protective symbol. I think Rebecca Waite was trying to save those patients. I think she knew that they were in danger.",32
+SCULLY,Which made her attack Dr. Franklyn.,6
+MULDER,I think she knew something about him and I think we should find out what that is before he goes back to work.,23
+DR. SHANNON,I just got a very disturbing call.,7
+DR. KAPLAN,From whom?,2
+DR. SHANNON,The FBI. They were asking about patients’ birth dates. They’re on their way over here right now.,17
+DR. KAPLAN,I thought this was over.,5
+DR. SHANNON,Apparently not.,2
+DR. KAPLAN,"You had a good thing going, you can bet somebody will try and take it away. I’m beginning to understand why a man becomes a conservative - he’s got something to conserve. Are you all right, Jack?",36
+DR. FRANKLYN,"Yeah, I just didn’t get much sleep last night.",9
+DR. KAPLAN,"No, of course you didn’t.",5
+DR. FRANKLYN,I’ll be fine.,3
+DR. KAPLAN,"Gail, push my ostoplasty back half an hour.",8
+GAIL,"Yes, doctor.",2
+DR. KAPLAN,I’m taking your chem peel. You’re going home.,8
+DR. FRANKLYN,I said I’ll be fine.,5
+DR. KAPLAN,"Take a look at yourself. You look like hell, Jack.",10
+DR. FRANKLYN,"Look, I appreciate the offer...",5
+DR. KAPLAN,"Don’t get me wrong. I am not being magnanimous, here. We just can’t afford to make any more mistakes right now.",21
+SCULLY,"Yes. Thank you. Dr. Franklyn’s already left, but his office confirms that one of his patients has a birth date which corresponds with one of the Sabbaths.",27
+MULDER,When is that patient scheduled?,5
+SCULLY,"This morning – she’s already in pre-op, and one of the other doctors is filling in.",16
+PATIENT,Is Doctor Franklyn okay?,4
+DR. KAPLAN,He’s just not feeling very well.,6
+PATIENT,"Oh. I-I suppose this is one of those procedures that all doctors here could deal with, is-isn’t it?",18
+DR. KAPLAN,Yes.,1
+PATIENT,Yes. Dr. Franklyn said that a c-chemical skin peel is safe... almost... risk... free.,14
+MULDER,We’re looking for Dr. Shannon.,5
+DR. SHANNON,Oh!,1
+DR. SHANNON,Our practice has been affiliated with Greenwood for thirteen years. Now the ASU accounts for over 50% of this hospital’s revenue. Do you understand what that means?,27
+SCULLY,"It means that while doctors in other fields have seen their earnings fall because of managed health care, you’ve all managed to become wealthy.",24
+DR. SHANNON,We fill a need. We didn’t create it. Everyone wants to be beautiful. But our success made us arrogant. I’m willing to accept responsibility for certain of our... mistakes.,29
+MULDER,"""Mistakes?"" Like those patient deaths ten years ago?",8
+DR. SHANNON,That any of us could be capable of such gross negligence was inconceivable.,13
+SCULLY,So you covered it up.,5
+DR. SHANNON,"If we did it was with the hospital’s blessing. They conducted an internal investigation. We have become too valuable an asset, something to protect. Even at the cost of five people’s lives.",32
+MULDER,There were five deaths?,4
+DR. SHANNON,"Yes. Four patients. The fifth was a colleague of ours who... for all intents and purposes, worked himself to death. He died of a drug overdose.",26
+MULDER,What was his name?,4
+DR. SHANNON,Dr. Cox. Clifford Cox.,4
+MULDER,Do you have a file on him?,7
+DR. SHANNON,Probably in the computer.,4
+MULDER,"All right, I’m going to need that and the files on those patient deaths ten years ago.",17
+SCULLY,"Why, Mulder? What are you thinking?",6
+MULDER,"Dr. Clifford Cox, birth date July 7th 1939, now can you take that photo and run it through the cosmetic surgery program I saw on this computer?",27
+DR. SHANNON,It’ll take me a few seconds to load up the software.,11
+SCULLY,"Mulder, I’m still not sure where you’re going with this.",10
+MULDER,"Ten years ago, four patients died. Like the recent victims, their birth dates all match the Witches' Sabbaths. Except Dr. Cox.",21
+SCULLY,But Cox was a doctor. Nothing about his death matches up except its coincidence.,14
+MULDER,"Maybe, maybe not.",3
+DR. SHANNON,I’m on line here.,4
+MULDER,"Okay, now this software was created to give patients an idea of their projected result, right?",16
+DR. SHANNON,"Within the limits of what the patient comes in with, we try to approach that aesthetic ideal. The computer runs a program based upon a matrix of relative proportions.",29
+MULDER,"Vanity. Vanity,... all is vanity.",5
+DR. SHANNON,Here it is.,3
+MULDER,"Now, can you move the eyes further apart and strengthen the forehead?",12
+DR. SHANNON,That is beyond our surgical capabilities.,6
+MULDER,I know.,2
+DR. SHANNON,I don’t understand. It looks like Jack Franklyn.,8
+SCULLY,Where else do you think he would be?,8
+DR. SHANNON,I don’t know. I’ll check the OR. Maybe he’s there.,10
+SCULLY,He’s not answering his pages.,5
+MULDER,Did you try his home?,5
+SCULLY,"Answering machine. What are you thinking, Mulder? That Dr. Cox murdered these patients ten years ago then became Dr. Franklyn?",20
+MULDER,"No, Scully. I think he murdered those patients so he could become Dr. Franklyn.",14
+SCULLY,This kind of transformation is medically impossible.,7
+MULDER,"It’s not medicine, Scully. It’s blood sacrifice.",7
+SCULLY,Blood sacrifice?,2
+MULDER,"The most potent offering in black magic. What if this man, having reached the limits of medical miracles, decided to stage a miracle all his own?",26
+SCULLY,So this man committed these murders in order to make himself beautiful?,12
+MULDER,"Everybody wants to be beautiful, Scully.",6
+DR. SHANNON,Jack. What are you doing?,5
+DR. FRANKLYN,I’m so glad that you’re here.,6
+DR. SHANNON,"Jack, stay right where you are.",6
+DR. FRANKLYN,I hope those instruments were properly sterilized.,7
+MULDER,Dr. Franklyn?,2
+MULDER,"Scully, come over here. Stop right there. Look what you’re standing on. This one’s different. It’s been inverted. See these two upright points here? They represent the God of Lust, attacking heaven with its horns.",35
+SCULLY,"Look, he’s inscribed all the names of the patients who were killed.",12
+DOCTOR,Clear the way. Moving through! What did you swallow?,9
+DR. SHANNON,nan,1
+DOCTOR,What did you swallow?,4
+ORDERLY,She didn’t say.,3
+DOTOR,I’m going in to do an exploratory laparotomy.,8
+DR. SHANNON,Please... don’t.,2
+DOCTOR,"Give her two units blood, stat. Someone get a 16 gauge IV in and open it wide.",17
+NURSE,"I’ll get the IV, Doctor.",5
+DR. SHANNON,"No... please no,.... no....no, please, don’t...",6
+MULDER,Where’s Dr. Shannon? They said she was brought in here in an emergency?,13
+NURSE,Dr. Shannon?,2
+SCULLY,"Mulder, in here.",3
+MULDER,Don’t let them operate on her. Hold them off until you hear from me!,14
+SCULLY,Where are you going?,4
+MULDER,To find Dr. Franklyn.,4
+DOCTOR,Forceps.,1
+NURSE,Here you go.,3
+DOCTOR,Sponge it. Suction.,3
+NURSE,Suction.,1
+DOCTOR,Saline.,1
+NURSE,Saline.,1
+DOCTOR,More sponge.,2
+SCULLY,You have to stop this procedure immediately.,7
+DOCTOR,"Whoever that person is, get her out of here, now!",10
+SCULLY,I’m Special Agent Dana Scully. I’m an FBI agent.,9
+NURSE,"Get out here, now!",4
+SCULLY,Listen to me! I’m a doctor.,6
+DOCTOR 2,What the hell’s going on here?,6
+SCULLY,I’m a federal agent.,4
+DOCTOR 2,I don’t care who you are. You can’t interrupt a surgery in progress. This woman could die.,17
+SCULLY,That’s exactly what I’m trying to prevent.,7
+INTERCOM,"Dr. Hallender, please call obstretics. Dr. Hallender, please call obstetrics.",10
+MULDER,What happened?,2
+SCULLY,"Well, they saved her life. They just pulled a whole whack of surgical instruments out of-of her intestinal tract. God only knows how they got there.",26
+MULDER,Then it failed.,3
+HYSTERICAL NURSE,I tried to stop him! He just went crazy!,9
+DOCTOR,"We’re losing her, fast!",4
+MULDER,What is this patient’s birth date?,6
+SCULLY,October 31. Halloween.,3
+MULDER,On Samhain... the Fourth Witches’ Sabbath.,6
+FEMALE DOCTOR,"I can’t tell you how happy I am that you’ve decided to join us, Doctor Hartman.",16
+DR. HARTMAN,"Well, I like what I’ve seen so far. The truth is, I’ve always been drawn to Los Angeles.",18
+FEMALE DOCTOR,"With your credentials, I’m sure you had plenty of options. I’ve been reviewing your patient portfolio. Your work is among the most impressive I’ve ever seen.",26
+DR. HARTMAN,"I like to say whoever God didn’t get around to creating in his own image, it’s our job to recreate in ours.",22

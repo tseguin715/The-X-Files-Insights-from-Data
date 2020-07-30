@@ -1,0 +1,309 @@
+speaker,line,words
+MULDER,"I have lived with a fragile faith built on the ether of vague memories from an experience that I can neither prove nor explain.When I was twelve, my sister was taken from me, taken from our home by a force that I came to believe was extraterrestrial. This belief sustained me, fueling a quest for truths that were as elusive as the memory itself. To believe as passionately as I did was not without sacrifice, but I always accepted the risks... to my career, my reputation, my relationships... to life itself...",91
+MAN,Let's move out!,3
+NURSE,"We need a frostbite bay, stat!",6
+DOCTOR,"All right, let's get ready, please! Basal temp's eighty-six degrees.",10
+NURSE,Right eye dilated. Left eye dilated.,6
+DOCTOR,"All right, people, let's get him into that tub or we're going to lose him. On three... one, two, three...",20
+SECURITY GUARD #1,Hold it...,2
+SCULLY,An Agent Mulder was brought here tonight?,7
+SECURITY GUARD #1,"This is an authorized area, military personnel only.",8
+SCULLY,I'm a federal agent!,4
+SECURITY GUARD #2,Ma'am!,1
+SECURITY GUARD #1,"Hold on, you're not going anywhere until we can see some I.D.",12
+SCULLY,There's no time for this. A man is dying.,9
+MULDER,"What happened to me out on the ice has justified every belief. If I should die now, it would be with the certainty that my faith has been righteous. And if, through death, larger mysteries are revealed, I will have already learned the answer to the question that has driven me here... that there is intelligent life in the universe other than our own... that they are here among us... and that they have begun to colonize.",77
+SCULLY,"I'm Dana Scully, I'm Agent Mulder's partner. What are his vitals?",11
+DOCTOR,He's suffering from extreme hypothermia.,5
+SCULLY,No... you've got to get him out of the tub.,10
+DOCTOR,"He's dying, he's lost all his body heat.",8
+SCULLY,"You've got to listen to me! If you keep him in there, you're going to kill him! The cold is the only thing that's keeping him alive.",27
+NURSE,His heart stopped!,3
+DOCTOR,Give me one amp of epinephrine in a cannula!,9
+OFFICER,"You got to see this captain, we got a UFO or something buzzing us. Right up here. It's been just hovering up there for about twenty minutes.",27
+CAPTAIN,Could be a helicopter.,4
+OFFICER,Not the way it flew over us.,7
+MAN,It's coming at us again.,5
+OFFICER,It's going to crash...,4
+CAPTAIN,Reverse engines!,2
+DECKHAND,Reverse!,1
+CAPTAIN,We're going after it.,4
+WOMAN,Thank you very much.,4
+NURSE,You're welcome.,2
+ANCHORMAN,...has been covering this story and files this report.,9
+REPORTER,"Two days ago, the crew of an ice cutter working the arctic circle thought they had seen a UFO when a strange aircraft plunged into the Beaufort Sea. But a short time later, they recovered what is now believed to be a Russian fighter pilot from the icy water where he miraculously survived the extreme arctic temperatures. The man was airlifted to a military hospital in Alaska where he was listed in stable condition. But while authorities have been trying to determine just who the pilot is, we've learned that he's apparently walked out of the hospital......and is now listed as missing. Reporting from our field...",106
+ALIEN BOUNTY HUNTER,Where is he?,3
+LANDON PRINCE,I don't know!,3
+MULDER,I have been looking for you.,6
+SCULLY,I was just down the street. Someone fired more shots at the White House last night.,16
+MULDER,You got to wonder about a country where even the President has to worry about drive-by shootings.,17
+SCULLY,What are you working on?,5
+MULDER,I found these in my e-mail this morning... three obituaries.,10
+SCULLY,Sent by whom?,3
+MULDER,Nobody I know but obviously somebody who knows me.,9
+SCULLY,Why?,1
+MULDER,"The deceased are Doctor Landon Prince of Scranton, Pennsylvania... Doctor Dale Gayhart of New York City......and Doctor Harvey Buchanon of Tea Neck, New Jersey. All worked in abortion clinics. They died in separate arson fires.",35
+SCULLY,Sounds like the work of militant right-to-lifers.,7
+MULDER,Sounds like it.,3
+SCULLY,Why would somebody send them to you?,7
+MULDER,It's taken me all morning to figure that out.,9
+SCULLY,What did you find?,4
+MULDER,"This is the latest victim, Doctor Landon Prince. And these are the other two victims... Doctors Gayhart......and Buchanon.",18
+SCULLY,Triplets?,1
+MULDER,"Nope. I can't find any blood connection between them. In fact, I can't find any records on them at all. It's as if before they died, they never existed.",29
+SCULLY,What?,1
+FEDERAL MARSHALL,"Doctor Prince performs legal, clinical abortions which seems to be having its own share of occupational hazards these days.",19
+MULDER,You don't know anything else about him?,7
+FEDERAL MARSHALL,"Nah, he went about his work quietly. None of his family's come forward.",13
+SCULLY,"What about the man you arrested, this, uh, preacher?",9
+FEDERAL MARSHALL,"Reverend Calvin Sistrunk. He's got a motive, he's threatened these abortion docs before. He was carrying this when we arrested him. We're hoping for an indictment.",26
+MULDER,As soon as you locate Doctor Prince's remains.,8
+FEDERAL MARSHALL,Yes... but that fact hasn't been released.,7
+MULDER,"Well, there have been two identical fire deaths. Neither body has been found.",13
+FEDERAL MARSHALL,We're quite certain he was in the building. His car was in the parking lot. We found his keys in the stairwell where the fire was started. He's been missing since the incident. Could be we'll just be finding teeth and bone.,42
+CALVIN SISTRUNK,Good afternoon.,2
+FEDERAL MARSHALL,Reverend Sistrunk... these are Agents Scully and Mulder. They want to ask you...,13
+CALVIN SISTRUNK,...if Doctor Prince burns in hell's fire for his murder of the unborn? If his damnation is God's will?,19
+MULDER,"Is that what you think, Reverend?",6
+CALVIN SISTRUNK,I guess it's a question of opinion.,7
+MULDER,"Well, it's my opinion that whoever killed Doctor Prince will also be linked to two other murders. How do you feel about that?",23
+CALVIN SISTRUNK,"There are those who endorse the killing of the heathen sinner in God's name, but I, sir, am not one of them.",22
+MULDER,Have you been to New York or New Jersey in the past two weeks?,14
+CALVIN SISTRUNK,"No, sir.",2
+MULDER,"This clipping, where'd you get it?",6
+CALVIN SISTRUNK,"From the newspaper. Obviously, there are more of God's soldiers seeking this man for judgement.",15
+MULDER,Which newspaper?,2
+CALVIN SISTRUNK,"The local paper, up in Binghamton.",6
+WOMAN,"Oh, yeah. I remember this one. The man who placed this payed cash.",13
+SCULLY,Would you recognize his face?,5
+WOMAN,I might. No. That's not him.,6
+MULDER,Do you have a record of his name or address?,10
+WOMAN,"No, we don't. He wouldn't sign anything. In fact, he called and asked to place that ad a second week, so we did but he never came back to pay.",30
+MULDER,Thank you.,2
+WOMAN,Sure.,1
+SCULLY,"I've got a bad feeling about this case, Mulder.",9
+MULDER,What do you mean?,4
+SCULLY,"Well, nothing about it makes sense. We've got three deaths of identical victims, no bodies, a virtual non-suspect...",18
+MULDER,Sounds just like an X-File.,5
+SCULLY,"You don't even know who sent you that information. I mean, we've been set up before.",16
+MULDER,"If somebody really wanted to set us up, would they give us this little to go on? There's something bigger here, Scully. I'd be willing to bet there are more of these guys out there.",35
+SCULLY,More victims?,2
+MULDER,"Unless we get to them first. The deaths follow a pattern... New Jersey, New York, Scranton......and then an ad is placed here in Binghamton looking for a man exactly like the others. The killer's moving in a northernly direction. Uh, eh, uh... excuse me? Excuse me. The, uh, number in the ad, is th... would that be a voice mail?",60
+WOMAN,"Yes, it is.",3
+MULDER,"How, how would you access that?",6
+WOMAN,"Well, you'd start by paying the bill. Dial the number, then press twelve-thirty six.",14
+SCULLY,There's twenty four messages responding to the ad. The first caller has seen the man in the photo in Syracuse.,20
+MULDER,That's north.,2
+BARRETT WEISS,Special Agent Weiss.,3
+MULDER,"Yeah, this is Agent Mulder. I need to enlist your help.",11
+BARRETT WEISS,Shoot.,1
+MULDER,"I'm heading your way with Agent Scully. We have reason to believe a man in your area may be in danger. His name is Doctor Aaron Baker, he's living somewhere in Syracuse. We need you to find him and sit on him......until we get there.",45
+BARRETT WEISS,You got it. I'll call you back with an address as soon as I track him down.,17
+AARON BAKER,"There were years, years when our people did get along, where we could share in the entire planet. But you seem to be...you seem to be unwilling to share. I don't understand, I don't understand! You did not fail...",39
+ALIEN BOUNTY HUNTER,Your plans will not succeed.,5
+BARRETT WEISS,"Federal agent, drop your weapon! I said drop it! What the hell... Agent Mulder?",14
+MULDER,"Yes, Agent Weiss?",3
+BARRETT WEISS,"Yes, sir.",2
+MULDER,Did you find Doctor Baker?,5
+BARRETT WEISS,"No, I'm afraid not. No one's home. There's two weeks worth of mail in the mailbox.",16
+MULDER,"Uh, we may already be too late but we should take a look around anyway.",15
+BARRETT WEISS,Not much to see.,4
+SECRETARY,Agent Mulder has arrived.,4
+SKINNER,"Send him right in. Agent Mulder, please have a seat.",10
+MULDER,"Sorry I'm late, I just flew in.",7
+SKINNER,From?,1
+MULDER,Syracuse.,1
+SKINNER,Where you were doing what?,5
+MULDER,Agent Scully and I were following up a lead on a case.,12
+SKINNER,"Did anyone authorize this investigation, Agent Mulder?",7
+MULDER,"No, sir.",2
+SKINNER,Do you have paperwork on this case?,7
+MULDER,"No, sir. I'd assumed we had an understanding with respect to the X-Files.",13
+SKINNER,"I'm sure it doesn't surprise you, Agent Mulder, that the people I have to answer to aren't quite so understanding. Particularly when one of their field agents is found dead.",30
+MULDER,What?,1
+SKINNER,Special Agent Barrett Weiss. Out of the Syracuse office. His body was found stuffed in the trunk of a car in front of a house that you sent him to.,30
+MULDER,"It's impossible... I spoke to Agent Weiss, I saw him at the house.",13
+SKINNER,"Save it, Agent Mulder, save it for your report because until this matter is cleared up, your butt and mine are in a sling and your investigation, official or otherwise, is terminated.",32
+MULDER,Sir...,1
+SKINNER,"Don't underestimate the seriousness of this matter, Agent Mulder. A man is dead. I want a full accounting on my desk in the morning.",24
+MULDER,Mulder.,1
+SCULLY,"Mulder, it's me.",3
+MULDER,Where are you?,3
+SCULLY,I'm at home.,3
+MULDER,"Agent Weiss is dead, Scully.",5
+SCULLY,What?,1
+MULDER,Somebody killed him and Skinner hit the roof. We're being grounded until he gets a full accounting. I just wish I knew what the hell was going on.,28
+SCULLY,"Have you checked your e-mail this morning, Mulder?",8
+MULDER,"No, why?",2
+SCULLY,Because I received something unsettling and I wondered if you'd gotten it too.,13
+MULDER,What is it?,3
+SCULLY,"It's a digitally scanned photograph. There's another one, Mulder. His name is Doctor James Dickens. And Mulder?",17
+MULDER,Yeah?,1
+SCULLY,"He's right here in Washington. ""Mail 485723",7
+DATE,-- Image enclosed,2
+FROM,"82974@anon.server.ca Dr. James Dickens, Washington D.C."" Cut to Mulder.)",9
+MULDER,"Stay where you are, Scully, I'll be right there to pick you up.",13
+AMBROSE CHAPEL,Agent Mulder? My name is Ambrose Chapel. I work with the Central Intelligence Agency. I need to talk to you about the case you're working on.,26
+MULDER,What case is that?,4
+AMBROSE CHAPEL,"The murder of certain identical victims. I have a story to tell, Agent Mulder. Believe me, you want to hear it. We've known of their existence for a decade. We had no idea they were in the country until last year.",41
+SCULLY,Who are they?,3
+AMBROSE CHAPEL,"We're working on vague intelligence reports but it appears early in the Cold War, Soviet scientists stumbled onto genetic anomaly in sets of identical twins. They were able to isolate the specific DNA material that gave the twins their facial features, hair color, texture... and they were able to reproduce it.",51
+SCULLY,Are you saying these men are clones?,7
+AMBROSE CHAPEL,By all outward appearances.,4
+MULDER,How did they get here?,5
+AMBROSE CHAPEL,"The program went by the codename ""Gregor""... the name given to every clone. We believe the original Gregor came here sometime in the mid-70's on a German passport. Using that same document, they were able to bring a small cadre of clones into the country. Several of which have obtained strategic positions in the medical establishment.",56
+MULDER,For what purpose?,3
+AMBROSE CHAPEL,"In the event of war, they would mobilize simultaneously at different facilities across the U.S. to contaminate blood supplies, sabotage pharmaceutical factories... essentially destroy the country's immune system.",28
+SCULLY,"If you've known about this for a year, why hasn't anything been done?",13
+AMBROSE CHAPEL,"Well, this is where the story gets perhaps even more incredible. In a secret agreement, someone is allowing the Gregors to be systematically eliminated by a man who I believe is a Russian spy killer in exchange for the absolute suppression of the program's existence and to obtain the science that created it.",53
+MULDER,What's your business in this?,5
+AMBROSE CHAPEL,I believe we share similar sentiments on our government's policies of denial which is why they've been trying to contact you.,21
+SCULLY,Who?,1
+AMBROSE CHAPEL,The Gregors. You've obviously got a reputation as someone who might protect them and bring these misdeeds to light.,19
+MULDER,What makes you think we've been contacted?,7
+AMBROSE CHAPEL,"Your inquiries into their deaths... And your response to the ad I placed. We're talking state-sanctioned murder. If we can find them first, maybe the truth can be known.",29
+MULDER,We know where one of these man may be.,9
+JAMES DICKENS,"Okay, let's go.",3
+JAMES DICKENS,Who is it?,3
+SCULLY,"Agents Scully and Mulder, we're with the F.B.I.",8
+MULDER,Doctor Dickens?,2
+JAMES DICKENS,Yes?,1
+MULDER,I believe you've been trying to contact us.,8
+JAMES DICKENS,Uh...,1
+SCULLY,"May we come in, Doctor Dickens?",6
+JAMES DICKENS,Um...,1
+MULDER,"It's okay, sir, there's nothing to be afraid of!",9
+SCULLY,I'll call the paramedics...,4
+MULDER,He's moving... he's getting up!,5
+SCULLY,I'll call you back. You okay?,6
+MULDER,Okay. I just got the wind knocked out of me. Don't lose him! Go!,14
+SCULLY,Okay...,1
+MAN,Are you all right?,4
+AMBROSE CHAPEL,He's gone.,2
+SCULLY,Where?,1
+AMBROSE CHAPEL,He blindsided me. Went up the fire escape before I could grab him. I'm going to go see if I can find a way up on the roof.,28
+SCULLY,How are you feeling?,4
+MULDER,Like I should've used the crosswalk. A lot better than my phone.,12
+SCULLY,Maybe we should've dropped this case when you were told.,10
+MULDER,"Scully, if what our friend from the C.I.A. says is true, this could blow the lid off one of the biggest national security conspiracies ever.",25
+SCULLY,"Our friend from the C.I.A. is about as unbelievable as his story... as is everything about this case. I mean, whatever happened to ""trust no one,"" Mulder?",27
+MULDER,"Oh, I changed it to ""trust everyone."" I didn't tell you? I ran a full background check on this guy. Ambrose Chapel is a seventeen-year veteran, special intelligence clearance. He's the real thing, Scully.",34
+SCULLY,"Why would a man with his experience need our help... and how could he let a man that he's been looking so hard for slip away so easily? You know, that doctor wasn't running away from us, Mulder, he was running away from Agent Chapel.",45
+MULDER,"I think you're being overly paranoid about him, Scully.",9
+SCULLY,Paranoid. Have you stopped to consider that maybe it was Agent Chapel who killed that field agent in Syracuse?,19
+MULDER,Is that what you want me to put on my report to Skinner? Because I would be more than happy to have you explain that to him.,27
+SCULLY,"Damn it, Mulder, that is not my job. You'll pursue a case at the expense of everything, to the point of insanity, and expect me to follow you. There has to be somewhere to draw the line.",37
+MULDER,"Three identical men are dead. A fourth identical man is alive and on the lam. If the pursuit of this case seems like insanity to you, feel free to step away from it.",33
+SCULLY,An F.B.I. agent died because of our pursuit of this case.,11
+MULDER,Those are the risks we take. You either accept them or you don't. We all draw our own lines.,19
+SCULLY,"I have to show you something. I got these a week ago. I stepped in something last night that ate clean through the sole. Now, maybe I'm being paranoid, but it was in the exact spot where this man Chapel said the doctor escaped.",44
+MULDER,"Why don't you send it to our lab guys for analysis? And while you're at it, why don't you arrange for an autopsy bay?",24
+SCULLY,An autopsy bay?,3
+MULDER,"In putting together my report for Skinner, I came across something I think you'll appreciate. Whoever killed that field agent in Syracuse was so clever, no clear cause of death can be established.",33
+SCULLY,"There's no penetrating knife or gunshot wounds. No ligature marks or abrasions from strangulation. The toxicologocial is clean... and the blood work... well, the blood work is strange.",28
+MULDER,Strange how?,2
+SCULLY,"Well, there's evidence of polycythemia, excessive production of red blood cells.",11
+MULDER,How excessive?,2
+SCULLY,Extremely. The doctor who made this report has it in here that the blood was curdled like jelly. As if something caused the blood to thicken or clot prior to death.,31
+MULDER,Due to what?,3
+SCULLY,"Possibly a coagulating agent introduced into the body, but it would've shown up on the toxicological.",16
+MULDER,Didn't Agent Chapel say something about these doctors being able to contaminate the blood supply? Couldn't one of those contaminants have been used to kill this man?,27
+SCULLY,"I don't know, Mulder, I... there was a doctor's bag I took as evidence from the apartment.",17
+MAN,Agent Mulder?,2
+MULDER,Yeah?,1
+MAN,Assistant Director Skinner's been looking for you.,7
+MULDER,"All right, I'll be right there. Check the bag. See if you can find anything that'll connect.",17
+SCULLY,"Well, Skinner's going to want to know why you didn't file your report. What're you going to say?",18
+MULDER,Just the truth. I got hit by a car.,9
+MULDER,"I'm sorry this is so late. I had trouble with the, uh, data from the, uh, autopsy...",17
+SKINNER,"That's not why I called you in here, Agent Mulder. Uh... your father's been trying to reach you. There's been a family emergency.",23
+MULDER,Thank you.,2
+MRS. MULDER,Hello?,1
+MULDER,Mom?,1
+MRS. MULDER,Fox. Is that you?,4
+MULDER,"Yeah, I, I didn't expect you to answer. Wha, what are you doing at Dad's? Is he all right?",19
+MRS. MULDER,Yes. Let me put him on.,6
+WILLIAM MULDER,Hello?,1
+MULDER,Dad? I got a message there was a family emergency.,10
+WILLIAM MULDER,"Yes, I received a very strange phone call this afternoon. I called your mother. We think it's important that you come up here as soon as possible.",27
+MULDER,Can you tell me what this is about?,8
+WILLIAM MULDER,I'll know more when you get here.,7
+SCULLY,I didn't find anything much to go on but we've got an address.,13
+MULDER,"Check it out, I'll call you as soon as I can.",11
+SCULLY,Where you going?,3
+MULDER,Home.,1
+"""NAME",Dr. James Dickens,3
+ADDRESS,3243 Edmonton Street.,3
+CITY,"Germantown."")",1
+MULDER ON MACHINE,"Hello, this is Fox Mulder. Leave me a message and I'll get back to you as soon as I can.",20
+SCULLY,"Mulder, it's me. I need to talk to you immediately. I've got some new information on this case. Mulder, I think I'm in danger. I'm in my apartment and I think I've been followed.",34
+WILLIAM MULDER,Your mother needs some time.,5
+MULDER,You said it was an emergency.,6
+WILLIAM MULDER,She wanted you to come. It's a difficult time. I appreciate your coming on such short notice.,17
+MULDER,"What is it, Dad?",4
+WILLIAM MULDER,The certainty... becomes a comfort that allows you to move on. We bury our memories so deep after all that has been destroyed... never expecting...,25
+MULDER,Who is Mom talking to?,5
+WILLIAM MULDER,Your sister.,2
+SAMANTHA MULDER,Fox.,1
+MRS. MULDER,"After all those sleepless nights, now I can hardly keep my eyes open.",13
+MULDER,You're exhausted. We all are. It's after 5:30.,8
+MRS. MULDER,"Oh, I just need a couple of hours.",8
+MULDER,Try and get some sleep.,5
+MRS. MULDER,Fox...,1
+MULDER,"Yeah, Mom?",2
+MRS. MULDER,It is really her... Isn't it?,6
+MULDER,I... I don't see who else it could be. Now go to sleep.,13
+SAMANTHA MULDER,Is it too late for a game of Stratego?,9
+MULDER,It's twenty-two years too late.,5
+SAMANTHA MULDER,I don't think Dad can think of anything to say. He just... sat here.,14
+MULDER,So much has happened. Where do you begin?,8
+SAMANTHA MULDER,I must have been nine or ten when I was returned. I had no memory. I was placed with a family who raised me as a daughter.,27
+MULDER,Who were they?,3
+SAMANTHA MULDER,I knew they weren't my parents but I didn't remember Mom or Dad..or you.,14
+MULDER,But you came to remember... us.,6
+SAMANTHA MULDER,"I started having trouble several years ago. It was diagnosed as free-floating anxiety. Nothing worked for me. I hit rock bottom... until I underwent regression hypno-therapy. And it all started coming back... The abductions, the tests... I'm in danger, Fox.",40
+MULDER,What do you mean?,4
+SAMANTHA MULDER,You've been contacted. You know there's a man hunting my father and the other doctors.,15
+MULDER,Your f... your father.,4
+SAMANTHA MULDER,"My adoptive parents. They're only visitors here... what people would call ""aliens."" A bounty hunter's been sent to kill them. You've met this man. His lies to you have caused others like my father to die. He won't stop until he's killed them all and anyone who tries to stop him. He'll come for me soon.",56
+SCULLY ON MACHINE,"Hi, this is Dana Scully.",5
+SCULLY ON MACHINE,"Please, leave a message and I'll get back to you as soon as I can.",15
+MULDER,"Hey, Scully, it's Mulder, pick up the phone. Okay, if you're screening, pick up the phone, I need to talk to you. All right, do not under any circumstances trust the C.I.A. agent. Your life may be in danger, now call me.",42
+SAMANTHA MULDER,She may not be able to recognize him. He has the ability to disguise himself.,15
+MULDER,Disguise himself how?,3
+SAMANTHA MULDER,As anyone.,2
+MULDER,As anyone? You got to be kidding.,7
+SAMANTHA MULDER,"No. You can't recognize him, but I can.",8
+MULDER ON MACHINE,"Hello, this is Fox Mulder. Leave a message, please.",9
+SCULLY,"Mulder, it's me. I just left my aparment and I don't think I've been followed. I'm going to be staying at the Vacation Village Motor Lodge off the I-90 in Germantown. Now, by the time you reach me, I should have some very important information for you regarding this case.",50
+SCULLY,Wait. Stop! Federal Agent! Put your hands against the wall. Do it!,12
+GREGOR CLONE #1,You won't shoot me.,4
+SCULLY,Put you hands against the wall... now.,7
+GREGOR CLONE #1,You cannot harm us.,4
+SCULLY,Sir...,1
+GREGOR CLONE #1,"It's all right. We are the last remaining. Unless you protect us, we are already dead.",16
+SCULLY,"These men are to be held in maximum security protective custody. No visitors, no press, no anybody... okay?",18
+FBI AGENT,Yeah. Can I ask? Who are these guys?,8
+SCULLY,I'll let you know when I figure it out myself.,10
+SCULLY ON MACHINE,...I should have some very important information for you regarding this case.,12
+MAN,Vacation Village.,2
+MULDER,"Yeah, I need to speak to Dana Scully, please.",9
+MAN,"Just a moment. I'm sorry, there's no one registered by that name.",12
+MULDER,"All right, I need her to call Fox Mulder as soon as she checks in, okay? Fox Mulder.",18
+MAN,Fox Mulder.,2
+MULDER,Yes.,1
+MAN,Will do. Now who's this message for?,7
+SCULLY,"I'd like a single for one night, please.",8
+MAN,Uh... see what I got.,5
+"FEDERAL STOCKADE; TILESTON, VIRGINIA; 7",05 PM,2
+FBI AGENT,Whose post is this?,4
+GUARD #1,"Mine, sir, we're on changeover.",5
+FBI AGENT,"I'm going to talk to the prisoners. Oh, you want to get me a coffee... sugar and milk, no cream.",20
+GUARD #1,Do you want me to keep an eye open?,9
+FBI AGENT,"No, just get me the coffee.",6
+GUARD #1,"Yes, sir.",2
+(THE TIME IS 11,"21. Scully is asleep. There is a knock on the door and she wakes up. Turning on the lamp, she gets out of bed.)",24
+SCULLY,Who is it?,3
+MULDER,"Scully, it's me. I got your message.",7
+SCULLY,Where've you been? Hang on... Scully.,6
+MULDER,"Scully, it's me, where are you? Scully? Are you there? Scully?",11

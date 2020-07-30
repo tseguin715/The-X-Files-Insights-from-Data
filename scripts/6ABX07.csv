@@ -1,0 +1,336 @@
+speaker,line,words
+ANNOUNCER,"This is really shining right out into the studio. The malfunction cut off power to rural parts of Kroner County. Up next, the amazing story of two giant pandas in love. But first, let's check in with Holman Hardt and the weather.",42
+HOLMAN,"Well, still no rain in sight for the Kroner Hills region as yet another winter storm passes south of us. I'll have all the numbers and my five-day forecast right after this.",32
+SHEILA,"Hey, baby, you're home early.",5
+DARYL,"Sheila, we got a really big problem here. What in the hell were you thinking?",15
+SHEILA,Happy Valentine's Day.,3
+DARYL,We made a deal. We agreed to keep the engagement secret until I said so.,15
+SHEILA,"I know, but I just wanted everybody in town to know why I've been so happy the last few months.",20
+HOLMAN,...to yet another bone-dry day. Current temperature in Kroner is 45 degrees.,12
+SHEILA,I know business has been slow but we can't stop living just 'cause it hasn't rained in a spell.,19
+DARYL,Maybe we should just call off the engagement.,8
+SHEILA,"Don't do this, not today. It'll rain soon. I can feel it.",12
+DARYL,"I-I just need time to think. Oh, look at that. And you wonder why your ass is so big.",19
+DARYL,": ""It'll rain soon. I can feel it.""",7
+RADIO,What I got they used to call the blues Nothin' is really wrong Feelin' like I don't belong Walkin' around …,21
+DARYL AND RADIO,Some kind of lonely clown Rainy Days and Mondays always get me down...,13
+RADIO,"Funny, but it seems I always wind up here with you Nice to know somebody loves me Funny, but it seems that it's the only thing to do Run and find the one who loves me",36
+DARYL,I'll be damned.,3
+RADIO,What I feel has come and gone before,8
+DARYL,Yee-ha! Ow!,2
+RADIO,No need to talk it out We know what it's all about Hangin' around Nothin' to do but frown Rainy days and Mondays always get me down Hangin' around Nothin' to do but frown Rainy days and Mondays always get me down.,42
+SCULLY,Don't look at me. This was your idea.,8
+MAYOR,"Agent Mulder, welcome to Kroner. I'm Jim Gilmore, the mayor. We spoke on the phone.",15
+MULDER,"Nice to meet you, sir.",5
+MAYOR,"If I'd have known you was bringing the missus, I would've arranged for fancier accommodations.",15
+SCULLY,"I'm Agent Scully, Agent Mulder's partner. I'm... sure the accommodations will be just fine.",14
+MAYOR,"My apologies, ma'am. We appreciate your flying clear out here to help solve our crisis. I'd hoped for a bigger welcome, but, well... Okay, Rhonda that's enough. Go find your mama!",31
+SCULLY,"Uh, sir you mentioned a crisis. Agent Mulder has been a little … ah … vague as to the specifics of this crisis.",23
+MAYOR,"It's all around us-- runted crops, field fires, bankruptcies... This drought is destroying people's lives, and it's wrong for a single man to prosper at the expense of others.",29
+SCULLY,A single man?,3
+MAYOR,Daryl Mootz. He's a local fella charging people for rain.,10
+SCULLY,You mean cloud seeding?,4
+MAYOR,"The hell I do. I mean he shows up at a farm, does his dog and pony act and the heavens weep.",22
+SCULLY,"Well, sir, if this man Mootz could, in fact, somehow produce rain then what's the crime?",16
+MAYOR,I believe Daryl's causing the drought... so he can charge folks for the rain.,14
+SCULLY,And this is what you told Agent Mulder when you spoke earlier?,12
+MAYOR,"Yes, ma'am. He seemed real eager to help us.",9
+MULDER,"Come on, Scully. You act like I intentionally misled you. Over the past 30 years this town has had more tornadoes heat waves and hailstorms than any other town in the country. It's like ground zero for extreme weather.",39
+SCULLY,A man... controlling... the weather.,5
+MULDER,"Well, if that's true-- if Daryl Mootz is controlling the weather for profit-- then that is a crime and that should be investigated.",23
+SCULLY,"Mulder, I see the vacant buildings. I see the signs. These people are scared. But there have always been droughts and natural disasters and people are always looking for a scapegoat.",31
+MULDER,"Yeah, but how many scapegoats lease office space?",8
+MULDER,Agents Mulder and Scully with the FBI. We're looking for Daryl Mootz.,12
+CINDY,"One second. Yes, ma'am. Appendix ""C."" That's right. I need a six-pack of beer, a carton of Morley Lights, and a big old bowl of jellybeans. And can you pick out all the green ones 'cause he don't like the green ones. You're welcome. Now, what can I do for the FBI?",52
+MULDER,We want to see the king.,6
+CINDY,I'm sorry. Mr. Mootz is out of the state till this afternoon on business.,14
+MULDER,"Well, when you say ""on business"" you mean he's making it rain?",12
+CINDY,Uh-huh. He's just across the state line into Nebraska. Town of Wymore.,12
+SCULLY,"If we could get a list of all the people who have employed his services, it would be helpful.",19
+CINDY,I don't understand. Does he... Don't y'all need a warrant or a subpoena or something like that?,17
+SCULLY,"We usually just say, ""please.""",5
+CINDY,What are you investigating Daryl for? He's a hero in this community.,12
+SCULLY,So you actually believe that he makes it rain?,9
+CINDY,I know it to be fact. He saved my daddy's farm. How dare you people.,15
+HOLMAN,...the only rain in the area is localized up around Wymore...,11
+CINDY,See? Daryl's making that rain.,5
+SCULLY,Is it possible that he could have just followed it up there?,12
+CINDY,Here's your damn client list. You'll see. Every one a satisfied customer.,12
+MULDER,"This, uh, TV station-- is that far from here?",9
+SHEILA,Oh! We were beginning to worry that you wouldn't make it. Is this your first time in a TV studio? How exciting. I couldn't be happier for the two of you.,31
+SCULLY,I'm not su...,3
+SHEILA,"Holman, I'd like to introduce you to the Gundersons.",9
+HOLMAN,Congratulations! I hope you have a truly romantic getaway.,9
+SHEILA,Aren't you glad you watch Channel Five weather?,8
+SCULLY,We're Agents Mulder and Scully. We're with the FBI.,9
+SHEILA,"FBI? Oh, my goodness! I thought you were the ""Watch the Weather and Win"" contest winners.",16
+HOLMAN,"See, we haven't had any rain in months and... well, people tend to blame the messenger.",16
+SHEILA,"Oh, there's the Gundersons. Over here!",6
+MULDER,It's like looking in a mirror.,6
+HOLMAN,When I first saw the pair of you I thought you were rather smartly dressed for a farm couple. Make yourselves at home.,23
+MULDER,"Well, from what I've read about Kroner you've had more than your fair share of unusual weather.",17
+HOLMAN,"Well, we certainly have. To you, Kroner must seem small and simple but through the eyes of meteorology-- low pressure systems, storm fronts, tornado watches-- Kroner is sophisticated, complex and... well... sexy. And... frankly I can't imagine a more exciting place to be a meteorologist.",45
+SCULLY,"Uh, Mr. Hardt, what can you tell us about Daryl Mootz?",11
+HOLMAN,"The Mayor called you in, didn't he? He thinks Daryl's causing the drought.",13
+SCULLY,You don't think he's responsible.,5
+HOLMAN,"Of course not. A huge high-pressure system is the primary culprit. There's no credible evidence to suggest that Daryl, or any man can be held accountable for our predicament.",29
+SCULLY,Thank you. Can we go now?,6
+MULDER,"No, no, um... What about the rain?",7
+HOLMAN,"Well, that's a more clouded issue if you'll excuse my pun.",11
+MULDER,I have a list of over 40 names here-- people in four different counties-- who claim that Daryl Mootz has made it rain for them.,25
+HOLMAN,"I went to high school with Daryl. Different social circles and... frankly, he's about the last man I would give credit to for anything...",24
+SCULLY,"I hear a big ""but"" coming.",6
+HOLMAN,"Daryl appears to be the real deal. I can't explain it, but... where he wanders, showers follow.",17
+SCULLY,"Look at the desperation on these people's faces, Mulder. They're ready to believe anything.",14
+MULDER,According to his schedule the King should have been here by now.,12
+FARMER AND FAMILY,"Here he comes! Here he comes! He's here! Oh, isn't that sweet? That's sweet.",14
+DARYL,"Man! What could we use around here, a little rain? Oh, look at this! Ah! Take these, will you, somebody? Ah. Mmm.",22
+DARYL,"That is the wrong damn boot, now, isn't it, hon? Be a good girl, and go on and get me the red snakeskin.",23
+DARYL,"Well, looky here. The FBI.",5
+SCULLY,"We just came to see the show. I guess, uh, we're a little early.",14
+DARYL,"Oh, ye of little faith. That truck out there of mine is a whole lot faster than my rain clouds.",20
+CINDY,Excuse me.,2
+DARYL,Thank you.,2
+MULDER,How do you explain your unique ability?,7
+DARYL,I don't. It's complicated.,4
+MULDER,Try me. I watch the Weather Channel.,7
+DARYL,"If you're wondering did I ask for this gift no, sir, I did not, no more than I asked to lose this here limb. But I should've expected it and I'll tell you why. Because I come from a long line of healing people. I'm a spiritual man, in touch... with the really real. The, the unseen real.",58
+DARYL,And I... am one 64th Cherokee and I can summon up my ancestors to bring water to this thirsty land. Yeah!,21
+SCULLY,"Mulder, what are we doing here?",6
+MULDER,"Well, this is not without historical precedent. The Old West was full of traveling men who claimed to be rainmakers. The Pueblo Indians even had a rain dance.",28
+SCULLY,"Mulder, that is not a rain dance. My Irish Aunt Olive has more Cherokee in her than Daryl Mootz. I mean, look at him, Mulder. Does that look like a man who can control the weather?",36
+SHEILA,Are we still going to the reunion together on Friday?,10
+HOLMAN,Absolutely. Social event of the decade.,6
+SHEILA,Hard to believe it's been 20 years since we finished high school. Where did the time go? What were those FBI people looking for?,24
+HOLMAN,"Oh, they were asking questions about Daryl. About making it rain.",11
+SHEILA,I wish they'd just go back to wherever they came from and leave him alone.,15
+HOLMAN,"You don't still love him, do you? I can't believe you still care about him after the way he treated you.",21
+SHEILA,I know.,2
+HOLMAN,"He never loved you, Sheila. All he cared about was your money, and as soon as he got some of his own... he just …",25
+SHEILA,He left. I know. But I think he used to love me.,12
+HOLMAN,There are other men who will love you more.,9
+SHEILA,FBI-- my lord. I don't think I'll be able to sleep knowing they're poking round.,15
+MAN WITH CHAINSAW,"Ma'am, unless you want to get covered in hamburger I reckon you should step outside.",15
+HOTEL MANAGER,"Oh, miss, we moved your boyfriend's things into your room.",10
+SCULLY,"He's my partner, and we prefer separate rooms.",8
+HOTEL MANAGER,"Oh, old-fashioned are you, huh? Well, we're booked solid with the high school reunion. You can take it or leave it.",21
+DOCTOR,We can just butterfly it. I've got my kit over in the car.,13
+MULDER,"Scully, I don't think it's a coincidence that a cow gets hurled at me just as we're down here investigating the weather.",22
+SCULLY,"Mulder, did they check you for head trauma?",8
+MULDER,"I'm telling you, that cow had my name on it.",10
+HOLMAN,"Agent Mulder, are you all right? I feel terrible. If there's anything I can do, please don't hesitate.",18
+SCULLY,"Perhaps there is. Mr. Hardt, would you please reassure Agent Mulder that this cow incident was, in fact, a natural phenomenon?",21
+HOLMAN,"With pleasure. Uh, it's my belief that a mini-twister picked that poor creature up, lifted it about 12,000 feet where the air cooled and, uh... I'm just grateful you weren't hurt any worse.",33
+SHEILA,Excuse me.,2
+HOLMAN,You shouldn't be here.,4
+SHEILA,"Holman, don't make this any harder. It's my fault. I did it.",12
+SHEILA,I'm so sorry. I didn't mean for this to happen. It's not something that I can control.,17
+MULDER,Are you saying that you're somehow responsible for the...,9
+SHEILA,I murdered that poor cow!,5
+SCULLY,"Uh... Holman just explained to us that, uh, that a mini-twister is what caused the accident.",16
+SHEILA,"He's just being sweet, covering for me. He knows the truth. This isn't the first time something like this has happened. The night of my senior prom a tornado demolished our high school...",33
+(QUICK FLASHBACK,Exterior of high school gym. Heavy winds and rain. A couple in full prom regalia walking toward the building are suddenly lifted into the air and blown away by the storm.),31
+SHEILA,"And then... On my wedding day, a day I'd always dreamed about the ceremony was outdoors on the Fourth of July weekend. It snowed six inches.",26
+(QUICK FLASHBACK,SHEILA and wedding party stand outside in heavy snowfall.),9
+SHEILA,Then three years later my husband ran off with some gal from the phone company and on the day that our divorce was finalized I stepped out of the courthouse and... you know how you-you-you can see shapes in those big fluffy clouds?,43
+SHEILA,Well... I swear that every cloud in that big blue sky was a face laughing at me...,17
+(QUICK FLASHBACK,a very eighties looking SHEILA stands on courthouse steps looking up at clouds that all look like smiling faces.),19
+SHEILA,And that was about ten years ago and that was the last time it happened until last night.,18
+MULDER,What's your connection to Daryl Mootz?,6
+SHEILA,Well... We used to be engaged.,6
+SCULLY,You two were engaged?,4
+SHEILA,"Yeah, about six months ago and, um... we had a fight and he took a drive, and... and a... and a freak hailstorm cost him his leg.",27
+MULDER,"And ever since then, the rain's been following him.",9
+SHEILA,Am I under arrest?,4
+MULDER,No. I can tell you without a doubt that you're not responsible for any of that weather.,17
+SHEILA,Oh... But...,2
+MULDER,Agent Scully and I specialize in these types of cases and-and-and although you may have had some bad luck you didn't cause any of it.,25
+SHEILA,Are you sure?,3
+MULDER,"Yeah, yeah, I'm... I'm sure. Scully, you have any doubts?",10
+SCULLY,No.,1
+MULDER,You see?,2
+SCULLY,No doubts.,2
+SHEILA,I really want to believe you. Thanks.,7
+MULDER,You're welcome.,2
+DOCTOR,That hailstorm didn't cause Daryl's car crash.,7
+MULDER,What are you talking about?,5
+DOCTOR,"The weather was bad, but Daryl was drunk and driving too fast.",12
+HOLMAN,Drunk? I... never heard that.,5
+DOCTOR,We all felt that Daryl losing his leg was punishment enough.,11
+DARYL,"People don't realize how hard a work this is. I mean, sure, it looks like I'm just sitting here, but... My powers of concentration... Oh, yeah, oh, right there, yeah, yeah. Yeah, oh, you... You're worth every penny. Now, what was I saying?",43
+CINDY,"""Powers of concentration.""",3
+DARYL,"Yeah, right. Right. I... m-my brain's functioning on something like-- I don't know-- 14 different levels taking in a whole bunch of variables like wind velocity and-and humidity and...",29
+CINDY,Daryl... Do you hear that?,5
+DARYL,Hear what?,2
+CINDY,The rain stopped.,3
+DARYL,Uh-oh.,1
+SCULLY,Next flight out is 10:00 tomorrow morning.,7
+MULDER,"Look at this, Scully September 20, 1991, it rained rose petals for nearly an hour.",15
+SCULLY,"Mulder, we're going home. The rain stopped this afternoon. Daryl Mootz is being sued by about 50 people. There's no case... And you told Sheila yourself that she wasn't controlling the weather.",32
+MULDER,"She's not. Neither is Daryl. Check this out-- on the same day that it rained rose petals. ""Irene Hardt, beloved wife and devoted mother passed away yesterday afternoon... She's survived by one son, Holman Hardt.""",35
+SCULLY,"Oh, so, now you're saying that Holman Hardt...",8
+MULDER,"Holman Hardt is manufacturing the weather. Did you see how relieved he was when he learned that Daryl was drunk? I've been doing some checking. Holman Hardt has been hospitalized five times with nervous exhaustion, each time coinciding with a major meteorological event.",43
+SCULLY,"Mulder, it is still a huge leap to say that he's manufacturing the weather.",14
+MULDER,"Most people will admit that the weather plays a significant role in the way they feel, right? There's even that disorder.",21
+SCULLY,"""SAD""-seasonal affective disorder.",3
+MULDER,"Mm-hmm, yeah. Well, who's to say that it doesn't work the other way around-- that the way someone feels can affect the weather... that the weather is somehow an expression of Holman Hardt's feelings or-or-or better still, the feelings that he's not expressing?",43
+HOLMAN,"I've tried to say this a thousand times... tried to express the... fire that burns inside this... humble exterior. Sheila, you're the reason I remained in this town all these years.",31
+HOLMAN,I wake up each day knowing...,6
+HOLMAN,Hello?,1
+SHEILA,"Holman, it's me. Working late?",5
+HOLMAN,"Sh-sheila, hi. Yeah, um... I was just thinking about you. I'm looking forward to the reunion tomorrow night.",18
+SHEILA,"Me, too.",2
+HOLMAN,You sound in a good mood.,6
+SHEILA,"Well, I am, Holman, and it's all because of you. I wanted to let you know that I've been thinking about what you said about Daryl yesterday and I realized that you were right.",34
+HOLMAN,I was?,2
+SHEILA,"Yes, you were, and I am so over him. ""Daryl who?"" That's what I say. I realized that I've been chasing the wrong kind of guy. I need someone who I can talk to. I need someone who I can feel safe with.",43
+HOLMAN,I can't tell you what that means to me.,9
+SHEILA,"Holman, I want to ask you something and I hope that we can keep it our secret for the time being.",21
+HOLMAN,"Of course, Sheila, anything.",4
+SHEILA,"Well, what do you think of Agent Mulder?",8
+MULDER,"Hey, Holman.",2
+HOLMAN,Agent Mulder.,2
+MULDER,"I've come to say good-bye, Holman.",6
+HOLMAN,You're leaving.,2
+MULDER,Yeah. But I want you to get some help before you kill somebody.,13
+HOLMAN,Help? What are you talking about?,6
+MULDER,"You know what I'm talking about. You're not just a weatherman, you're the weatherman. You're the person who's been affecting the weather.",22
+HOLMAN,"Agent Mulder, if I could control the weather don't you think I would make it rain? That I would end this drought?",22
+MULDER,"I don't think it works that way. I don't think you don't do it on purpose. I just think you bottle up your emotions-- anger, grief, or love or whatever-- and then, as a response, it rains or hails or there's a flying cow.",44
+HOLMAN,That poor animal.,3
+MULDER,"And whatever it is, you got to let it out.",10
+HOLMAN,I can't.,2
+MULDER,"Yeah, you can. It's Sheila, isn't it? You love her. You've always loved her. That, uh, tornado at the high school... that was you, wasn't it?",26
+HOLMAN,"The night of our senior prom, I, uh... accidentally stumbled upon her and her boyfriend... in flagrante delicto. And the next thing you know...",24
+MULDER,And you've never told her the way you feel?,9
+HOLMAN,How can a frog tell a swan that he loves her?,11
+MULDER,"Well, you better tell her or you're going to kill somebody.",11
+HOLMAN,"W-well, you got to help me.",6
+MULDER,I got a plane to catch.,6
+HOLMAN,"You can't go. If you don't help me, who will?",10
+MULDER,I am meeting my partner at the airport.,8
+MULDER,Excuse me. Hold on. Mulder.,5
+SCULLY,"Mulder, it's me.",3
+MULDER,I'm on my way.,4
+SCULLY,I'm not so sure. Have you looked outside lately? It's pea soup. Our plane can't take off until after this fog lifts.,22
+MULDER,Fog? Holman!,2
+SCULLY,Holman?,1
+MULDER,Yeah... he wants advice. Dating advice.,6
+SCULLY,Dating advice? From whom?,4
+MULDER,"Yours truly. Hello? Hey, Scully. Scully, you there?",8
+SCULLY,"I heard you. Mulder, when was the last time you went on a date?",14
+MULDER,I will talk to you later.,6
+SCULLY,The blind leading the blind.,5
+DARYL,This red number?,3
+CINDY,"Daryl, you're like one of those tragic rock stars. You know, like, like Jim Morrison or Kurt Cobain. You just shine too bright for too short a time. We'll tell our kids all about it.",35
+DARYL,Kids. Can't afford kids. If I don't come up with a lot of cash pronto I am in deep doo-doo.,20
+CINDY,Dairy Queen will take me back. I get almost six dollars an hour.,13
+DARYL,Shh. I'm thinking. There's got to be somebody...,8
+CINDY,"We'll get the money, baby.",5
+DARYL,Sheila.,1
+CINDY,what about her?,3
+DARYL,Cindy... You have been real sweet and all but I think we can use some time apart.,17
+CINDY,What? Are you breaking up with me?,7
+DARYL,Nothing personal.,2
+HOLMAN,"I've been envious of men like you my whole life. Based on your physical bearing, I'd assumed you were... More experienced. I mean... You spend every day with agent Scully a beautiful, enchanting woman. And you two never, uh...? I... confess I find that shocking. I... I've seen how you two gaze at one another.",55
+MULDER,"This is about you, Holman. I'm here to help you. I'm perfectly happy with my friendship with Agent Scully.",19
+HOLMAN,"So according to your theory I walk in there, tell her I love her and the drought will end?",19
+MULDER,Just tell her how you feel.,6
+MULDER,And Holman. I do not gaze at Scully.,8
+HOLMAN,Hey.,1
+SHEILA,Hey. I can't find my notes for my... …presentation. Here they are.,12
+HOLMAN,You got a minute?,4
+SHEILA,"For you, always. Are you excited about the high school reunion tonight?",12
+HOLMAN,Of course. Uh... You're busy. We can talk later.,9
+SHEILA,"Oh, what is it?",4
+HOLMAN,I... I love you.,4
+SHEILA,"I love you, too. Holman. What's wrong?",7
+WOMAN IN TV STATION,"Is that rain? Oh, my gosh, it is! It's raining!",10
+MULDER,Well?,1
+SHEILA,"Good afternoon, Agent Mulder. See you tonight, Holman.",8
+MULDER,"Oh, you did it.",4
+HOLMAN,"No, you did it.",4
+MULDER,What are you talking about?,5
+HOLMAN,She said that she loves me but that she's in love with you.,13
+DARYL,What do you mean there's somebody else?,7
+SHEILA,"Daryl, this isn't the place.",5
+DARYL,Just tell me who it is.,6
+SHEILA,Let me go!,3
+MULDER,"Hey! Hey, Daryl. Cut it out, man.",7
+DARYL,"Him? This is the guy?! Oh, what's he got that I ain't got?",13
+SHEILA,A job. A way with words. Intelligence. Good looks.,9
+DARYL,Good looking? I'll show you good looking.,7
+SHEILA,"Daryl! No, not his face!",5
+MULDER,Daryl.,1
+SHEILA,Don't you hit him in the face!,7
+DARYL,"Oh, good. Picking on a cripple. You'll hear from my lawyer.",11
+SHEILA,You deserve a big reward.,5
+SCULLY,"Mulder, the fog has lifted and if you're ready... the plane is waiting.",13
+MULDER,"Scully, do you know anything about, um... weather radar?",9
+SCULLY,A bit. Why?,3
+MULDER,What does red mean?,4
+SCULLY,"Thunderstorms, I think.",3
+MULDER,Looks like we're not going to be able to catch our plane.,12
+MUSIC,"So I'd like to know where You got the notion Said I'd like to know where You got the notion Rock the boat Don't rock the boat, baby Rock the boat Don't tip the boat over Rock the boat Don't rock the boat, baby Rock the boat...",47
+SCULLY,"Seven inches in the past six hours. The national weather service has issued a flash flood warning for the county. Mulder, are you sure he's here?",26
+MULDER,"If she's here, he'll be here.",6
+MUSIC,So I'd like to know where You got the notion Said I'd like to know where You got the notion So I'd like to know where You got the notion So I'd like to know where You got the notion...,40
+MULDER,"Come on, Holman, now make it stop.",7
+HOLMAN,"This is your fault, not mine.",6
+MULDER,My fault?,2
+HOLMAN,You were kissing her.,4
+SHEILA,"Oh, look who's here's some of my favorite people. Old friend, … … and new ones.",16
+HOLMAN,"You look very lovely tonight, Sheila.",6
+SHEILA,Thank you. You look handsome. Both of you.,8
+SHEILA,"Oh, I love this song. Agent Mulder, care to dance?",10
+SCULLY,"Holman was just telling us that, uh, that he wanted to dance.",12
+MULDER,"Yes, he was.",3
+HOLMAN,I would be honored.,4
+SHEILA,Okay.,1
+MULDER,"Tell her, Holman.",3
+MUSIC,You lay your bets and then you pay the price...,10
+SHEILA,What was that Agent Mulder said? Tell me what?,9
+HOLMAN,"Oh, no big deal.",4
+SHEILA,"We tell each other everything, don't we?",7
+HOLMAN,Well... um... when I stopped by your office this afternoon... when I said that...,14
+SHEILA,When you said you loved me.,6
+HOLMAN,What I meant to say... what I wanted you to understand... is that I'm in love with you. That I've loved you since high school.,25
+MUSIC,"Ooh, you make me love you Ooh, you've got a way...",11
+MULDER,"I'll build the ark, you gather the animals.",8
+MULDER,I was kidding.,3
+SCULLY,"Sheila... my partner has a theory and even though I don't share his belief I feel that, given the circumstances you should hear his theory because it involves you and Holman. Agent Mulder believes that the drought, this storm these bizarre set of weather conditions that have plagued you over the years are... are caused by Holman. Specifically, that... that his emotions are somehow manifesting themselves in the weather and Agent Mulder believes that-that Holman is... unwittingly destroying this town because of his unspoken love for you.",87
+SHEILA,"You love him, don't you?",5
+SCULLY,What?,1
+SHEILA,You're jealous because Agent Mulder and I have a special connection and you're trying to divert me to Holman.,19
+SCULLY,What?,1
+DARYL,It is good to be the king! It is good to be the king! Where's Sheila?,16
+MULDER,Where's your leg?,3
+DARYL,"Cindy took it. Said I'd have to crawl back to her. Now, where's Sheila?",14
+SHEILA,"Not even a kiss? Trust me, the man knows how to kiss. I just never thought of Holman that way, you know. He's my closest friend. And to not even suspect...",31
+SCULLY,"Well, it seems to me that the best relationships-- the ones that last-- are frequently the ones that are rooted in friendship. You know, one day you look at the person and you see something more than you did the night before. Like a switch has been flicked somewhere. And the person who was just a friend is... suddenly the only person you can ever imagine yourself with.",68
+SCULLY,The storm drains are filling up. Let's get out of here.,11
+DARYL,I'll teach you to mess with my woman. If I had two legs I'd kick your...,16
+SCULLY,I called the police.,4
+MULDER,You might want to take a look at the king-- make sure he's all right. Whatever happened to Sheila?,19
+SHEILA,"Is it true? That you make the weather? Because of me? The tornado in high school, snow at my wedding?",20
+HOLMAN,I'm so sorry.,3
+SHEILA,Daryl's rain?,2
+HOLMAN,Can't explain the logic of it. Yes. Some strange manifestation of guilt.,12
+SHEILA,Even this rain? Because you love me?,7
+HOLMAN,Because... I love you.,4
+SHEILA,That is the most romantic thing I've ever heard.,9
+WOMAN,It stopped!,2
+MUSIC,Somewhere Over the Rainbow Way up high...,7
+DARYL,"I'm sorry, baby.",3
+CINDY,"Me, too. I brought you a leg.",7
+DARYL,"Oh...! Why you so good to me, honey?",8
+MUSIC,...Somewhere over the rainbow Skies are blue And the dreams that you dare to dream ready to come true...,19
+MULDER,I didn't know reunions could be so...,7
+SCULLY,Wet?,1
+MULDER,"Well, how'd it go?",4
+HOLMAN,You should try it sometime. Shelia?,6
+MUSIC,...Away up on the chimney tops That's where you'll find me...,11
+HOLMAN,I can't imagine a more beautiful day than today. We have about a 30% chance of showers tomorrow which should make all of our farming friends real happy.,28
+MUSIC,...Bluebirds fly Birds fly over the rainbow...,7
+SHEILA,"You're a chip off the old block, yes, you are. Yes, you are. Yes, you are.",16
+MUSIC,"...Why, oh, why can't I?",5

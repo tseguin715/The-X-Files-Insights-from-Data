@@ -1,0 +1,342 @@
+speaker,line,words
+CHRIS CARTER,"Previously, on the X-Files...",4
+SUSANNE MODESKI,My name is Susanne Modeski... I was an organic chemist for the Advanced Weapons Facility... I need to expose the US government's plot against its own people.,27
+MODESKI,"Tell the truth. Reach as many people as you can with it, that's your weapon.",15
+BYERS,Susanne!,1
+BYERS,"My name is John Fitzgerald Byers. I was named after our 35th president, and I keep having this beautiful dream. In my dream, the events of November 22nd, 1963, never happened. In it, my namesake was never assassinated. Other things are different, too, in my dream. My country is hopeful and innocent; young again. Young in spirit. My fellow citizens trust their elect officials, never once having been betrayed by them. My government is truly ""of the people, by the people, for the people."" All my hopes for my country, for myself...all are fulfilled. Everything that counts for anything in life... I have it. But the dream ends the same way every time. I lose it all.",117
+SHUFFLING MAN,"The game is Texas Hold 'Em, gentlemen.",7
+GLASSES MAN,Bring your wife?,3
+BALD MAN,"You think I'm sitting here, I'd bring my wife? Dumb ass brought his wife.",14
+BEARDED MAN,"'Cause I'm the man; I say I'm playing poker, I play poker. Meanwhile, your wife is back in Plaino, boinking the mailman.",22
+BEARDED MAN,"Hey, what's your name again?",5
+BYERS,Funston. Stewart Funston.,3
+BALD MAN,"You bring a little lady, Stewart?",6
+BYERS,Not married.,2
+GLASSES MAN,"Smart man, hundred.",3
+BYERS,You's guys come to this every year? Def-con?,8
+GLASSES MAN,"Every year. Ah, fold.",4
+BALD MAN,Wouldn't miss it.,3
+BEARDED MAN,Yeah. Out!,2
+BYERS,"So, you guys, uh, working on anything interesting these days?",10
+BALD MAN,Same old black ops crapola. You know what it's like.,10
+GLASSES MAN,"Hey, we're doing some neat stuff with neutron bombardment. Yeah, you can cook somebody's brain in their skull, like hard-boiling an egg.",22
+GLASSES MAN,It's neat stuff.,3
+BALD MAN,Speaking of crapola...... fold.,4
+SHUFFLING MAN,Thank you.,2
+FROHIKE,Oh... a man of distinction.,5
+SHUFFLING MAN,"So you in, Mr. Funston?",5
+BYERS,Yeah.,1
+SHUFFLING MAN,Looks like it's just you and me.,7
+BYERS,Another 200.,2
+SHUFFLING MAN,I'll see your 200...... and raise you one...... thousand.,9
+BALD MAN,Huh whoa!,2
+BEARDED MAN,He's buying the pot stew.,5
+BALD MAN,Three clubs showing... could be a flush.,7
+BYERS,One thousand. And I raise you...... one thousand.,8
+GLASSES MAN,The stones he has...,4
+SHUFFLING MAN,I see you work for Conglomerate. You guys make a great AE-135 unit.,13
+LANGLY,Oh man... don't freak... don't...,5
+LANGLY,"...freak. I'm on it. AE-135...mmmm...bingo. 442 J-stroke, A-135 air conditioning units for B-2 bombers. Talk air conditioners.",17
+BYERS,"Oh yeah, the AE-135 is a beauty. Keeps the B-2's frosty, can practically see your breath.",16
+SHUFFLING MAN,How'd you get all the bugs out of it?,9
+BYERS,"Ah, you know, trade secrets.",5
+SHUFFLING MAN,"Oh, come on, Stewart. You're among friends. Seriously, how'd you get past the delamination thing?",15
+LANGLY,Delamination... searching.,2
+SHUFFLING MAN,"Oh, uh, I'm sorry. I'll see your thousand...... and raise you...... all you've got.",14
+LANGLY,"Systems tests, error rates... nothing. Stall 'em. And fold.",9
+((NEONOTE,Langly's t-shirt of the episode; Snoozonica) Cut back to the private suite.),12
+BYERS,"You wanna know how we fixed the delamination problem? We subcontracted the whole damn thing to the Japanese, then triple-billed the government. Same thing we always do. Queen-high flush.",29
+SHUFFLING MAN,"King-high. Al, call security. Have them pick up Mr. ""Funston"" here. And his partner.",14
+BYERS,Delamination... you made that up?,5
+SHUFFLING MAN,"My advice to you, Stewart, or whatever your name really is, poker is not your game.",16
+FROHIKE,"Hey man, you wanna thunderdome, let's go.",7
+LANGLY,"Three thousand dollars... I told you to fold. It should have been me in there playing, why does Byers get to do the undercover?",24
+FROHIKE,'Cause this ain't Woodstock.,4
+BYERS,Did we at least get some usable prints off the drink glasses?,12
+FROHIKE,"What, are you kidding? We had to leave them all behind. How we gonna salvage this?",16
+LANGLY,We're not. This convention's a bust. Five days and three grand invested and we got bupkiss to show for it.,20
+BYERS,"Who was that player, anyway? The guy who made us, he wasn't wearing a convention badge.",16
+LANGLY,Nobody ever said his name.,5
+BYERS,I think he's worth looking into.,6
+JIMMY,"CIA, open up.",3
+FROHIKE,"Hey, hey, hey. Jimmy and Timmy.",6
+JIMMY,Hey. Where were you guys today?,6
+BYERS,Around.,1
+TIMMY,Oh yeah? Maybe snooping for some hot 411?,8
+JIMMY,On the sneak tip?,4
+LANGLY,Maybe...,1
+TIMMY,"Yeah, well maybe we were too.",6
+JIMMY,And maybe we got some.,5
+FROHIKE,Well maybe we did too.,5
+JIMMY,"Ah, we got bupkiss. Buncha tight lipped defense contractors.",9
+FROHIKE,"Yeah, well I'm gonna go way out on a limb here and say, it's the t-shirt.",16
+LANGLY,"Yeah, maybe both of you could wear one that says ""I'm with stupid.""",13
+JIMMY,"You just don't get it, man. This says that I'm on to them. This says that I comprehend the military industrial power dynamic. That's what this whole thing is about; wetworks, political assassination. That's their theme for this year.",39
+BYERS,Where did you hear that?,5
+JIMMY,"Oh yeah, like I'm gonna reveal my sources. Suffice it to say, there's some big new stealth assassination technology that's supposed to be unveiled here. And I will be there, front row.",32
+TIMMY,"In the meantime, we're hitting the restaurant.",7
+JIMMY,"Yeah, all you can eat lobster buffet.",7
+TIMMY,Free floor show... plenty of boobage. You guys down?,9
+BYERS,You go ahead.,3
+FROHIKE,I'll catch up.,3
+FROHIKE,"You're one hell of a sad-sack, Byers.",7
+BYERS,Lay off about the poker game.,6
+FROHIKE,"No, that's not what I'm talking about. You're the one who pushes the hardest for us to come to these conventions, then you get all squirrelly once we get here. You're still looking for her, aren't you? Susanne Modeski.",39
+BYERS,We met her at a convention.,6
+FROHIKE,"Ten years ago. In Baltimore. Now we both know what happened to her. Most likely, she's dead.",17
+BYERS,"No. She was a brilliant scientist, too important to the government.",11
+FROHIKE,"Buddy, either way, I know we're both hoping she's in a better place than Las Vegas. C'mon. All you can eat lobster.",22
+BYERS,I almost won.,3
+FROHIKE,"Yeah, you and everyone else. Whoa, Byers, check this out. I'm feeling lucky.",13
+BYERS,It can't be.,3
+FROHIKE,What?,1
+BYERS,I'm so sorry. I'm sorry.,5
+FROHIKE,Byers... what the hell's going on?,6
+SCULLY,"Yeah, Scully.",2
+MULDER'S VOICE,"Hey, Scully, it's me.",4
+SCULLY,"Mulder, what time is it?",5
+MULDER'S VOICE,"2:34AM. Listen, Scully, I need you on the next flight to Las Vegas.",13
+SCULLY,Las Vegas? Why?,3
+MULDER'S VOICE,It's the Lone Gunmen. They're onto something big.,8
+SCULLY,"What, exactly?",2
+MULDER'S VOICE,It's really important. Trust me.,5
+SCULLY,"Yeah, I trust you, Mulder, it's the Three Stooges I'm not so sure about.",14
+MULDER'S VOICE,"Look, I can't talk over an unsecured line. Please just get here. It's an emergency.",15
+SCULLY,"Okay. Okay, okay. Okay.",4
+LANGLY,What if she calls him back?,6
+BYERS,"I trapped her cell number. If she calls him, it rings here.",12
+FROHIKE,"She's gonna kick our ass. What do you need Scully for, anyway?",12
+BYERS,We're up against agents of the government. We need our own government agent.,13
+LANGLY,And that would be Mulder. Why do you want just Scully?,11
+FROHIKE,She's gonna kick our ass.,5
+BYERS,Mulder's too high profile. He's virtually a household name to the black ops who kidnapped Susanne in Baltimore.,18
+LANGLY,"Byers, I've hacked into the hotel computers, Susanne Modeski's not registered here. Are you sure you saw her; are you absolutely, positively sure?",23
+BYERS,It was her. She's here. I've got to find her!,10
+FROHIKE,"You've gotta find some ice, you need a drink.",9
+LANGLY,Byers is trying to kill himself.,6
+FROHIKE,"Stop trying to kill yourself, Byers, it's not deep enough. Come see what we got. Room 1066, registered to our mystery poker player, one Grant Ellis. New Mexico plates on his car.",32
+LANGLY,"Which come back listed ""DoD motor pool."" Signed out from...",10
+BYERS,"Whitestone, New Mexico.",3
+FROHIKE,The advanced army weapons facility. Where Susanne worked.,8
+LANGLY,"Ellis's credit cards get billed directly to the Administrative Offices. He's looking like he's some kind of shadow government ""poobah.""",20
+BYERS,He brainwashed her.,3
+BYERS,"Well that's what they do there! The AH gas she developed. Call it psychological warfare, behavior modification, but it's all about mind control. And undoubtedly, the process has been refined in the last decade. She ran from them, refused to take part in their tests, their crimes against the American people, there's no way she would choose to be working for them now, working for that guy...... kissing him. Clearly he brainwashed her.",73
+FROHIKE,I know a way to find out.,7
+FROHIKE,Buenos dias.,2
+BYERS,I can't get into the conference. The guard who threw me out is working the door.,16
+LANGLY,Let me go.,3
+JIMMY,"CIA, freeze.",2
+LANGLY,"That just keeps getting funnier. Where's your girlfriend, Timmy?",9
+JIMMY,"Ah, out in the desert. There's this naked chick who'll teach you how to shoot machine guns. It costs 200 beans though, I told him he was a putz. What's the matter, Byers? Your bestest dog die? What's up?",39
+LANGLY,Trying to figure out how to get into the Saguaro Room.,11
+RED-HEADED GUY,Good luck. That's the Holy Grail. Bug sweeps...,8
+BALD GUY,"Casino security outside, government security inside. There's no way any of us are getting in.",15
+JIMMY,"I can get in there. And I will, too. When the time is right.",14
+LANGLY,"Doo-doo, kaa-kaa, poo-poo.",3
+JIMMY,"Oh, go brush your hair, Michael Bolton. There's a hole in their security, I've got it all figured out. But there's nothing worth hearing in there until tomorrow, when they unveil their new assassination technology.",35
+LANGLY,Again with the assassination technology.,5
+BYERS,"I need to get in there, Jimmy. I need to know what's happening in there today. If you can really get in there, prove it.",25
+ELLIS,".... in combat can be established. Now, if you'll take a look at the kill ratio productivity chart we've provided for you and turn to... page 22 there... you'll see that we've experienced a marked...",34
+JIMMY,"Oooh, there's your fascist chickie, Byers.",6
+ELLIS,"... first and second quarterly periods of the previous year. But, before we're tempted to pat ourselves on the back for this we have to remember these figures...",27
+JIMMY,Timmy? Damn...,2
+ELLIS,".... the current operations in Bagdad. These operations, originally budgeted for fiscal year '97, were... if you'll refer to page 26, I believe...",22
+JIMMY,"Oh, woah, woah! Hey, hold on! Hold on!",8
+JIMMY,You're one of them...,4
+TIMMY,"You really screwed things up, Jimmy.",6
+TIMMY,We had big plans for you.,6
+JIMMY,Big plans?,2
+JIMMY,Political assassination. I was right. I was right about the whole thing!,12
+TIMMY,Every good plan needs a patsy.,6
+SCULLY,"Could you, uh, take this up, please?",7
+BELLHOP,Sure.,1
+BYERS,Agent Scully.,2
+SCULLY,"Where's Agent Mulder, I've been trying to call him.",9
+LANGLY,"He's, uh, I think that his phone's messed up.",9
+BYERS,"He may be hard to reach for the next few hours, he suggested we work with you, bring you up to speed.",22
+SCULLY,"By all means, bring me up to speed.",8
+WALKIE-TALKIE VOICE,nan,1
+FEMALE MANAGER,"Subject's name is James Bellmont, over. This way.",8
+LANGLY,"Oh, man. Jimmy.",3
+BUS DRIVER,"He just jumped; no warning, no nothing. He just, dived right out in front of me.",16
+LANGLY,"Oh, God, it is Jimmy.",5
+BUS DRIVER,"It's not my fault. He was just standing there, and then he just dives under the bus.",17
+BYERS,This wasn't a suicide.,4
+SCULLY,You know this man?,4
+SCULLY,What's going on here?,4
+BYERS,"Susanne, do you remember me?",5
+MODESKI,"John, what are you doing here?",6
+BYERS,I'm here to save you.,5
+MODESKI,From what?,2
+BYERS,"I don't think you are yourself. I think that, uh, you've been mistreated and confused, and, and, I'm afraid that your, your beliefs, your opinions, are no longer your own.",30
+MODESKI,"As in, I've been brainwashed? I don't know what to tell you. I haven't been.",15
+BYERS,"Your life may be in danger, Susanne. A friend of mine has just been killed. Murdered.",16
+MODESKI,What?,1
+BYERS,And that man that you're with...,6
+MODESKI,My fiance?,2
+MODESKI,"I'm sorry John, I, I think you better go.",9
+BYERS,"No, wait. Wait. Ten years ago, I saw you thrown into a car. Kidnapped right in front of me. Did that not happen? Did I just dream all of that?",30
+MODESKI,It happened. But things got better.,6
+FROHIKE,"Oops. Sorry, buddy.",3
+FROHIKE,That Susanne's a popular girl.,5
+SCULLY,You're absolutely sure you wanna be here for this?,9
+LANGLY,Oh yeah. I'm cool. Let's just find out what killed him.,11
+SCULLY,Okay.,1
+SCULLY,"James Bellmont, age 29. Visual exam reveals injuries consistent with massive trauma. Multiple rib fractures with concomgent haemorrhaging, both internal and external. His spine is fractured and partially exposed.",29
+LANGLY,"What if ""they"" did something to him? You know, to make him pancake himself?",14
+SCULLY,"Who's ""they?""",2
+LANGLY,"You know, ""them.""",3
+SCULLY,I'll begin with the Y-incision.,5
+SCULLY,"Langly, will you go over there and pass me the striker saw please, it's right there on the counter.",19
+SCULLY,"Are you okay, Langly?",4
+LANGLY,Scully?,1
+LANGLY,Scully. Wake up. Are you okay?,6
+SCULLY,What happened?,2
+LANGLY,I'm thinking that you got a little queasy and took a header. You know blood and guts can bother some people.,21
+SCULLY,"Yeah, I guess.",3
+LANGLY,You gonna be alright?,4
+SCULLY,"Sure, cutie.",2
+LANGLY,So... you're done with Jimmy?,5
+SCULLY,"Done, done, done. How do you roll this thing?",9
+LANGLY,"Uhhhm, Scully? What killed him?",5
+SCULLY,My medical opinion? BEEEEEEEEEEEEEEP!,4
+LANGLY,And that's all you found?,5
+SCULLY,That's all I know.,4
+LANGLY,Scully?,1
+BYERS,What'd you find out?,4
+LANGLY,Autopsy was negatory. Jimmy squished himself.,6
+FROHIKE,And where is the scrumptious Agent Scully?,7
+LANGLY,"She said she had something important to do. Man, she is seriously jetlagged. You got product already?",17
+FROHIKE,"No, an earlier bird got the worm.",7
+MODESKI ON TAPE,"...it's like they're keeping tabs on us, watching us.",9
+ELLIS ON TAPE,"Honey, you worry too much. The plan is still on schedule. Everything's falling into place. We've worked so long and so hard for this.",24
+BYERS,It's not her. They're making her do this somehow.,9
+FROHIKE,"Buddy, now, I know something about the fairer sex. Trust me, you can bring a horse to water, but you can't make her drink.",24
+BYERS,She would not marry that man.,6
+MODESKI,You don't know him like I do.,7
+LANGLY,How'd you get in here?,5
+MODESKI,One of you left this in my room.,8
+MODESKI,Grant Ellis saved my life. He's saved the lives of thousands.,11
+FROHIKE,Hah.,1
+MODESKI,"I need to talk to you, John, I need to try and explain everything.",14
+LANGLY,"C'mon, let's hit the slots.",5
+FROHIKE,Watch your back. Mata Hari.,5
+MODESKI,You said something about a friend being murdered.,8
+BYERS,Not that I can prove it. But I think he saw something he was not supposed to see at your conference. You may be in danger.,26
+MODESKI,"I am. Always. So is Grant. I've thought about this moment so many times. All the things I would say to you if I ever saw you again. And then there you were, at my door, and I... They took me ten years ago. They did things to me. And it was like drowning every day; under water, struggling to breathe, and one day, a hand broke the surface, reached down and pulled me up. I wanted it to be you, John. It was Grant. He worked for them on The Project. I didn't trust him, not for years. Not until I realized that he was working against them in his own way; stalling them, sabotaging their tests. He reminded me of you.",123
+FROHIKE,They're just lucky I got a conscience.,7
+LANGLY,How's that?,2
+FROHIKE,"If I unleashed my true kung-fu on this casino, I could break the bank within a week.",17
+LANGLY,And find yourself buried under six feet of desert dirt.,10
+TIMMY,Hey guys.,2
+FROHIKE,Hey Timmy. I'm sorry about Jimmy.,6
+TIMMY,"Hey, Langly, the guys are all up in my room for a round of Dungeons and Dragons in honor of Jimmy.",21
+LANGLY,Lord Manhammer will be in attendance.,6
+LANGLY,"I'm gonna go play a little D&D, uh, in memorium.",10
+FROHIKE,"That's touching, man.",3
+FROHIKE,Scully?,1
+SCULLY,"Aw, hey. Long time, no see.",6
+SCULLY,"No, that's not nice. I like Hickey.",7
+FLETCHER,Cigarette?,1
+FROHIKE,You don't smoke.,3
+SCULLY,But who's got a match?,5
+SCULLY,Well... I just can't decide who lights my fire.,9
+FROHIKE,"That's it. Alright, you dandies, back off. This is Special Agent Dana Scully of the FBI. If you so much as touch her, you may be committing a federal offense. Come on, come on.",34
+FLETCHER,We could have been stardust.,5
+SCULLY,Maybe next time.,3
+LANGLY,"Hope you brought your wallet, my friend, just because this is a memorial...... game. What's this?",16
+TIMMY,"Oh, we have got a game for you.",8
+LANGLY,Man...,1
+ELLIS ON TAPE,"Trust me, this is gonna work.",6
+MODESKI,You didn't tape this?,4
+BYERS,No.,1
+MODESKI,"Which means they surveilled us. They know our plans, they know everything.",12
+BYERS,What is your plan?,4
+MODESKI,"To escape. This conference was our chance to slip out on the last day. Go public with our files, all our weapons research. We could finally make it happen this time. We'd gathered up enough proof. The public is ready to believe now more than ever. They know everything. They'll kill us, John; Grant and me both.",57
+SCULLY,Hi.,1
+FROHIKE,"Settle down, settle down.",4
+SCULLY,"Okay, okay, okay, okay.",4
+FROHIKE,I found Agent Scully-go-lightly holding court...... bar!,7
+BYERS,I've never seen her drunk before...,6
+MODESKI,"God, this can't be.",4
+SCULLY,Hi...,1
+MODESKI,"She's not drunk, look at this.",6
+MODESKI,That was made by an injector gun.,7
+FROHIKE,"Well, what the hell was she injected with?!",8
+MODESKI,"It's derivative of AH gas. AH, anoitic histamine, my latest creation. I could have developed it years ago, but I held off. I wasn't about to let those bastards I work for get their hands on it. Grant thought that if we secretly developed a small batch, and then destroyed the notes, that we would have the proof we needed to go public. We'd also have a weapon we could use against them.",73
+BYERS,Who else has access to this anoitic histamine?,8
+MODESKI,Grant and I are the only two people that ha...... that have the samples.,14
+MODESKI,This will counteract the anoitic effect.,6
+SCULLY,"Hi, cutie. Oow... just a little prick...",7
+LANGLY,Bad trip?,2
+MODESKI,"Nah, she'll be fine. She just needs to sleep it off.",11
+FROHIKE,I don't understand; why would the government want to turn Scully into a bimbo?,14
+MODESKI,That's just a potential side-effect. Anoitic histamine impedes higher brain functions. It promotes suggestability.,14
+BYERS,Mind control. Brainwashing.,3
+FROHIKE,That explains Jimmy. They told him to commit suicide.,9
+BYERS,And Scully. They made her forget her autopsy findings. But what is their larger purpose? What are they planning?,19
+FROHIKE,"Well, whatever it is, we better find out fast.",9
+TIMMY,Right on time.,3
+TIMMY,"This is your weapon. All you do is pull the trigger. You will a break will be called. Rise, approach the target, and fire three shots.",26
+SPEAKER,"This brings us to the notion of acceptable risk. Of course, risk is defined as exposure, during both utilization and post-project evaluation. Now in a secure proving-ground, i.e. a domestic engagement, we have had great success. Now off-shore utilizations can afford a more comprehensive definition of acceptable risk. Proper target appraisal can provide a risk-free trial environment. A combination of political instability and lack of efficient infrastructure can offer a, uh, target area of nearly zero risk potential.",78
+SAGUARO ROOM GUARD,Authorized attendees only.,3
+SCULLY,I'm an FBI agent.,4
+SAGUARO ROOM GUARD,Authorized attendees.,2
+SPEAKER,"Of course, risk management goes hand-in-hand with operational preparedness, and that happens to be our topic for the remainder of the session...",22
+ELLIS,"Al, I think this would be a good time to take a break, shall we?",15
+SPEAKER,"Oh, yeah. Let's take five everybody. Smoke 'em if ya got 'em.",12
+ELLIS,Oh my God.,3
+MAN,Somebody help her...somebody...!,3
+ELLIS,Susanne...,1
+SCULLY,Federal agent. Call for help.,5
+SAGUARO ROOM GUARD,"Winston Warbler, we need an ambulance, a woman's been shot.",10
+SAGUARO ROOM GUARD,"She's bleeding, hurry.",3
+FROHIKE,We're on our way.,4
+ELLIS,Who did this? Who did this!?,6
+SCULLY,"Shooter got away. Detain this man, get him outta here.",10
+FROHIKE,"Good work, party girl.",4
+SCULLY,I'll take him from here.,5
+ELLIS,"Wait a minute, where... where... where're you taking me?",9
+ELLIS,Susanne?,1
+MODESKI,"Can we have a moment, alone, please? I'll be fine.",10
+BYERS,We'll be right down the hall.,6
+MODESKI,Okay.,1
+FROHIKE,Thanks for the tip.,4
+MODESKI,"Big surprise, huh? Since you programmed my friend to kill me.",11
+ELLIS,"No, Susanne, it wasn't my idea.",6
+MODESKI,"You knew about it. You gave it to them. The AH. If I hadn't thought to check Langly, if I hadn't given him the antidote...... I don't understand. Why save me? Why save my life just to take it away?",40
+ELLIS,You know why.,3
+MODESKI,You were done with me. You had what you wanted.,10
+ELLIS,"""They"" had what they wanted. The project was over. Honest to God, it wasn't my idea.",16
+MODESKI,"All those years you spent gaining my trust. You pretended that you loved me. What could they possibly give you for that? What was it worth to you, Grant? What was your price? What did you get!",37
+ELLIS,Life. They'd kill me.,4
+TIMMY,Hello.,1
+ELLIS,"I'm so sorry, Susanne.",4
+BYERS,"County death records first, then the state tax rolls, come on! Then the Clark County Morgue list that they misplaced the body.",22
+LANGLY,"Yeah, Voltaire comidant. Why don't you just zap me with the girly sting there and brainwash me again.",18
+FROHIKE,"I say do it, then we can make him cut his hair.",12
+BYERS,Can you answer that?,4
+FROHIKE,"Why me, she's your little chickadee.",6
+BYERS,"Hurry up, come on.",4
+FROHIKE,"Come on in, Mata Hari.",5
+TIMMY,"CIA, freeze.",2
+BYERS,Let her go.,3
+TIMMY,Sure...,1
+BYERS,No...,1
+TIMMY,You know the best thing about killing you three... I won't have to dress like you anymore...,17
+BYERS,"Oh, get him off me.",5
+TIMMY,"Hi, cutie...",2
+FROHIKE,What do ya wanna do with him?,7
+REPORTER,"Police confirm an arrest has been made, this man Timothy Landau of Aldonaberta, New Mexico, has confessed to the murders of Grant Ellis and Susanne Modeski. Both victims were government employees attending a conference in Las Vegas.",37
+SCULLY,"Hello, Mulder? Can you hear me? I'm at the hotel. Where are you? What do you mean, ""what hotel,"" Las Vegas. I'm in Las Vegas, aren't you? You called me. What do you mean you didn't call me? Oh man, I am gonna kick their asses.",46
+BYERS,"Susanne Modeski is dead. Every computer in every county, state, federal office knows it. This is who you are now.",20
+MODESKI,Come with me.,3
+BYERS,You'll be safer without me.,5
+MODESKI,"It doesn't make a difference. I told you, I'm going public.",11
+BYERS,"No, you're not. You've done more than enough. Leave it to us now, it's what we do.",17
+MODESKI,It was meant for Grant. I want you to have it.,11
+MODESKI,Someday.,1
+FROHIKE,So you wanna hit the slots?,6
+LANGLY,"You know, Byers, growing old with us ain't so bad.",10
+FROHIKE,"Oh, shut up, Langly. You really want him to kill himself?",11
+LANGLY,Got any quarters?,3

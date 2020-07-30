@@ -1,0 +1,315 @@
+speaker,line,words
+MRS. MCALPIN,Your turn. Jack? Honey? Are you still feeling sick?,9
+PRIVATE MCALPIN,What’s the matter with you? Can’t you hear the baby is crying?,12
+MRS. MCALPIN,"How ‘bout some cereal, Honey?",5
+MRS. MCALPIN,You were having those awful dreams again last night.,9
+PRIVATE MCALPIN,I didn’t sleep long enough to be dreaming.,8
+MRS. MCALPIN,I want you to go to the doctor. Find out what’s wrong. Will you do that?,16
+PRIVATE MCALPIN,I’d just like to eat my breakfast in peace! Do you think that’s possible.,14
+MRS. MCALPIN,"Jack, what is it?!",4
+MULDER,"Private John McAlpin-- one of the few, the proud... the dead. Last week he wrapped his car around a tree. Died on impact.",23
+SCULLY,"Drug and alcohol tests came back negative. Car shows no evidence of brake, steering or any other mechanical failure.",19
+MULDER,The military is calling it a suicide—They’re especially concerned because it’s the second one in as many weeks.,18
+SCULLY,Both at the same base?,5
+MULDER,"Yeah, except that it's not exactly a base. Flip to the back. The Marines were all stationed at the Folkstone processing center in North Carolina. More than 12,000 refugees waiting for asylum from Uncle Sam.",35
+SCULLY,Wasn't there a riot there about a month ago?,9
+MULDER,"A ten year old boy was killed but the uh, details of his death were never released.",17
+SCULLY,Why did the military contact us?,6
+MULDER,They didn't. Mrs. McAlpin contacted the Bureau when the military refused her request to investigate her husband's death further.,19
+SCULLY,She doesn’t believe it was suicide.,6
+MULDER,There.,1
+MULDER,This is the tree that stopped Private McAlpin's car. State police reported there's graffiti on the bark.,17
+SCULLY,It looks like some kind of ritual symbol.,8
+MULDER,Most of the refugees at Folkstone are Haitian.,8
+SCULLY,Mrs. McAlpin believes voodoo was behind her husband's death?,9
+MULDER,Mrs. McAlpin doesn't believe her husband killed himself. She wants to know who did.,14
+MRS. MCALPIN,"Jack used to tell these jokes. Well, they were pretty dumb, I guess, but the way he told them always made me laugh. Then he got transferred to the camp and nothing was very funny anymore.",36
+SCULLY,Did he ever discuss with you what went on there? What his duties included?,14
+MRS. MCALPIN,"No. He'd just come home angry, mostly at himself though sometimes he'd turn it on Luke and me.",18
+SCULLY,Was he ever treated for depression or stress?,8
+MRS. MCALPIN,"No. I tried getting him to talk to someone, even our minister, but Jack believed in dealing with his own problems.",21
+MULDER,Did he believe in voodoo?,5
+MRS. MCALPIN,"The Marines, his family and football pretty much sums up everything Jack believed in.",14
+MULDER,"So, when did you first think that his death involved something out of the ordinary?",15
+MRS. MCALPIN,One of the boys in his squad told me what they found at the accident and he said it was some kind of voodoo curse -- the same one they found on the stool that Puerto Rican boy used to hang himself.,41
+MULDER,Who told you that?,4
+MRS. MCALPIN,Harry Dunham. He's from New Orleans so he's pretty superstitious about that type of thing.,15
+MULDER,What about you?,3
+MRS. MCALPIN,My husband had just died so I didn't give it much thought either way... Not until Luke dug this up out of his sandbox.,24
+MRS. MCALPIN,"I know it sounds crazy me worrying about all this but the truth is, I'm scared. I'm scared for my child... And I just don't know what to do anymore.",30
+CHESTER,Go! Go! Get away! Get away! He’s crazy. Too much rum. For such a pretty lady it’s dangerous out here. You need something pour vous gardez --- for protection. Your lucky charm.,31
+SCULLY,"Come on, Mulder.",3
+MULDER,How much?,2
+CHESTER,Five … Ten.,3
+MULDER,I’ll give you five.,4
+SCULLY,"Let’s go, Mulder.",3
+MULDER,You should always carry protection. Hold on. There you go.,10
+COLONEL WHARTON,I'm still not clear just what it is you're investigating here.,11
+SCULLY,Two of your men have died in the past two weeks allegedly of self-inflicted injuries.,15
+COLONEL WHARTON,And I've taken every measure to see it doesn't happen again. I've even flown in the 528th combat stress control detachment from Camp LeJeune.,24
+SCULLY,But your soldiers aren't in combat.,6
+COLONEL WHARTON,In some ways what we're dealing with here is worse.,10
+SCULLY,How so?,2
+COLONEL WHARTON,We're soldiers. We're not prison guards. And we're being asked to police a hostile population of foreigners without the resources to feed or house them. There are bound to be some conflicts.,32
+SCULLY,So your men are getting the brunt of the refugees' frustration?,11
+COLONEL WHARTON,"It's hatred, plain and simple. They hate us and all I can do is see that they're processed as efficiently as possible.",22
+MULDER,"Colonel Wharton, a, uh... A certain ritual sign was found at the scene of both deaths. Is there anything you can tell us about that?",25
+COLONEL WHARTON,"Not much. Apparently, it's some sort of voodoo marking.",9
+MULDER,But you haven't investigated it as a possibility.,8
+COLONEL WHARTON,Possibility of what? All I know is voodoo caused a riot in my camp. One night they held some secret ceremony. The next day all hell broke loose.,28
+MULDER,We understand a refugee was killed-- a young boy.,9
+COLONEL WHARTON,"No one felt that tragedy more deeply than me. Fortunately, I was able to isolate the one responsible for instigating all the trouble.",23
+MULDER,Who would that be?,4
+COLONEL WHARTON,His name is Bauvais. Pierre Bauvais. Thinks he's some kind of revolutionary.,12
+MULDER,Do you think we could speak with him?,8
+COLONEL WHARTON,If you don't mind listening to his laundry list of complaints.,11
+SCULLY,I'd also like to examine Private McAlpin's body. I have a signed consent from his wife.,16
+COLONEL WHARTON,Private Dunham will help you with whatever you need.,9
+CORONER FOYLE,Cause of death was no great mystery. That boy was doing 60 when he hit the tree.,17
+SCULLY,So they pronounced him at the scene?,7
+CORONER FOYLE,"His head was hanging on his shoulders like a broken peony and he had no respiratory or cardiac functioning. I saw no reason to conduct an autopsy then and I still don't. Well, you can see for yourself.",38
+CORONER FOYLE,What kind of a sick joke is this? Jackson!,9
+JACKSON,Sir?,1
+CORONER FOYLE,Who the hell's been in here?! Someone’s tampered with McAlpin’s body and I want to know who!,17
+MULDER,You’re Harry Dunham.,3
+PRIVATE DUNHAM,"Yes, sir.",2
+MULDER,You knew Private McAlpin? His wife said you were friends.,10
+PRIVATE DUNHAM,We were in the same squad.,6
+MULDER,Any idea why he might have killed himself?,8
+PRIVATE DUNHAM,"I can't say, sir.",4
+MULDER,You can't say or you won't say?,7
+PRIVATE DUNHAM,I'll be right here if you need me.,8
+MULDER,My name is Mulder. I'm with the FBI. I was hoping you could answer some questions about the two US Marines who took their own lives.,26
+BAUVAIS,It is a terrible shame.,5
+MULDER,I'm not convinced it's as simple as that.,8
+BAUVAIS,"You do not believe I was involved in this, do you? How could I be... When they keep me locked up in here?",23
+MULDER,You tell me. These photographs were taken at the sites of both deaths. The shell was found buried under one of the soldiers' homes. Can you tell me about the symbol?,31
+BAUVAIS,Why? What do you expect to learn from this?,9
+MULDER,Just the truth. One of the Marines left behind a wife. She's too frightened to even mourn. She deserves some peace of mind.,23
+BAUVAIS,It is the Loco-Miroir the crossroads between the two worlds-- the mirror in which a man must confront his true self. These Marines... Maybe they didn't like what they saw.,30
+MULDER,Colonel Wharton says you incited the riot last month.,9
+BAUVAIS,My country was born on the blood of slaves. Freedom is our most sacred legacy.,15
+MULDER,Does that mean you would kill to preserve it?,9
+BAUVAIS,Wharton will not let us return home... Which is all we ask.,12
+SCULLY,"Mulder, I need to speak with you.",7
+BAUVAIS,She’s come to tell you the Marine is gone.,9
+SCULLY,How did you know?,4
+BAUVAIS,It’s the spirits. The Loa have warned you.,8
+SCULLY,Somebody stole McAlpin's body and replaced it with what looks like a dog's corpse.,14
+BAUVAIS,"They will only warn you once. After that, no magic can save you.",13
+MULDER,"Come on, Scully. Let's go.",5
+MULDER,So what do you think happened to Private McAlpin?,9
+SCULLY,"Somehow, Bauvais must have switched the bodies.",7
+MULDER,It's quite a trick considering he's been confined for the last month.,12
+SCULLY,"Well, then he had somebody else do it.",8
+MULDER,But you said there was no trace evidence. And security is practically impossible to breach.,15
+SCULLY,I was only suggesting that whoever did it was clever and thorough. I wasn’t suggesting that some kind of spirit did it.,22
+MULDER,"Well, just in case, I believe in covering my bases.",10
+SCULLY,"Mulder, voodoo only works by instilling fear in its believers. You saw how Bauvais tried to intimidate me. I'll admit the power of suggestion is considerable but this is no more magic than a pair of fuzzy dice.",38
+MULDER,"Scully, look out!",3
+MULDER,Hey...,1
+SCULLY,Private McAlpin?,2
+SCULLY,"He’s nonverbal, nonresponsive to voice, touch or pain. The neurologists suspect he suffered a severe concussion resulting in amnesia.",19
+MULDER,It’s a plausible diagnosis. Only I'm more interested in how he came back to life.,15
+SCULLY,"Well, obviously, he never left. Dr. Foyle made a gross mistake when he signed the death certificate. It’s not the first time something like that’s happened.",26
+MULDER,Did you get a copy of the blood test?,9
+SCULLY,"Yeah. Electrolytes, white and red counts are all normal. Except this is strange. The lab detected trace levels of tetrodotoxin in his blood. That's a poison found in the liver and reproductive organs of puffer fish-- a Japanese delicacy.",39
+MULDER,"Somehow, I get the feeling Private McAlpin didn't frequent too many sushi bars.",13
+SCULLY,You have a theory how it got into his blood?,10
+MULDER,What do you know about zombies?,6
+SCULLY,"Well, I hope you don't intend to tell Robin McAlpin that she married one?",14
+MULDER,"In 1982, a Harvard ethnobotanist named Wade Davis did extensive field research in Haiti on the zombification phenomenon. He analyzed several samples of zombie powder prepared by voodoo priests and he found tetrodotoxin to be common to all of them.",40
+SCULLY,"But, Mulder, it’s a lethal poison.",6
+MULDER,But in small enough doses it can cause paralysis and depress cardiorespiratory activities to such a low level that the victim might appear clinically dead.,25
+SCULLY,"Well, zombie or not, Jack McAlpin is alive.",8
+MULDER,Exactly. Which is what makes me wonder about the other Marine who allegedly killed himself.,15
+SCULLY,Why did they bury Private Guttierez here?,7
+GROUNDSKEEPER,"They beat you to it. You're the FBI, aren't you? Stay. Easy, Wong.",13
+MULDER,Yeah. We've arranged to exhume the body of Manuel Guttierez.,10
+GROUNDSKEEPER,"Right. The Marine. I prepared the dig as soon as I got the judge's order, but it's too late.",19
+SCULLY,Too late?,2
+GROUNDSKEEPER,"Yeah. The body snatchers got there first. I caught them more than few times right in the act but it's getting I can't keep up anymore. That's, uh, why I got this.",32
+SCULLY,Don't the police intervene?,4
+GROUNDSKEEPER,They got their hands full trying to protect the lives of the living. I am all these people have to preserve their rest.,23
+MULDER,These body snatchers … What do they do with the bodies?,11
+GROUNDSKEEPER,"Ah, they sell them.",4
+MULDER,To who?,2
+GROUNDSKEEPER,"Well, it varies. When the local medical school ran short of cadavers rumor had it that the snatchers got $200 a head. But mostly, it's the voodoo types who do the buying. A lot of folks in these parts go in for that with the medicines and the potions and... Yeah, here we are.",54
+GROUNDSKEEPER,Look at that. They dug him up right under my nose. How’s he supposed to rest in peace like this? They can do what they like with the pigs and the chickens but this is a desecration. This is uncool.,40
+SCULLY,Mulder ..,1
+GROUNDSKEEPER,Look at that. See what I’m talking about?,8
+MULDER,Let us take care of this.,6
+GROUNDSKEEPER,Knock yourselves out.,3
+CHESTER,Let me be! I didn't do nothing! What did I do?,11
+MULDER,Maybe you can tell us.,5
+SCULLY,Maybe I should kiss a few and find out if one is Guttierez.,13
+CHESTER,Fresh bones. They pay good. But I go there for the frogs. You find the best frogs at the cemetery.,20
+SCULLY,How do you get out of the camp?,8
+CHESTER,"I go, and then I come back.",7
+SCULLY,What about your parents? Are your parents at the camp?,10
+MULDER,What about a name?,4
+CHESTER,Chester Bonaparte.,2
+MULDER,"What do you do with the frogs, Chester?",8
+CHESTER,"For each one I catch, I get 50 cents.",9
+MULDER,From who? Who pays you for them?,7
+CHESTER,Bauvais. His magic is the most strong. He even made my fries disappear.,13
+MULDER,"Hey, Chester. I got magic, too, and I bet I can make your fries reappear.",15
+CHESTER,Merci!,1
+SCULLY,"Mulder, certain frog species secrete a substance called bufotoxin. It's chemically similar to what we found in Private McAlpin’s blood. I think we should ask Bauvais what he's doing with those frogs.",32
+MULDER,"I didn't want to say anything before because I wasn't sure, but I think we're being followed. It's a gray four-door sedan in the parking lot. Keep an eye on Chester.",31
+MULDER,"Out of the car, Private. You've been following us.",9
+PRIVATE DUNHAM,"Look, I had to warn you.",6
+MULDER,You didn’t seem too interested in helping us before.,9
+PRIVATE DUNHAM,I couldn't talk then-- not with Colonel Wharton so close by. And not with him right there.,17
+MULDER,Chester? He's just a little boy.,6
+PRIVATE DUNHAM,"No, sir, he is not.",5
+SCULLY,What’s going on?,3
+MULDER,Private Dunham was just about to tell us why we're in danger.,12
+PRIVATE DUNHAM,You're putting yourselves into the middle of something you don't understand.,11
+MULDER,But you do?,3
+PRIVATE DUNHAM,Bauvais warned him. He told the Colonel he'd take his men one by one unless...,15
+MULDER,Unless what?,2
+PRIVATE DUNHAM,Unless the Colonel let his people go back to Haiti. But the Colonel... He just had us turn up the heat on all them beatings and all.,27
+SCULLY,Colonel Wharton sanctioned beatings of the refugees?,7
+PRIVATE DUNHAM,"He ordered it, and worse. The things he is making us do to those people.",15
+SCULLY,Why hasn't anybody stepped forward or filed a complaint?,9
+PRIVATE DUNHAM,"None of us feel good about it, Ma’am, but you don't join the Marines to feel good.",17
+MULDER,You said that Bauvais threatened the Colonel’s men.,8
+PRIVATE DUNHAM,He said he'd take their souls.,6
+MULDER,You believe he can do that?,6
+PRIVATE DUNHAM,"Jack was my friend, and look what happened to him.",10
+SCULLY,"Well, we don't know what happened to him but there is a medical explanation for his condition.",17
+PRIVATE DUNHAM,"Back home, an associate of my daddy's, Clyde Jessamin, once crossed a man on some kind of real estate deal. And not two weeks passed before Jessamin's daughter took ill with something the doctors couldn't make heads or tails of. All they could do was shoot her full of morphine the pain was so bad. She died five minutes past midnight on her wedding day, and when they did an autopsy to try and figure it out, all they could find was a bunch of snakes squirming around inside her belly.",91
+SCULLY,Sounds like an old wives’ tale.,6
+PRIVATE DUNHAM,"No, Ma’am. It’s not. You see, I’m the one who was supposed to marry her.",15
+SCULLY,Think he’s telling the truth?,5
+MULDER,"Till I can figure out why he’d lie, yeah.",9
+SCULLY,"He’s superstitious, and superstition breeds fear. It’s what Voodoo is all about. It’s just as irrational as avoiding a crack in the sidewalk.",23
+MULDER,Why would he be trying to avoid Chester?,8
+MULDER,Chester? Chester?,2
+MULDER,Chester! Chester! Stop! I’m not going to hurt you! It’s okay. I’ll get him. Chester! Chester!,16
+PRIVATE KITTEL,"Can I get you anything else, sir?",7
+COLONEL WHARTON,Just get the door.,4
+COLONEL WHARTON,I’m sorry. I’m having my breakfast.,6
+MULDER,That’s all right. We already ate.,6
+COLONEL WHARTON,I understand you obtained a court order yesterday to exhume Private Guttierez.,12
+MULDER,That’s right.,2
+COLONEL WHARTON,You should know I filed a complaint with the Justice Department.,11
+MULDER,His body was missing-- stolen from his coffin apparently.,9
+COLONEL WHARTON,Now you see what we're facing here. What kind of barbaric religion would desecrate a grave?,16
+SCULLY,We suspect it was an act of retaliation.,8
+COLONEL WHARTON,Retaliation?,1
+SCULLY,For your mistreatment of the detainees.,6
+COLONEL WHARTON,What the hell are you talking about?,7
+SCULLY,Physical abuse of political refugees is a prosecutable crime under international law.,12
+COLONEL WHARTON,"It's Bauvais, isn't it? He's the one you're getting this garbage from. Look, nobody ever said this was a hotel but it's hardly a concentration camp.",26
+SCULLY,Then there is no official policy of harassment?,8
+COLONEL WHARTON,"If anything, it’s my men who are being harassed. The UN, the relief organizations, they’re all so busy protecting the rights of these refugees nobody’s looking out for my men.",30
+MULDER,"Well, we’ll let you finish. Wouldn’t want your breakfast to get cold.",12
+MULDER,Wharton’s left these people no choice but to fight back with the only weapon they have.,16
+SCULLY,"Sorry, Mulder, there’s a big difference between nasty looks and raising the dead.",13
+MULDER,Not according to Private Dunham.,5
+SCULLY,Ah!!!,1
+MULDER,What?,1
+SCULLY,More scare tactics.,3
+MULDER,Let me see that.,4
+SCULLY,No. It’s nothing.,3
+PRIVATE KITTEL,I don't think he's in any condition to talk.,9
+COLONEL WHARTON,"That's right, Private. You don't think. You follow orders.",9
+PRIVATE KITTEL,But sir...,2
+COLONEL WHARTON,You're dismissed.,2
+COLONEL WHARTON,Ouvri barriere pou' moi. I want the secret. Maybe you should tell me now while you can still talk.,19
+BAUVAIS,Ma vie nan mains bon dieu..,6
+COLONEL WHARTON,"No, papaloi. Your life is in my hands.",8
+MULDER,I was surprised to get your card. I had assumed our last contact... would be our last. Why are you here?,21
+X,"Your investigation is faltering, Agent Mulder.",6
+MULDER,I've got a renegade Marine who may be violating every human rights provision...,13
+X,"These people have no rights. In 24 hours all access to Folkstone will be restricted to military personnel. No press, no third-party monitoring.",23
+MULDER,What about Scully and me?,5
+X,You'll be called back to Washington on a priority matter.,10
+MULDER,They're making the camp invisible. Why?,6
+X,"In case you haven't noticed, Agent Mulder, the Statue of Liberty is on vacation. The new mandate says if you're not a citizen you'd better keep out.",27
+MULDER,Why hold them up? Why not just repatriate them?,9
+X,"During our most recent involvement in Haiti three US soldiers took their own lives. Of those men, two were under Colonel Wharton's command.",23
+MULDER,You’re saying the military's sanctioning Wharton's revenge? These people are innocent civilians. Some people in Congress might have a real problem with that.,23
+X,By the time they get a committee together it'll be as if none of this ever happened.,17
+SCULLY,You don't understand. I've been on hold for half an hour. I'm trying to locate a Private Dunham.,18
+SCULLY,Yeah. Yeah. Thanks.,3
+SCULLY,"Mulder, I just got through to Dunham’s barracks. Mulder? Your door's unlocked.",12
+SCULLY,"Mulder, listen to this. Dunham's been AWOL since last night...",10
+SCULLY,Mulder?,1
+SCULLY,"Oh, God.",2
+MULDER,Scully?,1
+SCULLY,Yeah.,1
+MULDER,I found him wandering around outside. You all right?,9
+SCULLY,Yeah. It's Dunham.,3
+MULDER,When I found him. He had this in his hand.,10
+MULDER,Do you recall leaving the hospital?,6
+PRIVATE MCALPIN,These past few days I don't recall much of anything... Except feeling real heavy like I’m asleep and I can't wake up.,22
+MULDER,Do you remember killing Private Dunham?,6
+PRIVATE MCALPIN,All I remember is being there seeing him in all that blood.,12
+SCULLY,Why did you sign the confession?,6
+COLONEL WHARTON,The Private asked and I apprised him of what you found at the crime scene.,15
+PRIVATE MCALPIN,Who else might it have been?,6
+MULDER,Colonel... Can we have a word outside?,7
+MULDER,What exactly did you tell him?,6
+COLONEL WHARTON,If you're suggesting that I coerced Private McAlpin...,8
+MULDER,I need to know that he signed that confession voluntarily?,10
+COLONEL WHARTON,Of course he did.,4
+MULDER,Since his … reappearance has Private McAlpin had any contact with Bauvais?,12
+COLONEL WHARTON,Not to my knowledge.,4
+MULDER,"Well, we'd still like to speak with Bauvais.",8
+COLONEL WHARTON,I'm afraid that's impossible.,4
+MULDER,Why?,1
+COLONEL WHARTON,Because he's dead. Last night he cut his wrists with a bedspring. I'll have the report sent to your motel along with the Private's confession. Since both matters are being handled internally I’ll assume your business here is finished.,39
+MULDER,What's wrong?,2
+SCULLY,I'm fine. It's just a headache.,6
+MULDER,"Mulder. …….. Okay, Mrs. McAlpin. We can be there in fifteen minutes.",12
+MRS. MCALPIN,First I thought I lost him... As if that wasn't hard enough to deal with. Now they're saying he's killed Harry.,21
+SCULLY,He said it himself. He signed a confession.,8
+MRS. MCALPIN,I don't care. It doesn't make sense. Jack and Harry were friends.,12
+MULDER,"Mrs. McAlpin, you said on the telephone that Private Dunham came here last night. What did he want?",18
+MRS. MCALPIN,He was on his way to see you.,8
+MULDER,For what reason?,3
+MRS. MCALPIN,He wouldn't tell me. He said if anything happened to him... I should give this to you. He told me not to open it.,24
+MRS. MCALPIN,Luke's been in a mood since all this started. It's almost like he knows what's going on. I'll be right back.,21
+SCULLY,That’s Bauvais. And Wharton? They must have known each other when Wharton served in Haiti.,15
+MULDER,When in Rome …,4
+SCULLY,"Mulder … Dunham and Guttierez both filed complaints against Colonel Wharton. They both cited incidents of abuse --- dates, times …",20
+MULDER,Scully …. Look at this. Check out the name on the dogtags.,12
+PRIVATE KITTEL,"Come with me, please. Take the light out of my eyes.",11
+MULDER,Where’s Wharton?,2
+PRIVATE KITTEL,You’ll find out soon enough.,5
+MULDER,He killed Bauvais. If you know anything about it you’ll be tried as an accessory to murder…,17
+PRIVATE KITTEL,Shut up! Bauvais got what he deserved. After what he did to McAlpin and Guttierez?,15
+SCULLY,It wasn’t Bauvais.,3
+PRIVATE KITTEL,What are you talking about?,5
+SCULLY,Those men were about to testify against Colonel Wharton. He stopped them before they did.,15
+MULDER,"If you don’t believe us, look in the trunk.",9
+MULDER,This is what’s left of Private Guttierez. Now where’s Bauvais’ body?,11
+PRIVATE KITTEL,We buried him … this afternoon .. in the municipal graveyard.,10
+COLONEL WHARTON,Au nom de saints… et de la lune. Au nom de saints… et de la lune. Au nom de saints et des etoilles.,23
+MULDER,"What is it, Scully?",4
+SCULLY,I’m all right.,3
+MULDER,You don’t look all right.,5
+SCULLY,"No, I’m fine. I’ll catch up with you. Just go get Wharton.",12
+MULDER,"Federal Agent! Drop the knife, Wharton.",6
+COLONEL WHARTON,nan,1
+MULDER,Drop the knife!,3
+MULDER,Ah!!!,1
+BAUVAIS,"Ca qui fait mal, ce mal li we. He who does evil, evil he will see.",16
+SCULLY,Mulder …,2
+MULDER,You’re okay?,2
+SCULLY,I feel better than you look.,6
+SCULLY,What happened?,2
+MULDER,I don’t know.,3
+SCULLY,He’s dead. Did you kill him?,6
+MULDER,No. It was Bauvais.,4
+SOLDIER,Here’s the passenger manifest you asked for.,7
+SCULLY,Thank you.,2
+SOLDIER,They’re petitioning to have Bauvais returned to Haiti.,8
+MULDER,Too bad it has to be in a box.,9
+SCULLY,Is this a complete list?,5
+SOLDIER,As far as I know.,5
+SCULLY,There was a boy. His name was Bonaparte. Chester Bonaparte?,10
+SOLDIER,Poor kid. He died six weeks ago in that riot.,10

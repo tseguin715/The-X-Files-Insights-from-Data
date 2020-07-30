@@ -1,0 +1,295 @@
+speaker,line,words
+RONNIE,Help me! Somebody help me! Help! That guy's gonna to kill me! Help!,13
+SCULLY,Mulder?,1
+MULDER,Look at that. Huh... Huh?,5
+MULDER,"Oh, shi...",2
+SCULLY,Mulder--,1
+MULDER,Don't. Don't even start with me. I know what I saw.,11
+SCULLY,Skinner wants our report in one hour. What are you going to tell him?,14
+MULDER,What do you mean what am I going to tell him? I'm going to tell him exactly what I saw. What are you going to tell him?,27
+SCULLY,I'll tell him exactly what I saw.,7
+MULDER,"Now, how is that different? Look, Scully, I'm the one who may wind up going to prison here. I got to know if you're going to back me up or what.",31
+SCULLY,"First of all, if the family of Ronnie Strickland does indeed decide to sue the FBI for -- I think the figure is $446 million -- then you and I both will most certainly be co-defendants and second of all... I don't even have a second of all, Mulder. $446 million. I'm in this as deep as you are and I'm not even the one that overreacted. I didn't do the... with the thing.",72
+MULDER,I did not overreact. Ronnie Strickland was a vampire.,9
+SCULLY,Where is your proof?,4
+MULDER,"You're my proof. You were there. OK, now you're scaring me. I wanna know exactly what you're gonna tell Skinner.",20
+SCULLY,"Oh, you want our stories straight.",6
+MULDER,"No, no, no, I didn't say that. I just want to hear it the way you saw it.",18
+SCULLY,I don't feel comfortable with that.,6
+MULDER,"Prison, Scully. Your cell mate's nickname is going to be Large Marge. She's going to read a lot of Gertrude Stein.",21
+SCULLY,All right.,2
+MULDER,"All right, start at the beginning.",6
+SCULLY,"The very beginning? Fine. Yesterday morning... when I arrived at work, you were, uh... characteristically exuberant.",16
+MULDER,Hope you brought your cowboy boots.,6
+SCULLY,You want us to go to Dallas?,7
+MULDER,"Yee-haw! Actually, a town called Chaney, about 50 miles south of there, population 361... by all accounts, very rustic and charming, but as of late, ground zero the locus for a series of mysterious nocturnal exsanguinations.",36
+SCULLY,Exsanguinations? Of whom?,3
+MULDER,How does that grab ya?,5
+SCULLY,Is it a...?,3
+MULDER,"Dead cow! Exactly. Specifically, a dead 900-pound Holstein. Its body drained of blood as was this one,... this one, this one, this one, and so on. Six, all in all --approximately one a week over the past six weeks.",39
+SCULLY,Is there any sign of --?,5
+MULDER,Two small puncture wounds on the neck?,7
+SCULLY,I wasn't asking that.,4
+MULDER,Too bad. We got 'em. Check it out.,8
+SCULLY,"Well, these may be syringe marks. Their placement meant to emulate fangs. Such ritualistic blood-letting points towards cultists of some sort, in which case... What?",25
+MULDER,"Yeah, that's probably it, satanic cultists. Come on, Scully.",9
+SCULLY,You're not gonna tell me you think it's that Mexican goat sucker thing.,13
+MULDER,"El Chupacabra? No, they got four fangs, not two, and they suck goats, hence the name.",16
+SCULLY,"So, instead, this would be...",5
+MULDER,Classic vampirism.,2
+SCULLY,Of a bunch of cows.,5
+MULDER,"And one dead human last night - a vacationer from New Jersey. Come on, we got to go.",17
+SCULLY,Why the hell didn't you tell me that from the beginning?,11
+MULDER,Lock the door on your way out.,7
+SCULLY,"The town of Chaney is too small to maintain a morgue facility. As such, we made our way to the Peaceful Slumbers funeral home in order to examine the body of one Mr. Dwight Funt, recently deceased. It was there that we were met by a representative of local law enforcement, Sheriff...",52
+HARTWELL,Lucius Hartwell. You the FBI agents?,6
+MULDER,"Yes. I'm... Agents Mulder and... uh... Scully. What do you say, we go take a look at your victim.",19
+HARTWELL,"Yeah, by all means. After you.",6
+MULDER,"Come on, Scully, get those little legs moving. Come on.",10
+HARTWELL,Boy.,1
+HARTWELL,Here we go.,3
+MULDER,Nice threads.,2
+SCULLY,No exam has been done?,5
+HARTWELL,"No, ma'am. He's just like we found him in the motel room. Once I heard you folks were interested I figured we'd best leave it up to the experts.",29
+MULDER,Your satanic cultists have some sharp little teeth.,8
+HARTWELL,What satanic cultists?,3
+MULDER,"Go ahead, tell him your, uh, ""theory.""",7
+SCULLY,"Well, my theory has evolved. Basically, I think that we're looking for someone who has seen one too many Bela Lugosi movies. He believes he is a vampire, therefore...",29
+HARTWELL,They act like one. Yeah. Yeah. That makes a whole lot of sense. I think she's right.,17
+MULDER,What about the fang marks?,5
+SCULLY,"Well, someone so obsessed might well file down their incisors. I think that a moulage casting should help us make an identification.",22
+HARTWELL,"Moulage casting, that's a good idea. Now... now, isn't there some kind of disease that makes a person think that they're a vampire?",23
+SCULLY,"Well, there is a psychological fixation called hematodipsia which causes the sufferer to gain erotic satisfaction from consuming human blood.",20
+HARTWELL,Erotic. Yeah.,2
+SCULLY,"Mmm. There are also genetic afflictions which cause a heightened sensitivity to light, uh, to garlic -- porphyria, xeroderma pigmentosum.",19
+HARTWELL,"You really know your stuff, Dana.",6
+MULDER,Dana?! He never even knew your first name.,8
+SCULLY,You're gonna interrupt me or what?,6
+MULDER,No. Go ahead..... Dana.,4
+SCULLY,Anyway... that's when you had your big... breakthrough... whatever.,9
+HARTWELL,"Agent Scully, you really know your stuff.",7
+MULDER,"Sheriff, you say this man is exactly as you found him?",11
+HARTWELL,"Yes, sir, to the letter.",5
+MULDER,Have you noticed that this man's shoes are untied?,9
+HARTWELL,"Yeah, they sure are.",4
+SCULLY,"Mulder, what's your point?",4
+MULDER,"This means something. Sheriff, do you have an old cemetery in town off the beaten path, the creepier the better?",20
+HARTWELL,"Uh, yeah.",2
+MULDER,Take me there now.,4
+SCULLY,Mulder...,1
+MULDER,"Scully, we're going to need a complete autopsy on this man, the sooner the better.",15
+SCULLY,"Whoa, whoa, whoa, whoa. What am I even looking for?",10
+MULDER,I don't know.,3
+SCULLY,He does that.,3
+MULDER,"Come on, Sheriff Hartwell.",4
+HARTWELL,Ma'am. LATER,2
+SCULLY,"4:54 PM, begin autopsy on white male, age 60, who is arguably having a worse time in Texas than I am... although not by much. I'll begin with the ""y"" incision. Yee-haw. LATER",33
+SCULLY,"Heart weighs 370 grams, tissue appears healthy. Left lung weighs 345 grams, tissue appears healthy. Large intestine... 890 grams, yada yada yada. LATER",23
+SCULLY,"Stomach contents show last meal close to the time of death, consisting of... pizza. Topped with pepperoni, green peppers, mushrooms... mushrooms... That sounds really good.",25
+SCULLY,Having completed the autopsy I checked into the Davey Crockett Motor Court.,12
+MULDER,The name of it was actually the Sam Houston Motor Lodge.,11
+SCULLY,Chloral hydrate.,2
+MULDER,What?,1
+SCULLY,What the hell happened to you?,6
+MULDER,Nothing. Chloral hydrate?,3
+SCULLY,"Yeah. That thing that you didn't know that you were looking for -- chloral hydrate -- more colorfully known as knockout drops. I found it in abundance when I sent the tox screen in on our murder victim. Now, seriously, Mulder. What happened to you?",43
+MULDER,Nothing. Who slipped him the mickey?,6
+SCULLY,"My... ""theory?"" Your vampire. He found it necessary to dope poor Mr. Funt to the gills before he was able to extract his blood... Probably did it to the cows, too.",31
+MULDER,What kind of vampire would do that?,7
+SCULLY,Exactly.,1
+MULDER,We got another dead tourist. You got to do another autopsy.,11
+SCULLY,Tonight? I just put money in the magic fingers!,9
+MULDER,I won't let it go to waste.,7
+SCULLY,"This one's my room, Mulder. Don't get mud everywhere.",9
+MULDER,"Yeah. Yeah, yeah, yeah, yeah. Okay. OUTSIDE",7
+RONNIE,"Excuse me, ma'am, did you order a pizza?",8
+SCULLY,Yeah. The guy in there'll pay for it.,8
+SCULLY,"Foregoing both dinner and sleep, I was soon back at the funeral home examining one Mr. Paul Lombardo from Naples... Florida. Heart... lung... large intestine. As with the previous victim, it appears that the subject was most likely incapacitated with chloral hydrate, and then exsanguinated. The drug was either injected or ingested. I'm not sure which. Scully. Hello? Hello? Where was I? Stomach contents. Stomach contents include... pizza... Chloral hydrate's in the pizza. The pizza guy. Mulder!",77
+SCULLY,Mulder?,1
+MULDER,That's it?,2
+SCULLY,"Well, luckily, I'd gotten there in time. I mean, though you were drugged, you were... more or less unharmed.",19
+SCULLY,Mulder? Are you okay?,4
+MULDER,Who's the black private dick who's a sex machine with all the chicks? Shaft! Can you dig it? They say this cat Shaft is a bad mother... Shut your mouth! Talkin' 'bout Shaft.,33
+MULDER,I did not!,3
+SCULLY,"Long story short. Though my first four shots obviously missed Ronnie Strickland entirely, with my fifth I was able to shoot out a tire on his car, forcing him to escape on foot. I left you behind and I entered the woods in pursuit. I assumed that you were incapacitated. Then I heard screaming. When I arrived in the clearing, I found that you had caught up with him first and had... over reacted. And that his vampire teeth were fake.",81
+MULDER,That's what you're going to tell Skinner?,7
+SCULLY,"Well, I'm going to argue that we caught a killer -- an utterly non-supernatural killer, but a killer nonetheless. And that your zeal to catch up with him was augmented by the chloral hydrate you were given.",36
+MULDER,You are afraid to tell the truth.,7
+SCULLY,Excuse me?,2
+MULDER,"That's not the way it happened at all. I mean, what are you afraid of? That if you tell it the way it really happened, that you'll look like an idiot, like me?",33
+SCULLY,Mulder? Why don't you tell me the way you think it happened? Starting at the beginning.,16
+MULDER,You're damn right. Yesterday morning began like any other morning. You arrived at the office characteristically less than exuberant.,19
+MULDER,I hope you brought your cowboy boots.,7
+SCULLY,Why are we going to Dallas?,6
+MULDER,"Actually, it's a little town just south of there called Chaney, Texas. They've had some incidents down there recently, which I think you'll agree, are pretty unusual.",27
+SCULLY,Like what?,2
+MULDER,"Well, I-I brought some slides with which to better illustrate. Here we go.",13
+SCULLY,It's a dead cow.,4
+MULDER,It's actually six dead cows. And here's the really interesting thing...,11
+SCULLY,Why am I looking at six dead cows?,8
+MULDER,"Um, well, because of the manner in which they died. All six were mysteriously exsanguinated.",15
+SCULLY,And?,1
+MULDER,"And two little puncture marks right here on the neck. Look, I got a slide of that. And, um, one dead human victim. Last night -- a vacationer from New Jersey. His body completely drained of blood and two little puncture wounds on his neck. Okay, look, Scully I-I don't want to jump to any hasty conclusions, but on the strength of the evidence that we have here, I think that what we *may* be looking at is what *appears* to be a series of vampire or *vampire-like* acts.",88
+SCULLY,On what do you base that?!,6
+MULDER,"Uh... well, on the corpses drained of blood and the fang marks on the neck. But, as always, I'm very eager to hear your opinion.",25
+SCULLY,"Well, it's obviously not a vampire.",6
+MULDER,"Well, why not?",3
+SCULLY,Because they don't exist?,4
+MULDER,"Well... that's... one opinion, and I respect that. Nonetheless, I'm thinking a murder has been committed here and we can go down there and help bring a killer to justice in whatever form -- mortal or... immortal he may take.",39
+SCULLY,"It's not that Mexican goat sucker, either.",7
+MULDER VOICE OVER,Upon arriving at the funeral home I made an interesting observation. One which you apparently didn't hear.,17
+MULDER TALKING TO MORTICIAN,That's a whole lot of caskets.,6
+MORTICIAN,Largest in-stock selection in the state.,6
+MULDER,Why would a town with a population of only 361 need that?,12
+MORTICIAN,Repeat business. Mortician humor. Excuse me.,6
+MULDER VOICE OVER,Apparently your mind was somewhere else.,6
+SCULLY,"Hoo, boy.",2
+HARTWELL,Y'all must be the gov'ment people. I'm Lucien Hartwell.,9
+SCULLY,He had big buck teeth?,5
+MULDER,He had a slight over bite.,6
+SCULLY,"No, he didn't. And that's significant? How?",7
+MULDER,"I'm just trying to be thorough. So, anyway, then we went to take a look at the body.",18
+HARTWELL,Here we go.,3
+MULDER,No exam has been done?,5
+HARTWELL,"No, sir. This is just like we found him in the motel room as is.",15
+SCULLY,No exam has been done?,5
+HARTWELL,"Uh... No, ma'am. Once I heard y'all was interested I figured we'd best leave it to the experts. Now, uh... that can't be what it looks like, right?",28
+MULDER,"That depends on what you think it looks like, Sheriff Hartwell. Vampires have always been with us, in ancient myths and stories passed down from early man. From the Babylonian Ekimu to the Chinese Kuang-Shi to Motetz Dam of the Hebrews, the Mormo of ancient Greece and Rome to the more familiar Nosferatu of Transylvania.",55
+HARTWELL,Mormo. Yeah.,2
+SCULLY,"In short, Sheriff, no. This can't be what it looks like. I think what we're dealing with here is simply a case of some lunatic. Who, uh, has watched too many Bela Lugosi movies. He wishes that he could transfigure himself into a creature of the night.",47
+HARTWELL,"Yeah. Okay. Uh... what she said, that's what I'm thinking, and, uh... Yeah.",13
+MULDER,"Still, that leaves us in something of a quandary because there are as many different kinds of vampires as there are cultures that fear them. Some don't even subsist on blood. The Bulgarian Ubour, for example, eats only manure.",39
+SCULLY,Thank you.,2
+MULDER,"To the Serbs, a prime indicator of vampirism is red hair. Some vampires are thought to be eternal. Others are thought to have a life span of only 40 days. Sunlight kills certain vampires while others come and go as they please, day or night. .",45
+SCULLY,"If there's a point, Mulder, please feel free to come to it.",12
+MULDER,"My point is that we don't know exactly what we're looking for. What kind of vampire, or if you prefer, what kind of vampire this killer wishes himself to be.",30
+SCULLY,"Now, why is it so important that his shoes were untied?",11
+MULDER,I'm getting to it. CEMETERY - DAY,6
+MULDER VOICE OVER,"So, while you stayed behind to do the autopsy, the Sheriff drove me to the town cemetery.",17
+HARTWELL,"Agent Mulder, you mind me asking you why we're out here?",11
+MULDER,"Historically, cemeteries were thought to be a haven for vampires as are castles, catacombs and swamps, but unfortunately, you don't have any of those.",24
+HARTWELL,We used to have swamps only the EPA made us take to calling them wetlands.,15
+MULDER,"Yeah. So, we're out here looking for any signs of vampiric activity.",12
+HARTWELL,"Which would be like, uh...?",5
+MULDER,Broken or shifted tombstones. The absence of birds singing.,9
+HARTWELL,"There you go. Cuz I ain't hearing any birds singing. Right? Course, it's winter, and we ain't got no birds. Is there anything else?",24
+MULDER,A faint groaning coming from under the earth. The sound of manducation -- of the creature eating its own death shroud.,20
+HARTWELL,Nope. No manuh... ma-ma...,4
+MULDER,Manducation.,1
+HARTWELL,Manducation. No.,2
+MULDER,"Now, Sheriff, I know my methods may seem a little odd to you, but..",14
+HARTWELL,"Hey, look, y'all work for the federal guv'mint and that's all I need to know. I mean, CIA, Secret Service -- y'all run the show, so --",25
+MULDER,"It's just that my gut instinct tells me that the killer will visit this place. That it may well hold some fascination -- some kind of siren call for him, you know.",31
+RONNIE,"Howdy, Sheriff.",2
+HARTWELL,"Oh, hey, Ronnie. How's it going?",6
+RONNIE,Can't complain.,2
+HARTWELL,"Well, all right, then.",4
+MULDER,"Maybe after nightfall, Sheriff, but he'll come. Oh, he'll come.",10
+MULDER VOICE OVER,"So, we staked out the cemetery.",6
+SCULLY,"Mulder, shoelaces?",2
+MULDER,Hmm?,1
+SCULLY,On the corpse. You were going to tell me what was meaningful about finding untied shoelaces.,16
+MULDER,I'm getting to it.,4
+MULDER,Sunflower seed? Sorry.,3
+HARTWELL,"No, thanks. Do you mind... do you mind me asking you what you were...",14
+MULDER,"Historically, certain types of seeds were thought to fascinate vampires. Chiefly oats and millet, but you make do with what you have. Remember when I said before that we didn't know what type of vampire we were looking for?",39
+HARTWELL,Yeah.,1
+MULDER,"Well, oddly enough, there seems to be one obscure fact which in all the stories told by the different cultures is exactly the same, and that's that vampires are really, really obsessive-compulsive. Yeah, you toss a handful of seeds at one, no matter what he's doing he's got to stop and pick it up. If he sees a knotted rope, he's got to untie it. It's in his nature. In fact, that's why I'm guessing that our victim's shoelaces were untied.",81
+HARTWELL,"Yeah, obsessive... Like Rain Man. It's like when that old boy dropped them matchsticks, he had to pick them all up. Same thing, right?",24
+MULDER,"Well, he didn't actually pick them up. He counted them.",10
+HARTWELL,"Oh, yeah. 247. Right off the top of your head.",10
+MULDER,"Well, if he had picked them up he would have been a vampire.",13
+HARTWELL,"Yeah. I'll tell you what. I know I'm in law enforcement, but I'd like to take him to Vegas myself. Am I right?",23
+MULDER,"Well, that would be illegal, right?",6
+HARTWELL,He's like a little calculator.,5
+MULDER,Yeah.,1
+HARTWELL,"Excuse me. Hey, Charlene, what's up?",6
+CHARLENE,I just got a call from the RV park. They got something of a situation there. Sounds like you might wanna have a look.,24
+RONNIE,"Hey, again, sheriff.",3
+HARTWELL,"Hey, again, Ronnie.",3
+RONNIE,"I guess you got yourselves a runaway, uh?",8
+HARTWELL,"Well, yeah, Ronnie, I guess we do. What do ya think? We ought to shoot the tires out?",18
+MULDER VOICE OVER,"Anyway, skipping ahead...",3
+SCULLY,"Why skip ahead? What happened then? Mulder? You shot out the tires, and what then?",15
+MULDER VOICE OVER,Here's something you may not know: Shooting out the tires on a runaway RV is a lot harder than it looks. I then tried a different approach. Help!,28
+HARTWELL,"Come on, bird dog it! Attaway!",6
+MULDER,Help!,1
+HARTWELL,Ow. How you doin' there?,5
+MULDER VOICE OVER,"Finally, we prevailed.",3
+HARTWELL,That's the same as the others.,6
+MULDER,Right down to the shoes.,5
+MULDER VOICE OVER,We interviewed everyone present. No one had seen anything.,9
+MULDER'S VOICE OVER,"Tired, frustrated and lacking a solid lead, I just wanted to get cleaned up. I had the sheriff drop me at the motel, which is where I ran into you.",30
+SCULLY,"What do you mean you want me to do another autopsy?! And why do I have to do it right now?! I just spent hours on my feet doing an autopsy, all for you. I do it all and all that was, was a half a cream cheese bagel, and it wasn't even real cream cheese, it was light cream cheese. And now you want me to run off and do another autopsy? What the hell happened to you?",79
+MULDER VOICE OVER,Finally... you left.,3
+SCULLY,Don't you touch that bed. LATER,6
+RONNIE,"Hello? Hello? Ah, hey, again. The lady outside, she said that, um, you'd pay for this.",16
+MULDER,She ordered a pizza from you? Excellent. How much?,9
+RONNIE,$12.98,1
+MULDER,Let me get my wallet. How much?,7
+RONNIE,It's 12.98.,2
+MULDER,"Okay, there's $13.",3
+RONNIE,"Okay, then. Enjoy.",3
+MULDER,"Ah, Scully. LATER",3
+MULDER VOICE OVER,"So, I ate your dinner. And that's when I saw it. But by then it was too late.... Creep.",19
+RONNIE,"Oh, man! What'd you have to go and do that for? You are in big trouble.",16
+MULDER VOICE OVER,"Then I was out cold. I don't know for how long, but when I finally came to...",17
+SCULLY,Mulder?,1
+SCULLY,You're saying that I actually hit him two times?,9
+MULDER,Square in the chest. No effect.,6
+SCULLY,And then he sort of flew at me like a flying squirrel?,12
+MULDER,"Well, I don't think I'll use the phrase ""flying squirrel"" when I talk to Skinner, but... yeah, that's what happened.",20
+MULDER VOICE OVER,"You checked on me, then left to pursue Ronnie Strickland into the woods. Once I recovered I knew what I had to do.",23
+MULDER VOICE OVER,"I caught sight of him, chased him over hill and dale, and in the end...",15
+SCULLY,"Mulder, it's not just me. Nobody in their right mind will ever believe that story.",15
+MULDER,"Well, they'll have to, once they examine Ronnie Strickland's body.",10
+CORONER,"Case 0026198, Ronald Lavelle Strickland. Probable cause of death... Gee, that's a tough one.",14
+KIMBERLY,"Assistant Director Skinner's office. Oh, I'm sorry, he's about to go into a meeting. Yes, it may last several hours. You're welcome.",22
+SCULLY,"Mulder, please just keep reminding him you were drugged.",9
+MULDER,Would you stop that?,4
+SCULLY,It wouldn't hurt.,3
+MULDER,Stop it.,2
+SKINNER,"Scully, Mulder...",2
+MULDER,I was drugged!,3
+SKINNER,"I want you back in Texas. Ronnie Strickland's body has disappeared from the morgue. Apparently in conjunction with this, a coroner's been attacked... his throat was... bitten.",27
+MULDER,The coroner's dead?,3
+SKINNER,"No, his... throat was bitten. It was sort of... gnawed on. Daylight's burning, agents.",14
+SCULLY,But... he was dead.,4
+MULDER,I noticed that.,3
+SCULLY,With a stake through his heart.,6
+MULDER,"I noticed that, too.",4
+SCULLY,So we should find Ronnie out here because...?,8
+MULDER,Because tradition states that a vampire needs to sleep in his native soil.,13
+SCULLY,Oh.,1
+MULDER,Yeah.,1
+SCULLY,"But Mulder, he had fake fangs. Why would a real vampire need fake fangs? I mean, for the sake of argument.",21
+MULDER,Fangs are very rarely mentioned in the folklore. Real vampires aren't actually thought to have them. It's more an invention of Bram Stoker's. I think maybe you were right before when you said that this is just a guy who's watched too many Dracula movies. He just happens to be a real vampire.,53
+SCULLY,"Well, so where the hell is he?",7
+MULDER,What about his family -- the ones who are going to sue us for 446 million?,15
+SCULLY,"Well, an aunt and an uncle. Their mail comes general delivery to a local post office.",16
+MULDER,No home address? That's the sheriff.,6
+SCULLY,Sheriff Hartwell.,2
+HARTWELL,"Evening, agents. I heard y'all were back in town. Thought I might be of some assistance.",16
+MULDER,"Yeah, actually you can. You can stay behind here with Agent Scully and keep an eye on things while I check something out. Don't say I never did nothing for ya.",31
+SCULLY,Where are you going?,4
+MULDER,Where might you be living if your mail came general delivery around here?,13
+HARTWELL,The RV park.,3
+MULDER,You're good.,2
+SCULLY,Thanks.,1
+HARTWELL,You're very welcome. So what do you think about vampires?,10
+SCULLY,You mean aside from the fact that I don't believe in them?,12
+HARTWELL,"Yeah, aside from that.",4
+SCULLY,"Well... they're supposed to be extremely charming. Seductive. No, I mean... even if they did really exist, who's to say they'd actually be like that? As Agent Mulder says, there are many different kinds of vampires.",36
+HARTWELL,"Yup. Sure are. I really need to apologize to you about Ronnie. He makes us all look bad. He's just not who we are anymore. I mean, we pay taxes, we're good neighbors. Old Ronnie, he just... he can't quite seem to grasp the concept of... low profile. But though he may be a moron, he is one of our own.",61
+MULDER,"Hello? Sleeping late. Ronnie Strickland... you have the right to remain silent. Anything you say can and will be used against you in a court of law. Come on, cut it out, Ronnie. Oh damn... Back! Ahh! No!! Aaaaahh!",39
+SCULLY,Mulder?,1
+MULDER,"Scully, what happened?",3
+SCULLY,I came to in the cemetery. That's all I know.,10
+MULDER,They pulled up stakes.,4
+SKINNER,"So, that's it? They simply disappeared without a trace. And that's exactly the way it happened from start to finish?",20
+SCULLY,"Well, I can neither confirm nor deny agent Mulder's version of events which occurred outside my presence.",17
+MULDER,"And I can neither confirm nor deny agent Scully's version of events, but, um...",14
+SCULLY,Anyway... I was drugged.,4
+MULDER,"That is... essentially, exactly the way it happened.",8
+SCULLY,Essentially.,1
+MULDER VOICE OVER,Except for the part about the buck teeth.,8

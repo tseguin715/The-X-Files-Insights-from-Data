@@ -1,0 +1,289 @@
+speaker,line,words
+RADIO ANNOUNCER VOICE,"Good morning. It is Friday, December 8, and you're tuned in to WXOP, Baltimore's news radio serving all of Maryland and the greater pileup with a fatality, on the 97 at...",31
+TALL GUARD,It's time.,2
+MARTIN WELLS,John!,1
+DOGGETT,Press got word you're taking him out the Groves Street exit. It looks like Woodstock out there.,17
+SCULLY,I suggest you postpone the transfer. We can get him out later once the crowd disperses.,16
+MARTIN WELLS,Transfer me where?,3
+TALL GUARD,"No, they'll camp out for days. We're going ahead with it.",11
+MARTIN WELLS,"John. John, what is going on?",6
+REPORTER,Mr. Wells! Mr. Wells! Why did you do it?,9
+DOGGETT,"All right, back up! Back up. Give him some room. Come on, clear out. Back up.",16
+MARTIN WELLS,Al!,1
+DOGGETT,Down! Weapon!,2
+SCULLY,Somebody call a medic!,4
+MARTIN WELLS,John...,1
+SCULLY,"Do you recognize this, Mr. Wells? Have you seen it before?",11
+MARTIN WELLS,Um... yes. Who are you?,5
+DOGGETT,Don't even … Martin.,4
+MARTIN WELLS,"John, what am I doing here? I'm in this cell, I don't know where I am or how I even got here and everyone's acting like...",26
+DOGGETT,"I swear to God, on top of everything else, do not play this with me. I will not be party to some half-assed, 11th-hour insanity defence.",26
+MARTIN WELLS,What? John …,3
+DOGGETT,It's time to start telling me the truth!,8
+SCULLY,"This key card, Mr. Wells... you do recognize it. Is that correct?",12
+MARTIN WELLS,"Yes, it's the swipe card that they use at the apartment building. For all I know, it's mine.",18
+SCULLY,It is yours. It was found in the dumpster behind the Strand Hotel.,13
+DOGGETT,"You tossed it there, didn't you? You had just enough time to drive to Baltimore and commit the murder.",19
+MARTIN WELLS,Wait. Murder? What murder?,4
+DOGGETT,"Then drive back to DC. Toss the key card. That way, you could claim it was stolen. Make it look like you spent your whole night watching pay- per-view in your hotel room. Right?",34
+MARTIN WELLS,Please...,1
+MARTIN WELLS,What murder? What is he talking about?,7
+DOGGETT,"Well, maybe this will jog your memory, buddy.",8
+MARTIN WELLS,Vicky. My wife. This isn't happening. This is not happening.,10
+TALL GUARD,Court van is waiting.,4
+JANET WILSON,All right... dignity. That is your strong suit. Play it. Don't lower your eyes. It makes you look guilty.,19
+JANET WILSON,"Now, we drew Judge Kinberg. What's your relationship with him?",10
+MARTIN WELLS,Benjamin?,1
+JANET WILSON,First-name basis. Excellent.,3
+BAILIFF,All rise.,2
+BAILIFF,"I would remind the members of the gallery to turn off all cellular phones and paging devices. Hear ye, hear ye. That all who have business before this court in the State of Maryland draw near and be heard.",39
+MARTIN WELLS,Al?,1
+JANET WILSON,What?,1
+MARTIN WELLS,He shot me.,3
+JANET WILSON,"Who? Your father-in-law? What are you talking about? BAILIFF; Circuit court, Department 6-B is now in session, the Honourable Benjamin Kinberg presiding. Thursday, the seventh day of December.",28
+MARTIN WELLS,Thursday? It's not Thursday.,4
+JANET WILSON,Shh!,1
+MARTIN WELLS,It's Saturday. Yesterday was Friday and...,6
+JANET WILSON,"Today is Thursday. There's no court on Saturday. You know that. Martin, do you feel all right?",17
+JUDGE KINBERG,Case Number 8ABX03: District v. Martin Wells. Charge of first- degree murder.,12
+JUDGE BENJAMIN KINBERG,The defence has requested a hearing on bail?,8
+JANET WILSON,"Yes, your Honor, we have. As I'm sure you'd agree, Mr. Wells' status as a prosecutor makes him a target. The court puts his life in danger by keeping him in custody.",32
+DISTRICT ATTORNEY CARTER,"Your Honor, I have the assurances of the Baltimore Department of Corrections that Mr. Wells' safety while in custody is not a concern.",23
+JANET WILSON,"Furthermore, as your Honor will certainly agree, Mr. Wells is an upstanding citizen and a respected member of the Maryland Bar, held in high esteem by all his peers.",29
+DISTRICT ATTORNEY CARTER,"Your Honor, with cold calculation, Martin Wells brutally stabbed his wife in their own home. He poses a threat to the public and should be denied bail.",27
+JANET WILSON,"He doesn't pose a threat to anyone, your Honor and he has two small children who need him at home.",20
+DISTRICT ATTORNEY CARTER,Why? Because their mom's not around.,6
+JUDGE BENJAMIN KINBERG,"Ms. Carter. Martin, I can't tell you how sorry I am to see you on that side of the aisle. I hope you'll forgive me when I do exactly what you as a prosecutor, would demand. Bail is denied. I will, however order Mr. Wells transferred to a more secure facility in the interest of his safety.",57
+MARTIN WELLS,"Transferred? No, Ben. You can't do that. I can't be transferred.",11
+MARTIN WELLS,He'll kill me.,3
+JUDGE BENJAMIN KINBERG,Martin.,1
+MARTIN WELLS,"Tomorrow morning-- if today is really Thursday-- then tomorrow is Friday, and that's when he's going to do it. He's going to shoot me as I'm being transferred.",28
+JUDGE BENJAMIN KINBERG,Bailiff.,1
+MARTIN WELLS,"You don't understand! It'll happen! It'll happen! Judge, listen to me! Ben, it'll happen! He's going to kill me! Ben!",20
+SCULLY,"Mr. Wells, we understand that you had an interesting morning in court. What is it that you'd like to speak with us about?",23
+MARTIN WELLS,You're John's partner?,3
+DOGGETT,"For god sakes, Martin. Agent Scully. You know that. You met her yesterday.",13
+MARTIN WELLS,Yesterday?,1
+DOGGETT,Yeah. Yesterday. Wednesday.,3
+MARTIN WELLS,Wednesday?,1
+SCULLY,Are you saying that you don't remember? What is the last thing that you do remember?,16
+MARTIN WELLS,Being shot by my father-in-law.,5
+DOGGETT,You're wasting our time.,4
+MARTIN WELLS,"Listen. I don't know what I experienced. But what if it was a premonition? A glimpse of the future. I mean, you do hear about these kind of things.",29
+SCULLY,Yes... You do.,3
+SCULLY,"Mr. Wells, this shooting aside is there anything else that you remember before that?",14
+MARTIN WELLS,Um... I was in DC... uh... for a sentencing hearing. I was staying at the Strand Hotel like you said.,20
+SCULLY,"That was three days ago, Mr. Wells. Are you telling us that you don't remember anything else? Not the murder of your wife?",23
+MARTIN WELLS,No.,1
+DOGGETT,"Out of the blue. Charged with murder. You wake up one morning and you can't remember a damn thing. Martin, you haven't offered us one scrap of evidence to support your story. Now, as your friend, I'm going to listen to anything you have to say, but I will not be lied to.",53
+MARTIN WELLS,I'm not lying to you. You're talking to me about key cards. I'm sitting in a jail cell. I don't understand any of this. But I did not... kill Vicky.,30
+SCULLY,If you truly don't remember... then how can you be certain that you didn't?,14
+MARTIN WELLS,"Courtney! Haley! Hey, guys! Oh! It's so good to see you.",11
+MARTIN WELLS,"Wh...?! Come on! Come on, give Daddy a big hug.",10
+TRINA,"Hug your father, ninas.",4
+MARTIN WELLS,Mmm...,1
+MARTIN WELLS,How are they holding up?,5
+TRINA,"Good. Good, Mr. Wells. They want to know when you're coming home.",12
+MARTIN WELLS,"Oh. See, um... Daddy has some things that he has to do-- very, very important things. That's why I have to be here right now, but then, guess what? I'll be coming home.",33
+COURTNEY,Grandpa says they won't let you come home.,8
+MARTIN WELLS,Oh...,1
+MARTIN WELLS,"Trina, I need you to get me something out of the apartment-- something from the girls' room.",17
+JANET WILSON,Thank you.,2
+JANET WILSON,Why didn't you mention this to me before the bail hearing?,11
+MARTIN WELLS,I hadn't even met you before the bail hearing.,9
+MARTIN WELLS,Nanny-cam.,1
+JANET WILSON,"Oh, Martin, I wish you'd talked to me about this before. I really don't know if this is a great idea.",21
+MARTIN WELLS,This tape may have the murderer on it.,8
+JANET WILSON,Whatever happens to be on that tape you know that I am an officer of the court. I have to share this with the prosecution.,25
+MARTIN WELLS,You think I'm guilty?,4
+MARTIN WELLS,Let's... let's clear this up right now. Here. My apartment.,10
+MARTIN WELLS,That... That's the girls' room and this must be the police investigation. What time did the … murder occur?,19
+JANET WILSON,The official report has the Police arriving at your apartment at 6:20AM,12
+MARTIN WELLS,Which means the killer is somewhere in-between.,7
+JANET WILSON,Wait. There's your wife.,4
+MARTIN WELLS,Um... we must have missed something. Right there.,8
+JANET WILSON,"Martin, that's you.",3
+MARTIN WELLS,I'm not going.,3
+TALL GUARD,How's that?,2
+MARTIN WELLS,"I told you. This is the day. If I go, I'll get shot. You cannot transfer me.",17
+TALL GUARD,I don't plan to. Your lawyers want to see you.,10
+BRENT TUFELD,"There's my favourite client. Martin, you holding up all right?",10
+MARTIN WELLS,"Brent, uh... I've been better.",5
+BRENT TUFELD,"We're going to beat this thing. Guaranteed. Martin, I have here one of the finest criminal defence specialists in the country. I want you to meet...",26
+MARTIN WELLS,We met. I've been thinking all night about the tape and I don't see you having to turn it over to the prosecution.,23
+JANET WILSON,I'm sorry?,2
+MARTIN WELLS,"I obviously showed you that tape in a good faith effort to clear my name, not as an admission of guilt.",21
+JANET WILSON,"Um... Mr. Wells, I'm Janet Wilson. I don't think we've met.",11
+BRENT TUFELD,"Martin, what is all this about a videotape?",8
+MARTIN WELLS,The... Nanny-cam tape.,3
+MARTIN WELLS,"That's why you're here, right?",5
+BRENT TUFELD,I'm here to introduce you to your new attorney.,9
+MARTIN WELLS,We met yesterday at the bail hearing. Don't you remember?,10
+BRENT TUFELD,"Martin, the bail hearing is set for tomorrow.",8
+MARTIN WELLS,What day is this? What... day of the week... is this?,11
+BRENT TUFELD,Wednesday. Wednesday the sixth.,4
+MARTIN WELLS,Yesterday you told me it was Thursday. The day before that it was Friday. It's backwards. Everything's going backwards.,19
+BRENT TUFELD,"Martin, I think we should have you speak to someone. You're under a hell of a lot of stress. Being locked up in this cesspool really doesn't help.",28
+JANET WILSON,We can have you out of here by tomorrow afternoon. The prosecution's case is weak to say the least. They have no physical evidence tying you to the crime scene.,30
+BRENT TUFELD,"Plus, they don't have the key card that was used to access your apartment building.",15
+MARTIN WELLS,The key card...,3
+JANET WILSON,"Without it, they've got nothing.",5
+SHORTY,"Oh, yeah. Somebody likes you, my brother.",7
+SHORTY,"Come on, man. I'm just messing with you. What, you ain't got no sense of humour, Counsellor?",17
+MARTIN WELLS,Do I know you?,4
+SHORTY,"No, you don't know me. Damn sure put me in here, though.",12
+MARTIN WELLS,Possession with intent. And concealed weapon.,6
+SHORTY,"Mm-hmm. That concealed weapon was a pipe wrench. I was on my way to my baby's mama's house to unstick the Pepsi caps from out her garbage disposer, but I told you all that! ""Concealed weapon"" added six months to my sentence, man. You remember my name?",47
+MARTIN WELLS,"No, I don't remember your name. All I needed to know about you was that you broke the law.",19
+SHORTY,"I broke the law. Well, then, I guess that makes you ""Wife Killer, Esq.""",14
+DOMINO PLAYING GANGBANGER,Yo! Pick 'em up you stumbling bitch.,7
+ANOTHER PLAYER,Come on.,2
+DOGGETT,"Aw, geez, Martin. Your face.",5
+MARTIN WELLS,"It's all right. Appreciate your coming to see me. Agent Scully, I especially wanted to talk to you.",18
+SCULLY,It's nice to meet you. I'm sorry it's not under better circumstances.,12
+MARTIN WELLS,"This is the day we meet... something is happening to me... something I need to try to explain to you, to you both. I'm moving backward in time. Every morning I wake up, it's the day before. For me, yesterday was Thursday, the day before that was Friday, only it's all new to me. Every single morning I wake up, I can only remember what's happened the following day.",69
+DOGGETT,"Agent Scully, would you mind taking a closer look at his injuries, maybe check his scalp?",16
+MARTIN WELLS,"I know this all sounds crazy. But I'm telling you the truth. This cut, for instance. It was on my cheek when I woke up yesterday. I woke up this morning, it wasn't there. But then this afternoon I got cut. I killed a spider in my cell yesterday. First thing this morning, I woke up, it's back again. Because it happened the day before. I haven't actually killed it yet.",71
+SCULLY,"Mr. Wells, are you saying that you don't remember the day that your wife was murdered? I'm talking about two days ago, Monday.",23
+MARTIN WELLS,"No, I don't... remember it, because for me, it hasn't happened yet.",12
+SCULLY,"You do realize that you're not going to be able to prove this, right? I mean, if, uh... if tomorrow is really the day before today, then we won't have had this conversation.",33
+DOGGETT,"Oh, for crying out loud.",5
+SCULLY,It means you're going to have to tell us all over again.,12
+DOGGETT,"Yeah, well, uh... make sure I skip that freaking meeting.",10
+SCULLY,"Mr. Wells, let's say that, that all this is true. Why do you think it's happening?",16
+MARTIN WELLS,I don't know. There has to be a reason.,9
+SCULLY,What reason?,2
+MARTIN WELLS,Something... I'm meant to understand? Although I don't know what it could be.,13
+SCULLY,Maybe you already have the answer within you.,8
+JANET WILSON,I'd really prefer to stay while you do this. Martin. I can take you through the chain of evidence.,19
+MARTIN WELLS,"I think I've done this before, thank you, Ms. Wilson.",10
+SHORTY,"Mmm-hmm, looking for some loopholes, huh? Yeah, man, get yourself out of here. They just praying that you find that one little technicality so they can let you go.",29
+MARTIN WELLS,I'm not looking for technicalities.,5
+SHORTY,"Well, what are you looking for, brother?",7
+MARTIN WELLS,The truth.,2
+SHORTY,"The truth? You better stick to the technicalities! The truth is going to keep you in here and make you somebody's bitch, that's what the truth's going to do. So put on that engineering hat, Casey Jones, because you've got a whole lot of trains to be pulling...",48
+SHORTY,The truth!,2
+MARTIN WELLS,I know who did it.,5
+TV REPORTER,"...claims he arrived home from a business trip to discover the body of his wife in their living room. Apparently, Wells is now in seclusion at the home of a friend. Baltimore police are giving no indication whether he is a suspect in the murder or if there are indeed any suspects at this time. However, Channel 9 News has learned police are focusing their investigation on the whereabouts of an electronic key card, much like this one. The card in question belongs to Martin Wells. It was used by the killer to enter the Calvert House apartment building through the garage entrance. Wells claims no knowledge of the whereabouts of his key card...",114
+DOGGETT,Not something you want to wake up to.,8
+TV REPORTER,...and suggests it may have been stolen.,7
+DOGGETT,How you feeling?,3
+MARTIN WELLS,"Disconnected from reality, but I guess I'd better get used to it. Oh, um... thank you. I assume you... let me spend the night here, right? Thank you.",28
+DOGGETT,"Like I said, no problem.",5
+MARTIN WELLS,"So that makes today... Tuesday, the day after the murder. John... I know who did it now.",17
+DOGGETT,You know who killed Vicky?,5
+MARTIN WELLS,"Mmm. Latino, maybe 40, five-ten, 185 pounds. He's got a tattoo of a spiderweb on his left hand.",18
+DOGGETT,"Martin, last night you told me you had no idea who did this.",13
+MARTIN WELLS,"Yeah, now I do. Well, trust me. I mean, I-I don't know his name but you can find him in the Baltimore city lockup. Call them. They can ID him based on what I just told you.",37
+AL CAWDRY,I just want to say my daughter was an exceptional person......One who was loved by everyone who knew her.,19
+TV REPORTER,"Sir, have the police identified any suspects in your daughter's death?",11
+AL CAWDRY,: They're not telling us much.,5
+TV REPORTER,What about rumours that your son-in-law is the prime suspect? What are your thoughts on that?,16
+TV REPORTER,Reporting from the Calvert House Apartments this is Brian Blakeley. Back to you in the studio.,16
+DOGGETT,No prisoner fitting that description has been processed in the past 36 hours.,13
+MARTIN WELLS,He's in there. He's got to be there.,8
+DOGGETT,"Sorry, Martin, he's not.",4
+MARTIN WELLS,It must be too soon. He must not get arrested until later today-- Tuesday. That's how he could have been with me in lockup on Wednesday.,26
+DOGGETT,"Martin, you have seriously lost me. If you're trying to admit something to me or to yourself, I want you to just come out with it.",26
+MARTIN WELLS,There's a reason all this is happening. Maybe I already have the answer.,13
+DOGGETT,"Well, how's that?",3
+MARTIN WELLS,"There's something in my apartment that you need to see, John.",11
+DOGGETT,Where is it?,3
+MARTIN WELLS,"Uh, the girls' bedroom, right there.",6
+DOGGETT,Is this it?,3
+MARTIN WELLS,My daughters were at their grandparents'... thank god. Their bedroom door was open with a clear view of the front hallway. The nanny-cam is motion-activated so it should have caught anyone coming in or out of the house.,38
+MARTIN WELLS,There I am. Nobody else on the tape between my wife and the police. I don't understand it.,18
+DOGGETT,"I'd say this makes you look more innocent than guilty. Look, there-- in the mirror...",15
+DOGGETT,...the sun. Your wife comes home before the murderer enters the building,12
+AT 4,"17 AM. Her time of death is fixed shortly after that, well before sunrise. You came home later... when the sun was already up.",24
+MARTIN WELLS,The killer turned off the tape.,6
+DOGGETT,The only question is how?,5
+MARTIN WELLS,There's a remote control for the nanny-cam. It's in a drawer by the front door but nobody else knew about it except for... Vicky... and me.,26
+DOGGETT,Are you sure about that?,5
+DOGGETT,FBI! I saw your curtains move. I know you're in there.,11
+TRINA,"M-Mr. Wells, I...",3
+MARTIN WELLS,"Trina, you knew about the Nanny-cam, didn't you? You told the killer about it. You must have given him my key card, too.",23
+TRINA,"Mr. Wells, I-I-I wasn't even there that night.",8
+DOGGETT,"First thing you're supposed to say is: ""What nanny-cam?""",9
+DOGGETT,Is this your guy?,4
+TRINA,"I'm so sorry, Mr. Wells. He said he'd hurt my family. He made me give him your key card.",19
+DOGGETT,His name is Cesar Ocampo. He's got a full sheet-- assault and narcotics. He knows the drill. He's a clam.,20
+MARTIN WELLS,We'll have Trina's testimony against him.,6
+DOGGETT,Or maybe we won't. He's got her so scared we can't count on her.,14
+MARTIN WELLS,"John, let me go in and talk to him. Please.",10
+DOGGETT,He says he only wants to talk to you.,9
+MARTIN WELLS,Why?,1
+CESAR OCAMPO,"You don't know? You got my name, my record, and you can't figure it out?",15
+MARTIN WELLS,Cesar Ocampo-- I don't know you. I never prosecuted you.,10
+CESAR OCAMPO,"Hector Ocampo, my brother.",4
+MARTIN WELLS,What was the charge?,4
+CESAR OCAMPO,"Possession with intent. $50 worth of rock. It was his third strike, remember?",13
+MARTIN WELLS,"Yeah, I remember. I did my job.",7
+CESAR OCAMPO,You sent him up for life!,6
+MARTIN WELLS,"I did my job! I do it ten times a week every week of the year... and for this, my wife was murdered? You take away my dignity, my reputation, my life, because your dirtbag brother is where he belongs?!",40
+CESAR OCAMPO,"Brady V. Maryland. Hey, you know what I'm talking about. Brady V. The State of Maryland. Prosecution's got to turn over exonerating evidence. You had the word of three people that wasn't Hector's rock. It was in a jacket that wasn't even his, left beside him in the club. You knew that. You knew that and you suppressed the evidence.",60
+MARTIN WELLS,Are you trying to tell me that your brother is not a drug dealer?,14
+CESAR OCAMPO,My brother was a busboy when you sent him up. He had two strikes on him. He wasn't dealing no more. You sent him up for who he used to be... and 'cause it was easy. You broke the law.,40
+MARTIN WELLS,I tell you what we'll do. You're going to be convicted of my wife's murder one way or another. Plead out now and I'll look into your brother's case. Maybe I'll find a way to recommend a reduced sentence. Time served. You want justice? So do I.,47
+CESAR OCAMPO,My brother is dead. Hung himself in a jail cell a couple weeks ago.,14
+(DOGGETT,opens the door to the interrogation room.),7
+DOGGETT,Martin... A word.,3
+DOGGETT,"I'm sorry, Martin. I tried to talk them out of it, but they think they have a case.",18
+HOMICIDE DETECTIVE,"Sir, turn around, please.",4
+HOMICIDE DETECTIVE,"Martin Wells, you are under arrest for the murder of Vicky Wells. You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney.",41
+MARTIN WELLS,"Come on, honey, pick up.",5
+MARTIN WELLS,Pick up!,2
+VICKY WELLS,"Hey, there.",2
+MARTIN WELLS,Vicky...,1
+VICKY WELLS,"This is the Wells' residence, home of Martin, Vicky, Courtney and Haley. We can't come to the phone right now. So, please leave a message.",25
+MARTIN WELLS,"Honey, this is Martin. Pick up the phone. Vicky, pick up the phone. Pick up the phone!",17
+MARTIN WELLS,It's not 4:00 yet.,4
+MARTIN WELLS,"Vicky, please, when you get this, get out of the apartment, go to your parents' house and wait for me to call. I'm on my way back to the city.",30
+MARTIN WELLS,"John, I need your help.",5
+DOGGETT,Martin?,1
+MARTIN WELLS,Vicky's going to be murdered inside of two hours.,9
+DOGGETT,Vicky? You mean your wife?,5
+MARTIN WELLS,"I called the Baltimore police but I can't tell if they thought I was a crank. I need you to call them. Now, I can describe the suspect, his name... everything.",31
+DOGGETT,"Well, how do you know all this?",7
+MARTIN WELLS,I haven't got time to explain it. You wouldn't believe it anyway.,12
+DOGGETT,"Now, Martin, you see, now, that's a bad sign because it's two-something in the morning. I haven't seen you in three years. You got to give me something more to go on.",32
+MARTIN WELLS,This is all happening for a reason. I... I'm being given a second chance.,14
+DOGGETT,A second chance to do what?,6
+MARTIN WELLS,"I prosecuted a man named Hector Ocampo. I suppressed evidence. See, he was innocent of the crime he was charged with.",21
+DOGGETT,"Martin, anything you say to me...",6
+MARTIN WELLS,"… you have to report. I put him away, he died in prison, his brother wants revenge, and it is as simple as that.",24
+DOGGETT,"You could be disbarred for what you're telling me. You could go to prison, lose everything; do you understand?",19
+MARTIN WELLS,I understand that I can save Vicky.,7
+DOGGETT,Hold on a minute.,4
+MARTIN WELLS,You got here in time.,5
+LEAD COP,Are you Martin Wells?,4
+MARTIN WELLS,Yeah.,1
+MARTIN WELLS,Vicky? Vicky?,2
+LEAD COP,There's nobody here. We checked. What exactly are we looking for?,11
+MARTIN WELLS,My wife's going to be attacked here tonight. It happens... the,11
+LEAD COP,It's 4:20 now.,3
+MARTIN WELLS,I don't understand. Where is she?,6
+LEAD COP,Tell you what. We'll take a few sweeps through the neighbourhood... keep our eyes peeled. We're a phone call away if you need us.,24
+MARTIN WELLS,Come on. Come on!,4
+AL CAWDRY,Hello?,1
+MARTIN WELLS,"Al, it's Martin.",3
+AL CAWDRY,Martin? What time is it?,5
+MARTIN WELLS,Al... … is-is Vicky there?,5
+AL CAWDRY,No. The kids are here. Vicky left hours ago.,9
+AL CAWDRY,Isn't she home yet?,4
+AL CAWDRY,Martin? open?] He gets a chef's knife from the kitchen and stands behind the front door. It opens and he raises the knife threateningly. VICKIE screams. He lowers the knife in relief. She gasps as they calm down.),38
+VICKY WELLS,"Martin, you scared the hell out of me!!",8
+VICKY WELLS,"Honey, why aren't you in DC? What the...",8
+MARTIN WELLS,Where have you been?,4
+VICKY WELLS,"I-I got a flat on the way back from my... Honey, you're scaring me. What's wrong?",16
+MARTIN WELLS,We're in trouble. We have to get out of here right now.,12
+VICKY WELLS,What?!,1
+MARTIN WELLS,Vicky! Get in the bedroom. Lock the door. You call the cops and don't come out till I say it's over.,21
+VICKY WELLS,"Oh, my god, Martin!",4
+VICKY WELLS,Martin! No!!!,2
+MARTIN WELLS,No!,1
+VICKY WELLS,Martin!,1
+VICKY WELLS,Martin!,1
+MARTIN WELLS,No!,1
+DOGGETT,You said something about a second chance. Was this it?,10
+MARTIN WELLS,"The passage of time in prisons is not in a cell of brick and mortar but in one of hopes dashed and tragedies unaverted. How precious, then, the chance to go back only to discover that in facing the past you must face up to yourself... that exiting the prison of time doesn't free you from the prison of your own character... one from which there is no escape.",69

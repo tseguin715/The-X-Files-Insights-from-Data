@@ -1,0 +1,346 @@
+speaker,line,words
+WAITER,Excuse me. Do you want that warmed up?,8
+LAPTOP MAN,No. But I’ll buy another one if you’ll leave me alone.,11
+LAPTOP MAN,We’ll see about that.,4
+BUYER,Eight ball.,2
+JACKSON,Yeah?,1
+VOICE,"Hello, Jackson.",2
+JACKSON,How’d you get this number?,5
+VOICE,"What do you care? You’re partner, Kenny Slater, he took your money, didn’t he? I want to help you, Jackson.",20
+JACKSON,Help me what?,3
+VOICE,Slater’s in the Metro Diner. 14th and Arlington.,8
+JACKSON,"He’s in Florida by now, man... Jamaica, Cuba...",8
+VOICE,No. He’s here. In the Metro Diner. 14th and Arlington.,10
+JACKSON,14th and Arlington. It’s Kenny. The fool’s come back.,9
+VOICE,The men who took your product Friday night are in the Metro Diner.,13
+CRACK DEALER,14th and Arlington.,3
+VOICE,Spanish Jack is in the Metro Diner – 14th and Arlington. I understand you wish to speak with him.,19
+GWDLSJ,14th and Arlington.,3
+BOYCE,Boyce.,1
+VOICE,Pico Salazar is in the Metro Diner.,7
+BOYCE,Salazar? Who is this?,4
+VOICE,14th and Arlington.,3
+LAPTOP MAN,Oh... sharper than a serpent’s tooth to have a thankless child.,11
+LAPTOP MAN,"Now you know what’s coming, and there’s nothing you can do.",11
+LAPTOP MAN,You won’t feel a thing.,5
+BOYCE,US Marshalls! On the floor!,5
+LAPTOP MAN,No!,1
+BOYCE,"Get down, now!",3
+LAPTOP MAN,No!,1
+MULDER,"Charles Figgis, ten year veteran of the US Marshall’s Service. Multiple gunshot wounds, high speed Teflon rounds. His partner, Gerald Boyce was DOA at Mercy General. Tried to catch a nine millimeter slug in his teeth.",36
+SCULLY,Looks like they crashed the wrong party.,7
+MULDER,Figgis and Boyce had radioed in that they were coming here to apprehend Pico Salazar.,15
+SCULLY,Pico Salazar?,2
+MULDER,The Colombian Cartel’s banking liaison. Salazar escaped from federal custody three months ago. Boyce and Figgis were on the offender transport squad that lost him. They took his escape personally. A phone tip told them that Salazar was going to be here tonight.,43
+SCULLY,"A foreign national with his kind of connections? What would he be doing here, let alone in the country?",19
+MULDER,I don’t think he is... or was. But there were a lot of very photogenic gentlemen that were.,18
+SCULLY,"Mulder, these are street level coke dealers... Minor wholesalers at most.",11
+MULDER,"Yeah, not the type you’d expect to associate with a cartel boss.",12
+SCULLY,What would they be doing here?,6
+MULDER,Maybe it was for the pie.,6
+SCULLY,It’S 2:45 in the morning. You mind telling me what it is we’re supposed to be looking for?,18
+MULDER,Donald Gelman.,2
+SCULLY,Who?,1
+MULDER,Donald Gelman --- Silicon Valley software pioneer. He’s been missing since 1979.,11
+SCULLY,And you recognize him?,4
+MULDER,"He invented the internet. Well, he didn’t quite invent it, but he’s a Silicon Valley folk hero. He was writing internet software even before there was an internet.",28
+SCULLY,Why have I never heard of him?,7
+MULDER,On the eve of the deal that was going to set him up as another Bill Gates he went hiking in the Sierras and said he’d think about it. Never came back.,32
+SCULLY,I still don’t see the connection.,6
+MULDER,Maybe that’s the point.,4
+SCULLY,"So, why was Gelman in there?",6
+MULDER,I think somebody obviously wanted him dead.,7
+SCULLY,You think this was a hit on him?,8
+MULDER,"Eight unconnected dealers all at the same place at the same time, all tipped off by phone looking for somebody, last call goes to the Marshalls, they arrive, place explodes, Gelman dies in the crossfire. It’s genius.",37
+SCULLY,"Mulder, did you take a look at him? Why kill a man who is dying. His body is a bag of bones.",22
+MULDER,"Well, when you’re talking about Donald Gelman you want to kill the brain, not the body.",16
+SCULLY,"Mulder, that’s evidence.",3
+MULDER,"Gee, I hope so.",4
+PLATTERS,HEAVENLY SHADES OF NIGHT ARE FALLING IT’S TWILIGHT TIME OUT OF THE MIST YOUR VOICE IS CALLING ‘TIS TWILIGHT TIME WHEN PURPLE COLORED CURTAINS MARK THE END OF DAY...,29
+BYERS,"Jobs and Wozniak at Apple, Gates and Allen writing Basic, the homebrew computer club’s first meetings. Gelman was there.",19
+FROHIKE,Now they’re power brokers and billionaires. Back then they were just... inspired nerds.,13
+MULDER,All except Gelman.,3
+BYERS,"Gelman was a part of the group, but not one of them. At 28 he was ..the old man. Some say the brightest of all.",25
+LANGLY,He wrote some of the earliest viruses.,7
+MULDER,And found himself under investigation by the NSA.,8
+SCULLY,Is that why he disappeared?,5
+BYERS,"Gelman? Gelman was a visionary, not a capitalist. A subversive.",10
+FROHIKE,This is a one-off. I’ve never seen anything like it. Gelman built this?,13
+MULDER,That may be what got him killed.,7
+LANGLY,Heavy casualty.,2
+FROHIKE,A brother goes down.,4
+MULDER,I found this in his CD ROM drive.,8
+BYERS,What is it?,3
+SCULLY,"""Twilight Time.""",2
+LANGLY,We’re up against 64 bit encryption... as password that’s a random sequence of twelve symbols. Gelman’s got this baby sealed tight.,21
+BYERS,This CD has some kind of enhanced background data. Lots of code. Maybe a programming design.,16
+MULDER,What for?,2
+SCULLY,"Anyone ùh, think to check his e-mail.",7
+BYERS,"David missing, fear the worst, the hunted has become the hunter.",11
+SCULLY,"""Invisigoth?""",1
+BYERS,Could be an address.,4
+FROHIKE,Seven digits. An alpha numeric string of four.,8
+MULDER,Standard ID. Shipping container.,4
+SCULLY,There must be a thousand containers here..... and in no particular order.,12
+MULDER,Frohike says this place is really proud of its accurate tracking.,11
+SCULLY,If not in their computer security.,6
+MULDER,Yeah. Should be straight ahead. Three rows and to the right.,11
+MULDER,Sounds like somebody’s home.,4
+MULDER,FBI. Come....,2
+SCULLY,Mulder!,1
+MULDER,I’m all right! Go get her!,6
+SCULLY,Stop! FBI!,2
+SCULLY,"FBI! Stop, or I’ll shoot!",5
+SCULLY,Thank you.,2
+MULDER,Home sweet home.,3
+MULDER,"Are you ""Invisigoth?""",3
+ESTHER,How did you find me?,5
+MULDER,Donald Gelman’s mailbox. You left a return address.,8
+ESTHER,You know where Donald is?,5
+SCULLY,Why don’t you let us ask the questions.,8
+ESTHER,Why don’t you bite me.,5
+MULDER,Hey!,1
+SCULLY,Like what you’re doing here and what all this stuff is.,11
+ESTHER,And why would I tell you even if you could understand?,11
+SCULLY,"You just committed felony assault on a federal agent, followed by resisting arrest.",13
+ESTHER,"Arrest for what? Unless you got a warrant, you two just busted in here and seriously violated a buttload of my constitutional rights.",23
+MULDER,We had just cause to come in.,7
+ESTHER,Yeah? Now we’ve got just cause to get out.,9
+MULDER,What is that?,3
+ESTHER,It’s a surveillance module. It monitors computing processes.,8
+ESTHER,It’s locking up.,3
+SCULLY,What is?,2
+ESTHER,A DOD satellite .. Warbird grade orbital weapons platform. We’ve got to get out of here!,15
+SCULLY,A weapons platform?,3
+MULDER,Scully....,1
+ESTHER,You don’t understand! That thing has optical systems that can read headlines on a newspaper. .,15
+MULDER,Scully....,1
+ESTHER,It’s targeting us!,3
+SCULLY,You want us to believe that the Department of Defense wants to kill you?,14
+ESTHER,"No, it’s controlling their satellite!",5
+SCULLY,You’re out of your mind.,5
+MULDER,"Scully, we’ve got to get out of here right now.",10
+SCULLY,"Mulder, this is absurd!",4
+MULDER,It’s locked. Give me the keys.,6
+SCULLY,Mulder!,1
+ESTHER,We’re all gonna die!,4
+MULDER,Give me the keys!,4
+MULDER,"Get in the car, Scully!",5
+SCULLY,No more screwing around. We need a name. Your real name.,11
+ESTHER,Invisigoth. You want my address? It’s T - O - A - S - T.,11
+MULDER,"When you said ""it"" was targeting us back there, you meant an artificial intelligence. Donald Gelman was trying to create a sentient AI. A program with its own consciousness. He succeeded, didn’t he?",33
+ESTHER,Donald wrote an interlocked sequence of viruses 15 years ago. It got loose on the net.,16
+MULDER,"Wait, what do you mean, ""got loose?""",7
+ESTHER,He let it loose... so it could evolve in its natural environment. Urschleim in silicon.,15
+SCULLY,"""Urschleim in silicon?""",3
+ESTHER,"The primordial slime? The ooze out of which all life evolved. Except this time it’s artificial slime - artificial life. One man alone achieving the equivalent of Copernicus, Magellan, and Darwin.",30
+SCULLY,And what was your role in all this? Were you the bass player?,13
+MULDER,nan,1
+ESTHER,"Automata Theory, MIT 95. Post doc the Santa Fe Institute. Head hunted to Kobayashi my junior year. Then Donald showed up in Tokyo and made me a better offer.",29
+SCULLY,A better offer to do what?,6
+ESTHER,You wouldn’t understand.,3
+SCULLY,Jeez...,1
+SCULLY,You believe this load of crap?,6
+MULDER,"You saw what happened back there, Scully. You saw that container blow.",12
+SCULLY,"She could have rigged an explosive charge. There are no weapons platforms, there is no such Department of Defense satellite.",20
+MULDER,What about Star Wars? Brilliant Pebbles?,6
+SCULLY,"They were never built! We don’t even have that kind of technology. I mean, even if an artificial intelligence was targeting us, with an armed satellite, why isn’t it doing it right now?",33
+ESTHER,"Because it doesn’t know where we are. If I so much as made a phone call right now, it would nuke us right where we’re standing.",26
+SCULLY,How?,1
+ESTHER,"Recognizes my voice, monitors all communication. I haven’t used a phone in over a month.",15
+MULDER,Then how did it know to target the container?,9
+ESTHER,All I can think is that some idiot got on Donald’s computer and tried to contact me over the net. Only Donald knew where I was. And David.,28
+MULDER,Who’s David?,2
+ESTHER,"David Markham. He was hardware. Donald and I were software. We’d been caring for the AI, weaning it. Then Donald warned us that the system started to display more than consciousness. It started to display intention. But before we could stop it, it was gone.",45
+MULDER,Where?,1
+ESTHER,"I don’t know. One day David was on the system and it wouldn’t come, it wouldn’t come when we called it. We knew it was out there somewhere on the Global Net, but it wouldn’t answer, and Donald was just getting sicker.",42
+MULDER,And you can’t find it?,5
+ESTHER,"Well, it’s not a program any more. It’s wildlife loose on the net. And either we kill it....Where’s Donald?",19
+MULDER,Donald Gelman is dead. He was killed in a café. What looks like a hit.,15
+ESTHER,"That’s the AI protecting itself. It’ll find David and.... me. It’s only a matter of time. Donald was writing a concatenation of viruses designed to find and immobilize the rogue system. The file name was ""Kill Switch."" Without it, nobody can catch it.",43
+MULDER,We have Donald’s computer.,4
+ESTHER,"No, he’d never leave it on the hard drive.",9
+MULDER,"Well, we have this. ""Twilight Time.""",6
+ESTHER,That’s it. That’s the Kill Switch.,6
+SCULLY,nan,1
+BYERS,Ai -yi -yi,3
+FROHIKE,It can’t be... it is.,5
+LANGLY,"Esther Nairn. You programmed the autonomous bots in Ninjitsu Princess, the most gnarliest piece of entertainment software ever.",18
+ESTHER,Are these the brain donors that nearly got us incinerated?,10
+MULDER,Don’t let their looks fool you.,6
+SCULLY,Your name is Esther Nairn?,5
+FROHIKE,She is so hot.,4
+ESTHER,"Are you going to take off the cuffs, or do I have to do this with my tongue?",18
+MULDER,You don’t want to take a vote.,7
+ESTHER,Give me the Kill Switch.,5
+SCULLY,"Aren’t you worried it’s going to track you, Esther? Hunt you down with another particle beam?",16
+ESTHER,Not unless someone else makes another boneheaded internet connection.,9
+MULDER,What is this?,3
+ESTHER,"That’s the sharp end of the stick. Donald probably tried to feed this sector in over the net, but it took too long, so the system was able to take counter-measures.",31
+SCULLY,"Why didn’t it just zap him, too?",7
+ESTHER,"Its creator? No, it needed to impress Donald. Particle beam would’ve been overkill.",13
+SCULLY,Unlike a dozen crack dealers.,5
+ESTHER,"No, you see that’s its sense of humor.",8
+MULDER,"Oh, all right. But if you load the Kill Switch, what’s to stop it from playing another funny joke on us?",21
+ESTHER,"Well, obviously we can’t inject Kill Switch over the Net. feed it the poisoned apple.",15
+MULDER,Physically?,1
+ESTHER,"Right into its eager little CD drive. It knew it couldn’t hide over the Net forever, not until it learned to completely disguise itself. It requires a physical nexus of hardware so somewhere its built itself a little safehouse. David went looking for it.",44
+MULDER,Did he find it?,4
+ESTHER,There’s no way to know.,5
+SCULLY,"Why don’t you just call him. Oh, right – death from above.",12
+LANGLY,It would need bandwidth.,4
+ESTHER,It’s a pig for bandwith.,5
+BYERS,"It would need a T3, at least.",7
+SCULLY,T3?,1
+FROHIKE,A hard line – 45 megs a second.,8
+BYERS,Major research labs and internet service providers use them.,9
+LANGLY,But the government keeps those records secret for fear of sabotage.,11
+ESTHER,"Gee, you guys know anyone that works for the government?",10
+ESTHER,"Shh. Buenos dias, muchacha.",4
+MULDER,Scully?,1
+SCULLY,Yep.,1
+MULDER,"Yeah, I’ve found something down in Fairfax County. A derelict chicken farm with a T3 connection, paid for by Aleph Industries, Palo Alto, of which there’s no other record anywhere.",30
+SCULLY,Dandy.,1
+MULDER,Where are you? Sounds like you’re driving.,7
+SCULLY,"You are correct, sir.",4
+MULDER,You have Esther with you?,5
+SCULLY,In a manner of speaking.,5
+ESTHER,Left up here. Give me that.,6
+MULDER,Where are you going?,4
+ESTHER,To find David.,3
+MULDER,Where? MULDER Scully? Scully?,4
+ESTHER,Go ahead! Put me out of my misery! Take it!,10
+MULDER,FBI! I’m a federal agent.!,5
+NAME,Fox Mulder,2
+BADGE NUMBER,JTTO 47101111,2
+HEIGHT,6 ft,2
+WEIGHT,170 lbs.,2
+HAIR,Brown,1
+EYES,Green,1
+DATE OF BIRTH,"13 October, 1961",3
+TELEPHONE,555-2355,1
+MARITAL STATUS,Unmarried FBI Career History 1983-1986 Oxford University 1986 Quantico Academy 1988 Assigned to the Violent Crimes Unit 1990-PRESENT Assigned to the X-Files Education-Oxford University AB in Psychology Graduating summa cum laude in 1982 Quantico FBI training Academy 1984 Graduating with honors.),41
+ESTHER,"I lied to you. I wasn’t working with Donald. I mean, I was, and then he found out about us.",20
+SCULLY,About you and who.,4
+ESTHER,David. About our plans.,4
+SCULLY,What plans did he find out?,6
+ESTHER,"Uploading. Transfer of memory, of consciousness to the distributed system maintained by the AI. Imagine being mingled so completely with another, you no longer need your physical self – you’re one.",31
+SCULLY,So you were going to –,6
+ESTHER,Enter the AI. Give up our inefficient bodies so that our consciousness could live together forever.,16
+SCULLY,But Donald Gelman forbade it.,5
+ESTHER,He was afraid of his creation. He was afraid of what would happen if other people followed us. I loved him so much.,23
+SCULLY,"Well, maybe he wasn’t here when this happened. Maybe he’s somewhere else.",12
+MULDER,David Markham.,2
+MULDER,What’s going on?,3
+EMT,"Severe tissue injuries to upper extremities. We’ve got ourselves a real crispy critter, here.",14
+EMT 2,Alert the burn unit. Tell them to scramble the surgical team.,11
+EMT,Unit 23 – request Burn Unit.,6
+EMT 2,He’s coming up on us.,5
+EMT,"Surgical team, stat.",3
+MULDER,"What’s that smell? Oh, jeez...",5
+EMT,Easy now.,2
+EMT 2,Just relax.,2
+EMT,120 BP 130 over 80,5
+EMT 2,"Frank charring at contact site, along path of current, and at exit point. Looks like the charge grounded through both arms. We’ve got a lot of work to do, here, people, if we’re going to save him.",37
+MULDER,Is it bad?,3
+NURSE NANCY,You’re in good hands.,4
+MULDER,My arms hurt.,3
+EMT,That’s a good sign,4
+MULDER,"No, wait.... Call my doctor. You have to call... my doctor. Call Dr. Scully. Please call Dr. Scully.",18
+MULDER,"Call her. No, no. No... what are you doing?",9
+VERY OLD SURGEON,Prep the patient.,3
+MULDER,No. No.,2
+MULDER,No-no-no-no! Ahhhhh!,2
+SCULLY,I can’t get through to Mulder.,6
+ESTHER,It’s the AI. Its had time to analyze my voice. It knows I was using your phone.,17
+SCULLY,It can interfere with my phone?,6
+ESTHER,"Give it enough information, it’ll sue you for palimony.",9
+SCULLY,Wait a minute. Mulder said that he found the system. In an abandoned chicken farm in Fairfax county.,18
+ESTHER,"Well, maybe we can cut off the T3 and kill its communication capabilities.",13
+SCULLY,You can do that?,4
+ESTHER,There’s only one way to find out.,7
+MULDER,I feel sick.,3
+NURSE NANCY,"That’s the anesthetic, Agent Mulder. You were injured and they had to operate.",13
+MULDER,"I remember... wires, and uh...",5
+NURSE NANCY,"Yes, you were doing something dangerous. Something very, very foolish. The good news is they were able to save the right one.",22
+MULDER,What do you mean?,4
+MULDER,"Oh, my God. What did you do with my arm? What did they do with my arm?",17
+NURSE NANCY,Shh.... or they’ll come back.,5
+MULDER,They’ll come back for what?,5
+NURSE NANCY,"They’re evil, Fox. They want something from you.",8
+MULDER,What do they want?!,4
+NURSE NANCY,"I don‘t know. But if you don’t tell them, I’m afraid they’ll take your other arm.",16
+MULDER,"This is crazy! You have to help me. You have to get me out of here... please! Help me. Help me. Please, help me.",24
+NURSE NANCY,Shh... or they’ll hear you. Shhh....,6
+ESTHER,Something’s wrong. I didn’t do anything. I didn’t even get on the Net! I think it found us. It’s zeroing in.,21
+SCULLY,Esther... Get away from the tanker truck!,7
+SCULLY,"Sir? You need to get out of the truck. Move it! It’s going to explode. Dump it, Esther! Get rid of it!",22
+ESTHER,It’s got the Kill Switch.,5
+SCULLY,"Esther! Dump it! Esther! Get rid of it! Get rid of it , Esther!",13
+MULDER,"Oh, I had this terrible dream. And then I had a good dream.",13
+NURSE NANCY,"Those weren’t dreams, Fox. I believe that’s enough for now. You poor thing. But I warned you. Nurse Nancy warned you. You have to tell them, Fox. You have to.",30
+MULDER,Tell them what?,3
+NURSE NANCY,About the Kill Switch.,4
+MULDER,Nobody asked me anything.,4
+NURSE NANCY,"You’ve just forgotten, Fox.",4
+MULDER,No.,1
+NURSE NANCY,"I was there. The doctor asked and he was very cross when you refused to answer. But he’ll be here in just a few minutes, and you can tell him then.",31
+MULDER,I...,1
+NURSE NANCY,"Otherwise, whoops! There go your legs.",6
+SCULLY,"Mulder, these women are spies!",5
+MULDER,Scully!,1
+SCULLY,"Mulder, they want the Kill Switch virus. What did you tell her?",12
+MULDER,I didn’t tell them anything!,5
+SCULLY,I need to know!,4
+MULDER,Look...,1
+SCULLY,Do we have it? Do we have the Kill Switch?,10
+MULDER,Of course we do.,4
+MULDER,"Scully? Scully? Scully, help! Help! Help!! Sculleeee!!!",7
+ESTHER,"Here, kitty, kitty, kitty, kitty, kitty, kitty.",7
+MULDER,Scully...,1
+SCULLY,"Mulder?! Mulder, are you all right?",6
+MULDER,I’m in here. Scully...,4
+SCULLY,"Mulder? Mulder. Mulder, can you hear me? Mulder?",8
+SCULLY,"Mulder? Help me out here, Esther. What’s its next move? What is it thinking?",14
+ESTHER,I don’t know.,3
+SCULLY,Who built this?,3
+ESTHER,"It did. There. Ah! David! Oh, god.",7
+SCULLY,"Mulder? Mulder? Mulder, can you hear me? Mulder, talk to me.",11
+ESTHER,It wants the Kill Switch.,5
+SCULLY,"Well, we don’t have it. You threw it in the water with the computer.",14
+SCULLY,"That’s going to kill it, right?",6
+ESTHER,Not if it can learn the program and vaccinate itself against it.,12
+SCULLY,"Give it what it wants, Esther. Put it in, Esther.",10
+ESTHER,It’s targeting us.,3
+SCULLY,Put it in!,3
+PLATTERS,HEAVENLY SHADES OF NIGHT ARE FALLING IT’S TWILIGHT TIME,9
+SCULLY,You’re going to be okay. I’m going to get you out of here.,13
+PLATTERS,"OUT OF THE MIST YOUR VOICE IS CALLING IT’S TWILIGHT TIME. WHEN PURPLE COLORED CURTAINS MARK THE END OF DAY I’LL HEAR YOU, MY DEAR AT TWILIGHT TIME",28
+SCULLY,Okay. It’s okay.,3
+PLATTERS,DEEPING SHADOWS GATHER SPLENDOR AS DAY IS DONE FINGERS OF NIGHT WILL SOON SURRENDER THE SETTING SUN I COUNT THE MOMENTS DARLING TIL YOU’RE HERE WITH ME TOGETHER AT LAST AT TWILIGHT TIME,33
+SCULLY,"What are you doing, Esther?",5
+ESTHER,Get out of here.,4
+SCULLY,What are you doing?,4
+ESTHER,Go!,1
+PLATTERS,HERE IN THE AFTERGLOW OF DAY WE KEEP OUR RENDEZVOUS BENEATH THE BLUE HERE IN THE SAME AND SWEET OLD WAY,21
+PLATTERS,I FALL IN LOVE AGAIN AS I DID THEN,9
+SCULLY,Esther?!,1
+ESTHER,"You don’t listen, do you?",5
+SCULLY,Where are you?,3
+ESTHER,"Get out of here, now!",5
+PLATTERS,DEEP IN THE DARK YOUR KISS WILL THRILL ME LIKE DAYS OF OLD LIGHTING THE SPARK OF LOVE THAT FILLS ME WITH DREAMS UNTOLD.,24
+ESTHER,Upload.,1
+PLATTERS,"EACH DAY I PRAY FOR EVENING JUST TO BE WITH YOU TOGETHER, AT LAST AT TWILIGHT TIME TOGETHER, AT LAST AT TWILIGHT TIME",23
+SCULLY,"Well, if Esther wanted to leave her body, she got her wish. At least that part of it.",18
+MULDER,I wonder.,2
+SCULLY,"Mulder, she’s dead.",3
+MULDER,"What if she managed to establish an uplink, Scully? A satellite transmission?",12
+SCULLY,"Mulder, are you telling me that Esther may have... that she may not be dead?",15
+MULDER,"Artificial life. It could exist. It could be here among us, evolving.",12
+SCULLY,"Electrons chasing each other through a circuit --- that isn’t life, Mulder.",11
+MULDER,"Yeah, but what are we but impulses? Electrical and chemical through a bag of meat and bones. You’re the scientist. You tell me.",23
+ONLOOKER,"You did it now, Harley!",5
+HARLEY,You get it.,3
+OTHER PLAYER,Uh unh.,2
+FEMALE ONLOOKER,They’ll get you if you go in there!,8
+HARLEY,Mama says no one lives in there.,7

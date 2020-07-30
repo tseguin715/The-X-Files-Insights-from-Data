@@ -1,0 +1,254 @@
+speaker,line,words
+SHERIFF,Looks like nobody's home.,4
+LANDLORD,"Oh, he's here. He knows the minute he steps out I'm changing the locks on him.",16
+SHERIFF,"He's an old guy, huh? I don't much enjoy evicting old folks.",12
+LANDLORD,This particular one will change your way of thinking.,9
+SHERIFF,"Mr. Skur? It's the sheriff. Will you open up, please?",10
+SHERIFF,Go ahead and open it up.,6
+LANDLORD,Ugh! God almighty! What the hell's he got in here?,10
+SHERIFF,Smells like a whole lot of something went bad. Mr. Skur? I'm armed. You're going to want to come out now.,21
+LANDLORD,The bedroom's back that way.,5
+SHERIFF,Mr. Skur?,2
+SHERIFF,What is it?,3
+SHERIFF,"Ain't nothing but a glove. No reason to... oh, my god!",11
+SKUR,Mulder...,1
+MULDER,Arthur Dales?,2
+DALES,Who's asking?,2
+MULDER,"I'm a-a profiler with the behavioral sciences unit. You are Arthur Dales, former special agent with the Bureau? I need to ask you some questions about a man named Edward Skur. You opened a-a file on him in 1952.",39
+DALES,I don't recall.,3
+MULDER,I-I brought the case file here with me.,8
+DALES,How long have you been in the bureau? Do you know what an X file is?,16
+MULDER,"It's, uh... it's an unsolved case.",6
+DALES,No. it's a case that's been designated unsolved.,8
+MULDER,"Mr. Dales, most of your report has been censored... as you can see. Now, if somebody's trying to bury this case. I'd like to know why. According to your report, Edward Skur disappeared 38 years ago, before you had a chance to arrest him for a series of stranger killings in which the victims' internal organs had all been removed.",60
+DALES,And now you've found him?,5
+MULDER,Yes. last week. Shot to death by a sheriff serving an eviction notice. A man was also found in his bathroom with all his soft tissue removed.,27
+DALES,"Well, if he's dead there's nothing you need from me.",10
+MULDER,"Sir, sir, m-my name is Mulder. You know that name... and so did Edward Skur. How?",16
+DALES,"Have you ever heard of HUAC, Agent Mulder--the House Un-American Activities Committee? No, no, no, it was before your time. You wouldn't know. They hunted communists in America in the '40s and '50s. They found... practically nothing. Do you think they would have found nothing unless nothing... was what they wanted to find? Hmm?",54
+MULDER,"Uh... I'm sorry, sir. I-I, uh... I don't, I don't see the connection.",13
+DALES,Maybe you're not supposed to.,5
+TV ANNOUNCER,"The nation's chief red hunters, senator Joseph McCarthy and FBI Director J. Edgar Hoover, join forces. Working through congress, the senator from Wisconsin and the legendary lawman, vow to wipe out the red menace within our own federal government. Roy Cohn, chief counsel at the McCarthy hearings, warns communist mind control can strike anywhere, at any time. It is those Americans sympathetic to the communist cause-- the so-called ""fellow travelers""--who pose the greatest threat to our national security. ""…Gissing … Edward Skur or Terrill Oberman"" MULDER looks at old card for the Communist Party bearing SKUR’s name, address, Leesburg VA, 11-5-47, signed by ""W. Schneidermann."" RING shot #3.)",108
+TV ANNOUNCER,"So says the young U.S. attorney--and he should know. It was Mr. Cohn that brought those atomic spies, the Rosenbergs, to justice. It was his staunch defense of the American way of life, that first brought Roy Cohn to the attention of senator McCarthy. With the support of the FBI, Mr. Cohn and Mr. McCarthy vow to work tirelessly to root out the more than 70 suspected communist spies, and the untold numbers of fellow travelers working in our own state department.",82
+TV ANNOUNCER,...tirelessly to root out the more than 70 suspected communist spies and the untold numbers of fellow travelers working in our own state...,23
+TV ANNOUNCER,...and the untold numbers of fellow travelers working in our own state...,12
+MULDER,Dad.,1
+MULDER,"Good morning, Mr. Dales. I brought you some coffee.",9
+DALES,Speak.,1
+MULDER,Edward Skur died saying a name--my name. My father's name.,10
+DALES,Go ask your father.,4
+MULDER,My father and I don't really speak.,7
+DALES,I told you I can't help you.,7
+MULDER,"Mr. Dales, I want the truth, and I will subpoena you to get it, if I have to.",18
+DALES,"Before his disappearance, Skur worked for the state department, just like your old man did. You had to have suspected the connection before you came here yesterday, but you said nothing.",31
+MULDER,The man that Edward Skur killed 38 years ago--was my father involved?,12
+MULDER,How?,1
+DALES,"Skur killed this man the way he did all the others. All the soft tissue, internal organs, ligature--all were removed... without tearing the skin.",24
+MULDER,The coroner wasn't able to determine how.,7
+DALES,"Oh, I can tell you... how. What I can't tell you... is why.",13
+MULDER,"You said in your report that uh, Skur was suspected of being a communist?",14
+DALES,"Well, that's what they said he was. That's what they said they all were.",14
+DALES,"To us, Skur was just another name on a list, another commie spy at the state department. We had no idea who--or what-- Edward Skur really was.",27
+MRS SKUR,May I help you?,4
+DALES,"My name's Arthur Dales, ma'am. I'm with the Federal Bureau of Investigation. This is my partner, Agent Michel. Is your husband in?",22
+MRS SKUR,What do you want with him?,6
+SKUR,"Supper's getting cold, sweetheart. I'll take care of this. It's all right.",12
+DALES,Edward Skur?,2
+SKUR,Yes.,1
+MICHEL,You're under arrest for contempt of Congress--failure to appear before the committee.,12
+SKUR,"I'm a family man, for God's sake!",7
+MICHEL,"You should have thought of that before you decided to betray your country, Red.",14
+MRS SKUR,Edward?,1
+DALES,Let's go.,2
+MICHEL,Look what I found.,4
+SKUR,You planted that.,3
+MICHEL,"I'll plant one in your keister, Bolshevik, you don't watch your mouth.",12
+DALES,I'm sorry. I...,3
+MRS SKUR,Get out.,2
+BARTENDER,"Geez, Louise, what did you do--take a swim in the Potomac?",11
+DALES,I'd probably be drier if I had. Got something to warm me up?,13
+BARTENDER,Where's your partner?,3
+DALES,He's processing a prisoner.,4
+BARTENDER,"You guys, uh, still busting reds?",6
+DALES,Till Mr. Hoover tells us different.,6
+BARTENDER,"Good for you, Mr. Dales.",5
+BARTENDER,Yeah? Mr. Dales? For you.,5
+DALES,Yeah?,1
+MICHEL,You try to reach me?,5
+DALES,"No, why?",2
+MICHEL,I thought maybe you heard about Skur.,7
+DALES,What about him?,3
+MICHEL,He's dead. He hung himself in his cell. The guards found him about 20 minutes ago. You figure commie central command tells these mopes to snuff themselves in the event of capture?,32
+DALES,I got to go.,4
+BARTENDER,Everything okay?,2
+DALES,"Oh, nothing a little bourbon won't cure.",7
+1990 DALES,"I didn't know what I should say to her. ""I'm sorry about your loss, Mrs. Skur. If there's anything I can do..."" The words sounded hollow. No matter what I said, I was the man who'd busted her husband--turned her life upside down. I sat there for over an hour trying to find my courage in a bottle. And then, and then I saw someone I shouldn't—I-I couldn't--have seen. Now it was my life that would be turned upside down.",80
+DALES,Edward Skur!,2
+NEIGHBOR MAN,Hey! who's down there?!,4
+1950’S TV,"Dateline, Washington--the Justice Department vows no mercy for A-bomb spies. Julius and Ethel Rosenberg once again manage to delay their date with the electric chair. Prosecutors say they are confident Judge Kaufman's death sentence will be upheld by the highest court in the land.",44
+1990 DALES,"The world still seemed clear to me that morning. Despite what I'd seen the night before, I still thought I knew who the bad guys and the good guys were. But that was all about to change.",37
+MICHEL,Hang up.,2
+DALES,Let me call you back.,5
+MICHEL,What did the watch commander say?,6
+DALES,They're going door-to-door in the neighborhood. There's no sign of him yet.,12
+MICHEL,"They're not going to find him, Artie. Open it up.",10
+DALES,Skur...,1
+MICHEL,Maybe you want to change your description of the suspect who assaulted you.,13
+DALES,When were these taken?,4
+MICHEL,Last night. Two hours before you say Skur attacked you. You had a few. You were feeling bad about what happened. It's understandable.,23
+DALES,I... I didn't have that much to drink.,8
+MICHEL,Just leave Skur's name out of your report. Nobody else has to know.,13
+DALES,I already filed my report. An hour ago.,8
+MAN,Dales. Call for you.,4
+DALES,Yes. I'll be right there. it's the Justice Department. They want to talk to me.,15
+COHN,"Agent Dales, have a seat. You know who I am?",10
+DALES,"You prosecuted the Rosenbergs. Now you're working with Mr. Hoover and, uh, Senator McCarthy.",14
+COHN,"Then you know how important my work is--how vital it is to the future of this country that these rats, these vermin, who dare call themselves Americans be exposed as the traitors they are.",34
+DALES,"I don't interest myself in politics, Mr. Cohn.",8
+COHN,"Everything is political, Agent Dales. Like this report you filed this morning. We've spoken to Mrs. Skur and the neighbors. You seem to be the only person who can identify that man as Edward Skur.",35
+DALES,"Do you believe me, then?",5
+COHN,We are fighting a powerful enemy in a war of ideology. In any war there are secrets--truths that must be kept from the public in order to serve the greater good.,31
+DALES,You want me to amend my report? Take out any reference to Edward Skur? I don't understand...,17
+COHN,You're not supposed to understand. You're supposed to follow orders.,10
+BAHNSEN,Agent Dales?,2
+DALES,Yeah.,1
+BAHNSEN,I pulled that file.,4
+DALES,"Oh, right. Thank you.",4
+MICHEL,Dales.,1
+1990 DALES,"I'd never so much as faked an expense report or used a Bureau car to drive home, so lying didn't sit well with me, even if I was under orders. I wanted to leave behind the business of Edward Skur and never hear that name again. But it was too late. By then, Skur had already become a murderer.",59
+MICHEL,Homicide call came in from Chevy Chase PD. Advise and assist.,11
+DALES,"Well, where are they?",4
+MICHEL,Must have come and gone.,5
+DALES,I know this song. They were playing it the day my unit rolled into Berlin.,15
+MICHEL,The guy must be a Kraut.,6
+DALES,Yeah. Well-connected Kraut.,3
+MICHEL,There you go. I got six ounces of German shrapnel in my can and this Kraut got to shake hands with the president?,23
+DALES,What's that? You smell that?,5
+MICHEL,"Yeah. Kinda. Hospital smell. Formaldehyde, maybe?",6
+MICHEL,Well-connected dead Kraut.,3
+DALES,What the hell happened to him?,6
+OFFICER 1,Hands in the air! Over there! Come on! Now!,9
+DALES,"Whoa, fellas, FBI.",3
+MICHEL,"Credentials in my front coat pocket. Hey, easy on the material. I'm Agent Michel. This is my partner, Agent Dales.",20
+OFFICER 1,Who called you guys out here?,6
+MICHEL,"You did, you mope. We got the call from your department.",11
+OFFICER 2,We don't know nothing about that.,6
+MICHEL,Then who brought you guys out here?,7
+OFFICER 1,One of his nurses called in. Said the doc didn't show up for surgery this morning.,16
+MICHEL,Something tells me he ain't going to make it.,9
+1990 DALES,": I was summoned to the bar by a man who'd already been to the doctor's house that morning. It was the man, Agent Mulder, you came here to ask me about.",31
+DALES,Skur?,1
+BILL MULDER,No. But I came here to warn you about him.,10
+DALES,Like you warned that doctor you murdered in Chevy Chase?,10
+BILL MULDER,"I tried to save that man, but I was too late.",11
+DALES,Skur killed him?,3
+BILL MULDER,"He'll kill you, too.",4
+MICHEL,: Myrtle?,1
+DALES,"What are you talking about? what is this, some kind of communist plot?",13
+BILL MULDER,Skur's not a communist. He's a patriot. All of these men are patriots.,13
+DALES,What are you talking about? What men?,7
+BILL MULDER,"There were three men--veterans--working at the State Department. Skur, Gissing and Oberman.",12
+DALES,Gissing and Oberman. I read those names on a censored report.,11
+BILL MULDER,They're dead now.,3
+DALES,Murdered?,1
+BILL MULDER,No. Dead by their own hand. They couldn't live with what they'd become--what they'd been turned into--and Skur's the last.,20
+DALES,Why did they put out that story about him hanging himself?,11
+BILL MULDER,Because they had to do something to cover up what they'd done to him. Label him a communist--say he killed himself and put him up someplace where no one's going to look for him. But his escape threatens everything.,39
+DALES,Threatens what? What did they do to him? Look... you asked me here.,13
+BILL MULDER,And I risked my career and my family by coming here. But the crimes these men have committed against innocent people... I can't have that on my conscience anymore. Someone needs to know the truth.,35
+DALES,Who are you?,3
+BILL MULDER,My name is Mulder. I work at the State Department.,10
+MICHEL,"Mmm... attaboy, tail gunner. Give 'em hell. Ah, Myrtle. Dumb cat. Damn it! Damn it, Myrtle!",16
+DALES,"All right, then, Mr. Mulder. Who is this ""they"" you want me to arrest?",14
+BILL MULDER,You can't arrest these men.,5
+DALES,Why not?,2
+BILL MULDER,It's... political.,2
+DALES,"What are you telling me? Are you telling me that Mr. Cohn and Senator McCarthy are involved in this? Is Skur after them, too?",24
+BILL MULDER,Skur wants vengeance for what those men did to him. He's a killer now. He can only guess at the dimensions of this conspiracy. But he thinks you're part of it. You and your partner.,35
+DALES,Your phone.,2
+BARTENDER,What's the number?,3
+DALES,Klondike 5-0133.,2
+MICHEL,I knew I should have got a dog.,8
+DALES,Come on. Come on.,4
+CORONER,"Are you, um... are you sure a man did this? Uh, I suppose, um, he could have force-fed him a... corrosive agent of some kind, an acid maybe...except I-I don't know why it wouldn't have, uh, burned to the skin.",40
+DALES,That account for the smell?,5
+CORONER,"Maybe. We won't know for sure until we get a toxology report. Hopefully, we'll have an answer for you in six to eight weeks. Meanwhile, we can, uh, at least start on a physical exam of the body... Such as it is.",42
+COHN,"Agent Dales... Hey, hey, where do you think you're taking that? This man's a veteran. The body goes to Bethesda. Howard, take care of this.",25
+DALES,"Mr. Cohn, these men are going to the county morgue. An autopsy needs to be performed.",16
+COHN,"Come here. Give us a minute. You wanna to test me--see how fast I can pull the chain and flush you. You want to see your name on a list? Are you now, or have you ever been...?",38
+DALES,What are you talking about? I'm no communist.,8
+COHN,"You are, if I say you are. This is a matter of national security. Take this body out of here. Get it out. See? You're a patriot again.",28
+DALES,"When your partner dies, a piece of you dies with him. I'd been threatened by Mr. Cohn, but I couldn't leave it alone... Not while Michel's killer was still out there... Not if I wanted to live with myself. I knew Skur had killed Michel out of vengeance for what had been done to him--your father had told me as much--but your father also said there were two other men who'd had the same thing done to them... Men who were already dead. Finding out what happened to them, at least might help me understand what Skur had become... understand how my partner was killed.",105
+DALES,What is this?,3
+BAHNSEN,The deposition that names Edward Skur and these other two men as communists.,13
+DALES,It's all censored.,3
+BAHNSEN,"By the committee, to protect the identity of the witness.",10
+DALES,"There was no witness. This whole thing's been manufactured. Edward Skur is no communist. Neither are these other two men, Gissing and Oberman. I wanna see their files, Gissing and Oberman.",31
+BAHNSEN,I already checked. They're missing but I recognize one of these names. It's in an X-file.,16
+DALES,"An ""X-file""?",2
+BAHNSEN,"Yes, unsolved cases. I file them under ""x.""",8
+DALES,"Why don't you file them under ""u"" for ""unsolved""?",9
+BAHNSEN,"That's what I did until I ran out of room. Plenty of room in the ""X""s.",16
+DALES,"Who decides when a case gets an ""X""?",8
+BAHNSEN,"The director's office. It's, uh... it's kind of a dead end. No one's supposed to see them, but it makes for interesting reading. Here it is. A German emigre, Dr. Strohman patriated here after the war. He was found dead in his office last week at the VA.",48
+DALES,"Let me guess. They weren't able to explain how. His body just kind of collapsed, right?",16
+BAHNSEN,Yes.,1
+DALES,"Gissing? His name's in this file, somewhere?",7
+BAHNSEN,Yes. He was a patient. Found dead on the scene. Suicide. I guess he didn't much care for his treatment.,20
+DALES,They think he killed his doctor and then killed himself? How did Gissing kill this man?,16
+BAHNSEN,That's why it's an X-file. They don't know.,8
+CORONER,You're lucky Gissing's body's still here. The VA's been trying to have it transferred.,14
+DALES,Why haven't they?,3
+CORONER,"Well, this fella's a bigwig in the State Department. His family's been kicking up a stink.",16
+DALES,What is this?,3
+CORONER,"Well, looks like he had some surgery. Judging by the color of the scar, I'd say it was fairly recent.",20
+DALES,I want you to cut this man open.,8
+CORONER,"No, I-I can't do that. His family will have my head.",11
+DALES,Gissing and a man named Skur were patients of the same doctors. I think whatever was done to this man was also done to the man who killed my partner. It may be the only way we have to explain how he died.,43
+DALES,What's that? What is that?,5
+CORONER,"I don't know. It, uh... looks like it's lodged into his esophagus. Wait a minute. Those are sutures. Whatever this is, someone put it there. Oh, geez. Whoa.",28
+CORONER,"Oh... Oh, my god.",4
+DALES,"Mrs. Skur, I hope I'm not disturbing you.",8
+MRS SKUR,You have a lot of nerve coming here.,8
+DALES,Your husband... You know he's not dead.,7
+MRS SKUR,How dare you?,3
+DALES,"Your husband was discredited in order to cover up a crime. Mrs. Skur--a crime that was committed upon him, against his will.",22
+MRS SKUR,"Whatever was done to my husband, you're part of it.",10
+DALES,"According to VA Records, your husband underwent surgery for war injuries. So did two other men that he worked with at the state department, but the surgeries that they received... It wasn't what they thought it was. It had nothing to do with their war injuries.",46
+MRS SKUR,Then what was it?,4
+DALES,"It's called xenotransplantation. It's, uh, the grafting of another species into the human body. It's a procedure that nazi doctors experimented with during the war, and I believe that they continued their work here, using your husband and these other two men as unwitting test subjects. I want to expose what was done to your husband, Mrs. Skur. I can't do that unless I have his help.",67
+COHN,Get in. Just get in.,5
+MRS SKUR,"Ed? Oh, god. Are you all right?",7
+SKUR,I told you not to come down here.,8
+MRS SKUR,That FBI Agent came back.,5
+SKUR,I'm getting worse.,3
+MRS SKUR,He says he wants to help you.,7
+SKUR,It's too late to help me. I can't help myself anymore.,11
+COHN,You sit there.,3
+HOOVER,Leave us alone.,3
+COHN,Mr. Director...,2
+HOOVER,"Leave us. In 1945, at the time of the first conference to map out the peace, after the second world war, there lived within the Soviet orbit 180 million people. Lined up on the anti-totalitarian side at that time were one billion, 625 million people. Today, Mr. Dales, just seven years later, there are 800 million people under the absolute domination of Soviet Russia--an increase of over 400 percent. On our side the figure has shrunk to around 500 million. In other words... in less than seven years the odds have changed from nine to one in our favor, to eight to five against us. The threat of global communist domination is a reality that can be ignored only at the risk of our own annihilation.",126
+DALES,The men we arrested weren't communists.,6
+HOOVER,"If we are to defeat the enemy, we must use their tools. We must go further. We must do those things which even our enemies would be ashamed to do. It is only through strength that we can make our enemies fear us, and thereby ensure our own survival. You have one chance, Mr. Dales, to save yourself--to demonstrate that you have the strength to serve your country.",68
+BILL MULDER,Make your meeting with Skur. Let him think you're alone. Put him at ease. We'll be in when the time is right.,22
+DALES,"Is this why you came to see me, Mr. Mulder? Make me your stalking horse?",15
+BILL MULDER,I follow my orders.,4
+DALES,I might need that.,4
+BILL MULDER,We want him alive.,4
+DALES,Here you go.,3
+BARTENDER,I turned the lights off out front. Just pull the door shut when you go.,15
+DALES,Thanks for your help.,4
+BARTENDER,Anything to help out the Bureau.,6
+SKUR,Did you come here to kill me or save me?,10
+DALES,"I'm here to help you, just like I told your wife.",11
+SKUR,"My wife is dead. I'm dead, too, inside, because of this thing they put in me. For what? To turn me into some kind of killing machine, or just to see what would happen? They're not coming, you know. They wanted me to kill you, or you wouldn't be here. You're part of their test now, too.",57
+DALES,I don't want to kill you.,6
+SKUR,I know.,2
+MULDER,I can't believe my father threw in with these men. He let them dictate his conscience.,16
+DALES,"Oh, don't fool yourself. None of us are free to choose. I was ruined for my insubordination. You keep digging through the...The X-files and they'll bury you, too.",28
+MULDER,Skur died saying my father's name. Why?,7
+DALES,I haven't the faintest idea.,5
+MULDER,"Well, there was, um... there was one thing you didn't explain. It was, uh... how Skur was able to get away... how he was able to live in obscurity for the last 38 years.",34
+DALES,"38 years? My God. Well, I kept hearing things through the years, you know. Uh, people tell me things. I heard that he was dead-- that he'd been kept in some secret lab while they finished up the, uh, experiment. I even thought that maybe... maybe some poor innocent bastard--somebody with a conscience--might have let him go.",57
+MULDER,Why would anyone do that? Why let a killer go free?,11
+DALES,"In the hope that by letting him live, the truth of the crimes that were committed against him and the others might someday... be exposed.",25

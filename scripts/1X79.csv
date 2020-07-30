@@ -1,0 +1,304 @@
+speaker,line,words
+JOHN TRUITT,"I put the time of death between eight and twelve hours ago. No visible cause, no sign of battery or sexual assault. All we have is this.",27
+MILES,Can we turn her over? Karen Swenson.,7
+ASSISTANT CORONER,Is that a positive ID?,5
+DETECTIVE MILES,She went to school with my son.,7
+JOHN TRUITT,"Would that be the class of '89, detective? It's happening again isn't it?",13
+SCULLY,Agent Dana Scully.,3
+SCOTT BLEVINS,"Come in. Agent Scully, thank you for coming on such short notice. Please... We see you've been with us just over two years.",23
+SCULLY,"Yes, sir.",2
+SCOTT BLEVINS,You went to medical school but you chose not to practice. How'd you come to work for the F.B.I.?,19
+SCULLY,"Well, sir, I was recruited out of medical school. Um, my parents still think it was an act of rebellion, but, uh... I saw the F.B.I. as a place where I could distinguish myself.",34
+THIRD MAN,Are you familiar with an agent named Fox Mulder?,9
+SCULLY,"Yes, I am.",3
+THIRD MAN,How so?,2
+SCULLY,"By reputation. He's an Oxford educated Psychologist, who wrote a monograph on serial killers and the occult, that helped to catch Monty Props in 1988. Generally thought of as the best analyst in the violent crimes section. He had a nickname at the academy... Spooky Mulder.",46
+SCOTT BLEVINS,"What I'll also tell you is that Agent Mulder has developed a consuming devotion to an unassigned project outside the bureau mainstream. Are you familiar with the so-called ""X-Files?""",29
+SCULLY,I believe they have to do with unexplained phenomena.,9
+SCOTT BLEVINS,"More or less. The reason you're here, Agent Scully, is we want you to assist Mulder on these X-Files. You will write field reports on your activites, along with your observations on the validity of the work.",37
+SCULLY,"Am I to understand that you want me to debunk the X-Files project, sir?",14
+SCOTT BLEVINS,"Agent Scully, we trust you'll make the proper scientific analysis. You'll want to contact Agent Mulder shortly. We look forward to seeing your reports.",24
+MULDER,"Sorry, nobody down here but the FBI's most unwanted.",9
+SCULLY,"Agent Mulder. I'm Dana Scully, I've been assigned to work with you.",12
+MULDER,"Oh, isn't it nice to be suddenly so highly regarded? So, who did you tick off to get stuck with this detail, Scully?",23
+SCULLY,"Actually, I'm looking forward to working with you. I've heard a lot about you.",14
+MULDER,"Oh, really? I was under the impression... that you were sent to spy on me.",15
+SCULLY,"If you have any doubt about my qualifications or credentials, th...",11
+MULDER,"You're a medical doctor, you teach at the academy. You did your undergraduate degree in physics. ""Einstein's Twin Paradox, A New Interpretation. Dana Scully Senior Thesis."" Now that's a credential, rewriting Einstein.",32
+SCULLY,Did you bother to read it?,6
+MULDER,"I did. I liked it. It's just that in most of my work, the laws of physics rarely seems to apply. Maybe I can get your medical opinion on this, though. Oregon female, age twenty-one, no explainable cause of death. Autopsy shows nothing. Zip. There are, however, these two distinct marks on her lower back. Doctor Scully, can you ID these marks?",62
+SCULLY,"Needle punctures, maybe. An animal bite. Electrocution of some kind.",10
+MULDER,How's your chemistry? This is the substance found in the surrounding tissue.,12
+SCULLY,"It's organic. I don't know, is it some kind of synthetic protein?",12
+MULDER,"Beats me, I've never seen it before either. But here it is again in Sturgis, South Dakota. And again in Shamrock, Texas.",22
+SCULLY,Do you have a theory?,5
+MULDER,"I have plenty of theories. Maybe what you can explain to me is why it's bureau policy to label these cases as ""unexplained phenomenon"" and ignore them. Do you believe in the existence of extraterrestrials?",35
+SCULLY,"Logically, I would have to say ""no."" Given the distances needed to travel from the far reaches of space, the energy requirements would exceed a spacecraft's capabilties th...",28
+MULDER,"Coventional wisdom. You know this Oregon female? She's the fourth person in her graduating class to die under mysterious circumstances. Now, when convention and science offer us no answers, might we not finally turn to the fantastic as a plausibility?",40
+SCULLY,"The girl obviously died of something. If it was natural causes, it's plausible that there was something missed in the post-mortem. If she was murdered, it's plausible there was a sloppy investigation. What I find fantastic is any notion that there are answers beyond the realm of science. The answers are there. You just have to know where to look.",60
+MULDER,"That's why they put the ""I"" in ""F.B.I."" See you tomorrow morning, Scully, bright and early. We leave for the very plausible state of Oregon at eight A.M.",28
+PILOT,"I would like to ask all passengers to fasten their seatbelts, as we're about to make our descent...",18
+MULDER,This must be the place.,5
+SCULLY,"You didn't mention yesterday, this case has already been investigated.",10
+MULDER,"Yeah, the FBI got involved after the first three deaths when local authorities failed to turn up any evidence. Our boys came out here, spent a week, enjoyed the local salmon which, with a little lemon twist, is just to die for, if you'll pardon the expression. Without explanation, they were called back in. The case was reclassified and buried in the X-Files, till I dug it up last week.",70
+SCULLY,And you found something they didn't.,6
+MULDER,Mmm.,1
+SCULLY,"The autopsy reports of the first three victims, show no unidentified marks or tissue samples. But those reports were signed by a different medical examiner than the latest victim.",29
+MULDER,"That's pretty good, Scully.",4
+SCULLY,Better than you expected or better that you hoped?,9
+MULDER,Well... I'll let you know when we get past the easy part.,12
+SCULLY,Is the medical examiner a suspect?,6
+MULDER,"We won't know that until we do a little gravedigging. I've arranged to exhume one of the other victims' bodies to see if we can get a tissue sample to match the girl's. You're not squeamish about that kind of thing, are ya?",43
+SCULLY,I don't know. I've never had the pleasure. What's going on?,11
+MULDER,"Oh, you know... probably nothing.",5
+JOHN TRUITT,"Mister Mulder, John Truitt, County Coroner's Office.",7
+MULDER,"Yeah, hi. This is Agent Scully.",6
+SCULLY,Hi.,1
+MULDER,How soon can we get started?,6
+SCULLY,Hello.,1
+JOHN TRUITT,We're ready to go.,4
+MULDER,Oh great.,2
+JOHN TRUITT,"Okay, Vinnie!",2
+MULDER,"Were you able to arrange for a, uh... an examination facility?",11
+JOHN TRUITT,I think we got something for you...,7
+JAY NEMMAN,Excuse me!,2
+MULDER,Ah...,1
+JAY NEMMAN,"Excuse me! No. Please stay in the car... let me handle this. I just want to talk to them. I just don't know who you people think you are. You just think you can come up here, and do whatever you damn well please, don't you?",46
+MULDER,"I'm sorry, you are...",4
+JAY NEMMAN,I'm Doctor Jay Nemman. I'm county medical examiner.,8
+MULDER,"Surely, you must have been informed of our intentions to come up here.",13
+JAY NEMMAN,"No, uh, no. We've been away.",6
+MULDER,"Oh, oh. Well, that answers the question that we had. Why you hadn't done the recent autopsy on Karen Swenson. You're aware of the tissue sample that was taken from the girl's body.",33
+JAY NEMMAN,Wha... wha... what is the insinuation here? Are you saying that I missed something in those other kids' exams?,19
+SCULLY,"We're not insinuating anything, sir.",5
+JAY NEMMAN,"Wait a minute. Wait a minute, see, well I think you are. And if you're making an accusation, then you'd better have something to back it up.",27
+THERESA NEMMAN,"Daddy, please, let's just go home. Let's go home, please.",10
+MULDER,Guy obviously needed a longer vacation.,6
+SCULLY,"Ray Soames was the third victim. After graduating high school, he spent time in a state mental hospital treated for post-adolescent schizophrenia.",22
+MULDER,Soames actually confessed to the first two murders. He pleaded to be locked up but he couldn't produce any evidence that he committed the crimes. Did you happen to read the cause of death?,34
+SCULLY,Exposure. His body was found in the woods after escaping the hospital.,12
+MULDER,"Missing for only seven hours in July. How does a twenty-year-old boy die of exposure on a warm summers night in Oregon, Doctor Scully?",24
+WORKER,I got it. Look out!,5
+JOHN TRUITT,This isn't official procedure.,4
+MULDER,"Really? It's probably a safe bet Ray Soames never made the varsity basketball team. Seal this up, right now! Nobody sees or touches this. Nobody!",25
+MULDER,"This is amazing, Scully. You know what this could mean? It's almost too big to even comprehend.",17
+SCULLY,"Subject is a hundred and fifty-six centimeters in length, weighing fifty-two pounds in extremis. Corpse is in advance stages of decay and desiccation. Distinguishing features include large ocular cavities, oblate cranium... indicates subject is not human. Could you point that flash away from me, please?",45
+MULDER,"If it's not human, what is it?",7
+SCULLY,"It's mammalian. My guess is it's a chimpanzee or something from the ape family, possibly an orangutan.",17
+MULDER,Buried in the city cemetery in Ray Soames' grave? Try telling that to the good townsfolk or to Ray Soames' family. I want tissue samples and x-rays. I'd like blood type and toxicology and a full genetic work-up.,38
+SCULLY,You're serious?,2
+MULDER,"What we can't do here, we'll order to go.",9
+SCULLY,You don't honestly believe this is some kind of an extraterrestrial? This is somebody's sick joke.,16
+MULDER,"We can do those x-rays here, can't we? Is there any reason we can't do them right now? I'm not crazy, Scully. I have the same doubts you do.",29
+SCULLY ON TAPE RECORDER,"Official laboratory inspection of the body and x-ray analysis confirms homologous but possibly mutated mammalian physiology. However, does not account for small unidentified object found in subject's nasal cavity. A grey metallic implant form...",34
+SCULLY,Who is it?,3
+MULDER,"Steven Spielberg. I'm way too wired. I'm going for a run, you want to come?",15
+SCULLY,Pass.,1
+MULDER,You figure out what that little thing up Ray Soames' nose is yet?,13
+SCULLY,No... And I'm not losing any sleep over it. Good night.,11
+GLASS,"Ray Soames was a patient of mine, yes. I oversaw his treatment for just over a year for clinical schizophrenia. Ray had an inability to grasp reality. He seemed to suffer from some kind of post-traumatic stress.",37
+MULDER,Is that something you've seen before?,6
+GLASS,I've treated similar cases.,4
+SCULLY,Were any of those Ray Soames' classmates?,7
+GLASS,Yes.,1
+MULDER,We're trying to find a connection in these deaths. Did you treat any of these kids with hypnosis?,18
+GLASS,"No, I did not.",4
+SCULLY,Are you treating any of these kids now?,8
+GLASS,"Currently? Yes, I'm treating Billy Miles and Peggy O'Dell. Both have been long term live-in patients.",16
+SCULLY,They're here at this hospital?,5
+GLASS,"That's right, going on four years now.",7
+SCULLY,Would it be possible for us to talk to them?,10
+GLASS,"Well, you might find it difficult. Certainly, in Billy Miles' case.",11
+GLASS,"Billy's experiencing what we call a waking coma. Functionally, his brainwaves are flat and he's persistent vegetative.",17
+SCULLY,How did it happen?,4
+GLASS,Both he and Peggy were involved in an automobile accident out on State road. Peggy?,15
+PEGGY O'DELL,"""...aerial..."" Peggy, we have some visitors, would you like to talk with them for a moment?",16
+PEGGY O'DELL,"Billy wants me to read now. ""It's not sand, it's dark...""",11
+MULDER,Does he like it when you read to him?,9
+PEGGY O'DELL,Yes. Billy needs me close.,5
+MULDER,Doctor. I'm wondering if we can do a cursory medical exam on Peggy.,13
+NURSE,"Peggy? Oh, Peggy, what are you doing?",7
+GLASS,Get an orderly.,3
+MULDER,No one is going to hurt you!,7
+GLASS,"This is an emergency. Get an orderly, get an orderly. Nobody is going to hurt you. The nurse is here.",20
+NURSE,I'm ringing for the orderlies now.,6
+PEGGY O'DELL,Stop it! Stop!,3
+DR. GLASS,"All right, Peggy. All right. It's all right.",8
+NURSE,"Peggy, honey, you're going to be fine. You've had these nose bleedings before, now calm down. Don't worry...",18
+MULDER,"What's his name, er... Billy said he was sorry he didn't get to say goodbye.",15
+SCULLY,How did you know that girl was going to have the marks?,12
+MULDER,"I don't know, lucky guess?",5
+SCULLY,"Damn it, Mulder, cut the crap. What is going on here? What do you know about those marks? What are they?",21
+MULDER,Why? So you can put it down in your little report? I don't think you're ready for what I think.,20
+SCULLY,"I'm here to solve this case, Mulder, I want the truth.",11
+MULDER,The truth? I think those kids have been abducted.,9
+SCULLY,By who?,2
+MULDER,By what.,2
+SCULLY,You don't really believe that?,5
+MULDER,Do you have a better explanation?,6
+SCULLY,"I'll buy that girl is suffering some kind of pronounced psychosis. Whether it's organic or the result of those marks, I can't say. But to say that they've been riding around in flying saucers, it's crazy, Mulder, there is nothing to support that.",43
+MULDER,"Nothing scientific, you mean.",4
+SCULLY,"There has got to be an explaination. You've got four victims. All of them died in or near the woods. They found Karen Swenson's body in the forest in her pajamas, ten miles from her house. How did she get there? What were those kids doing out there in the forest?",51
+SCULLY,"Mulder? Mulder, is that you? Mulder? Special Agent Dana Scully, FBI, drop your weapon.",14
+MILES,I'm with the County Sheriff's Department. You're trespassing on private property here.,12
+SCULLY,We are conducting an investigation.,5
+MILES,"Get in your car and leave, both of you, or I'll have to arrest you. I don't care who you are.",21
+MULDER,Hold on! This is a crime scene.,7
+MILES,"Did you hear what I said? You are on private property without legal permission. Now, I'm only going to say it one more time, get in your car and leave.",30
+MULDER,What's he doing out here all by himself?,8
+SCULLY,Maybe it has something to do with this. What do you think it is?,14
+MULDER,I don't know. Is it a campfire?,7
+SCULLY,"It was all over the ground. I think something is going on out here, some kind of a sacrifice, maybe. What if these kids are involved in some kind of occult and that man knows something about it? I wanna come back here. again.) You okay, Mulder?",47
+MULDER,"Yeah, I'm just, er...",4
+SCULLY,What are you looking for? What happened?,7
+MULDER,"We lost power, brakes, steering, everything. We lost nine minutes.",10
+SCULLY,We lost what?,3
+MULDER,"Nine minutes. I looked at my watch just before the flash and it was nine-o-three. It just turned nine-thirteen. Look! Look! Oh-ho, yes! Abductees... people who have made UFO sightings, they've reported unexplained time loss.",35
+SCULLY,Come on.,2
+MULDER,Gone! Just like that.,4
+SCULLY,"No, what a minute. You're saying that, that time disappeared. Time can't just disappear, it's, it's, it's a universal invariant!",20
+MULDER,Not in this zipcode.,4
+SCULLY,Great.,1
+MULDER,Hi.,1
+SCULLY,I want you to look at something.,7
+MULDER,Come on in.,3
+SCULLY,"What are they? Mulder, what are they?",7
+MULDER,Mosquito bites.,2
+SCULLY,Are you sure?,3
+MULDER,Yeah. I got eaten up a lot myself out there. You okay?,12
+SCULLY,Yes.,1
+MULDER,You're shaking.,2
+SCULLY,I need to sit down.,5
+MULDER,"Take your time. I was twelve when it happened. My sister was eight. She just disappeared out of her bed one night. Just gone, vanished. No note, no phone calls, no evidence of anything.",34
+SCULLY,You never found her.,4
+MULDER,"Tore the family apart. No one would talk about it. There were no facts to confirm, nothing to offer any hope.",21
+SCULLY,What did you do?,4
+MULDER,"Eventually, I went off to school in England, I came back, got recruited by the bureau. Seems I had a natural aptitude for applying behavioural models to criminal cases. My success allowed me a certain freedom to pursue my own interests. And that's when I came across the X-Files.",49
+SCULLY,By accident?,2
+MULDER,"At first, it looked like a garbage dump for UFO sightings, alien abduction reports, the kind of stuff that most people laugh at as being ridiculous. But I was fascinated. I read all the cases I could get my hands on, hundreds of them. I read everything I could about paranormal phenomenon, about the occult and...",56
+SCULLY,What?,1
+MULDER,"There's classified government information I've being trying to access, but someone has been blocking my attempts to get at it.",20
+SCULLY,Who? I don't understand.,4
+MULDER,Someone at a higher level of power. The only reason I've been allowed to continue with my work is because I've made connections in congress.,25
+SCULLY,"And they're afraid of what? That, that you'll leak this information?",11
+MULDER,"You're a part of that agenda, you know that.",9
+SCULLY,"I'm not a part of any agenda. You've got to trust me. I'm here just like you, to solve this.",20
+MULDER,"I'm telling you this, Scully, because you need to know, because of what you've seen. In my research, I've worked very closely with a man named Dr. Heitz Werber and he's taken me through deep regression hypnosis. I've been able to go into my own repressed memories to the night my sister disappeared. I can recall a bright light outside and a presence in the room. I was paralyzed, unable to respond to my sister's calls for help. Listen to me, Scully, this thing exists.",85
+SCULLY,But how do you know...,5
+MULDER,"The government knows about it, and I got to know what they're protecting. Nothing else matters to me, and this is as close as I've ever gotten to it. Hello? What? Who is this? Who is thi... That was some woman... she just said Peggy O'Dell was dead.",48
+SCULLY,The girl in the wheelchair?,5
+MAN #1,"Yeah, I'll bring it over in a minute.",8
+MAN #2,"We're going to need a couple of more hours, Bob.",10
+MULDER,What happened?,2
+TRUCK DRIVER,She ran right out in front of me.,8
+DEPUTY,Who are you?,3
+MULDER,"She was running? On foot? Well, that's just...",8
+SCULLY,We need to ask you a few quest...,8
+MULDER,"Let's go, let's go. Someone trashed the autopsy bay in the lab and they stole the body, we're going back to the motel.",23
+SCULLY,What? They stole the corpse?,5
+MULDER,F.B.I.,1
+SCULLY,There goes my computer.,4
+MULDER,Damn it! The x-rays and pictures!,6
+FIREMAN,We need a couple of men out here!,8
+THERESA NEMMAN,My name is Theresa Nemman. You've got to protect me.,10
+MULDER,Come with us.,3
+THERESA NEMMAN,"This is the way it happens, I don't know how I get out there. I'll just find myself out in the woods.",22
+MULDER,How long has it been happening?,6
+THERESA NEMMAN,"Ever since the summer we graduated. It's happened to my friends too. That's why I need you to protect me. I'm scared I might... die like the others, like... Peggy did tonight.",32
+MULDER,"Your father's the medical examiner. You were the one on the phone, you told me Peggy O'Dell had been killed.",20
+SCULLY,"Theresa, your father knows about this, doesn't he? About what happened.",11
+THERESA NEMMAN,Yes. But he said never to tell anyone about any of it.,12
+MULDER,Why?,1
+THERESA NEMMAN,"He wants to protect me. He thinks he can protect me, but I don't think he can.",17
+MULDER,"Do you have the marks, Theresa?",6
+THERESA NEMMAN,"Yes. I'm going to die, aren't I? I'm gonna be next?",11
+SCULLY,"No, you're not going to die. Oh, God!",8
+JAY NEMMAN,"Let's go home, Theresa. Theresa, come on. Come on, honey.",10
+MULDER,I don't think she wants to leave.,7
+JAY NEMMAN,Come on... I don't care what you think! She's a sick girl.,12
+MILES,Your father wants to take you home. He'll get you all cleaned up.,13
+JAY NEMMAN,"I'm going to take you where you'll be safe, Theresa. Detective Miles and I won't let anything happen to you, I promise.",22
+MULDER,You're Billy Miles' father?,4
+DETECTIVE MILES,That's right. And you stay away from that boy.,9
+MULDER,"Eh, you gotta love this place. Everyday's like Halloween.",9
+SCULLY,They know Mulder. They know who's responsible for the murders.,10
+MULDER,They know something.,3
+SCULLY,Dr. Nemman's been hiding medical evidence from the beginning. He lied on the autopsy reports and now we find out about the detective. Who else would have reason to trash the lab and our rooms?,35
+MULDER,Why would they destroy evidence? What would they want with that corpse?,12
+SCULLY,"I don't know, I...",4
+MULDER,Makes you wonder what's in those other two graves.,9
+CEMETARY; 5,07,1
+MULDER,They're both empty.,3
+SCULLY,What is going on here?,5
+MULDER,I think I know who did it. I think I know who killed Karen Swenson.,15
+SCULLY,Who? The detective?,3
+MULDER,The detective's son. Billy Miles.,5
+SCULLY,"The boy in the hospital? The vegetable?! Billy Miles, a boy who's been in a coma for the last four years, got out here and dug up these graves?",29
+MULDER,"Peggy O'Dell was bound to a wheelchair but she ran in front of that truck. Look, I'm not making this up, it all fits the profile of alien abduction.",29
+SCULLY,This fits a profile?,4
+MULDER,"Yes. Peggy O'Dell was killed at around nine-o-clock, that's right around the time we lost nine minutes on the highway, I think that something happened in that nine minutes. I think that time, as we know it, stopped. And something took control over it. You think I'm crazy. What?",49
+SCULLY,Peggy O'Dell's watch stopped a couple of minutes after nine. I made a note of it when I saw the body.,21
+MULDER,"That's the reason the kids come to the forest, because the forest controls them and summons them there. And, and, and the marks are from, from some kind of test that's being done on them. And, and that may be causing some kind of genetic mutation which would explain the body that we dug up.",55
+SCULLY,And the force summoned Theresa Nemman's body into the woods tonight.,11
+MULDER,"Yes, but it was Billy Miles who took her there, summoned by some alien impulse. That's it! Come on, let's get out of here.",24
+SCULLY,Where are we going?,4
+MULDER,We're going to pay a visit to Billy Miles.,9
+NURSE,"Now, we could stand here until the second coming, waiting for Billy to get out of this bed. It ain't going to happen. He blinks and I know about it.",30
+MULDER,I guess you changed his bedpan last night.,8
+NURSE,"Hmm, nobody else here's gonna do it.",7
+MULDER,You noticed nothing unusual? Do you remember what you were doing last night around nine-o-clock?,15
+NURSE,"Mmm, probably watching TV, yeah.",5
+MULDER,Do you rememeber what you were watching?,7
+NURSE,"Um, let's see... you know I don't really remember what I watched. Miss? What is she looking for?",18
+SCULLY,"Mulder, take a look at this.",6
+MULDER,Do you know who was taking care of Peggy O'Dell last night?,12
+NURSE,"Not me, it's not my ward. Not my aisle of the produce section. I do have a job of my own to do... what is she doing now?",28
+MULDER,"Thank you for your time, ma'am.",6
+NURSE,Okay.,1
+MULDER,Good day.,2
+SCULLY,"That kid may have killed Peggy O'Dell, I don't believe this.",11
+MULDER,Scully...,1
+SCULLY,It's crazy! He was in the woods.,7
+MULDER,You're sure?,2
+SCULLY,This is the same stuff that I took a handful of in the forest.,14
+MULDER,"Okay, then maybe we should take it and run a lab test...",12
+SCULLY,We lost the original sample in the fire. What else could it be?,13
+MULDER,"All right, but I just want you to understand what it is you're saying.",14
+SCULLY,You said it yourself.,4
+MULDER,"Yeah, but you have to write it down in your report.",11
+SCULLY,You're right. We'll take another sample from the forest... and run a comparison before we do anything.,17
+SCULLY,The detective's here. What do you think?,7
+MILES,"You wouldn't listen to me. I told you to stay out of this. Hold it, hold it right there! You got no business out here.",25
+MULDER,There were screams...,3
+MILES,Down on the ground. Now!,5
+MULDER,You know it's Billy. You've known it all along.,9
+MILES,I said down on the ground.,6
+MULDER,How long are you gonna let it happen? He's gonna kill her!,12
+MILES,"Billy, no! Let her go! Leave her alone!",8
+BILLY MILES,Dad?,1
+MILES,"Billy. Oh, god.",3
+MULDER,Scully. Scully!,2
+SCULLY,"Mulder, what happened? There was a light.",7
+MULDER,It was incredible.,3
+HEITZ WERBER,"If you can hear me, raise your right hand. Tell me about the light, Billy. When did you first see the light?",22
+BILLY MILES,In the forest. We were all in the forest having a party. All my friends. We were celebrating.,18
+HEITZ WERBER,What were you celebrating?,4
+BILLY MILES,Graduation. And then the light came. It took me away to the testing place. They would tell me to gather the others so that they could do tests. They put something in my head... here. I would wait for their orders.,41
+HEITZ WERBER,"Billy, who gave the orders?",5
+BILLY MILES,The light. They said it would be okay. No one would know. But the test didn't work. They wanted everything destroyed. They said they were leaving. I'm afraid. I'm afraid they're coming back.,33
+HEITZ WERBER,"Don't be afraid Billy, we're gonna help.",7
+SCOTT BLEVINS,"All right, let's go.",4
+SCOTT BLEVINS,"What we've just witnessed, what we've read in your field reports... the scientific basis and credibility just seem wholly unsupportable, you're aware of that?",24
+SCULLY,"Yes, sir. My reports are personal and subjective. I don't think I've gone so far as to draw any conclusion about what I've seen.",24
+THIRD MAN,"Or haven't seen, as seems to be the case. This, uh... time loss... you did or did not experience it?",20
+SCULLY,"I can't substantiate it, no.",5
+SCOTT BLEVINS,"What exactly can you substantiate, Agent Scully? I see no evidence that justifies the legitimacy of these investigations.",18
+SCULLY,"There were, of course, crimes committed.",6
+SCOTT BLEVINS,"Yes, but how do you prosecute a case like this? With testimony given under hypnosis from a boy who claims that he was given orders from some alien force through an implant in his nose? You have no physical evidence.",40
+SCULLY,"This is the object described by Billy Miles as a communication device. I removed it from the exumed body. I kept it in my pocket, it was the only piece of evidence not destroyed in the fire. I ran a lab test on it, the material could not be identified.",50
+SCOTT BLEVINS,"Agent Mulder, what are his thoughts?",6
+SCULLY,Agent Mulder believes we are not alone.,7
+SCOTT BLEVINS,"Thank you, Agent Scully, that will be all.",8
+SCULLY,Hello?,1
+MULDER,"Scully? It's me, I haven't been able to sleep. I talked to the D.A.'s office in Raymon County, Oregon. There's no case file on Billy Miles. The paperwork we filed is gone. We need to talk, Scully.",37
+SCULLY,"Y, yes. Tomorrow.",3

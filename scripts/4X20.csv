@@ -1,0 +1,374 @@
+speaker,line,words
+NURSE,How ya doin' hon? Breathe deeply...just like that... there you go. You're doing great!,14
+AMANDA,Yeah. Real great.,3
+SECOND NURSE,Ma'am...ma'am I need your full name and Social Security number.,10
+AMANDA,Amanda Nelligan. 545250809.,3
+SECOND NURSE,And your insurance carrier?,4
+AMANDA,Atlantic Mutual.,2
+SECOND NURSE,Great. Now is there anyone we need to contact? The father of the baby?,14
+AMANDA,I'm not sure I can get a hold of him.,10
+SECOND NURSE,If you give me his name I can try.,9
+AMANDA,He's not from around here.,5
+SECOND NURSE,Is he from out of state?,6
+AMANDA,Another planet.,2
+NURSE,"All right, we're here now. Okay, hold on.",8
+DR ALTON PUGH,"One more push. There we go. We're going to set a speed record here. There's a cute face. Bulb syringe. This is like the Indy 500 here. Here it comes - the shoulder. Good. Okay Amanda, that'll do it..",38
+DR PUGH,Oh.,1
+OR NURSE,God.,1
+AMANDA,What? What is it?,4
+DR PUGH,It's okay. She's just fine. Perfectly healthy. No problem. Everything's going to be a-okay. You've got a healthy baby girl.,20
+DR PUGH,Good Lord... not another one.,5
+MULDER,"I admit the photo's a little over the top, but uh, what do you think Scully?",16
+SCULLY,"No, seriously.",2
+MULDER,Children born with vestigial tails don't interest you?,8
+SCULLY,"Caudal appendages. Fetuses have them. Their coccyx enlargens to contain the spinal fluid and then it shrinks as the child develops. Occasionally, it doesn't. It's extremely rare, but it has been known to happen.",34
+MULDER,"Five times within the last three months, all in a town with a population of less than 15,000 people? I'd say that's a little more than a statistical anomaly.",29
+SCULLY,"So would I. No, Mulder I think you're right, I think that something about this definitely warrants investigation. Only not by us. I'd say that it's a job for the local health department.",33
+MULDER,I called around. They're already investigating.,6
+SCULLY,"So uh, so what else about this interests you? Could it be Virginia Women Mate with Visitors from Space?"")... visitors from space?",22
+AMANDA,"The doctor said that my baby, she's gonna be fine. She's really healthy. Once she gets to be a few months old, it's just a matter of a snip.",29
+MULDER,That's good to hear.,4
+AMANDA,Yeah.,1
+SCULLY,"Did you experience any unusual complications during your pregnancy, Amanda? Did you undergo any kind of fertility treatment?",18
+AMANDA,No. I wasn't trying to get pregnant. I guess you could just sort of say I'm a single mom now.,20
+MULDER,When you were admitted you said that the baby's father was from another planet. What did you mean by that exactly?,21
+AMANDA,"You know, that he's not from this planet.",8
+MULDER,Were you abducted?,3
+AMANDA,"Huh? No, no, he dropped by my apartment one day, and one thing sort of led to another..",18
+MULDER,But the baby's father is an alien?,7
+AMANDA,"No, no, I didn't say he was an alien, I said he was from another planet. His name is Luke Skywalker. He's what's known as a Jedi Knight.",28
+SCULLY,Did he have a light saber?,6
+AMANDA,"No, he didn't bring it. He did sing me a song for me though. Da dum da da da da dum...",21
+SCULLY,"How many times have you seen Star Wars, Amanda?",9
+AMANDA,Three hundred and sixty eight. I should break four hundred by Memorial Day.,13
+SCULLY,Okay. Thank you.,3
+AMANDA,"Oh wait a minute, wait. You know these four other babies that were born around here with tails?",18
+SCULLY,Uh huh.,2
+AMANDA,"There couldn't be any chance Luke's the father, is there?",10
+SCULLY,"Okay. All right, I got it. Thank you.",8
+MULDER,"Take your best shot, Scully, but I think there's more going on here than Luke Skywalker and his light saber.",20
+SCULLY,"I think you're right, Mulder. Coming?",6
+HEALTH DEPARTMENT DOCTOR,"Here are the PCR's we ran of the five children. We put calls into the parents. We'll blood test all the husbands hopefully by this afternoon, just to double check.",30
+SCULLY,Good.,1
+DOCTOR,"They'll be none too happy. I have to confess, this answer seems so strangely obvious, I probably wouldn't have even checked for it.",23
+MULDER,What answer?,2
+SCULLY,"You see here, these identical band trait matches all showing a small loss of a part of chromosome number eight? Each of these five children, born to five different women, all share the same father.",35
+MULDER,Yeah?,1
+SCULLY,I should have thought of it sooner. This kind of appended birth defect is often passed on within a family.,20
+MULDER,Meaning the father had a tail as well?,8
+SCULLY,Though he most likely had it surgically removed somewhere along the way.,12
+MULDER,How would this happen?,4
+SCULLY,"Birds and the bees and the monkey babies, Mulder.",9
+MULDER,"Birds do it, bees do it, even educated MD's do it. All five of these women shared the same OB-GYN, didn't they?",22
+SCULLY,"Well yeah, he's the only one in town.",8
+MULDER,"And four of the five women, the four married women not including Amanda Nelligan, were on record as receiving insemination therapy as a means of conception.",26
+SCULLY,So you're thinking that the doctor might have something to do with it.,13
+MULDER,So much for not putting all your eggs in one basket.,11
+FRED,"Baboo, look. Just let me handle it, okay?",8
+BABOO,"I think we should find the best lawyer we can because I definitely plan to sue. That's all I'm saying, Fred.",21
+FRED,"Baboo look, just let me do the talking. All right?",10
+BABOO,Okay. Just tell him we're going to sue.,8
+FRED,"Oh! You too, huh?",4
+FRED,What the hell did you do?,6
+BABOO,"Yeah, Alton!",2
+OTHER VOICES,Yeah! What did you do?,5
+DR ALTON,"I didn't do anything. Now folks, we're going to figure this out here, I promise. Look, everybody just relax.",19
+FRED,Don't you tell me to relax. What the hell happened to my sperm?,13
+MAN #2,Yeah mine too!,3
+WOMAN #2,Whose did you use?,4
+MAN #2,"It's bad enough having a boy with a tail and you find out it's not even yours! For God's sake Alton, how many of us are there?",27
+MULDER,"Uh, I'm Special Agent Mulder with the Federal Bureau of Investigation, and this is Agent Scully.",16
+FRED,Great! Arrest this son of a bitch.,7
+MAN #2,"Yeah, arrest this guy.",4
+SCULLY,"Settle down, nobody's going to be arrested.",7
+MULDER,"Yeah, we're just here to find out what's going on.",10
+FRED,Alton didn't use my sperm.,5
+DR ALTON,"I most certainly did. Each of you women was inseminated with your husband's own sperm, and nobody else's.",18
+MULDER,Why was it necessary to inseminate in these cases?,9
+DR ALTON,"It was a sperm motility issue. The intrauterine process that I used has about a 40% chance of success. I was surprised, it seemed to work all four times. Now the only thing I can think of is...",38
+MAN #3,What?,1
+DR ALTON,Maybe it never worked at all.,6
+BABOO,"What are you saying, Alton?",5
+FRED,Honey...,1
+BABOO,"No, I want to know what he means by that. I haven't been with a man since 1989, I mean not counting you.",23
+DR ALTON,"Look, I'm not accusing anyone of anything. I'm just saying this latest patient of mine who just gave birth to a baby with a tail, she didn't even undergo insemination. So you folks are blaming the wrong baby doctor!",39
+MULDER,Hey.,1
+EDDIE,Hey.,1
+MULDER,Excuse me. I'm an agent with the Federal Bureau of Investigation. I'd like to ask you a few questions.,19
+EDDIE,"Uh, yeah okay.",3
+MULDER,"Scully, check it out.",4
+WOMAN #2,Oh my God.,3
+WOMAN #3,It's him? He's the one?,5
+SCULLY,Five out of five.,4
+EDDIE,"They spelled my name wrong. It's Van Blundht with a silent ""H"". B-l-u-n-d-H-t.",13
+MULDER,"Oh, we'll get right on that.",6
+EDDIE,Lots of people spell it wrong. It's like Dutch or something. Can I go now?,15
+SCULLY,No. There's a few things we have to clear up first.,11
+MULDER,Yeah. Like how'd you do it?,6
+EDDIE,"What do you mean, how'd I do it?",8
+SCULLY,You're the father of five children Mr Van Blundht. Is that not news to you? Do you have any insight into how five women came to be inseminated with your sperm?,31
+EDDIE,You make it sound so romantic.,6
+MULDER,So you're saying there was romance involved?,7
+EDDIE,Why is that so hard to believe? Just cause I was born with a tail no woman would want me? Maybe I got...personality. Ever think of that?,27
+SCULLY,You had sex with these women? How is it that none of them have any recollection whatsoever of that happening?,20
+EDDIE,"Look, I'm not saying anything one way or another. I'm just saying hypothetically, if some women wanted to have kids, their husbands weren't...capable, and everybody was happy and no one got hurt, well hypothetically, where's the crime?",37
+MULDER,"Well, if you're waiting for my usual theory as to what's going on, I don't have one.",17
+SCULLY,"I do. On, uh, on behalf of all the women in the world, I seriously doubt this is anything to do with consensual sex. I think it involved some form of Rohypnol rape.",33
+MULDER,A tranquilizer? I didn't think of that.,7
+SCULLY,"It's been called the date rape drug. High doses of it cause a loosening of inhibitions, memory loss. Now if Van Blundht was somehow able to slip the drug to these women especially in conjunction with alcohol...",37
+MULDER,"Yeah, but when and where would he have had the opportunity to slip it to them?",16
+SCULLY,"Well he identified these women through his janitorial job at the medical park. He could have followed them anywhere, to a club, to a bar.",25
+MULDER,Those women don't look like the type that do a lot of solo drinking.,14
+SCULLY,I think it's enough to keep him in custody while we check it out.,14
+EDDIE,"Uh, you spelled my name wrong. It's B-l-u-n-d-H-t. Silent ""H"".",10
+DEPUTY,Address. I strongly suggest you stop eyeballing me and tell me your address.,13
+EDDIE,"Seventeen Prospect Parkway, Martinsburg, 25401.",5
+DEPUTY,"All right, Mr Van Blund-Ht. Give me your phone number.",10
+DEPUTY,What the hell?,3
+EDDIE AS DEPUTY,The H is silent.,4
+OFFICER,I could have sworn Curtis clocked out hours ago. He said good night to me and everything. This morning I find him shoved underneath the desk.,26
+SCULLY,"Deputy, are you sure you don't remember what happened last night?",11
+DEPUTY,The guy coldcocked me. Except he wasn't the guy. He was me. My head hurts.,15
+MULDER,I found Van Blundht's clothes in the locker room. He must have walked out of here wearing the deputy's spare uniform.,21
+SCULLY,After hitting him over the head.,6
+MULDER,I have a theory. Do you want to hear it?,10
+SCULLY,Van Blundht somehow physically transformed into his captor then walked out the door leaving no one the wiser?,18
+MULDER,"Hey Scully, should we be picking out china patterns or what?",11
+SCULLY,"Mulder, why can't you just go for the simple answer? With that blow to the head the deputy might just as well have identified McGruff the crime dog as his attacker.",31
+MULDER,What about what the sheriff saw?,6
+SCULLY,"Two men, roughly the same build, same coloring. The addition of a uniform goes a long way to explain how one person can mistake one man for another at 3 o'clock in the morning.",34
+MULDER,"Conversely my theory goes a long way to explaining how four married women could mistake Van Blundht for their husbands, and how Amanda Nelligan could think it was Luke Skywalker. We've both seen something like this before, Scully.",38
+SCULLY,"But what are you saying, that that Van Blundht is an alien?",12
+MULDER,Not unless they have trailer parks in space. This is something different.,12
+MULDER,"Hey Scully, if you could be somebody else for a day, who would it be?",15
+SCULLY,Hopefully myself.,2
+MULDER,"So boring! I mean, wouldn't you even be tempted to try out someone else's existence for a day, live your life as somebody else?",24
+SCULLY,"Looking like someone else, Mulder, and being someone else are completely different things.",13
+MULDER,"Well, maybe it's not, I mean everybody else around you would treat you like you were somebody else, and ultimately maybe it's other people's reactions to us that make us who we are.",33
+SCULLY,"All right, then. Eleanor Roosevelt.",5
+MULDER,It can't be a dead person.,6
+SCULLY,Why the hell not?,4
+MULDER,Because.,1
+EDDIE AS EDDIE SR,What are you doing sneaking around my porch?,8
+MULDER,We were uh...we're with the FBI. Is this the home of Edward Van Blundht?,14
+EDDIE AS EDDIE SR,"Yeah, that's me.",3
+MULDER,"We're looking for your son, Eddie junior.",7
+EDDIE AS EDDIE SR,Eddie? What did that moron do now?,7
+EDDIE AS EDDIE SR,"Five women? Oh, Lord. Anything else?",6
+SCULLY,"Yes. He, uh, attacked a sheriff's deputy during his escape from custody.",12
+EDDIE AS EDDIE SR,Hurt bad?,2
+SCULLY,Fortunately not.,2
+EDDIE AS EDDIE SR,"Well, thank heavens for that at least.",7
+SCULLY,"Sir, do you have any idea where your son might be?",11
+EDDIE AS EDDIE SR,I wish I did. I'm sorry. I haven't seen him for the last two days.,15
+MULDER,Is this...is this you?,4
+EDDIE AS EDDIE SR,"One and the same! Hey, you want to see?",9
+SCULLY,No! No. No thank you.,5
+EDDIE AS EDDIE SR,"My son had his removed when he was uh, just a kid. Kept bugging me and bugging me, till I finally let him do it. There you go.",28
+EDDIE AS EDDIE SR,"I told him it was a mistake. I said son, you ain't much to look at. You ain't no athlete, and you sure the hell ain't no Einstein. But at least you got that tail. Otherwise you're just small potatoes. But he didn't listen.",44
+MULDER,"Does your son have any other unique medical conditions, I mean, aside from the tail?",15
+EDDIE AS EDDIE SR,"Mr Mulder, that boy was born sickly. We used to have this condition down in the south called pellagra -",19
+MULDER,"Excuse me, sir, how did you know my name was Mulder?",11
+EDDIE AS EDDIE SR,She told me it was.,5
+SCULLY,"Uh no, actually I didn't.",5
+MULDER,It's him!,2
+MULDER,"Pretty spry for an old guy, huh?",7
+SCULLY,"Eddie junior, not senior.",4
+MULDER,"Well, whichever one he is, wouldn't you say he's a man with a secret?",14
+BABOO,"Honey, what are you doing here so early?",8
+BABOO,Fred?,1
+BABOO,"Honey? Fred, is everything okay?",5
+EDDIE,Everything's fine.,2
+BABOO,What happened to the clothes you were wearing this morning?,10
+EDDIE,I'll explain later. Just give me a little privacy okay? Uh... Baboo.,12
+BABOO,"Okay, Sugar Patootie.",3
+MULDER,I'll check upstairs.,3
+MULDER,I'm all right!,3
+SCULLY,What?,1
+MULDER,Ohhh. It's quicklime. Move back over there.,7
+MULDER,Not so spry. You think the fall killed him?,9
+FRED,Baboo! I'm home!,3
+EDDIE,Oh...crap.,1
+FRED,I'm home early. What?,4
+BABOO,You were just here. You went into the bathroom.,9
+FRED,What?,1
+FRED,Someone is in the bathroom!,5
+EDDIE AS MULDER,It's all clear.,3
+MULDER,So what killed Eddie the monkey man?,7
+SCULLY,"It's difficult to say. The quicklime burned the tissue even as it preserved it, so what killed him is one of two things I haven't figured out yet.",28
+MULDER,What's the other thing?,4
+SCULLY,That would be this. It's striated muscle tissue.,8
+MULDER,What's unusual about that?,4
+SCULLY,"In and of itself, nothing. Where I found it however -",10
+MULDER,Where did you find it?,5
+SCULLY,"Everywhere. His entire body. As far as I can tell, this man has a thin stratum of voluntary muscle tissue underpinning the entire dermal layer of his skin. That's not normal. This man's body is quite a scientific specimen, and thankfully it's preserved and intact.",45
+SCULLY,"In other words, there are six hundred and fifty four muscles in the human body, and this man essentially has six hundred and fifty five.",25
+MULDER,"Um, could that somehow be related to his uh, having a tail?",12
+SCULLY,Possibly. It could be a linked gene birth defect.,9
+MULDER,"What would be the, uh, purpose of, of this, uh...muscle?",10
+SCULLY,"You got me, Mulder. Maybe none. It appears to be atrophied, although it may look that way as a result of the mummification.",23
+MULDER,"Could this be a ""like father like son"" kind of a thing?",12
+SCULLY,What do you mean?,4
+MULDER,"Uh, could Eddie junior have, uh, the same anomalous muscular structure as his dad here?",15
+SCULLY,Maybe. What are you suggesting?,5
+MULDER,"Well, um, if this musculature underlies the entire skin, then maybe it could be utilized to remold the skin's shape and texture. Which would go a long way to explaining why we're looking for a man who can appear to be his own father, or anyone else for that matter.",50
+SCULLY,"Isn't it much more likely, Mulder, that this man simply has an identical twin?",14
+MULDER,Check that out.,3
+SCULLY,Where are you going?,4
+MULDER,Something about Van Blundht's MO confuses me. His victims were four married women who wanted to get pregnant...,18
+SCULLY,... and one single woman who didn't.,6
+AMANDA,Come in!,2
+EDDIE AS MULDER,"Sorry, Ms. Nelligan. I'm sorry to bother you.",8
+AMANDA,"No, no, it's no bother.",5
+EDDIE AS MULDER,"I just have uh, a few additional questions I wanted to ask you.",13
+AMANDA,Okay.,1
+NURSE,Here we go sweetie.,4
+AMANDA,Bye bye!,2
+NURSE,We'll just come back later.,5
+AMANDA,"You know, I thought they were letting me stay in the hospital so long because I have really, really great insurance. Turns out they're just keeping me here because they think I'm sort of crazy. They want to make sure I'm safe to be around my baby.",47
+EDDIE AS MULDER,Free cable. I want to ask you... do you recognize this man?,12
+AMANDA,Ohhh...yes...eww. That's Eddie Van Blundht.,5
+EDDIE AS MULDER,What can you tell me about him?,7
+AMANDA,"We went out all through high school. Oh, brother...",9
+EDDIE AS MULDER,What?,1
+AMANDA,"Nothing, he's just sort of a loser. He's one of those guys you look back on, you know, and oh my God, what was I thinking? WHAT was I thinking?",30
+EDDIE AS MULDER,"Well...what, uh, specifically made him a loser?",7
+AMANDA,"I don't know. Everything. He had like one million annoying personal habits. You know, just no sense of romance, no ambition, no direction. I mean, I hear he's like a janitor or something now. He had this weird family, his dad was in the circus or something. I don't know. He never let me meet him, thank God.",58
+EDDIE AS MULDER,He must have had some good qualities?,7
+AMANDA,"Well, yeah, sure, everybody's got a few. Yeah, we had some good times. We really loved Star Wars so we used to go and see it every weekend. That was nice. He was no Luke, that's for sure. Why do you want to know about Eddie?",46
+EDDIE AS MULDER,That's official FBI business.,4
+AMANDA,Wow!,1
+EDDIE AS MULDER,I wanted to congratulate you on this... blessed event.,9
+AMANDA,Thank you. May the force be with you!,8
+EDDIE AS MULDER,Uh-huh.,1
+MULDER,I'm here to see Amanda Nelligan?,6
+NURSE,"Straight down the hall, there.",5
+AMANDA,"Come in! No, seriously though, why do you want to know about Eddie?",13
+MULDER,What about Eddie?,3
+AMANDA,Why were you asking me all those questions about him?,10
+MULDER,Mulder.,1
+FRED,"Agent Mulder, this is Fred Nieman. Is it okay for us to get into our bathroom now?",17
+MULDER,"Excuse me, sir?",3
+FRED,"Well, I was hoping we could get into our bathroom sometime this evening. You said the police were going to come by and dust it for some fingerprints but that was over four hours ago.",35
+MULDER,Uh huh.,2
+FRED,"We want to help you catch this guy, but I gotta say I'm having a real hard time here. I mean, how exactly do you wind up chasing a suspect into my bathroom?",33
+BABOO,Don't forget the suit.,4
+FRED,And what do you need with my charcoal suit?,9
+MULDER,"I'm sorry Mr Nieman, I'm going to have to call you back. I was just here. Where did I go?",20
+AMANDA,Huh?,1
+MULDER,There was a man. He looked exactly like me. Did you see where he went?,15
+NURSE,Down the hall... men's locker room.,6
+MULDER,Thank you.,2
+MULDER,Hey.,1
+SECURITY GUARD,Hey.,1
+MULDER,Van Blundht...,2
+SECURITY GUARD,Who?,1
+MULDER,Think about it. Get your hands up. Turn around.,9
+MULDER,"Keep them up there. Put your hands down now. If it's not you, I apologize in advance.",17
+MAN,What are you doing?,4
+MULDER,Pull your pants up.,4
+DR PUGH,What? What did I do now?,6
+MULDER,You're the only ones here?,5
+SECURITY GUARD,Yeah.,1
+MULDER,"I apologize. Only one of you is the man I'm looking for. I hope. I gotta wait for some blood tests to come back and then I'll release the other one. So why don't you just sit back and relax? Keep your clothes on, huh?",45
+SCULLY,Scully.,1
+MULDER,"Yeah, hey, it's me. I think you should get down to the hospital right away, okay?",16
+SCULLY,I'm on my way.,4
+EDDIE,You're a damn good looking man.,6
+SECURITY GUARD,"I mean, you draw a gun on me. You handcuff me.",11
+EDDIE AS MULDER,I know what I did.,5
+SECURITY GUARD,I take issue with that.,5
+EDDIE AS MULDER,I'm sorry.,2
+SECURITY GUARD,I have a serious problem with that.,7
+EDDIE AS MULDER,I'm sorry.,2
+DR PUGH,I still don't understand. Do we look like criminals to you?,11
+EDDIE AS MULDER,"Look, I said I...",4
+SECURITY GUARD,Exactly. What the hell was on your mind?,8
+EDDIE AS MULDER,I said I was sorry.,5
+SCULLY,What's going on?,3
+EDDIE AS MULDER,Am I done here?,4
+COP,Yeah. We've got enough description. Come on guys.,8
+SCULLY,What the hell happened?,4
+EDDIE AS MULDER,Van Blundht surprised me. He cold cocked me and then he got away.,13
+SCULLY,You got a lead on him?,6
+EDDIE AS MULDER,"No, but the local authorites are already on the warpath for going after one of their own. They'll catch him eventually.",21
+SCULLY,So what? That's it for us?,6
+EDDIE AS MULDER,"I know I dragged you out here Scully, but I'm beginning to think this whole thing is just a waste of time.",22
+SCULLY,Now you think there's no X-File here?,7
+EDDIE AS MULDER,"No. No, I think the only thing here is uh... small potatoes.",12
+MULDER,Hello? Hellooo!! Get me out of here!,7
+MULDER,"Hello! Hello! I'm down here! Help! a sandwich, an apple and an opened can of Perk cola.)",17
+SKINNER,Which one of you wrote this?,6
+EDDIE AS MULDER,"I did, sir.",3
+SKINNER,You spelled Federal Bureau of Investigation wrong.,7
+EDDIE AS MULDER,It was a typo.,4
+SKINNER,"Twice. Agent Scully, what about the body you found. Did you establish a cause of death?",16
+SCULLY,"Yes, sir. The subject, Edward Van Blundht senior, died of natural causes... specifically heart disease and advanced age.",18
+EDDIE AS MULDER,We think the son hid the father in the attic so he could continue to cash in on the old man's social security checks.,24
+SCULLY,Most likely.,2
+SKINNER,So the son wasn't a murderer?,6
+EDDIE AS MULDER,"Oh no, not at all.",5
+SKINNER,But he was a rapist.,5
+SCULLY,I entered him into the national sex offenders database. The West Virginia state police have a photo and a description and they will coordinate with local authorities. There should be an arrest soon.,33
+EDDIE AS MULDER,That about wraps it up.,5
+EDDIE AS MULDER,"So Scully, what are you doing tonight? Any big plans?",10
+SCULLY,"Well, seeing as how it's Friday, I was thinking I could get some work in on that monograph I'm writing for the penology review.",24
+EDDIE AS MULDER,Oh.,1
+SCULLY,"""Diminished Acetylcholine Production in Recidivist Offenders"".",6
+EDDIE AS MULDER,Uh huh.,2
+SCULLY,Though actually I might bag that though.,7
+EDDIE AS MULDER,Really?,1
+SCULLY,"Yeah, I have to say, Mulder, the anomalous musculature in the corpse we found really has me intrigued. In fact, I think I'm gonna go to Quantico and have some tissue samples run. I'll see you Monday.",37
+EDDIE AS MULDER,Monday morning.,2
+EDDIE AS MULDER,Fox? Brother.,2
+EDDIE AS MULDER,Good night! This is where my tax dollars go? Where do I live?,13
+EDDIE AS MULDER,Where the hell do I sleep?,6
+LANGLY,"Mulder. Langly. You gotta see this. An online associate of ours, who will remain anonymous, has figured out a way to digitize the Zapruder footage so he can extrapolate a birds eye view of the Dealey plaza at the exact moment of the assassination. You'll never believe where the third shot came from.",53
+FROHIKE,Tell him about the cheese steaks.,6
+LANGLY,"Oh yeah! Frohike, Byers and me are going out for cheese steaks. Are you down with that? Uh, erase this when you hear it.",24
+EDDIE AS MULDER,Geeks for friends.,3
+CHANTAL,"Hello Marty? Chantal. It's been so long since we've spoken and I've been so lonely not hearing your sexy voice. Marty, just for you we've lowered our rates to 40 cents a minute, 2.99 for the first minute, all long distance rates apply. Do give me a call, lover-man. I'll be waiting.",52
+EDDIE AS MULDER,FBI. F-B-I... FBI.,3
+EDDIE AS MULDER,"You looking at me? There ain't nobody else here, you must be lookin' at me. You want a piece of this?",21
+EDDIE AS MULDER,You're a damn good looking man.,6
+SCULLY,"Mulder, what's up?",3
+EDDIE AS MULDER,Scully? Is this a bad time?,6
+SCULLY,No. No uh...come on in. Who's that for?,8
+EDDIE AS MULDER,Uh...us.,1
+SCULLY,Okay. Have a seat.,4
+EDDIE AS MULDER,So uh...what are you working on?,6
+SCULLY,"More autopsy data. You know, everyone at the lab found Mr Van Blundht pretty fascinating. We discovered an additional anomaly related to the hair follicles in his scalp. I can't even begin to guess at the nature of it until we can run it through the transmission electron microscope.",49
+EDDIE AS MULDER,Sounds very interesting.,3
+SCULLY,"Yes, it is. So seriously Mulder, what's going on? You okay?",11
+EDDIE AS MULDER,"Mm. I was just kind of knocking around, I was just thinking... Uh, good. We never really...uh...talk much...do we?",19
+SCULLY,"What do you mean like...really talk? No, no we don't, Mulder.",11
+EDDIE AS MULDER,Well what's stopping us?,4
+SCULLY,"So there we are at two o'clock in the morning, me and my moire taffeta dress and Marcus in whatever the hell it was he was wearing - thank you very much. It had a um... a kelly green cummerbund on it. Anyway, so, I know that Marcus is thinking that it's now or never, and I'm thinking...",57
+EDDIE AS MULDER,What are you thinking?,4
+SCULLY,"I'm thinking ""what is that siren I hear getting louder?""",10
+EDDIE AS MULDER,No way! Who called the cops?,6
+SCULLY,It wasn't the cops it was the fire department. My friend Sylvia and her idiot prom date...,17
+EDDIE AS MULDER,Berwood?,1
+SCULLY,"... had built this campfire that went totally out of control and so we all had to ride back on the um... what do you call it? The um, the pumper truck. Yeah. Marcus was the twelfth grade love of my life. I can't believe I'm telling you this!",48
+EDDIE AS MULDER,I don't believe you haven't told me before.,8
+SCULLY,"No, I'm seeing a whole new side of you, Mulder.",10
+EDDIE AS MULDER,Is that a good thing?,5
+SCULLY,I like it.,3
+EDDIE AS MULDER,Do you ever wish things were different?,7
+SCULLY,What do you mean?,4
+EDDIE AS MULDER,"The person you wanted to be when you grew up, when you were in high school. How far off from that did you end up?",25
+SCULLY,Career wise? Miles off target.,5
+EDDIE AS MULDER,"No, no, not just that. Do you ever wish...that you could go back and do it all differently?",18
+SCULLY,Do you?,2
+EDDIE,Thanks for coming.,3
+MULDER,What's with the hat?,4
+EDDIE,My court-appointed therapist makes me wear it. She says it's meant to bolster my self-esteem.,15
+MULDER,Does it?,2
+EDDIE,Not really. The other inmates just beat me up and take it from me. Which would be okay except that every week she brings me a new hat. Plus they keep me on some kind of muscle relaxant so I can't make faces the way I used to. Did you tell them to do that? Is uh... is Agent Scully here?,61
+MULDER,"What did you want to talk to me about, Eddie?",10
+EDDIE,"I just think it's funny. I was born a loser, but you're one by choice.",15
+MULDER,On what do you base that astute assessment?,8
+EDDIE,Experience. You should live a little. Treat yourself. God knows I would if I were you.,16
+GUARD,"Good day, sir.",3
+SCULLY,"I don't imagine you need to be told this Mulder, but you're not a loser.",15
+MULDER,"Yeah, but I'm no Eddie Van Blundht either. Am I?",10

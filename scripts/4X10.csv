@@ -1,0 +1,273 @@
+speaker,line,words
+WOMAN,"Auntie Janet? It’s time, Auntie Janet. He’s waiting. The two women go outside toward the minivan. They enter it. A man is inside.",23
+DOCTOR,We should hurry. We have papers to sign. Just tell me when.,12
+AUNTIE JANET,"Don’t you cry for me, dear. I’m tired of the pain. You’re my angel of mercy.",16
+WOMAN,Is she gone?,3
+DOCTOR,Something’s wrong here. .,3
+VASSILY PESKOW,?,0
+MESSENGER,Vassily Peskow?,2
+PESKOW,nan,1
+MESSENGER,nan,1
+PESKOW,nan,1
+MESSENGER,nan,1
+PRISONER,Prisoner? Hey Prisoner. . I thought maybe you were dead.,9
+MULDER,How long have I been lying here?,7
+PRISONER,Hours...I don’t know. The first time is bad.,8
+MULDER,They’ve done this to you?,5
+PRISONER,Yes. It becomes easier each time....until it kills you.,9
+MULDER,What did they do to me.,6
+PRISONER,You have been exposed to the Black Cancer.,8
+MULDER,Black Cancer?,2
+PRISONER,The cancer that lives in the rock.,7
+MULDER,Who are you?,3
+PRISONER,I was a geologist....quite well known actually...but now I am just a test subject.,14
+MULDER,You helped them find the rock?,6
+PRISONER,I was there when they brought up the first fragments. This was before the mining....before we knew what lived in Tunguska Rock...,22
+MULDER,How many men have dies here?,6
+PRISONER,Hundreds...maybe more...The search for a cure goes slowly.,8
+MULDER,Is that what they say the tests are for...to find a cure?,12
+PRISONER,"No...they tell us nothing...We are left to guess and imagine the reasons for out torture....But, what else could it be?",20
+MULDER,"What happened to the man who was in the cell with me, Krycek?",13
+PRISONER,He is most likely dining with the men responsible for our torture... I heard laughter when they left your cell.,20
+MULDER,I’m not going to die...,5
+PRISONER,Why not?,2
+MULDER,"I have to live long enough to kill that man, Krycek. Where did you get this?",16
+PRISONER,I made it...to kill myself....It took me two weeks- by then I had lost the desire.,16
+MULDER,You’d rather suffer the torture?,5
+PRISONER,It is wonderful- the persistence of life. That rock we found buried so deep in the Earth- that ANYTHING could survive down there goes beyond all reason...No. They will have to kill me themselves.,34
+SCULLY,We haven’t been able to give him anything but fluids for over forty-eight hours.,14
+PENDRELL,"Well, it doesn’t help that he’s in a restricted environment.",10
+SCULLY,"Well, if he has been infected by some kind of organism we risk contamination...Are you seeing anything?",17
+PENDRELL,The blood in the carotid artery looks slightly thickened...Possibly due to the decreased heart rate and blood pressure....Now what’s this? What the hell is this?,25
+SCULLY,What is it?,3
+PENDRELL,I don’t know...It looks like its concentrated around his pineal body...I think its alive.,14
+SCULLY,It looks like a nest....some type of black vermiform organism attached to the pineal gland.,15
+PESKOW,Apple?,1
+WOMAN 2,No. Thank you very much though. Peskow boards the bus. The destination sign changes from Richmond to Charlottesville.,18
+PESKOW,"Oh, pardon me.",3
+DR. CHARNE-SAYER,Who are you?,3
+PESKOW,"As a boy, my father had a farm....not horses like these. My name is Vassily Peskow.",16
+DR. CHARNE-SAYER,"Mr. Peskow...I’m sorry, but you don’t belong in here.",9
+PESKOW,"I am sorry, very sorry.",5
+DR. CHARNE-SAYER,You are going to have to leave here. I’m going to call you a cab.,15
+PESKOW,"But I have come here to see you, Dr. Charne-Sayre.",10
+DR. CHARNE-SAYRE,Do I know you?,4
+PESKOW,No...I don’t know how you could.,6
+SKINNER,Agent Scully?,2
+SCULLY,Sir...what are you...,3
+SKINNER,I’ve been trying to contact you for hours...The better part of the day.,13
+SCULLY,"I’m sorry sir, my cell phone was turned off.",9
+SKINNER,"You owe me some answers, Agent Scully. Answers I don’t have to the questions I’m being asked about this missing diplomatic pouch. The pouch presumably being carried by the man who was allegedly pushed off my balcony, and whose connection to a known felon I harbored in my house against all good sense, I’m going to have to explain to avoid perjuring myself before a Senate sub-committee tomorrow. Which, I might remind you, is a very serious crime in itself. Is it not, Agent Scully?",85
+SCULLY,"Yes Sir. Sir, if I might explain...the contents of that pouch...it contained some sort of a biohazardous organism that is, luckily, being contained in a contamination laboratory at NASA Goddard, where I’ve been all day trying to determine its exact nature.",41
+SKINNER,That pouch you intercepted. Do you know what its intended destination was?,12
+SCULLY,"No sir, I don’t.",4
+SKINNER,"Well, I do, Agent Scully, because I bent some rules this morning when I couldn’t find you. To find out who was to receive it.",25
+SCULLY,Who was it?,3
+SKINNER,Dr. Bonita Charne-Sayre. Are you familiar with that name?,9
+SCULLY,"Yes sir, I am...She’s a well-know physician....and a...a virologist who’s looked in on presidents. She’s also an authority on...on variola viruses.",21
+SKINNER,Variola?,1
+SCULLY,Smallpox....She’s been a vocal proponent of eliminating the last remaining stores of the Smallpox virus....destroying the only remaining vials in facilities here in Atlanta and the former Soviet Union.,29
+SKINNER,"Well, she was killed tonight.",5
+SCULLY,Killed?,1
+SKINNER,A horse stepped on her throat in a riding accident in Virginia.,12
+GUARD,nan,1
+MULDER,Where are we going?,4
+GUARD,nan,1
+PRISONER,Prisoner.....Is that your friend? You have but one chance.,9
+GUARD,nan,1
+MULDER,nan,1
+CSM,That’s a nasty habit...bad for the health.,7
+WELL-MANICURED MAN,Health is the least of my concerns at the moment.,10
+CSM,Yes. According to reports your....personal physician suffered a serious riding accident here on your property.,15
+WMM,Dr. Charne-Sayre was murdered.,4
+CSM,By whom?,2
+WMM,"If I knew, do you think I’d be standing here talking to you?",13
+CSM,Oh....you need me now...A man of my capabilities...is that it?,10
+WMM,This was a professional hit.,5
+CSM,And you out here all alone...so vulnerable...Were you sleeping with her? Surely you wouldn’t be so foolish as to put the project at risk for the sake of your personal pleasures.,31
+WMM,Find her killer!,3
+CSM,Call off this Congressional investigation.,5
+WMM,"I can’t. But, Senator Sorenson is an honorable man. They are all honorable...these Honorable men",15
+CSM,I heard Mulder was captured in Tunguska. I hear now he’s escaped. Wake the Russian Bear and it may find we’ve stolen its honey.,24
+GUARD 2,nan,1
+IN CHARGE GUY,nan,1
+KRYCEK,nan,1
+FIRST MAN,nan,1
+KRYCEK,nan,1
+FIRST MAN,nan,1
+KRYCEK,No... I’m sorry..Nyet-,3
+FIRST MAN,Then your enemy is mine. We can protect you.,9
+SCULLY,"I Dana Katherine Scully swear to tell the truth, the whole truth, and nothing but the truth, so help me so help me God. I would like to read from a prepared statement.",33
+MR. ROMINE,You may do so.,4
+SCULLY,"I left behind a career in medicine to become an FBI agent four years ago because I believed in this country. because I wanted to uphold its laws, to punish the guilty and to protect the innocent. I still believe in this country, but I believe that there are powerful men in this government who do not ....men who have no respect for the law, and who flout it with impunity.",71
+MR. ROMINE,Uh...Miss Scully...,2
+SCULLY,I have come to the conclusion....,6
+MR. ROMINE,Agent Scully.,2
+SCULLY,...that it is no longer possible...,6
+MR. ROMINE,This is not a soapbox Miss Scully. Your statement will be entered into the record.,15
+SCULLY,"With all due respect Mr. Chairman, I would like to finish.",11
+MR. ROMINE,This is NOT why we are here today.,8
+SCULLY,"Then why are we here, sir?",6
+SENATOR SORENSON,"Agent Scully, do you or do you not know the whereabouts of Agent Mulder? Are you, or are you not aware of Agent Mulder’s present location?",26
+SCULLY,"I respectfully refuse to answer that question, sir, because...",9
+MR. ROMINE,"Agent Scully, you cannot refuse to answer that question.",9
+SCULLY,Because I believe that answering that question could endanger Agent Mulder’s life.,12
+MR. ROMINE,You don’t seem to understand. Your response is not optional. You are an agent of the FBI.,17
+SCULLY,Then if I may please finish my statement......that it is no longer possible for me to carry out my duties as an FBI agent.,24
+SENATOR SORENSON,"Are you tendering your resignation, Agent Scully. Is that what you’re trying to say?",14
+SCULLY,"No, sir. What I am saying, is that there is a culture of lawlessness that has prevented me from doing my job- that the real target of this committee’s investigation should be the men who are beyond prosecution and punishment....the men whose secret policies are behind the crimes that you are investigating.",52
+SENATOR SORENSON,"You have a legal obligation to answer the questions posed to you. Now....either you tell us what you know about Agent Mulder’s whereabouts, or you’ll be held in contempt of Congress.",31
+SCENE,Scully is being led down a white hallway by a U.S. Marshall. She is led to a cell and locked inside.,21
+TRUCK DRIVER,nan,1
+DRIVER,nan,1
+WIFE,nan,1
+DRIVER,nan,1
+WIFE,nan,1
+DRIVER,nan,1
+WIFE,Kak va za voot? Kak va za voot?!?,8
+MULDER,No Russian.,2
+WIFE,American?,1
+MULDER,Tell your husband I’m sorry about his truck.,8
+WIFE,The test!?!,2
+MULDER,Yeah.,1
+WIFE,They kill everybody for the test.,6
+MULDER,Why don’t they kill you?,5
+WIFE,My husband makes deliveries. They spare our lives. But now...no truck... he is afraid.,14
+MULDER,"Well, I have to go now.",6
+WIFE,No.,1
+MULDER,They’ll come looking for me. They’ll come looking for you.,10
+WIFE,No. There are other ways.,5
+MULDER,I don’t know what you’re talking about. What other ways?,10
+WIFE,Grisha! No arm. No test.,5
+MULDER,You don’t understand...these tests. The smallpox scar on your arm is some kind of identification. You have to help me escape. I’ll help you escape. You have to help me get to St. Petersburg.,34
+SKINNER,You holding up?,3
+SCULLY,I’ve got plenty to read.,5
+SKINNER,I can understand you protecting Agent Mulder but...,8
+SCULLY,"It’s not just Agent Mulder that I am protecting, sir.",10
+SKINNER,Then what are you doing?,5
+SCULLY,"We were called before this committee to answer questions about a murder- about an intercepted diplomatic pouch- a pouch that was to be delivered to a prominent doctor- a woman who is now dead, as is the man who was delivering said pouch- the contents of which have infected an exobiologist with a paralyzing toxin. Yet, what are we stuck on here? The whereabouts of Agent Mulder.",67
+SKINNER,You mean its the wrong question.,6
+SCULLY,Several of the men on this committee are lawyers. It is my experience that lawyers ask the wrong question only when they don’t want the right answer.,27
+SKINNER,Unless Agent Mulder has already found the answers they’re looking for.,11
+SCULLY,Or someone wants to make sure that he doesn’t find out.,11
+SKINNER,"These are congressmen we’re talking about, Agent Scully.",8
+SCULLY,"I know that, sir. And it is my natural inclination to believe that they are acting in the best interest of the truth...but I am not inclined to follow my own judgement in this case.",35
+SKINNER,You’re going to follow Agent Mulder’s? Is that it?,9
+CSM,His name is Vassily Peskow. He was a KGB line-X stringer working out of Moscow center.,16
+WMM,But how could this be? How could the Russians know we were working on our own inoculation? Six of us knew!,21
+CSM,Dr. Charne-Sayre?,2
+WMM,She was trusted...absolutely!,3
+CSM,Then I don’t know.,4
+WMM,Find this man! Find him!,5
+CSM,If my intelligence sources are right...I think there’s someone who might save us the trouble.,15
+SENATOR SORENSON,"Mr. Chairman, may I? Agent Scully...you’ve had a good long time to think about the question that was asked in our last session. I want to give you the opportunity to answer that question here, today. So I can help our good chairman here to get on with this proceeding.",50
+SCULLY,"I can’t answer that question, sir.",6
+SENATOR SORENSON,I’m going to ask you again. Where is Special Agent Mulder? Why is he not here?,16
+SCULLY,I’d be happy to answer you questions about the man carrying the diplomatic pouch...,14
+SENATOR SORENSON,Agent Scully.,2
+SCULLY,"...about his murder, and my opinion about its connection to the death of Dr. Bonita Charne-Sayre of the World Health Organization...",21
+SENATOR SORENSON,Miss Scully....you’ll get your chance with all of that...,9
+SCULLY,or about the biotoxin being transported within that pouch.,9
+SENATOR SORENSON,Answer the question Miss Scully.,5
+MULDER,What is the question?,4
+MR. ROMINE,All right. Let’s come to order. Agent Scully...do continue.,9
+SCULLY,"Yes, sir. If I may I’d like to finish making my point.",12
+MR. ROMINE,"What is your point, Miss Scully?",6
+SCULLY,"That the death of Doctor Charne-Sayre, given her field of expertise, not only suggests that she knew something about the toxin, but also its origins, and that knowledge may be directly linked to the man in Assistant Director Skinner’s apartment building",41
+SENATOR SORENSON,Miss Scully?,2
+SCULLY,"Yes, sir...uh...Assistant Director Skinner has just informed me that there has been an accident directly related...",16
+SENATOR SORENSON,An accident...?,2
+SCULLY,"A doctor, infected with the toxin, has died under suspicious circumstances involving a theft of evidence...of the contents of the diplomatic pouch...",22
+MR. ROMINE,"Well, we’ve gotten off to a real fine start here. I’m going to recess now until this new matter can be explained. So that we might then begin to move in a forward direction.",34
+SCULLY,Mulder....,1
+MULDER,I get to put my arms around you...both of them.,10
+SCULLY,When did you get back here?,6
+MULDER,"It’s been a long, strange trip.",6
+SKINNER,Some other time. I think there’s been enough strangeness here to sort through.,13
+SCULLY,"Mulder, I’ve made several connections about this toxin- about what it might be...",13
+MULDER,So have I.,3
+SCULLY,"Sir? I need your permission to book two airfares to Boca Raton, Florida. It shouldn’t take more than twelve...fifteen hours...but in the even that it does, I need you to stall the committee tomorrow, for the purpose of...",38
+SKINNER,"If you explain it to me, Agent Scully, I’m going to have to explain it to them. I suggest you do everything in your power to make it back for tomorrows session...or I can’t help you.",36
+MULDER,Boca Raton?,2
+SCULLY,Dr. Bonita Charne-Sayre is a board member and a chief physician for a chain if elder-care convalescent hospitals across the country....guess what one of her patients died of in Boca Raton?,31
+"AT THE CONVALESCENT HOME, 9",32 PM.,2
+NURSE,Yes. What is it?,4
+SCULLY,Agents Mulder and Scully. We need your permission to come onto the premises and speak with you or any of your patients.,22
+NURSE,What about?,2
+MULDER,May we come in?,4
+NURSE,"Well, yes.",2
+SCULLY,When was the last time these patients were checked.,9
+NURSE,"An hour ago, at bed check.",6
+SCULLY,This man is dead.,4
+NURSE,What?,1
+MULDER,Scully. These people are test subjects. They’ve all been poisoned.,10
+SCULLY,Who gave these patients their meds tonight?,7
+NURSE,I did.,2
+SCULLY,"Okay, I need you to call 911. Tell them you have an emergency quarantine of a biohazardous material. I need you to show us all of the entrances of the hospital. We’ve got to seal this building immediately. .",38
+SCULLY,I do not understand what it is you hope to learn here.,12
+MULDER,Everything that’s happened....every death we’ve seen can be traced back to one man.,13
+SCULLY,But according to you that man is in Russia...possibly even dead.,11
+MULDER,"Well, he isn’t working alone.. Terry Edward Mayhew. Can we talk with you...have a little off the record chat?",19
+MAYHEW,About?,1
+MULDER,Alex Krycek.,2
+MAYHEW,Who?,1
+MULDER,The man who set you up....you and the members of your militia.,12
+MAYHEW,"Name wasn’t Krycek. It was Arntzen, or something like that.",10
+MULDER,You came into contact with him in North Dakota salvaging materials from a missile silo.,15
+MAYHEW,I ain’t never been in no missile silo. I don’t know nothing about that.,14
+SCULLY,"This man Krycek, or “Arntzen” as you call him...How did he come into contact with you?...off the record.",18
+MAYHEW,He came to us...with some building materials and big ideas.,10
+MULDER,What was he looking to build?,6
+MAYHEW,Two....”devices”.,1
+MULDER,Did he ever mention Black Cancer.,6
+MAYHEW,Oh yeah!,2
+SCULLY,What did he say?,4
+MAYHEW,Developed by the Soviets. Saddam used it in the Gulf.,10
+SCULLY,You mean...used as bio-warfare?,4
+MAYHEW,Why do you think they made them servicemen take all them pills? U.S. Government knew about the Black Cancer. They lied. Didn’t have no cure...no inoculation.....I think we’ll quit right there. I got nothing more to say.,37
+SCULLY,Let’s go Mulder.,3
+MULDER,Wait a second. You said there were...uh..two devices. What happened to the other bomb?,14
+MAYHEW,I ate it.,3
+MULDER,.,0
+SCULLY,Mulder!,1
+MULDER,You want to know about anarchy? You don’t tell me where that other bomb is and I’ll make sure you spend your prison time on your bigoted hands and knees putting a big smile on some convict’s face.,38
+MAYHEW,Sonofabitch stole it- truck and all. Some storage garage.,9
+MULDER,Where?,1
+MAYHEW,Terma...North Dakota.,2
+MULDER,"Thank You. Scully, get on the phone and get the license numbers for any two-ton trucks stolen in North Dakota in the last six months. Then call Canadian border authorities and have them stop any truck fitting that description. Tell them they’re looking for a bomb.",46
+SCULLY,"What are you doing, Mulder?",5
+MULDER,"This has been a big setup from the beginning- almost perfectly executed. Someone used Krycek, then Krycek used us...someone who didn’t want that rock in American hands.",27
+SCULLY,But what’s in Canada?,4
+MULDER,Where would you put this rock if you didn’t want it to be found?,14
+SCULLY,Back in the ground.,4
+SCENE,Vassily Peskow’s truck is stopped by border authorities.,8
+PESKOW,"Fertilizer for my hothouse tomatoes. Beautiful tomatoes, all year, eh? Thanks..",11
+MULDER,Go back to the refinery. See if you can find anybody who knows anything about that truck.,17
+SCULLY,nan,1
+MULDER,"Peers into the pipe. Sees a box, but can’t reach it. Suddenly, the oil well next to him comes on, coating the ground and Mulder with oil. He is still trying to reach the box.) CUT TO SCULLY AT REFINERY",40
+SCULLY,"CUT TO MULDER, REACHING FOR THE BOX",7
+MULDER,nan,1
+PESKOW,"I would just as soon kill you, but please, don’t make me. My work is done. Sur Posidive. .",18
+SCULLY,Mulder! .,1
+MR. ROMINE,I’d like to get started here. Miss Scully?,8
+SCULLY,"Yes...I’m ready here, sir.",4
+MR. ROMINE,"You have evidence to present. At least, that’s what I’ve been told.",12
+SCULLY,"Yes, Senator...evidence linking a number of deaths... a great number...to a biotoxin that was transported to US soil by a courier who was also killed.",25
+SENATOR SORENSON,Is this the same man who was pushed from the Assistant Director’s apartment?,13
+SCULLY,Yes. He has not been ID’ed.,6
+SENATOR SORENSON,Do we have the name of the individual who pushed him?,11
+SCULLY,"Yes, sir. Alex Krycek...who is missing and, possibly , deceased.",9
+SENATOR SORENSON,And are you then in possession of the pouch or its contents?,12
+SCULLY,No sir.,2
+SENATOR SORENSON,What evidence are you then presenting us with today?,9
+SCULLY,"Documents and interviews in support of a wide-ranging conspiracy to control a lethal bio-toxin that is, in fact, extra-terrestrial in origin.",21
+SENATOR SORENSON,"Well...uh....what are we talking about...?Little green men, here?",8
+SCULLY,"No, sir. Not at all.",5
+MULDER,"Why is this so hard to believe? When the accepted discovery of life off this planet is on the front page of every newspaper around the world? When the most conservative scientists and science journals are calling for the exploration of Mars and Jupiter? With every reason to believe that life and the persistence of it is thriving outside our own terrestrial sphere? If you cannot get past this, then I suggest this whole committee be held in contempt, for ignoring evidence that cannot be refuted.",86
+SENATOR SORENSON,This is NOT why we are here today.,8
+MULDER,Then why are we here today?!?,6
+MR. ROMINE,I will suggest that we recess here until such a time that all the evidence can be properly evaluated.. .,19
+SCENE,Night. Interior of Peskow’s apartment. Peskow enters the apartment and stops suddenly as he notices a guest.,17
+PESKOW,nan,1
+KRYCEK,"I am only here, Comrade, to congratulate you on a fine job.",12
+PESKOW,Harasho,1

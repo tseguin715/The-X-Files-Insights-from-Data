@@ -1,0 +1,401 @@
+speaker,line,words
+COMPUTERIZED VOICE,T-minus ten seconds to engagement.,5
+LO-FAT,Woo-hoo-hoo!,1
+MOXIE,Lo-Fat's going off!,3
+LO-FAT,Going to kill! Going to kill!,6
+RETRO,"Just stay out of my way, Geeks. I'm going to the next level today. I'm a death machine.",18
+MOXIE AND LO-FAT,Woo-hoo!!!,1
+COMPUTERIZED VOICE,Status: Combat ready. Situation: Guerrilla units in immediate vicinity of insertion module.,12
+GEEKS,Woo-hoo! Woo! Let's do this! Bring it on!!,8
+IVAN,Look at these heart rates.,5
+PHOEBE,If I don't let these boys out they're going to kill each other.,13
+GEEKS,Woo-hoo! Woo! Woo!,3
+COMPUTERIZED VOICE,... 3... 2... 1... Engage.,4
+GEEKS,Woo-hoo!,1
+MOXIE,You see 'em?,3
+RETRO,"They're out there, Geeks. Looking to fry your huevos.",9
+MOXIE,"Call it, Retro! Call it!",5
+RETRO,Now!,1
+IVAN,Whoa! It's a total massacre out there.,7
+MOXIE,"Phase two, Geeks!",3
+[CLOSED CAPTIONING,We know you're up there! Prepare to die! ],8
+RETRO,"Ready, knuckleheads?",2
+MOXIE,Flank right! LO-FAT; Flank left!,5
+GEEKS,"Go! Move out, baby! Come on, baby!",7
+MOXIE,Lo-Fat's down.,2
+RETRO,"You got me, Moxie?",4
+MOXIE,Got you covered.,3
+IVAN,Retro's in.,2
+PHOEBE,Adrenaline redline.,2
+IVAN,The bloodthirst is unquenchable.,4
+RETRO,Moxie?,1
+RETRO,Who's there?,2
+RETRO,Who are you?,3
+MAITREYA,I am Maitreya. This is my game.,7
+MULDER,"Agents Mulder and Scully, FBI. We're expected.",7
+SECURITY GUARD,I need to scan your ID.,6
+SECURITY GUARD,"Retina scan, please.",3
+MULDER,Cool.,1
+SECURITY GUARD,Ma'am?,1
+SECURITY GUARD,I'll need you to look over those nondisclosure agreements.,9
+SCULLY,"""To protect all proprietary or intellectual property owned by F.P.S., a private California corporation under the harshest penalty of law.""",20
+SECURITY GUARD,"Signature at the bottom, please.",5
+SCULLY,F.P.S.,1
+MULDER,First Person Shooter.,3
+SCULLY,Video games.,2
+MULDER,Digital entertainment.,2
+SCULLY,I can get in the Pentagon easier than this.,9
+LANGLY,"Dudes! Agent Mulder, what's up, wild man? Welcome to the land where silicon meets silicone.",15
+FROHIKE,Can I get you a latte from the bar or perhaps a bottle of designer H20?,16
+MULDER,Scully?,1
+SCULLY,How about a simple explanation as to why we're here?,10
+LANGLY,"Well, why don't we take a brief moment just to feel the pulse of the new American gold rush?",19
+BYERS,You're standing on the launch pad of a rocket headed for the stars.,13
+SCULLY,Okay.,1
+FROHIKE,There's been a little accident.,5
+SCULLY,What kind of accident?,4
+LANGLY,"Like... uh, an industrial accident.",5
+SCULLY,How did the victim die?,5
+FROHIKE,Uh... It's not exactly clear.,5
+BYERS,Right.,1
+SCULLY,Was there equipment involved?,4
+FROHIKE,No.,1
+BYERS,Yes. Mmm...,2
+LANGLY,Yes and no.,3
+SCULLY,What's your business here?,4
+LANGLY,Our business?,2
+SCULLY,Yeah.,1
+MULDER,Uh-huh.,1
+FROHIKE,We're consultants to F.P.S.,4
+BYERS,Langly did some programming for them. He created all of the bad guys.,13
+LANGLY,Only the Euro goons.,4
+FROHIKE,We don't want to give you the idea that we're major profit participants.,13
+MULDER,Cash or stock options?,4
+LANGLY,Options... preferred rate. Vesting immediately with a short-term exercise against venture collateral to bypass S.E.C. regs.,16
+BYERS,The IPO'S in a week.,5
+FROHIKE,Game ships on Friday. 50 malls across the United States and Japan.,12
+SCULLY,Only there's a dead body between you and untold riches.,10
+MULDER,I don't know about you guys but I'd be checking my shorts for cake.,14
+SCULLY,This man's been shot.,4
+IVAN,"No! See, when somebody is shot, there's a gun involved, right? That is absolutely impossible because there's no way anybody could ever get a gun past security.",27
+SCULLY,What do you call this?,5
+IVAN,It's a laser blaster. For wasting cybertrash.,7
+LANGLY,It emits a low-frequency...,4
+IVAN,Just let me.,3
+LANGLY,All right.,2
+IVAN,"The weapons feed off the F.P.S. mainframe. The effect is intensely real, but harmless.",14
+SCULLY,You say this weapon is a toy but this man clearly has gunshot wounds through his...,16
+IVAN,"Stun suit. See, it's rigged with paint for wounds and kill shots. It's total bleeding-edge technology.",16
+IVAN,He's dead. I got it.,5
+MULDER,Who was he playing against?,5
+IVAN,Against the game. You waste the cyberthugs before they waste you. It's all about body count. But they're computer-generated images running on a projector. It all happens in the game space.,31
+PHOEBE,It's a total digital environment. Nothing's real. It's all virtual.,10
+MULDER,Did anybody see what happened?,5
+PHOEBE,"I was in the control booth with Ivan. Retro was in the zone. His telemetry was solid. He looked unstoppable; like he was on his way to the next level when suddenly, he was cooked meat.",36
+SCULLY,"Well, the next call's going to be to the local P.D.",11
+IVAN,No cops! No cops. You said no cops. You said you had connections.,13
+SCULLY,"Well, connections or not, you've got a murder victim here.",10
+IVAN,Headlines-- just what the Wall Street money dudes want to read as we're going to market.,16
+SCULLY,"Yes, this is Special Agent Dana Scully with the FBI...",10
+MULDER,You said you were in the control booth when it happened? Can you tell me exactly what you saw?,19
+PHOEBE,"I'm still not sure if we even saw it. I mean, one minute everything is going perfect and then we crashed. Ivan and I were sitting here. We both just looked at each other. It happened so fast. Moxie's covering Retro who's going inside after the enemy to rack up beaucoup points.",52
+FROHIKE,"And then, goosh! Retro's vitals spike like he's been shot.",10
+BYERS,And the system defaults.,4
+PHOEBE,And they're right back in the game space.,8
+MOXIE,Lo-Fat! Get over here.,4
+LO-FAT,What happened?,2
+MOXIE,"Retro? Hey, man, get up.",5
+LO-FAT,What happened?,2
+PHOEBE,Lights out. Game over.,4
+MULDER,What happened in there?,4
+LANGLY,We don't know. There's no rez images on interior game spaces.,11
+MULDER,What about the wireframe?,4
+PHOEBE,Maybe I can. I'll strip down to wireframe display.,9
+PHOEBE,I mean... We've never mapped this area before. Retro was in noncombat space.,13
+FROHIKE,It's a chick.,3
+LANGLY,It can't be.,3
+MULDER,Can you texture wrap her?,5
+BYERS,Holy Toledo.,2
+FROHIKE,She's packing a flintlock.,4
+MULDER,That ain't all she's packing. Can you print that out for me?,12
+PHOEBE,Mm-hmm.,1
+PHOEBE,Goddess.,1
+DETECTIVE LACOEUR,"Let me get this straight, Agent Scully: You've got no murder weapon, no forensic evidence, no motive, no suspect.",19
+MULDER,Scully.,1
+SCULLY,"My partner, Agent Mulder. This is Detective LaCoeur.",8
+DETECTIVE LACOEUR,Have you got something?,4
+MULDER,"Yeah, our killer, I believe.",5
+DETECTIVE LACOEUR,"Hey, I'll put out an A.P.B.-- for Frederick's of Hollywood.",10
+SCULLY,"Mulder, you're not serious.",4
+MULDER,It's all in the computer.,5
+SCULLY,"Mulder, that's any voluptuous vixen out of any number of video games.",12
+MULDER,"But she's not in any video game, she's in this one and no one programmed her in.",17
+SCULLY,"Yeah, but even if they had, she's not real. She's a character. She's some immature hormonal fantasy.",17
+LANGLY,Daryl Musashi. You see who that is? Daryl Musashi.,9
+FROHIKE,As I live and breathe.,5
+SCULLY,Who's Daryl Musashi?,3
+MULDER,The O.G.-- Original Guru.,4
+BYERS,Word is he slums as a game designer when he's not contracted to the CIA. The boy wonder of virtual mayhem.,21
+SCULLY,What's he doing here?,4
+BYERS,Ivan must have called him to go in and slay the ninja babe.,13
+SCULLY,"Mulder, why does this game have the effect of reducing grown men back to moony adolescence?",16
+MULDER,That's Daryl Musashi!,3
+SCULLY,Mulder.,1
+MULDER,Huh?,1
+SCULLY,Do you want me to autopsy the body?,8
+COMPUTERIZED VOICE,Immersion module in descent mode. T-minus 20 seconds to engagement.,10
+IVAN,"Pay attention, worms. Daryl Musashi's going to show us how this game's supposed to be played.",16
+FROHIKE,I heard he scored 90 consecutive wins on Demon Space Drifter.,11
+PHOEBE,91.,1
+LANGLY,Look at him. The man's a sphinx.,7
+COMPUTERIZED VOICE,T minus 10... 9... 8... 7... 6... 5... 4... 3... 2... 1... Engage.,13
+FROHIKE,"Hey, Byers, you got to see this. Mulder, get over here.",11
+MULDER,Is that him? Is that Daryl Musashi?,7
+BYERS,"Yeah, that's him.",3
+LANGLY,He just stepped into the game.,6
+MULDER,Why is he just standing there?,6
+IVAN,Because he knows no fear.,5
+LANGLY,Yeah!,1
+BYERS,Unbelievable.,1
+PHOEBE,Standing heart rate is 68.,5
+MULDER,He hasn't even broken a sweat.,6
+IVAN,Look at him! He's not even waiting for the reset. He's going right for the kill.,16
+IVAN,What just happened?,3
+MULDER,She cut off his hands.,5
+SCULLY,"Preliminary external examination of deceased, a twenty-ish male, name listed only as ""Retro,"" offers no additional clues as to actual cause of death.",23
+SCULLY,"Scratch that. Cause of death is from a large entry wound at the sternum, resulting in trauma to the internal organs and blood loss. Wound is consistent with a high-velocity impact from a large projectile which passed through a three-ply Kevlar jacket. Scratch that. Wound is result of high-velocity impact from an unknown object, which even if it did enter the body left no damn trace evidence whatsoever-- no powder burns, no chemical signatures of any kind of explosive propellant...",80
+MULDER,No luck?,2
+SCULLY,"I thought I was on to something. You know, Mulder, this suit holds more than just exploding paint cells. It measures the player's vital signs from the heart rate to the extant body chemistry and then sends that information back to the computer. Then when a player is shot a battery pack sends a 12-volt jolt that keeps him from getting up until the game is over.",67
+MULDER,Virtual death.,2
+SCULLY,"Yeah, well, if only that were the case.",8
+MULDER,Yeah.,1
+SCULLY,"I thought at first that maybe the uh, suit had malfunctioned, that one of the charges had blown inward but, unfortunately, that wasn't the case either.",26
+MULDER,"I've got a birthday coming up. You have to admit, though, Scully, this is a pretty amazing piece of technology.",20
+SCULLY,"Yeah, wasted on a stupid game.",6
+MULDER,Stupid?,1
+SCULLY,Dressing up like high-tech warriors to play a futuristic version of Cowboys and Indians? What kind of moron gets his ya-yas out like that?,24
+SCULLY,"Mulder, what - what purpose does this game serve except to add to a culture of violence in a country that's already out of control?",24
+MULDER,Who says it adds to it?,6
+SCULLY,"You think that taking up weapons and creating gratuitous virtual mayhem has any redeeming value whatsoever? I mean, that the testosterone frenzy that it creates stops when the game does?",30
+MULDER,"Well, that's rather sexist, isn't it?",6
+MULDER,"I mean, maybe the game provides an outlet for certain impulses, that it fills a void in our genetic makeup that the more civilizing effects of society failed to provide for.",31
+SCULLY,"Well, that must be why men feel the great need to blast the crap out of stuff.",17
+MULDER,"Well, testosterone frenzy or no the only suspect we have in this man's murder is a woman.",17
+SCULLY,"Yeah, I've seen it. A computer-animated woman, Mulder, with a computer-animated weapon.",12
+MULDER,A flintlock pistol-- which would leave a very large entry wound.,11
+SCULLY,"Pictures don't kill people, Mulder, guns kill people.",8
+MULDER,As do swords.,3
+MULDER,The world-renowned Daryl Musashi.,4
+MULDER,Mulder.... You're kidding. Thanks. L.A. Sheriff's department just picked up a female suspect for the murders.,16
+OFFICERS,Who's the man? Who's the man? You're the man. You're the man with the badge.,15
+SCULLY,You get the feeling these men have something better to do?,11
+DETECTIVE LACOEUR,We picked her up outside of a strip club in Reseda. Fits your description to a tee.,17
+SCULLY,Was she read her rights?,5
+DETECTIVE LACOEUR,About 500 times.,3
+SCULLY,"For the record, can you state your name, please?",9
+JADE BLUE AFTERGLOW,"For the record again, my name is Jade Blue Afterglow. I reside...",12
+SCULLY,I'm sorry. Your real name?,5
+JADE BLUE AFTERGLOW,That is my real name. What were you expecting? Mildred?,10
+SCULLY,No.,1
+JADE BLUE AFTERGLOW,I sure seem to be upsetting a lot of people around here.,12
+SCULLY,"Well, you're not upsetting me, Miss, uh...",7
+MULDER,Afterglow.,1
+JADE BLUE AFTERGLOW,I sure upset the man running the metal detector.,9
+SCULLY,You say that you have no knowledge of Ivan Martinez or a company known as First Person Shooter or F.P.S.?,20
+JADE BLUE AFTERGLOW,I meet a lot of men.,6
+SCULLY,Would it surprise you to know that you have been placed at a crime scene in the offices of F.P.S.?,20
+JADE BLUE AFTERGLOW,Let's just say it takes a whole lot to surprise me.,11
+SCULLY,You might want to start telling the truth.,8
+JADE BLUE AFTERGLOW,And what truth am I not telling you?,8
+MULDER,That you murdered two men. One with a 14th century broadsword and the other with a flintlock pistol.,18
+JADE BLUE AFTERGLOW,"Oh. You must have had me confused with my sister-- Xena, Warrior Princess.",13
+MULDER,Are you denying that this is you?,7
+JADE BLUE AFTERGLOW,Now I get it.,4
+SCULLY,What?,1
+JADE BLUE AFTERGLOW,The medical imaging place in Culver City. I got paid to let them do this body-scan thing.,17
+SCULLY,They paid you to scan your body?,7
+JADE BLUE AFTERGLOW,You think that's the strangest thing I've been paid to do?,11
+MULDER,"We're very sorry, Miss Afterglow but, um... We're sorry. You're... You're free to go.",14
+MULDER,"I don't know about you, Scully, but I am feeling the great need to blast the crap out of something.",20
+SCULLY,Hello.,1
+MULDER,Anybody here?,2
+SCULLY,"Phoebe? Hey, you okay?",4
+PHOEBE,"Oh. I must've fell asleep. I... I was just going to take a nap. I've been up for 70 hours straight, analyzing code, trying to fix the game.",28
+SCULLY,Where is everybody? Where's Ivan?,5
+PHOEBE,"Um, he's with the money guys. They're all freaking.",9
+SCULLY,"Well, we need to talk to him right away about a woman named Jade Blue Afterglow. He scanned her body and he created a character out of her. He put her in the game.",34
+MULDER,What are they doing?,4
+PHOEBE,Oh...,1
+MULDER,The Lone Gunmen are on the floor.,7
+PHOEBE,"Yeah, Langly and I wrote a software patch. We're going to run a rez-up test on the game.",18
+SCULLY,What for?,2
+PHOEBE,To bypass the problem.,4
+SCULLY,Hey...,1
+MULDER,What just happened?,3
+PHOEBE,"Oh, I don't know.",4
+MULDER,They're in the game.,4
+LONE GUNMEN,"Hey! What's going on?! Phoebe, are you paying attention? We're not ready yet! Who's running the program? What the hell's going on? Phoebe? Come on.",25
+PHOEBE,I don't believe this. The program's running itself. This can't be happening.,12
+SCULLY,Somebody's shooting at them.,4
+PHOEBE,This was supposed to be background only. There wasn't supposed to be any gameplay.,14
+MULDER,They need help.,3
+SCULLY,Mulder?,1
+[CLOSED CAPTIONING,T-minus 10 seconds to engagement. ],5
+COMPUTERIZED VOICE,9... 8... 7... 6... 5... 4... 3... 2... 1... Engage.,10
+MULDER,Bring it on.,3
+MULDER,You guys okay?,3
+FROHIKE,We've been better.,3
+LANGLY,Byers's been hit.,3
+BYERS,I'm okay. It's a flesh wound.,6
+FROHIKE,It's her. She's out there. She nailed Byers with that flintlock.,11
+MULDER,"Okay, on the count of three I'm going to lay down some cover for us. Ready? One... Two... Three.",19
+FROHIKE,Mulder!,1
+LANGLY,Get in the module!,4
+PHOEBE,What is he doing?,4
+SCULLY,He's getting his ya-yas out.,5
+FROHIKE,Mulder!,1
+LANGLY,It's suicide!,2
+MULDER,Put the sword down.,4
+FROHIKE,Mulder?,1
+PHOEBE,"Oh, no.",2
+SCULLY,Where's Mulder?,2
+SCULLY,"I said, where's Mulder? Maybe you guys didn't hear me. Come on, guys. Where is he?",16
+LANGLY,We don't know. He just took off after her.,9
+SCULLY,I saw what he did. But where did he go?,10
+FROHIKE,He went into the building.,5
+BYERS,He was firing his weapon.,5
+SCULLY,I saw where he went. I want to know where he is. Is there a door? Or an exit? Or some kind of passageway that he could have used?,29
+LANGLY,Just the one you came in.,6
+FROHIKE,He should be right here.,5
+BYERS,It's impossible. It's a digital environment. It's just a game.,10
+SCULLY,Yeah. Easy for you to say.,6
+PHOEBE,Agent Scully. I found him.,5
+PHOEBE,This monitors everyone playing the game. There-- player four. It's his telemetry.,12
+SCULLY,What do you mean?,4
+PHOEBE,Player four-- that's him.,4
+BYERS,On the monitor.,3
+FROHIKE,Right there.,2
+SCULLY,Where?,1
+PHOEBE,That's Mulder.,2
+BYERS,He's alive.,2
+FROHIKE,Those are his vitals.,4
+LANGLY,He's still in the game.,5
+SCULLY,"Yes, but where's the game?",5
+MULDER,Frohike?! Langly?! Byers?!,3
+LANGLY,I think that's it.,4
+PHOEBE,What are you doing?,4
+FROHIKE,We're rerouting the circuitry.,4
+LANGLY,Making a kill switch so we can shut down the game.,11
+PHOEBE,Don't touch that. It won't work. There's no way to do that.,12
+IVAN,We are back in business. Baby... You are dope.,9
+SCULLY,What?,1
+IVAN,We were toast. I felt the flames licking my ass. Then the bankers,13
+SAW THE LETTERS ON THE AUTOPSY,F-B-I. CAUSE OF DEATH: Unknown. You fixed our problems. The game's going to ship and we're going to be counting Franklins.,21
+SCULLY,"Yeah, and you're going to be counting teeth.",8
+BYERS,Her partner's lost in the game.,6
+IVAN,Lost?,1
+SCULLY,The game has disappeared.,4
+IVAN,What are you talking about?,5
+SCULLY,Jade Blue Afterglow-- does that ring a bell?,8
+IVAN,Jade Blue Afterglow?,3
+SCULLY,"Oh, you'd remember her.",4
+SCULLY,Hey. Phoebe.,2
+PHOEBE,I don't know how it happened.,6
+SCULLY,You knew about her? Then it was you. You scanned that woman's body.,13
+PHOEBE,Into my computer. She was my creation. She was mine.,10
+SCULLY,But why?,2
+PHOEBE,You don't know what it's like-- day in and day out choking in a haze of rampant testosterone.,18
+SCULLY,I wouldn't be so sure.,5
+PHOEBE,"I mean, she was all I had to keep me sane. My only way to strike back as a woman. She was my goddess. Everything I can never be.",29
+SCULLY,"But, Phoebe, she is still a killer. I can't explain it, but she is. And you put her in that game.",21
+PHOEBE,"No, I didn't. I was creating my own game in my own computer. It was totally secret. I never told anyone. But somehow she jumped programs and she's feeding off the male aggression. It's making her stronger and stronger. I need your help. You're the only one who can understand.",50
+SCULLY,"You've got to destroy her, Phoebe.",6
+PHOEBE,I don't know how.,4
+SCULLY,"Well, there's got to be some way. There's got to be some vulnerability or a weakness somewhere.",17
+PHOEBE,She has no weakness anymore.,5
+MULDER,Hey!,1
+MULDER,I bet you think you're going to kick my butt up and down the block.,15
+MULDER,Okay.,1
+SCULLY,Her name is Maitreya.,4
+IVAN,Maitreya?,1
+SCULLY,She's input herself into the game. We have to download her.,11
+BYERS,We can't even get on-line. The system's been hijacked.,9
+LANGLY,The program won't respond.,4
+SCULLY,"Frohike, what's wrong? What is that?",6
+FROHIKE,Mulder's vitals are wiggy.,4
+SCULLY,What?,1
+FROHIKE,They're all over the map.,5
+IVAN,This is your fault. You put her here.,8
+SCULLY,Hey. No fair picking on a girl.,7
+LANGLY,We're back on-line.,3
+SCULLY,There's no picture.,3
+PHOEBE,No. We're just in rez up.,6
+IVAN,"No, there's something wrong.",4
+SCULLY,That's not the game.,4
+PHOEBE,"Yes, it is. It's level two.",6
+BYERS,How did that happen?,4
+SCULLY,Where's Mulder?,2
+LANGLY,Mulder's in level one.,4
+FROHIKE,"No, he's right there.",4
+SCULLY,Shut the game down.,4
+IVAN,"No, no, no, no. I can't.",6
+SCULLY,"Well, just turn it off!",5
+BYERS,"Power down, Langly.",3
+LANGLY,The computer's not responding.,4
+SCULLY,Look! We have to get him out of there!,9
+FROHIKE,"Yeah, and quick.",3
+MULDER,Whoa! Stop right there!,4
+MULDER,"That's not really fair, is it?",6
+MULDER,"Well, that's just cheating.",4
+FROHIKE,"Go, girl!",2
+BYERS,Oh... Scully's on fire!,4
+LANGLY,The bloodthirst is unquenchable.,4
+FROHIKE,Are you witnessing this?,4
+IVAN,"Oh, yeah.",2
+BYERS,Scully's in the zone.,4
+IVAN,Clearly.,1
+LANGLY,What's wrong?,2
+PHOEBE,This is level two. It only gets harder.,8
+IVAN,No one's ever beaten level two.,6
+SCULLY,You okay?,2
+MULDER,Ask me if I'm humiliated.,5
+SCULLY,Mulder!,1
+BYERS,This is nuts.,3
+FROHIKE,They'll never make it.,4
+LANGLY,How do you kill something that won't die?,8
+PHOEBE,"Try and stop me, Ivan.",5
+IVAN,My whole life is in this game.,7
+FROHIKE,What are you trying to do?,6
+PHOEBE,Stay out of this.,4
+IVAN,She's gonna destroy it!,4
+PHOEBE,It's the only way to save them.,7
+FROHIKE,Let it go! Both of you!,6
+LANGLY,You can save them?,4
+PHOEBE,There's a kill command.,4
+IVAN,It kills the whole game.,5
+BYERS,You knew about this?,4
+IVAN,"She knew about it, too.",5
+FROHIKE,You said it wouldn't work.,5
+IVAN,She was trying to save her creation; her Goddess.,9
+PHOEBE,"Well, you don't care who dies as long as your game survives.",12
+BYERS,Our friends are in there.,5
+LANGLY,And we're not going to let them die.,8
+SCULLY,Mulder?,1
+FROHIKE,Give me that! This is out of your hands now.,10
+BYERS,We have to shut down the program.,7
+LANGLY,You're the only ones that can do it.,8
+BYERS,They can't keep this up.,5
+LANGLY,Scully's running out of ammo.,5
+FROHIKE,What's the command?,3
+IVAN,"Don't do it, Phoebe. I'm so close.",7
+BYERS,The command.,2
+LANGLY,Give it to him.,4
+PHOEBE,Shift-alt-bloodbath.,1
+BYERS,"Oh, my God.",3
+(CLOSED CAPTIONING,What have we done?),4
+LANGLY,We've killed the game and Mulder and Scully along with it.,11
+PHOEBE,Over here!,2
+PHOEBE,Scully!,1
+GUNMEN,Mulder! Mulder! Scully!,3
+MULDER,That's entertainment!,2
+MULDER,"We came, we saw, we conquered. And if the taste of victory is sweet, the taste of virtual victory is not Sweet 'N Low, nor the bullets made of sugar. Maybe out past where the imagination ends our true natures lie, waiting to be confronted on their own terms. Out where the intellect is at war with the primitive brain in the hostile territory of the digital world where laws are silent and rules disappear in the midst of arms. Born in anarchy with an unquenchable bloodthirst we shudder to think what might rise up from the darkness.",98

@@ -1,0 +1,367 @@
+speaker,line,words
+TRANSIT COP PHILBRICK,"I'm on the Clay Street platform. Got a fare-jumper. White male, shaved head, 20s. Possible 10-13.",16
+TRANSIT COP PHILBRICK,"Officer Philbrick, all clear.",4
+DEPUTY CHIEF KARRAS,"Deputy Chief Karras, Transit Police. This is Lieutenant Bianco. You're Scully and Doggett, right?",14
+SCULLY,Yes. Is the assessment team here?,6
+DEPUTY CHIEF KARRAS,"Downstairs, waiting 45 minutes. Where the hell have you two been?",11
+DOGGETT,Agent Scully needed to examine the body of the victim first.,11
+DEPUTY CHIEF KARRAS,Who's missing the picture here? I got lots of people who can examine the body. What I need from the FBI now is a time frame.,26
+DOGGETT,A time frame?,3
+DEPUTY CHIEF KARRAS,"One of the main arteries of the Boston Public Transport System has been closed for exactly 11 hours and four minutes. My phone is ringing off the hook right now with calls from the press. I got 100,000 pissed-off commuters who were late to work this morning who are going to be even more pissed off if they can't get home. And I got one extremely pissed-off mayor paying me to do one thing-- keep the damn trains running.",79
+SCULLY,"Sir, se appreciate the pressure that you're under, but...",9
+DEPUTY CHIEF KARRAS,No. It's you guys better kick it in the ass. The afternoon rush starts in five hours. Do what you've got to do but this line is going back in operation,31
+AT 4,00 P.M.,2
+SCULLY,I'm afraid you can't do that.,6
+DEPUTY CHIEF KARRAS,"Oh, yes, I can.",4
+SCULLY,You've got a dead man who's got over 1/3 of his body tissue completely eaten away and until we figure out how and why that tunnel cannot be reopened.,29
+LT. BIANCO,"We understand the FBI's need to do a thorough investigation, but as I see it the facts of this case are actually pretty simple.",24
+SCULLY,Simple?,1
+LT. BIANCO,The train briefly lost power during which time an assailant killed a Boston Transit cop. That man is still at large.,21
+DOGGETT,An assailant using what?,4
+LT. BIANCO,"Acid, lye... your examination of the victim must've told us something.",11
+SCULLY,"No, it didn't, that's the thing. Until we culture the tissue and run the proper tests we're not going to know what killed him or if it can infect others.",30
+LT. BIANCO,The centers for disease control had robotic sniffers in the tunnel all night. They found no trace of biological or chemical agents. So let's clear this up. What we're looking for is a man-- a cop-killer. Single suspect.,38
+DOGGETT,At least that's your cover story.,6
+DOGGETT,That's what you're telling the press.,6
+DEPUTY CHIEF KARRAS,"The question is can you get me the killer or an explanation in less than five hours? Because hell or high water, the subway reopens at 4 PM sharp. Now let's go.",32
+DEPUTY CHIEF KARRAS,"Steven Melnick, Transportation Authority Chief Structural Engineer. He built this tunnel.",11
+MELNICK,I only oversaw construction of it four years ago. I know every square inch down there.,16
+LYLE,"Dr. Hellura Lyle. Special pathogens branch, CDC.",7
+SCULLY,We were told you folks said that the tunnel was free of pathogens.,13
+LYLE,"Well, I guess I'm just here for the moral support.",10
+DEPUTY CHIEF KARRAS,We're just covering our bases.,5
+LYLE,What base are they covering?,5
+DEPUTY CHIEF KARRAS,Agent Scully is a medical doctor. Who they tell me has a lot of experience with equivocal deaths.,18
+MELNICK,"Equivocal? Hey, I mean you're dead or you're not, right?",10
+SCULLY,Deaths for which there may be many explanations or for which an explanation may be hard to find.,18
+LYLE,What about you?,3
+DOGGETT,I'm just a good shot.,5
+LT. BIANCO,"Well, good. Now that we're bosom buddies, let's get this show on the road.",14
+DOGGETT,Do you need some help with that?,7
+SCULLY,No. You're going in without me.,6
+DOGGETT,What?,1
+SCULLY,"I don't know what kinds of game are being played, but I'm going to be much more effective analysing the situation from up here.",24
+DOGGETT,"Yeah, but I'm just tag along here. This is your thing. You've got all the experience.",16
+SCULLY,"You've got capable people with you, Agent Doggett. What I need down there are eyes and ears.",17
+DOGGETT,Okay. I'll be your eyes and ears. But I wish somebody would tell me what the hell I'm supposed to be looking for.,23
+SCULLY,"Third rail's powering down. You're clear to enter the subway floor and as long as you stay on this line there should be no risk of accidental shock or electrocution. You copy that, Agent Doggett?",35
+DOGGETT,"Yep, we're on the tunnel floor. Hope you got yourself a nice clear picture, Agent Scully.",16
+SCULLY,We got you every step of the way.,8
+(IN THE TUNNEL,The members of the team look hot and uncomfortable. They all have a light sheen of sweat on their bodies.),20
+HELLURA LYLE,"Ooh, it feels like Atlanta in August.",7
+DOGGETT,"Yeah, it's the middle of winter. How come it's so hot down here?",13
+MELNICK,They shut down ventilation last night. Normally you have almost a million cubic feet of fresh air per minute pushing through here but now we're in a sweatbox.,28
+LYLE,"Aren't we lucky? Hot, sticky and crawling in the dark. All so every commuter in Boston can get home to watch Survivor II.",23
+DOGGETT,I wonder why they shut down the ventilation if it's a man we're supposed to be looking for.,18
+LT. BIANCO,"You doubt that so much, Agent Doggett, why bring a gun?",11
+SCULLY,"Agent Doggett, you still reading me down there?",8
+DOGGETT,"Like a songbird, Agent Scully.",5
+STEVEN MELNICK,"My shirt, my neck... Get it off!",7
+LT. BIANCO,What's going on?,3
+STEVEN MELNICK,Something's burning! Something's burning!!,4
+LT. BIANCO,"Just, just hold still...",4
+SCULLY,What just happened?,3
+DOGGETT,"I don't know. He's got a burn on his neck, silver-dollar sized.",12
+DOGGETT,You get seepage down here?,5
+MELNICK,"Yeah, constantly. This line was tunneled through landfill adjacent to the harbour. It's a part of the Big Dig.",19
+LYLE,There was a puddle 20 yards back.,7
+DOGGETT,"You hear that, Agent Scully?",5
+SCULLY,Yeah. Ask Dr. Lyle if she can get a sample.,10
+DOGGETT,We need you to get a sample.,7
+LYLE,"Okay, I'm on it.",4
+DOGGETT,Maybe it's not a man we're looking for but some sort of toxic leak.,14
+LT. BIANCO,We were told there are no contaminants down here.,9
+LYLE,Tell her I'm sending this.,5
+LYLE,We're transmitting.,2
+DOGGETT,"You online, Agent Scully?",4
+SCULLY,"Yeah, I got it. I'm getting a reading... Sample analysis is showing carbon, bromide, boron and calcium.",17
+LYLE,It's just seawater.,3
+SCULLY,Let me get on the phone. Maybe I can get a molecular analysis.,13
+DEPUTY CHIEF KARRAS,"Four hours, Agent Scully.",4
+LT. BIANCO,Take it easy.,3
+MELNICK,Agent Doggett!,2
+DOGGETT,What? What is it?,4
+LT. BIANCO,There's somebody in the tunnel.,5
+DOGGETT,"All right, let's go find him.",6
+LYLE,Open this line in four hours passengers will get more than just a ride-- they'll get a steam bath to boot.,21
+LYLE,W…what are you doing?,4
+MELNICK,"If this guy was going to shoot me he already had his chance. Besides, I'm sweating like a pig.",19
+DOGGETT,"Mr. Melnick, what's this?",4
+MELNICK,It's a tunnel from the old system. Been shut down for years.,12
+DOGGETT,"You see this, Agent Scully? You have this on your graphic?",11
+SCULLY,Yeah. It's a fork in the line.,7
+DEPUTY CHIEF KARRAS,That line is obsolete. It's been gutted and decommissioned.,9
+DOGGETT,"How far from here to where the train lost power, Agent Scully?",12
+SCULLY,It's about a mile up the main tunnel.,8
+DEPUTY CHIEF KARRAS,He's going to waste valuable time going in there.,9
+SCULLY,Agent Doggett.,2
+SCULLY,Agent Doggett...,2
+DOGGETT,I'm just taking a look.,5
+LT. BIANCO,"All right, let's get out of here.",7
+DOGGETT,Mr. Melnick what's your call? You think there's any good reason to pursue this section?,15
+MELNICK,Lots of places to hide in here.,7
+DOGGETT,Dr. Lyle?,2
+LYLE,"Agent Doggett, look out!",4
+SCULLY,"Agent Doggett, what happened? Can you hear me?",8
+DOGGETT,Yeah.,1
+DOGGETT,"Nah, give me a minute. What hit me?",8
+LYLE,"Well, he came at you like some kind of phantom.",10
+SCULLY,What did? Agent Doggett.,4
+MELNICK,Would you call that equivocal?,5
+DOGGETT,Agent Scully...,2
+SCULLY,"Uh, okay, I see it. Um, I'm going to need some data.",12
+DOGGETT,Agent Scully needs some data.,5
+LYLE,I'm already on it.,4
+LT. BIANCO,I think this is the guy that killed Officer Philbrick.,10
+LYLE,I'm transmitting some photos.,4
+DOGGETT,"Here comes your data, Agent Scully.",6
+SCULLY,"Oh, my god.",3
+LT. BIANCO,Where you going?,3
+MELNICK,I think I just saw something.,6
+DOGGETT,What's the problem?,3
+LT. BIANCO,There's no problem. This man fits the description called in by my transit cop. We found what we were looking for. Let's get him wrapped up and go home.,29
+MELNICK,See it? There's something on the floor.,7
+DOGGETT,"Agent Scully, we got bodies. Looks like three males. Agent Scully?",11
+SCULLY,"Yeah, I see them. Can you get any closer?",9
+DOGGETT,Smell's a little overpowering. They've been here for a while. Looks like someone wrapped them up and stashed them down here.,21
+SCULLY,Can you get them uncovered?,5
+DOGGETT,Look like squatters from the way they're dressed. I'm not sure I want to touch these.,16
+SCULLY,I see signs of the same tissue degradation we saw in the other victims. We may have a contagion here after all.,22
+LT. BIANCO,What did she say?,4
+DOGGETT,"Dr. Lyle, down here.",4
+LYLE,Oh...,1
+DOGGETT,The CDC may be wrong.,5
+LYLE,Somebody's over here!,3
+SCULLY,Agent Doggett?,2
+DOGGETT,Whatever she saw... What did you see?,7
+LYLE,Somebody out here just took off.,6
+DOGGETT,I don't see where.,4
+LT. BIANCO,"Look, we're done down here. Let's get this show on the road.",12
+SCULLY,Agent Doggett...,2
+DOGGETT,"Hold it, Lieutenant.",3
+SCULLY,"Agent Doggett, if there's somebody else down there you're going to need to find him.",15
+DEPUTY CHIEF KARRAS,"What are you doing, Agent Scully? Get those people out.",10
+SCULLY,"""Those people"" just found three dead bodies and I want to know what happened to them.",16
+DEPUTY CHIEF KARRAS,"Look, they are in an obsolete, decommissioned tunnel. I'll get a crew down in there tonight after rush hour.",19
+SCULLY,You don't understand. They could be infected and contagious.,9
+DEPUTY CHIEF KARRAS,With what? Seawater? You are being irrational here. The CDC says there are no contaminants. I'm going to take their word on it.,23
+SCULLY,"Then, who are those dead men and how did they die?",11
+DEPUTY CHIEF KARRAS,Probably tunnel rats. Squatters attacked by the same man who killed my transit cop.,14
+SCULLY,"Then take a look at the man who fits the description of your killer, okay?",15
+SCULLY,"Just look at his injuries, sir. He died the same way. There is something down there and I am not going to risk bringing it up here before I figure out what it is!",34
+DOGGETT,Agent Scully...,2
+SCULLY,Yeah?,1
+DOGGETT,What do you want us to do?,7
+SCULLY,I want you to leave those bodies where you found them and go after whoever it is who's in that tunnel.,21
+SCULLY,"We need to know whether he is causing this or if he's infected himself. Either way, he may kill more people. I'm sure Dr. Lyle will agree.",27
+DOGGETT,"All right, we just got our order. We're going to continue on.",12
+LT. BIANCO,Says who?,2
+DOGGETT,Says the boss.,3
+LT. BIANCO,"Agent Doggett. This agent you work with deals with weird stuff, right?",12
+DOGGETT,She works on something called the X-Files-- FBI cases dealing with unexplained phenomena.,13
+LT. BIANCO,You know her at all?,5
+DOGGETT,"Yeah, I know her. We've worked together for a short time.",11
+LT. BIANCO,I wonder why she sent you down here instead of coming herself.,12
+DOGGETT,"It's the right call. You got a problem, Lieutenant?",9
+LT. BIANCO,Yeah. A problem when somebody I don't know keeps me down herein the dark looking for jack squat when we've already found our man.,24
+DOGGETT,It's a question of contagion.,5
+LT. BIANCO,It's a question of who's in charge.,7
+SCULLY,Agent Doggett?,2
+DOGGETT,Yeah.,1
+SCULLY,You all right down there?,5
+DOGGETT,Fine. What do you got for us?,7
+SCULLY,You're about 50 yards from the spot where the train stopped.,11
+DOGGETT,What am I looking for?,5
+SCULLY,I don't know. Anything.,4
+MELNICK,Get it off me. Get it off me!,8
+LYLE,What is it?,3
+MELNICK,"I don't know, but it burns!",6
+DOGGETT,Just hold still. Let us see it.,7
+MELNICK,It burns!,2
+SCULLY,What is it? What's happening? Agent Doggett?!,7
+DOGGETT,I can't tell what it is.,6
+DOGGETT,"Agent Scully, talk to me.",5
+SCULLY,"Yeah, um, get some fresh water on it!",8
+DOGGETT,Give me water here!,4
+LYLE,What the hell was that?,5
+DOGGETT,"I don't know, and I don't like it that you don't know!",12
+DOGGETT,"Agent Scully, talk to me!",5
+SCULLY,"I don't know what to say... I, mean, i-it's something attacking the dermis.",13
+DOGGETT,Attacking? It ate his arm off!,6
+SCULLY,"I hate to say this, Agent Doggett but it looks like it could be some kind of biochemical weapon.",19
+DOGGETT,Great.,1
+LYLE,What?,1
+LT. BIANCO,What did she say?,4
+DOGGETT,She said a lot of people might be taking cabs home tonight.,12
+MELNICK,What the hell is this thing?!,6
+DOGGETT,It might be a terrorist using some kind of biochemical agent.,11
+LT. BIANCO,"Might? What, is she guessing?",5
+SCULLY,"Agent Doggett, I pulled up a map of the subway grid where you are now. I want you to listen to me.",22
+DOGGETT,Agent Scully's telling me the tunnel we're in connects to another tunnel 100 yards up. It's the only place for another mile that this guy could be hiding.,28
+LYLE,"Well, this man ain't going nowhere.",6
+DOGGETT,"Then you take care of him. I'll have a hazmat team come down here and prep you for quarantine. Lieutenant, let's go.",22
+LYLE,"All right, buddy. I'm gonna get you out of here. Come on. Come on. I got you, buddy. Hang in there.",21
+SCULLY,"Dr. Lyle... Dr. Lyle, how are you feeling?",8
+LYLE,Me?,1
+SCULLY,Yeah.,1
+LYLE,"Well, I seem to be okay, but Melnick... Melnick is getting worse.",12
+SCULLY,"Well, we got vehicles on the way. The CDC doctors have been informed of your conditions.",16
+LYLE,"So, what are they going to be treating us for? How are they going to treat Melnick?",17
+SCULLY,I'm working on that.,4
+SCULLY,"Hey! What are you doing?! Hey, where are you taking them? Those bodies go to the CDC... Look, as a federal agent I order you to stop and explain yourself.",30
+DEPUTY CHIEF KARRAS,"Agent Scully, we are on a deadline here, which is fast approaching.",12
+SCULLY,These bodies need immediate examination and diagnosis.,7
+DEPUTY CHIEF KARRAS,And that is being arranged.,5
+SCULLY,By whom? I already arranged it.,6
+SCULLY,"You knew those bodies were down there, didn't you?",9
+DEPUTY CHIEF KARRAS,"I'd watch yourself, Agent Scully.",5
+SCULLY,"Look at the way they're wrapped. Somebody sealed them in plastic, hoping they wouldn't be found. Look, if I find out you sent my partner and those others down there knowing about this...",33
+DEPUTY CHIEF KARRAS,You are way out of line here.,7
+SCULLY,I want to see inspection reports. I want to know who was down there in that tunnel and what they saw.,21
+DEPUTY CHIEF KARRAS,I'll get you anything you want.,6
+SCULLY,"Good. Now, let's get these bodies to the CDC where they're supposed to go.",14
+DOGGETT,"What's this here, Lieutenant?",4
+LT. BIANCO,Abandoned station-- old stop.,4
+DOGGETT,Agent Scully... Agent Scully...,4
+LT. BIANCO,"Here we are, we're pissing away our time and she's asleep at the wheel.",14
+DOGGETT,Agent Scully...,2
+LT. BIANCO,"Come on, Agent Doggett. Make a decision. Let's get out of here.",12
+DOGGETT,"We got to find whoever it is that's still down here, Lieutenant.",12
+LT. BIANCO,"And what if we don't find him? Maybe it'll be us they find lying facedown on the floor, dead.",19
+DOGGETT,Agent Scully knows what she's doing. This is about saving people's lives.,12
+LT. BIANCO,"Well, it looks like it's about saving her life. If she knows what she's doing why hasn't she figured it out yet?",22
+DOGGETT,Lieutenant... Walk towards me.,4
+LT. BIANCO,"What? What, damn it?",4
+LT. BIANCO,"The stuff's on me. You see that it's spreading. I told you, Agent Doggett-- we should've gotten out.",18
+DOGGETT,That's exactly why we got to stay.,7
+LT. BIANCO,You saw! You saw what it does.,7
+DOGGETT,"Yeah, I saw what it did. But I don't see it having any other effect on you, so just calm down.",21
+LT. BIANCO,I'm getting out of here. I'm leaving.,7
+LT. BIANCO,"You'd do it, wouldn't you?",5
+DOGGETT,"Not because I want to. But you're pushing pretty hard. So put your weapon down, Lieutenant, right now.",18
+DOGGETT,"Now, we're going to get out of here but we're going to wait for the okay.",16
+SCULLY,"Agent Doggett? Agent Doggett, can you... Agent Doggett? Come in, Agent Doggett. Agent Doggett! Come in, damn it!",18
+[CARRIK,"She is obviously worried about Doggett, but if this were Mulder down in that tunnel, baby or no baby, 400 rabid, acid-blooded, black oil infected aliens would not be able to keep her from running down into that tunnel to save him. No scene could make the point more clear that she considers herself Doggett's co-worker. She already has a partner and will not replace him.)",66
+YOUNG WOMAN,Is this a bad time?,5
+SCULLY,Excuse me?,2
+YOUNG WOMAN,"I don't know, I'm looking for an FBI Agent Dana Scully. Do you know where I can find him?",19
+SCULLY,"No... Yes... I mean, I'm-I'm she. Can I help you?",10
+YOUNG WOMAN,Yes. I'm Dr. Kai Bowe. I was sent a scribbled note and a saltwater sample for analysis. I'm a marine biologist from BU.,23
+SCULLY,"I'm sorry. Yes, Dr. Bowe, please. Um... Did you get an analysis?",12
+DR. BOWE,"Well, yes, I have something to show you, that's for sure. I'm going to assume you're in a hurry.",19
+DR. BOWE,This is an image taken from a stereo microscope of what's called a medusa. Your saltwater sample was rather deceiving. Its components are exactly as you'd expect except for higher levels of calcium. This creature is primarily that.,38
+SCULLY,Calcium?,1
+DR. BOWE,"Yes, it's what powers its movement and gives it bioluminescence.",10
+SCULLY,So you're saying that this is a sea creature? Which is why the CDC missed it.,16
+DR. BOWE,"Well, it's hard to find. I daresay I'm not even sure if it's of the sea but... wherever it's from, it... it's quite incredible.",24
+SCULLY,It's killing people.,3
+DR. BOWE,How?,1
+SCULLY,I don't know. There is seawater in that subway tunnel and it's eating people's flesh off. It's producing some kind of a … a reaction that looks almost electrical.,29
+DR. BOWE,On contact?,2
+SCULLY,No. Something triggers it.,4
+DR. BOWE,Have you been in the tunnel?,6
+SCULLY,"No, I have not. But my partner is down there, and I fear the worst.",15
+LT. BIANCO,"Hey, hey... Anybody out there?",5
+LT. BIANCO,Somebody! Anybody hear me?! Anybody?!,5
+SCULLY,"Agent Doggett? Agent Doggett, can you hear me? Agent Doggett?",10
+DOGGETT,Yeah. I'm here. I hear you.,6
+SCULLY,"Oh, you had me. I, uh... I started fearing the worst.",11
+DOGGETT,"No, I... I got blindsided by... I don't see Lieutenant Bianco. He's infected with something. I saw it glowing on his skin.",22
+SCULLY,"And what's your condition, Agent Doggett?",6
+DOGGETT,I'm going to assume it's not good.,7
+SCULLY,"I'm going to send a quarantine unit down to get you, Agent Doggett, okay? I want you to stay right where you are.",23
+DOGGETT,"I appreciate it, Agent Scully, but I can't do that. If we're going to stop the spread of this thing I got to stop Lieutenant Bianco.",26
+SCULLY,"Dr. Bowe, I need you to get on the phone with the CDC. Tell them everything we know. We have to learn as quickly as possible what sets this thing off.",31
+SCULLY,Look... I need you to blockade any and every exit from the system. You've got a possible outbreak situation here.,20
+DEPUTY CHIEF KARRAS,"No, no. That's not going to happen.",7
+SCULLY,"No, you listen to me. Your lieutenant is infected and at large in the system and he is looking for a way out.",23
+DEPUTY CHIEF KARRAS,I hear you. It's just that there are already passengers waiting on the platform.,14
+SCULLY,Agent Doggett... We've got a new wrinkle.,7
+DOGGETT,Don't tell me.,3
+SCULLY,We're running out of time. It's 20 to 4:00.,9
+DOGGETT,I'm moving as fast as I can.,7
+SCULLY,"Agent Doggett, you shouldn't be moving at all.",8
+DOGGETT,"In 20 minutes I'll be taking a long bath at the hotel. Right now, I got to find this guy.",20
+SCULLY,"This organism that's on your skin-- something triggers it, and I don't know what. It could be body temperature. It could be heart rate.",24
+DOGGETT,"It could be from standing still, too, right? Maybe the only thing keeping me from sparking up right now is that I'm moving.",23
+SCULLY,"Yeah, I guess you're right.",5
+DOGGETT,"I'm getting out of this thing, Agent Scully. Just make sure Karras holds those trains till I find Bianco.",19
+SCULLY,He's got passengers waiting at the next station.,8
+DOGGETT,You tell that son of a bitch he's got to clear the system. He's...,14
+DOGGETT,Wait. I see something.,4
+DOGGETT,Lieutenant... He's hurt.,3
+SCULLY,"You see this, Dr. Bowe?",5
+SCULLY,"You see this, Mr. Karras?",5
+SCULLY,You're on with the CDC?,5
+SCULLY,"I need anything they can give me about what sets this organism off-- an idea, a notion, a wild guess.",20
+DOGGETT,"Agent Scully, what do you want me to do?",9
+SCULLY,"Get out of there, Agent Doggett.",6
+DOGGETT,What about this man?,4
+SCULLY,I'm going to send a hazmat team down for him but from what I've seen the reaction's progressive.,18
+LT. BIANCO,"Please, Agent Doggett, don't leave me.",6
+DOGGETT,I hope you're enjoying the ride.,6
+DOGGETT,"You see this, Agent Scully?",5
+SCULLY,Yeah.,1
+DR. BOWE,Who else is down there?,5
+DOGGETT,We don't know.,3
+DOGGETT,"You, there! Stop! Federal Agent! I'm armed!",7
+DOGGETT,"Agent Scully, believe this?",4
+DOGGETT,Who are you? What's your name? What are you doing down here?,12
+SCULLY,What's he pointing at?,4
+DOGGETT,I don't know.,3
+DR. BOWE,Is he infected?,3
+SCULLY,"Agent Doggett, turn the light away.",6
+DOGGETT,Nothing. He's unaffected.,3
+DR. BOWE,How's that?,2
+SCULLY,I think I just figured it out. I might know what triggers this.,13
+DOGGETT,What is it?,3
+SCULLY,Sweat. Perspiration is a conductor for calcium ions promoting a chemical-electrical reaction.,12
+DOGGETT,Electricity?,1
+SCULLY,That's right. And since the boy's sweat glands aren't fully developed then he wouldn't be as conductive.,17
+DOGGETT,Just my luck.,3
+SCULLY,"Agent Doggett, where's he going?",5
+DOGGETT,"I don't know, but he wants me to follow him.",10
+DOGGETT,"Agent Scully, I don't know if you can see this. I think I found the source of the contagion. It looks like a big leak in the ceiling is crumbling the walls flooding into the system. It must have seeped in from the bay. Hey, where you going?",48
+DOGGETT,You see this? The kid's walking right through this stuff.,10
+SCULLY,"Yeah. I'm... I'm checking my graphic here. It... It looks like he's trying to lead you through to a tunnel on the main system. And, if what I'm looking at is accurate, it would put you about 400 yards from an access point. I mean, if I could put a hazmat team together we might be able to have you out in about 15 minutes.",65
+DOGGETT,"Come on, Lieutenant.",3
+DOGGETT,"We're in through to the main system, Agent Scully and we got big, big problems here.",16
+SCULLY,"Yes, we do.",3
+DOGGETT,You see this flooding?,4
+SCULLY,No. It's worse than that. I think this moron Karras has started the trains rolling.,15
+SCULLY,"Agent Doggett what are you doing? Agent Doggett... Get off the tracks, Agent Doggett. Get out of there!",18
+DOGGETT,We got people on the train. They could get infected.,10
+SCULLY,"Get out of there, Agent Doggett!",6
+DOGGETT,Give it to me! Give it to me!,8
+DOGGETT,"I got an idea, Agent Scully.",6
+SCULLY,"Agent Doggett? Talk to me, Agent Doggett.",7
+SCULLY,"Agent Doggett, are you there? Can you hear me?",9
+DOGGETT,"Yeah. Yeah, I'm here.",4
+SCULLY,Thank god. Uh... I lost you on the visual.,9
+SCULLY,"Okay... Okay, I've got you. You're back.",7
+SCULLY,Are you okay?,3
+DOGGETT,"I can only hope, Agent Scully.",6
+DOGGETT,Nurse! Nurse!,2
+SCULLY,Where do you think you're going?,6
+DOGGETT,Find the nurse. She said she was going to talk to the doctor about me going home. I could be dying in here for all she knows.,27
+[CARRIK,"Oh, so male. Manly Man Meter just went up again.]",10
+SCULLY,"Well, you're not... Agent Doggett. Your skin and body have been rid of the organism. Simple alcohol bath cleaned you right up. I was just down talking to the nurse and I told her I'd come and give you the news.",41
+DOGGETT,"Well, can I get out of here?",7
+SCULLY,Yes.,1
+DOGGETT,What about the others?,4
+SCULLY,"Well, the kid is with Social Services and plastic surgeons are working on Melnick and Bianco and Dr. Lyle has been discharged.",22
+DOGGETT,"You know, I'd like to think that this was over but there's going to be hell to pay for these guys.",21
+SCULLY,"No. It's over, Agent Doggett.",5
+DOGGETT,Excuse me? This guy Karras put a train back on the tracks. He recklessly endangered people's lives.,17
+SCULLY,But there is no proof of that.,7
+DOGGETT,"What do you mean, there's no proof?",7
+SCULLY,What I'm saying is that the organism is no longer extant. It's destroyed.,13
+DOGGETT,By what?,2
+SCULLY,I'm guessing by the electrical charge that you set off.,10
+DOGGETT,We have victims. Dead bodies.,5
+SCULLY,Infected by a pathogen of unknown aetiology.,7
+SCULLY,"Look, Agent Doggett, not a criminal charge is going to stick. These guys were just doing their job-- keeping the trains running.",22
+SCULLY,But they've got you to thank. And not just for saving their butts.,13
+DOGGETT,No. You figured it out. I was just your eyes and ears.,12
+DOGGETT,Agent Scully...,2
+SCULLY,Let's go home.,3

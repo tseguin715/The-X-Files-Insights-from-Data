@@ -1,0 +1,262 @@
+speaker,line,words
+MAN,AAAAAAAAAAAHHHHHHHHHHHH!!!!!!!,1
+FLIGHT ATT,"Excuse me, Sir. Where is the passenger who was sitting here?",11
+SEATMATE,He’s been gone since I woke up. I assumed he was in the restroom.,14
+FLIGHT ATT,"Please take your seat, Sir. We’re about to land. Sir, we’re landing any minute now. Sir? Sir?",17
+FLIGHT ATT,AAAAAAAAHHHHHHHHH!!!!!,1
+SKINNER,Come in. Thank you for getting here so quickly.,9
+SCULLY,There’s not much traffic at this hour.,7
+SKINNER,"Agent Scully, this is Dr. Simon Bruin. He’s with the Philadelphia office of the Centers for Disease Control.",18
+BRUIN,"A pleasure, Dr. Scully.",4
+SKINNER,How familiar are you with the series of kidnappings that have taken place in Philadelphia?,15
+SCULLY,"Only what I’ve read in the Herald. Uh, that four young men have gone missing over the past three months --- all of them African-American.",24
+SKINNER,A joint FBI-Philadelphia PD task force has been working around the clock ----- but there have been no leads to speak of... until last night.,24
+SCULLY,What happened last night?,4
+SKINNER,"Owen Sanders, then man most recently reported missing, was found dead near a construction site.",15
+SCULLY,How was he killed?,4
+SKINNER,"That’s just it, Agent Scully. He wasn’t. There was no evidence indicating homicide.",13
+SCULLY,Has a cause of death been determined.,7
+SKINNER,No. But I’ll let Dr. Bruin give you his thoughts on that.,12
+BRUIN,This was taken last night less than an hour after Sanders’ body was found.,14
+SCULLY,"I’m sorry, I thought you said that Owen Sanders was black.",11
+BRUIN,He was.,2
+SCULLY,I’m not sure I follow.,5
+BRUIN,See for yourself. Owen Sanders was a perfectly normal young black man.,12
+SCULLY,I assume you’re going somewhere with this.,7
+BRUIN,The depigmentation we are seeing may actually be characteristic of a disease... an apparently fatal one.,16
+SCULLY,So you don’t think these men are victims of a crime at all.,13
+BRUIN,"It’s my opinion, Dr. Scully, this investigation should begin and end under a microscope.",14
+SKINNER,Dr. Bruin’s hope was that someone with a solid medical background like yourself could make a quick and decisive analysis.,20
+SCULLY,"Case number 2139318537. Subject is a black male, 19 years in his skin, hair and eyes. The appearance of which suggests albinism, though the bleaching of the irises indicates a violent and unexplained cellular reaction to a vector or an environment.",41
+MULDER,Hey. I heard you were down here slicing and dicing. Who’s the lucky stiff?,14
+SCULLY,His name was Owen Sanders. He was reported as the fourth kidnap victim in Philadelphia until his body turned up last night looking like this.,25
+MULDER,"There’s a Michael Jackson joke in here somewhere, but I can’t quite find it.",14
+SCULLY,I have been requested to determine what leeched the pigment from his body.,13
+MULDER,Requested by whom?,3
+SCULLY,The Centers for Disease Control.,5
+MULDER,The CDC in a kidnap case?,6
+SCULLY,"Well, they believe that the uh, the case has been mislabeled. That this man and the others may have fallen prey to a disease or a pathogen.",27
+MULDER,Based on what other evidence?,5
+SCULLY,"There were no external signs of trauma or defense wounds and uh, his wallet was still full of cash.",19
+MULDER,"That’s interesting. What, uh, what sort of disease is this?",10
+SCULLY,I don’t know. There are conditions like vitiligo which attack melanocytes and prevent the manufacture of melanin in the skin. Auto immune disorders which are not yet clearly understood.,29
+MULDER,So this man died of a disorder. He and four other young black men who conveniently contracted the disease in succession and then disappeared without any explanation whatsoever.,28
+SCULLY,"Well, it’s very possible that they have already turned up but because of the depigmentation there may have been a problem with identification, so I have reissued descriptions of John Does to area morgues and ERs.",36
+MULDER,"Scully, has it occurred to you that this might just be a...a little PR exercise?",15
+SCULLY,I’m sorry?,2
+MULDER,To divert attention from the fact that young black men are dying and nobody seems to be able to bring in a suspect? The perception being that nobody cares.,29
+SCULLY,"Mulder, not everything is a labyrinth of dark conspiracy, and not everybody is plotting to deceive, inveigle and obfuscate.",19
+MULDER,nan,1
+SCULLY,nan,1
+MULDER,Did you lift any forensic evidence from the body?,9
+SCULLY,"Yes, there’s hair, skin, and fiber behind you on the counter. What are you doing?",15
+MULDER,I’m going to join the snipe hunt.... if you don’t mind.... before the body count rises.,16
+MAN,Mr. Aboah? Anyone home? Samuel Aboah?,6
+ABOAH,Yes?,1
+MAN,I’m Marcus Duff. Remember me? Your immigration counselor. We have an appointment to go over your naturalization petition.,18
+ABOAH,Please.,1
+DUFF,"Thank you. We could, ah, use a little light in here to fill out the petition. Maybe you could open a window, or something.",24
+DUFF,"I guess that works. Have a seat, Samuel. This is a little complicated. So..... You okay? You look ill. You got a fever or something?",25
+ABOAH,No.,1
+DUFF,"I know how lonely it is. Believe me..... being in a strange place far from your family. But once you become a US citizen I can help you bring over every brother, sister, aunt, uncle, and cousin. It all starts today, Samuel. Know what I’m saying?",46
+ABOAH,Thank you.,2
+MULDER,Agent Pendrell. Thanks for turning this materials analysis around on such short notice.,13
+PENDRELL,Shouldn’t we wait for Agent Scully? Just so I won’t have to repeat myself.,14
+MULDER,She’s not coming.,3
+PENDRELL,Why not?,2
+MULDER,She had a date.,4
+MULDER,"Breathe, Agent Pendrell. It’s with a dead man. She’s doing an autopsy. You said you found something?",17
+PENDRELL,"Yeah, asbestos fibers. Not much there. And I didn’t think there was much of anything either among the vegetable debris, all local soils, pollen, etc. ‘til I came across this. We had to go online with a botanist at UVN to determine what it was.",45
+MULDER,"Well, it looks like some kind of thorn.",8
+PENDRELL,"It’s a seed, actually. But nothing you’ll find at your local nursery. Adenia Volkensii.",14
+MULDER,Help me out.,3
+PENDRELL,It’s from a rare species of passionflower. It’s a rare night blooming plant indigenous to only certain parts of West Africa.,21
+MULDER,"How could something this small travel 5,000 miles around the world and wind up on Owen Sanders?",17
+PENDRELL,That I couldn’t tell you.,5
+MULDER,It contains a cerebropathic glycoside. Does that mean anything to you?,11
+SCULLY,"If I’m correct, it’s a cortical depressant that works on the higher centers of the brain.",16
+MULDER,Is it lethal?,3
+SCULLY,In large enough quantities it might be. Larger than anything contained in a single seed.,15
+MULDER,Did the toxicology scan detect any of it in Owen Sanders’ blood?,12
+SCULLY,"No, the tox screen was clean.",6
+MULDER,Could his body have metabolized the substance?,7
+SCULLY,Only if the victim hadn’t expired immediately.,7
+MULDER,Does that tell you anything about anything?,7
+SCULLY,"No, but.... I think I found something that could explain the depigmentation in the victim. His pituitary gland was necrotized.",20
+MULDER,His pituitary gland?,3
+SCULLY,The pituitary gland secretes all the regulatory hormones in the body and it controls the production of melanin in the skin cells.,22
+MULDER,So you found evidence that this is a disease?,9
+SCULLY,No. I have identified the effect. I am still looking for the cause.,13
+MULDER,"Okay, well why don’t you let me know as soon as you find anything out.",15
+SCULLY,"Where are you, Mulder?",4
+MULDER,Off to water the seeds of doubt. Bye-bye.,8
+MULDER,Ms. Covarrubias?,2
+MARITA,Who are you?,3
+MULDER,Agent Mulder. Fox Mulder.,4
+MARITA,What are you doing?,4
+MULDER,Sorry I frightened you.,4
+MARITA,What do you want?,4
+MULDER,"I’m not sure why, but I thought you might be in a position to help me.",16
+MARITA,Help you?,2
+MULDER,Four young men are missing in Philadelphia. One of the men was found dead last night. This seed was recovered from the victim’s body. It’s from a rare species of plant found only in West Africa. Do you know anything about this case?,43
+MARITA,No.,1
+MULDER,Is there any way you could find something out about it?,11
+MARITA,"Thousands of exotic species cross into US soil every day undetected. Bilge water is emptied into harbors. Produce sent through the mail. In practical terms, borders are little more than lines on maps.",33
+MULDER,Is that a yes or a no.,7
+MARITA,I can’t help you.,4
+MULDER,"You can’t, or you won’t? You made an overture to me. You left an opening. Tell me I’m wrong. Tell me there’s nothing here and I’ll just walk away. Either way, I need to know.",35
+DRIVER,"Hey, I got a schedule. Are you getting on or not? What’s your problem? Are you on drugs, or something? Ah, the hell with you. You can walk for all I care. Damned drugs.",34
+DRIVER,He was sitting right here staring up at me with these glassy eyes. Pretty much out of it.,18
+SCULLY,You mean he looked sick?,5
+DRIVER,"Yeah, now that you mention it. I mean, I asked him if he needed help, but he didn’t say squat. Don’t forget to put down I had a schedule to keep.",31
+SCULLY,Did you observe anybody else in the area?,8
+DRIVER,Not that I saw. I already told the police pretty much everything I know.,14
+SCULLY,Excuse me.,2
+MULDER,What happened here?,3
+SCULLY,We have another missing young man. His name is Alfred Kittel. 17 years old. He’s African American. His mother called the police,22
+MULDER,How does she know he’s missing?,6
+SCULLY,"He works at a fast food place down the street. He takes this bus every night, and last night he never made it home. They found his knapsack on the bench here. Police are out canvassing. I talked to a bus driver who said that he seemed disoriented and non-responsive which seems to me like it might be some kind of pre-symptomatic dementia.",63
+MULDER,Or a reaction to a powerful cortical depressant.,8
+SCULLY,What are you suggesting?,4
+MULDER,You find Alfred Kittel and you find another one of those weird African seeds.,14
+SCULLY,What makes you so sure?,5
+MULDER,"Three months ago – one week before the first person was reported missing – the New York Port Authority filed that with the FAA. Like Owen Sanders, this man wasn’t an albino either. Not until he was found dead on a charter flight from West Africa, from Burkina Faso. The Embassy demanded that the body be returned before an autopsy could be performed.",63
+SCULLY,It says here that the cause of death was undetermined.,10
+MULDER,"Yeah, undetermined, Scully, but not necessarily unknown.",7
+OFFICER,Aboah? What the hell kind of name is that? Mr. Aboah?,11
+ABOAH,Yes?,1
+OFFICER,Philadelphia PD. We’re canvassing the building in regard to a missing person’s case. This is the young man we’re looking for. Have you seen him?,25
+ABOAH,No.,1
+OFFICER,"Well, if you hear from anyone who has, or come across any information at all, you can reach us at this number. That’s a hotline. You can call 24 hours a day.",32
+ABOAH,Thank you.,2
+OFFICER,Thank you.,2
+DUFF,I am really quite busy.,5
+MULDER,I’m sorry. We won’t take up much of your time. The INS District Chief told us that you were in charge of most of the casework for aliens emigrating from Africa and the Caribbean.,34
+DUFF,I assist people from that part of the world where I came from 15 years ago.,16
+MULDER,"Well, we’re looking for somebody that came a little more recently than that. On a flight from Burkina Faso? This is the passenger manifest from the charter company.",28
+DUFF,And... you want me to do what exactly?,8
+MULDER,I’d like you to cross reference those names on that list with anyone applying for permanent resident status or a work visa within the last three months.,27
+DUFF,I am a social worker. Not a police officer. My business is not chasing down illegals.,16
+SCULLY,"Sir, we’re not here to arrest anybody.",7
+DUFF,"But you are FBI agents, are you not?",8
+SCULLY,Yes. Investigating a possible public health crisis.,7
+DUFF,What kind of crisis?,4
+MULDER,He’s not home. We might as well get comfortable.,9
+SCULLY,"It has to be here, Mulder. There has to be some evidence of a virus or bacterium.",17
+MULDER,"Scully, I think if you looked up from the microscope for a minute, you’d see that what’s really missing is a motive.",22
+SCULLY,The motive of any pathogen is to reproduce itself. And my job as a doctor is to find out if and how it is being transmitted.,26
+MULDER,If this is a health crisis.,6
+SCULLY,Death is a health crisis. Something caused Owen Sanders’ pituitary to fail which in turn caused his metabolism to drop resulting in myaxadema coma and finally in death. Sometimes you have to start at the end to find the beginning. I just hope we don’t have to find another dead body to discover what that is.,56
+MULDER,Maybe we won’t have to wait. Mr. Aboah? Can I talk to you a minute?,15
+MULDER,"Boy, this guy can move.",5
+SCULLY,He’s not here.,3
+MULDER,He has to be.,4
+SCULLY,"Mulder, I think I know where he went. Come on, Mulder. Let’s go. We’ve lost him.",16
+MULDER,"Hey, Scully. Look at this.",5
+SCULLY,"Oh, my god.",3
+DOCTOR,"From all outward signs, this man appears asymptomatic. I appreciate the connection you’ve tried to make, but I’m afraid it’s a dead end.",23
+SCULLY,"With your permission, sir, I’d like to examine him some more. I’d like to run a suppression test, to do a TSH screen, take a history.",26
+DOCTOR,It would help if we could talk to him.,9
+SCULLY,I’m working on that.,4
+DOCTOR,All right.,2
+MULDER,Nothing?,1
+SCULLY,Not yet. But that doesn’t mean he isn’t a carrier or even the index case.,15
+MULDER,"Well, he’s some kind of case the way he disappeared down that drain pipe.",14
+DUFF,Why has Samuel Aboah been arrested? You said his health was in danger. Why have I been lied to?,19
+SCULLY,"Nobody has lied to you, sir.",6
+DUFF,"Then please, release him immediately.",5
+SCULLY,We would like to do some more tests on him. We have to be certain that his health hasn’t been endangered and that he isn’t endangering others.,27
+DUFF,Then why have you called me.,6
+SCULLY,As a translator. We’d like to be able to ask him some questions.,13
+DUFF,About what?,2
+MULDER,About Alfred Kittel and about several other young men who have gone missing since his arrival in Philadelphia three months ago.,21
+DUFF,Then... this is about a criminal charge.,7
+SCULLY,There are no charges against Mr. Aboah.,7
+MULDER,"We only arrested him because he ran when we tried to question him, and I want to know why he ran.",21
+DUFF,"Sir, if you had ever been beaten by the police or had your home burned to the ground for no other reason than being born then maybe you would understand why he ran and why you would run too.",39
+MULDER,"That man ran because he’s hiding something. And no amount of tests you run on him, no science is going to find that. Excuse me.",25
+SCULLY,Where are you going?,4
+MULDER,"To find someone who I know plotted to deceive, inveigle and obfuscate.",12
+SECRETARY,"Minister, this is Agent Mulder with the FBI.",8
+MULDER,"Thank you for seeing me at such a late hour, sir.",11
+MINISTER,I did not have much of a choice in this matter. Someone from the United Nations spoke to the ambassador directly. What’s so important that it can’t wait?,28
+MULDER,"With all due respect, sir, I think you already know.",10
+MINISTER,Do I?,2
+MULDER,"`Something happened on a flight from your country about three months ago --- something that you felt compelled to hide even from your own ambassador. The State Department said the request to stop investigating this man’s death came directly from you. Now, I understand the need to protect your diplomatic position, but more men are dying, sir.",56
+MINISTER,"Even if I tell you what I know, you would never believe it.",13
+MULDER,"You’d be surprised at what I believe, sir.",8
+MINISTER,I had hoped if I closed my eyes it would go away this time?,14
+MULDER,This time?,2
+MINISTER,"My people... the Bambara, are farmers. I grew up hearing the old stories, believing them as only a child can believe.",21
+MULDER,What kinds of stories?,4
+MINISTER,The Teliko...spirits.... of the air.,5
+MINISTER,"It was said they rested by day in close, dark places, deep inside tree hollows and in holes beneath the ground too small even for a child to hide himself.",30
+ORDERLY,Mr. Aboah?,2
+MINISTER,"Only when the sun fell, when the rest of the world was sleeping, would they come out.",17
+MULDER,"Come out to do what, sir?",6
+MINISTER,"I was seven years old. Lying awake one night, I saw him. He was standing over me. His hair was like straw.... his eyes like water, staring down at me. I closed my eyes and screamed and felt myself being swept up into the air, but when I opened my eyes, I saw my father holding me.",57
+MULDER,"Then, it was a nightmare.",5
+MINISTER,"That’s what my father said, and I believed him, until the next day... when they found my cousin, dead among his cattle, looking exactly like this man.",27
+MINISTER,"Which is why, when this photograph came across my desk three months ago --- I knew the Teliko was more than just a children’s story. I knew it was real. I knew he was here.",34
+SCULLY,"This patient appears to have something in his throat, some kind of aberrant bone growth, or maybe something foreign lodged in his esophagus.",23
+DOCTOR,Could be a lot of things. You’d be amazed what I’ve seen removed from people’s throats in emergency rooms.,19
+SCULLY,"Well, that’s only part of it. I discovered something even more disturbing when his PET series came back. Look right here on the sagittal section, right below the hypothalamus.",29
+DOCTOR,There must be some mistake.,5
+SCULLY,There’s no mistake. This patient has no pituitary gland.,9
+DOCTOR,But that’s not possible.,4
+SCULLY,"I can’t even begin to explain what we’re seeing here, sir. I just hope this patient can, can provide us with some of the answers.",25
+MULDER,You’ll have to find him first.,6
+SCULLY,What are you talking about?,5
+MULDER,I was looking for you down in quarantine. Samuel Aboah’s gone. Disappeared.,12
+DUFF,Samuel? You scared me. They let you out of the hospital?,11
+ABOAH,Yes.,1
+DUFF,Everything is fine? Samuel? Did you want to see me about something?,12
+ABOAH,nan,1
+DUFF,"Well, come on. Let me give you a ride home. We can talk about it on the way. Lucky for you, I was working late.",25
+ABOAH,Yes. Lucky.,2
+DUFF,"Come, let’s go.",3
+SCULLY,"When did this happen?..... Thank you, Lieutenant. I appreciate it. Mulder.....",11
+MULDER,I think this was his getaway vehicle. He didn’t even touch his Jell-O.,13
+SCULLY,Let’s go. That was the Philadelphia PD. Marcus Duff’s car turned up abandoned with the keys in the ignition and the hood still hot.,24
+MULDER,nan,1
+POLICEMAN,...... requesting ambulance......,2
+SCULLY,Do you know what happened to him?,7
+LIEUTENANT,"I won’t even try to guess what happened to him, but he’s alive.",13
+SCULLY,What about Aboah? Any indication of where he might be?,10
+LIEUTENANT,We’re still sweeping the area. I’ll keep you posted.,9
+SCULLY,"He’s got to be around here somewhere, Mulder. He can’t have gotten far.",13
+MULDER,"This guy can squeeze into a coffee can, Scully. He could be anywhere.",13
+SCULLY,They’ll find him.,3
+MULDER,He’ll find another victim.,4
+SCULLY,How do you know?,4
+MULDER,We interrupted him before he could finish.,7
+SCULLY,Interrupted his killing Duff?,4
+MULDER,"The killing is just incidental I think, Scully, to a far more basic need.",14
+SCULLY,What need?,2
+MULDER,"If Aboah has no pituitary then his body would lack the ability to produce melanin itself, right?",17
+SCULLY,"Theoretically, yes.",2
+MULDER,"Well, when you examined him you didn’t observe one single albino trait or characteristic.",14
+SCULLY,Considering his PET scan results I don’t even know how he managed to stay alive.,15
+MULDER,"That’s what I’m talking about, Scully, survival. And not just Aboah’s. I think that anomaly you observed is not just physiological, I think it may be evolutionary.",27
+SCULLY,What are you talking about?,5
+MULDER,"The lost tribe, a clan of sub-Saharan albinos linked by their common congenital deficit who’ve adapted over generations by....",19
+SCULLY,"What, by stealing other people’s hormones?",6
+MULDER,"Somehow, Aboah has managed to survive.",6
+SCULLY,"Well, however he’s managed to survive wha --- I mean what.... what makes you think he’s not an isolated case?",19
+MULDER,Because of something somebody told me last night. An African folktale.,11
+SCULLY,So you’re basing this theory on a folktale?,8
+MULDER,"It’s just another way of describing the same truth, right? I mean all new truths begin as heresies and end as superstitions. We... we fear the unknown, so we reduce it to the terms that are most familiar to us, whether that’s a folktale, or a disease, or a...... conspiracy.",50
+SCULLY,"Well, even if you’re right, I mean especially if you’re right, why would he leave his own country to come here?",21
+MULDER,"Free cable. I don’t know, the same reasons anybody comes to this country. Liberty, the freedom to pursue your own interests. Look at that.",24
+SCULLY,What are you doing?,4
+MULDER,It’s a demolition site.,4
+SCULLY,"Why are we here, Mulder?",5
+MULDER,Pendrell found asbestos fibers on Owen Sanders’ body. And you remove asbestos from an old building before you tear it down. It had to come from somewhere.,27
+MULDER,Ow.,1
+MULDER,Scully? Scully!,2
+SCULLY,Mulder?,1
+SCULLY,"Mulder? Mulder? Mulder? Mulder? Mulder! Mulder, are you okay?",9
+SCULLY,"It’s okay, Mulder. I’m here, okay?",6
+SCULLY,"Sorry, Mulder. Yes, this is Dana Scully with the FBI requesting immediate EMS and police assistance. I’m in Liberty Plaza....... My badge number? JTT0331613.",24
+SCULLY,No. Liberty Plaza. There’s a demolition site on the north side of the street.,14
+SCULLY,"Special Agent Dana Scully, Field Journal Entry number 74. Despite acute trauma to his pituitary gland, Marcus Duff was discharged early this morning from Mt. Zion Medical Center. He is expected to testify before a Grand Jury in the capital case against Samuel Aboah who is being charged with five counts of murder. It remains uncertain, however, whether Aboah will live long enough to stand trial. His response to hormone therapy has been poor, his deterioration progressive. My conviction remains intact that that the mechanism by which Aboah killed and in turn survived, can only be explained by medical science, and that science will eventually discover his place in the broader context of evolution. But what science may never be able to explain is our ineffable fear of the alien among us; a fear which often drives us not to search for understanding, but to deceive, inveigle, and obfuscate. To obscure the truth not only from others, but from ourselves.",160

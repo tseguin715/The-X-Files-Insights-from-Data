@@ -1,0 +1,283 @@
+speaker,line,words
+HANK GULATARSKI,"Hey, now we're talking.",4
+HANK GULATARSKI,"Hey. Right here, man, right here!",6
+HANK GULATARSKI,"Hey, come on! Stop, you son of a...",8
+HANK GULATARSKI,"You know, you got, like, highway hypnosis or something. You didn't see me standing there, yelling, waving?",17
+HANK GULATARSKI,You better watch that.,4
+HANK GULATARSKI,"Oh, come on. What now?",5
+HANK GULATARSKI,Where's everybody going?,3
+HANK GULATARSKI,"Is, is the toilet broken? What?",6
+HANK GULATARSKI,Can someone please tell me what's going on here?,9
+HANK GULATARSKI,No!,1
+HANK GULATARSKI,No! No!,2
+SCULLY,Damn.,1
+DOGGETT,John Doggett.,2
+SCULLY,"Hey, it's Scully. Good morning.",5
+DOGGETT,Good afternoon. I've been trying to reach you.,8
+SCULLY,"Well, actually, I'm out of town. I'm … north of Sugarville, Utah, roughly.",13
+DOGGETT,Utah? What are you doing there?,6
+SCULLY,"The, uh, local coroner wants a consultation on a murder victim.... a man who was found beaten to death in the desert. Apparently, his corpse shows some anomalous characteristics.",29
+DOGGETT,Anomalous? How?,2
+SCULLY,"From what they're telling me, he is a, uh, 22-year-old backpacker who was last seen by his family about six months ago in perfect health. However, his body is now showing advanced signs of osteoporosis, arthritis, and kyphosis of the vertebrae. In other words, he's got a spine of a 90-year-old woman.",52
+DOGGETT,"Sounds anomalous, all right. You didn't need me to tag along?",11
+SCULLY,"Well, it was just a, uh, a simple consultation... and, uh... he called me over the weekend and I figured I wasn't going to bother you.",26
+DOGGETT,"Well, if there's anything I can do from here…",9
+SCULLY,"Well, actually, there might be, if you don't mind. Somewhere in our files... there is a, uh, an unsolved murder case.",21
+SCULLY,"Unfortunately, I , uh, don't remember any of the particulars like where or when it took place but I do remember that there were some glycoproteins found at the crime scene.",30
+DOGGETT,"""Glycoproteins.""",1
+SCULLY,"Yeah, mucous... But it was, uh, unable to be identified, and seeing as how you, uh, recently read through all of our files I thought maybe it would ring a bell with you.",33
+DOGGETT,"Well, I don't have a great memory for mucous... but I'll be happy to look.",15
+DOGGETT,Remember anything else? Are you still there? Agent Scully? Agent Scully?,11
+SCULLY,I'm sorry?,2
+DOGGETT,Do you remember anything else?,5
+SCULLY,"No, no, no, just, uh, just mucous. Look, when you find that file, will you fax it over to the Juab County Sheriff's office? That's the best place to reach me. My cell phone doesn't seem to be working out here.",41
+DOGGETT,"All right, you got it.",5
+SCULLY,Thank you.,2
+SCULLY,Hello?,1
+GAS STATION MAN,How you doing?,3
+SCULLY,"Good … thanks. I, uh, I was wondering. A bus came through here a little while ago. Uh, do you happen to know where it might have gone?",28
+GAS STATION MAN,"Well, I was around back.",5
+SCULLY,Do you know what's up that road?,7
+GAS STATION MAN,"Eventually it'll get you to Salt Lake... I mean, if you're not in too much a hurry.",17
+SCULLY,"Uh, can I ask what happened to your hand?",9
+GAS STATION MAN,Aww… I was changing the blade on my bow saw. It's kind of gross.,14
+SCULLY,"Yeah. There was a, uh, murder out here last week about 15, 20 miles off the state road. Did you, uh, did you hear about it?",26
+GAS STATION MAN,"Yes, I did. It's scary.",5
+SCULLY,"Yeah. Well, you're going to want to wash this out. Put some iodine on it. You don't want it to get infected.",22
+GAS STATION MAN,You sound like my mother.,5
+SCULLY,"Yeah, well, I also sound like a doctor.",8
+GAS STATION MAN,Medical doctor?,2
+SCULLY,Yeah. Can you sell me some gas?,7
+GAS STATION MAN,"Oh. Oh, I'd love to... but I'm all out. See, the tanker was supposed to be here yesterday but... well, I'm hoping for this afternoon. How low are you?",29
+SCULLY,"I got a... quarter tank, I think. I'll make it. It's all right.",13
+GAS STATION MAN,I'd feel awful bad if you didn't. Hang on.,9
+SCULLY,Thanks.,1
+GAS STATION MAN,Should be enough in here to tide you over.,9
+SCULLY,"Oh, that's great. Thank you.",5
+GAS STATION MAN,Do me a favor. Don't go telling people that I'm giving away free gas back here.,16
+SCULLY,"Where is ""here,"" exactly? 'Cause I can't seem to find this town on the map.",15
+GAS STATION MAN,"Oh, we're not really a town. Just a... just a few like-minded people trying to keep the modern world at bay.",21
+GAS STATION MAN,You're good to go.,4
+SCULLY,Thank you very much.,4
+GAS STATION MAN,Help is coming.,3
+SCULLY,Okay.,1
+SCULLY,Hey. Excuse me. You put something in my tank that killed my engine.,13
+GAS STATION MAN,What?,1
+SCULLY,"Where's that gas can? I'd like to see it, please.",10
+SCULLY,That's water. I barely even smell any gasoline.,8
+GAS STATION MAN,"Oh, God, you're right. I'm sorry. I... I left it out. It must have gotten rain in it.",18
+SCULLY,"Oh, and it rains a lot here, does it? Seeing as how it's basically the desert.",16
+GAS STATION MAN,I'm really sorry.,3
+SCULLY,Yeah. I'm going to use your phone.,7
+GAS STATION MAN,I don't have one.,4
+SCULLY,You don't have a phone. So how did you call up the tanker that was supposed to come here yesterday?,20
+GAS STATION MAN,There's a phone up the street. Mr. Milsap's place. He'll help you out.,13
+SCULLY,Hello? Hello?,2
+SCULLY,Hi.,1
+MR. MILSAP,Hi.,1
+SCULLY,Mr. Milsap?,2
+MR. MILSAP,Can I help you?,4
+SCULLY,"Yes, I hope so. My, uh, car has stalled up the street and I was wondering if I could use your phone.",22
+MR. MILSAP,Sure. It's in here.,4
+SCULLY,The line's dead.,3
+MR. MILSAP,"Oh, no. Let me see.",5
+MR. MILSAP,"Damn phone company. They're updating the lines, so the service gets interrupted. It'll come back on.",16
+SCULLY,How long?,2
+MR. MILSAP,"Ten minutes... two hours... I could say, but I'd just be guessing.",12
+MR. MILSAP,You're welcome to wait here. I could even give you a room if you like. This was a boarding house.,20
+SCULLY,I won't be here that long.,6
+SCULLY,What the hell is going on here?,7
+MR. MILSAP,Sorry?,1
+SCULLY,I get the distinct impression that somebody doesn't want me to leave.,12
+MR. MILSAP,I don't know anything about that.,6
+SCULLY,A bus came through here about an hour ago. Where did it go?,13
+MR. MILSAP,A bus?,2
+SCULLY,Don't tell me you didn't see it.,7
+MR. MILSAP,"Oh, I think I'd have known if a big bus came through. Are you sure I can't help you out with a room?",23
+MR. MILSAP,It's 18 miles to the state road. Another 20 to Sugarville.,11
+MR. MILSAP,You don't want to walk it.,6
+SCULLY,"Excuse me. Ma'am, excuse me. Ma'am. Excuse me, ma'am.",9
+SCULLY,"Hello? Ma'am, I need some help.",6
+SCULLY,Hello?,1
+SCULLY,Hello?,1
+MR. MILSAP,"Doctor, can I speak to you? It's... it's an emergency.",10
+MR. MILSAP,I'm sorry to bother you. There's a man downstairs that needs help. Please.,13
+SCULLY,Let go. Don't hold him down.,6
+SCULLY,How long has he been seizing?,6
+FEMALE BUS DRIVER,"Uh, three... four minutes.",4
+SCULLY,It's okay. You're all right. You're okay.,7
+SCULLY,What's his name?,3
+MR. MILSAP,He's a stranger. He needed help.,6
+FEMALE BUS DRIVER,Wha... what's wrong with him?,5
+SCULLY,"He had a grand mal seizure. As far as I can tell, he's in status. It's a continuous seizure state. He doesn't smell like acetone, which would indicate that he's hyperglycemic and … uh … he doesn't appear to have any head injuries. He could be epileptic and just ceased taking his medication.",53
+SCULLY,How did this happen?,4
+SCULLY,"Uh-huh. At any rate, we need to get him to a hospital. Immediately.",13
+SCULLY,I assume that your phone's still not working.,8
+MR. MILSAP,Sorry.,1
+SCULLY,"Well, do you or one of your ""friendly"" neighbors happen to have a car?",14
+FEMALE BUS DRIVER,No one here has a car.,6
+SCULLY,No cars?,2
+MR. MILSAP,We could send someone to the state road on foot. All right? We could get them to bring back help.,20
+FEMALE BUS DRIVER,"In the meantime, please, anything you can do for him.",10
+SCULLY,"All right, do you... um … do you have any Karo syrup? Any corn syrup?",15
+SHERIFF CIOLINO,"Joab County Sheriff's office, Sheriff Ciolino speaking.",7
+DOGGETT,"Yeah, hi, this is Agent John Doggett with the FBI. I have some material my partner, Agent Scully, requested. What's your fax number there?",24
+SHERIFF CIOLINO,"Agent Doggett, uh, when's your partner going to get here, by the way? The murder victim's family's waiting for us to turn the body over.",25
+DOGGETT,Agent Scully's not there? She's supposed to be there yesterday.,10
+SHERIFF CIOLINO,"Yes, sir, that was our understanding.",6
+DOGGETT,"Sheriff, could I trouble you to send a car out? Agent Scully –is- in Utah. She called me yesterday somewhere north of Sugarville.",23
+SHERIFF CIOLINO,You got it. I'll get someone right out there.,9
+DOGGETT,"Okay, thanks. I'll be in touch.",6
+DOGGETT,"Danny, hi. This is John Doggett. I need",8
+YOU TO TRACE A CALL FOR ME.  IT CAME TO THIS OFFICE YESTERDAY ABOUT 1,30 in the afternoon.,4
+FEMALE BUS DRIVER,Am I doing this right?,5
+SCULLY,"Yeah, you can hold off now.",6
+FEMALE BUS DRIVER,Nothing's happening.,2
+SCULLY,"I'm sorry, but, uh... I'm just winging it here. I mean, raising his blood sugar only helps if his condition is brought on by hypoglycemia, but this could be the result of any number of things.",36
+FEMALE BUS DRIVER,So what do we do?,5
+SCULLY,"Well, I'm afraid that I have done all that I can do … unless you know how to get ahold of diazepam or phenobarbital other than the nearest hospital … which is where we should be, of course.",38
+SCULLY,"Hey, hey. Can you hear me? How are you feeling?",10
+HANK,Okay.,1
+FEMALE BUS DRIVER,Thank God. Thank God. We were all so scared.,9
+HANK,I think I just need rest.,6
+FEMALE BUS DRIVER,We should leave him alone.,5
+HANK,"Can, uh, you stay?",4
+FEMALE BUS DRIVER,I'll go tell everybody.,4
+HANK,Are you a doctor?,4
+SCULLY,Yes. I am.,3
+HANK,"Thank you. For, uh, helping me.",6
+SCULLY,"Well, I'm not sure if I've actually done anything. In fact, I don't even know, uh, I don't even know what's going on with you right now. Do you know what your name is?",34
+HANK,Um…,1
+SCULLY,You don't remember do you? How about how you got here?,11
+SCULLY,What about these people who have taken you in? Do you know anything about them?,15
+HANK,"Um, they, uh, take good care of me?",8
+SCULLY,"Yeah, I'll say they take very good care of you. The sun seems to rise and set on you as far as they're concerned. In fact, they seem to have stranded me here in order to nurse you back to health.",41
+HANK,What … why would they do that?,7
+SCULLY,"A murder took place about 20 miles from here. A man was stoned to death. His head was so badly crushed, that they couldn't identify him from his teeth. Now it looks like upwards of a dozen people may have participated due to the footprints at the crime scene, but it's a very tight knit group of people who would murder together. A cult, in a word. And I'd say that these people qualify.",74
+HANK,What are you? Detective?,4
+SCULLY,"FBI. And I need to get you out of here, but I don't know how. Okay, do you think that you can you walk?",24
+HANK,I don't know. Kind of weak.,6
+SCULLY,I understand.,2
+SCULLY,"Hang … hang on a second. Just let me look at something, okay?",13
+HANK,Mmmm?,1
+SCULLY,All right.,2
+HANK,That thing hurts! Maybe you shouldn't do that.,8
+SCULLY,"Hold on, hold on.",4
+DOGGETT,Doggett.,1
+SHERIFF CIOLINO,It's Ciolino. We checked out the number you gave us. It's a pay phone a half-mile from the crime scene.,20
+DOGGETT,Agent Scully must've just come from there when she called me.,11
+SHERIFF CIOLINO,Looks like. We're sorry. Still no sign of her.,9
+DOGGETT,Are you canvassing? Talking to NAVIS?,6
+SHERIFF CIOLINO,"Well, we would but there's no one to canvass. We're looking at a pretty desolate area. There's really nobody out there.",21
+DOGGETT,"All right, listen. You got help coming your way from our Salt Lake City office. I'm heading out there, too. There's a new angle we need to be looking at.",30
+SHERIFF CIOLINO,What's that?,2
+DOGGETT,"That pay phone. Before Scully's call to me, the last call was placed on it was four days earlier, the night of the murder.",24
+SHERIFF CIOLINO,Yeah?,1
+DOGGETT,"It was placed to a Juliette Gulatarski. Of Fort Collins, Colorado. She tells me it was her brother Hank. He was on his way for a visit. Said he was stuck in the desert, but would be there in two days.",41
+DOGGETT,He never showed.,3
+FEMALE BUS DRIVER,Something's happening.,2
+SCULLY,He's coming to. Hey. Can you hear me? How are you feeling?,12
+HANK,I'm alive. And that's a start.,6
+FEMALE BUS DRIVER,"Oh, praise God.",3
+MR. MILSAP,Praise Him. Praise Him.,4
+HANK,What's wrong with me?,4
+HANK,I just need some rest. She can take care of me.,11
+SCULLY,It's lucky they're still listening to you for the time being.,11
+SCULLY,"This... wound in your back... it seems to be a point of entry for a parasitic organism that has taken up residence along your spine. Now, this is something that I am completely unfamiliar with.",35
+HANK,"Oh, boy.",2
+SCULLY,I don't know how far this extends or how to get it out of you without harming you.,18
+HANK,Does that mean I'm dying?,5
+SCULLY,"You will die if we cannot treat you properly. Now, these people don't seem to want to let you go. I think that they put this thing inside of you.",30
+SCULLY,"Now, I have no idea what the motives of these people are-- whether it's some bizarre religious activity-- but they killed the last person who was in your condition and I'm afraid that they're going to try and kill you, too.",41
+HANK,This is a lot to take in.,7
+SCULLY,No kidding.,2
+HANK,What are you going to do?,6
+SCULLY,I'm going to try and get us the hell out of here.,12
+SCULLY,"These, uh... people tell me that they have no cars. I don't believe them. They've got to have transportation hidden around here somewhere.",23
+SCULLY,"I'm going to go take a look around, okay?",9
+HANK,"You're not going to be gone long, right?",8
+SCULLY,You know how to use a gun?,7
+HANK,Pretty much.,2
+SCULLY,I'll be back soon.,4
+HANK,The sooner the better.,4
+FEMALE BUS DRIVER,Where did she go?,4
+HANK,She says I'm dying.,4
+HANK,We need another swap.,4
+DOGGETT,Sherriff? Agent John Doggett.,4
+SHERIFF CIOLINO,You made good time.,4
+DOGGETT,Good to know you.,4
+BRIAN MAYFIELD,"I'm Brian Mayfield, Salt Lake office. We're at your disposal.",10
+DOGGETT,Appreciate it.,2
+DOGGETT,"Sheriff, does this wound look familiar?",6
+SHERIFF CIOLINO,It's the victim in our morgue. Where'd you get it?,10
+DOGGETT,That's not your murder victim. That's a photo of a John Doe found off a West Texas highway in 1991.,20
+SHERIFF CIOLINO,Our guy has the same wound.,6
+DOGGETT,"Yeah, I thought you were going to say that.",9
+DOGGETT,"Arizona, '93. New Mexico, '97. Nevada, '99. All four victims had their brains beaten out and were dumped in remote areas. All four cases are unsolved.",26
+MAYFIELD,How'd you run these down?,5
+DOGGETT,"Agent Scully had me track down this first one. It noted glycoproteins at the crime scene which is what she found. This same wound kept showing up. These murders range throughout the southwest, zigzagging all over the desert. The more remote the better.",43
+SCULLY,Hey. How'd you...?,3
+SCULLY,You had me convinced.,4
+SCULLY,"I'm a Federal Agent! At this moment, the FBI is searching for me!",13
+FEMALE BUS DRIVER,They won't find you.,4
+MR. MILSAP,Talk to her.,3
+HANK,"Your life... is about to take a wonderful turn. You're going to become a part of something much, much greater than you are. You're going to be... so loved.",29
+MR. MILSAP,Amen. Amen.,2
+ALL,Amen. Amen.,2
+SCULLY,No! Ahhh!!! You son of a bitch!,7
+MR. MILSAP,Amen!,1
+SCULLY,You just murdered him!,4
+ALL,Amen!,1
+MR. MILSAP AND ALL,Amen! Amen! Amen! Amen! Amen!,5
+ALL,Amen!,1
+SCULLY,"No. No! I'm pregnant! No! No, don't do this! I'm going to have a baby!",15
+SCULLY,No! Don't do this! No! I'm going to have a baby!,11
+SCULLY,No! No! No! No!,4
+SCULLY,What did you put in me?! I'm going to get every last one of you bastards!,16
+MR. MILSAP,No.,1
+MR. MILSAP,"You'll love us. You'll protect us. You'll teach us, make us better than we are. We're taught not to envy, but I do envy you so. That you'll soon be one with him.",33
+SCULLY,"Him?! That thing in my spine is a ""him""?!",9
+MR. MILSAP,"Please. This is such a wonderful, wonderful thing... for you... and your unborn child. That last man just wasn't a suitable tabernacle. The thing of it is there's always the chance that your body won't fail him... that he'll be in you forever.",43
+SCULLY,Help! Help! Help!,3
+DOGGETT,Good evening.,2
+MR. MILSAP,Good evening. You lost?,4
+DOGGETT,"Well, I may be. I'm way the hell off the main road, that's for sure.",15
+FEMALE BUS DRIVER,Can we help you?,4
+DOGGETT,"Yeah, I hope so. I'm, uh... looking for this woman. Have you seen her?",14
+MR. MILSAP,No.,1
+FEMALE BUS DRIVER,No.,1
+MR. MILSAP,Can't say I have.,4
+SCULLY,Help! Help!,2
+(BACK DOWN ON THE STREET,),0
+DOGGETT,She would have been driving a rental car like mine. You sure she hasn't been through here?,17
+MR. MILSAP,No. We get so few visitors we remember each one pretty well.,12
+DOGGETT,All right. Thanks for your time.,6
+SCULLY,Help! Help!,2
+DOGGETT,"Sheriff, this is Doggett.",4
+SHERIFF CIOLINO,"I'm reading you, Agent Doggett. Where are you?",8
+DOGGETT,"20 miles off the state road, just north of the crime scene. Some kind of outpost. It's on your map. I'm getting a definite vibe from it. Just talked to a guy who had a gun in his pocket and I don't mean he was happy to see me.",49
+SHERIFF CIOLINO,I'll send everybody I've got.,5
+DOGGETT,Hurry. I can't wait for you.,6
+DOGGETT,Hey.,1
+DOGGETT,What in the hell...? Agent Scully...,6
+DOGGETT,God all mighty. Agent Scully. Agent Scully.,7
+SCULLY,Agent Doggett. Get me the hell out of here.,9
+DOGGETT,Can you walk?,3
+SCULLY,I don't know. How far is your car?,8
+DOGGETT,It's about a half a mile up the road.,9
+SCULLY,I know something closer.,4
+SCULLY,Can you hot-wire it?,4
+DOGGETT,"Can I hot-wire it? Gone in 60 seconds, Jack. I'm going to strand these lunatics.",15
+DOGGETT,Agent Scully... talk to me.,5
+SCULLY,You got to cut it out. Cut it out. Oh... Oh... Now it's going to come to my brain.,19
+SCULLY,Cut it out of me now!,6
+SCULLY,"Aah! Just do it, Doggett!",5
+MR. MILSAP,Why?,1
+DOGGETT,Ready to go?,3
+SCULLY,"Yeah, I'm ready to go.",5
+DOGGETT,Grand Jury convenes today. All 47 cult members are sticking together. They're not offering up much defense other than that they're being persecuted for their religious beliefs.,27
+SCULLY,They believe they worshipped Christ. That that thing was the Second Coming.,12
+SCULLY,"Look, I, uh... I wanted to apologize. I … I left you out of this case, and that was a mistake on my part. It was almost a fatal mistake.",30
+DOGGETT,It was. You screwed up.,5
+SCULLY,And I won't do it again.,6
+DOGGETT,I appreciate it.,3

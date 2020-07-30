@@ -1,0 +1,253 @@
+speaker,line,words
+JARED CHIRP,"Holy Ghost, come to me. Praise God. Praise God. Move up on me, Holy Ghost. Praise God.",17
+JARED CHIRP,"This here sinner repents. Holy Ghost, move up on me.",10
+JARED CHIRP,Protect me and mine with your quickening power.,8
+JARED CHIRP,"Holy Ghost, come to me.",5
+JARED CHIRP,"Oh, help me, Jesus! Oh, help me, Jesus! Help me, Jesus!",11
+MULDER,"Not as far as you know?... Not this time of year?... All right. Thank you, Doctor. Good-bye.",17
+SCULLY,Snakes.,1
+MULDER,"Lots and lots of snakes. Very pissed off ones, from the look of it.",14
+MULDER,"That's the former Mr. Jared Chirp of McMinn County, Tennessee.",10
+SCULLY,"Oh, my God.",3
+MULDER,116 separate bite marks. Judging from the wound measurements there were 50 different snakes involved-- mostly copperheads and rattlers.,19
+SCULLY,But it says here that he was found dead in his car.,12
+MULDER,"Yeah, with a pistol in his hand. He fired six shots, into the floorboards, into the passenger seat, even into his own right kneecap, and the windows were shut and the doors were locked.",34
+SCULLY,"But, uh, what happened to all the snakes?",8
+MULDER,"No one seems to know that. There was not a scale found. I just got off the phone with a herpetologist at the Smithsonian, and he's stumped - especially because these rattlesnakes tend to hibernate in winter.",36
+SCULLY,"So you think that, uh... Mr. Chirp was murdered?",9
+MULDER,"Well, it certainly would appear that way but the question is ""how?"" There's no physical evidence at all-- no tire tracks, no footprints. I can't see how anyone could have accomplished this. And then you got to ask yourself ""why?"" Why would anybody use poisonous snakes as a murder weapon?",50
+SCULLY,"Maybe it's symbolic. I mean, serpents and religion have gone hand in hand. They've represented the temptation of Eve-- Original Sin. They've been feared and hated throughout history as they've been thought to embody Satan-- to serve Evil itself.",39
+MULDER,Maybe these ones actually do.,5
+SCULLY,These particular serpents actually were serving Evil? Are you going to type that on our travel request?,17
+MULDER,Mmm... No. But at the very least this case does seem to center around religion... and you're not the only one to think that by the way.,27
+REVEREND MACKEY,"Jared is in a better place now, Gracie. He's at peace.",11
+IRIS FINSTER,"You know, Reverend Mackey's right, honey. He is in a better place.",12
+MULDER,"Reverend Samuel Mackey? My name is Fox Mulder. This is Dana Scully. We're with the FBI. May be speak with you, sir?",22
+IRIS FINSTER,"Come on, Gracie. Let's get you home.",7
+MULDER,We apologize for our timing. We'd like to ask you a few questions about Jared Chirp.,16
+REVEREND MACKEY,I've already spoken to the Sheriff about it... though I'm not sure that was a good idea.,17
+MULDER,"Specifically, you had suspicions about the manner in which he died?",11
+REVEREND MACKEY,"I should be the last one to point a finger or say a harsh word. Our church is founded on acceptance and tolerance of all people, all beliefs...",28
+SCULLY,But...?,1
+REVEREND MACKEY,Before Jared joined us he belonged to a fundamentalist congregation outside of town-- the Church of God with Signs and Wonders. It practices snake handling.,25
+MULDER,"As a sign of faith, worshipers handle deadly snakes or drink poison.",12
+REVEREND MACKEY,They believe that the Holy Spirit protects the righteous. Jared grew up in that church but it is very difficult to walk away from a belief system that one is raised in. It takes great courage.,36
+MULDER,Why did he walk away?,5
+REVEREND MACKEY,"He and Gracie, his girlfriend, left it together. They found that a rigid interpretation of the Bible was not for them, especially when it involves risking life and limb in the act of worship, but again it is not for me to judge. I will say, however, that both Jared and Gracie were persecuted by the members of their former church. All this animus... stems from their church leader-- Enoch O'Connor.",71
+SCULLY,Animus enough to motivate a murder?,6
+"""LOOK UNTO ME AND BE SAVED",ALL THE ENDS OF THE EARTH;,6
+"FOR I AM GOD, AND THERE IS NONE OTHER",nan,1
+ISAIAH 45,"22"" All the windows are shaded. MULDER and SCULLY walk up the steps onto the porch.)",16
+SCULLY,Snake handling. I didn't learn that in catechism class.,9
+MULDER,That's funny. I knew a couple of Catholic schoolgirls who were expert at it.,14
+MULDER,Enoch O'Connor? Federal Agents. Where's the light switch?,8
+SCULLY,The nearest one? Probably ten miles from here.,8
+SCULLY,"Rattlesnakes and medieval visions of damnation. Well, I for one, feel a whole lot closer to God.",17
+MULDER,"I don't know, Scully. When you... when you get right down to it is snake handling any harder to buy into than communion wafers or transubstantiation...?",26
+SCULLY,"Or believing in flying saucers, for that matter.",8
+MULDER,I'm just saying that-that your faith and O'Connor's seem to be based on the same book.,16
+MULDER,"Uh-oh, Scully. What do you think O'Connor keeps in here?",10
+SCULLY,Something slithery?,2
+MULDER,It's all right. It's empty.,5
+SCULLY,Why is it empty?,4
+REVEREND O'CONNOR,By what right are you here?,6
+SCULLY,"Reverend Enoch O'Connor, we're Federal Agents. We're, uh... with the FBI.",11
+MULDER,"Reverend, do something about these snakes, please.",7
+REVEREND O'CONNOR,You got nothing to fear if you're righteous people.,9
+MULDER,"Just in case we're not, we could use a little righteous help here.",13
+REVEREND O'CONNOR,What do you want?,4
+SCULLY,We're here to ask you questions about a former member of your church-- Jared Chirp.,15
+REVEREND O'CONNOR,That boy strayed from the path and was lost to the dark one. I'm sorry for his soul. There ain't much else to say.,24
+MULDER,He died from multiple snakebites. We thought maybe you'd have a special insight into that.,15
+REVEREND O'CONNOR,I do. It was a test.,6
+SCULLY,A test? What do you mean?,6
+REVEREND O'CONNOR,"A test of faith. A test of righteousness. When the Devil aims to test you, you'd best be ready and you sure better know which side you're on.",28
+SCULLY,Are you speaking about the Devil's test or your test?,10
+REVEREND O'CONNOR,I don't think you people realize which side you're on. I do. You can leave now.,16
+SCULLY,"Tennessee. Snakes. Thank you, Mulder. Thank you so much. I say we arrest him and catch the first flight out of here.",22
+MULDER,"He does seem like a likely suspect only the local sheriff's office ruled him out. Apparently, he was in Kentucky the night Jared Chirp died.",25
+SCULLY,"Well, Mulder, there are other people in his congregation.",9
+MULDER,Jared Chirp died with a packed suitcase by his side. There's got to be somebody that knows where he was headed.,21
+IRIS FINSTER,"Here you go, honey.",4
+IRIS FINSTER,Reverend Mackey? This might not be the best time but can I speak to you?,15
+REVEREND MACKEY,Of course.,2
+IRIS FINSTER,Jared called the boardinghouse late the night he died. sound asleep and it sounded to me like the boy had been drinking. He just wasn't making any sense. He was ranting about seeing the Devil and paying for his sins.,40
+REVEREND MACKEY,"Iris, why didn't you tell the police?",7
+IRIS FINSTER,"Well, I don't know how to tell Gracie. I kept her from speaking to Jared his last night on Earth. I couldn't have known, though. I couldn't have...",28
+REVEREND MACKEY,"No, no. You couldn't have known. I can help you talk to Gracie.",13
+GRACIE,Reverend Mackey? Everybody's here.,4
+REVEREND MACKEY,"Thank you, Gracie. You and I will see this through, Iris, right after study group.",15
+IRIS FINSTER,Thank you.,2
+REVEREND O'CONNOR,Our God is a fearsome God.,6
+MAN,Amen!,1
+REVEREND O'CONNOR,He demands our very lives!,5
+REVEREND O'CONNOR,"Revelations Three, the 16th verse. ""'Tis better to be hot or cold than lukewarm.""",14
+REVEREND O'CONNOR,"God says, if you're lukewarm He will vomit you out of His mouth.",13
+CONGREGATION,Praise God!,2
+REVEREND O'CONNOR,Yes! Did you hear what I said?!,7
+CONGREGATION,Praise God! Yes!,3
+REVEREND O'CONNOR,God hates the lukewarm!,4
+REVEREND MACKEY,"""So, because you are lukewarm I am about to spit you out of my mouth."" Now, that could sound pretty harsh, couldn't it? I mean, depending on how one reads it. But if we put this verse in a historical context I think we'll see that John was specifically addressing the problems of the Church at Laodicea.",57
+REVEREND O'CONNOR,God wants you hot! God wants you on fire!,9
+MAN,Praise Jesus.,2
+REVEREND O'CONNOR,God wants you to put your money where your mouth is!,11
+CONGREGATION,Amen! Hallelujah! Praise Jesus! Praise the Lord!,7
+CONGREGATION,"Amen! Yes, amen!",3
+REVEREND O'CONNOR,People ask me why I handle snakes.,7
+CONGREGATION,Praise the lord! Hallelujah!,4
+REVEREND O'CONNOR,I tell 'em it's 'cause the scripture tells me to.,10
+CONGREGATION,Praise God!,2
+REVEREND MACKEY,...he offers to Jesus to come into our lives and dine with us if only we'd open the door.,19
+REVEREND O'CONNOR AND CONGREGATION,Praise God! Hallelujah! Praise God! Hallelujah!,6
+REVEREND MACKEY,"...the manner in which John ends this chapter. His emphasis is on teaching the Church at Laodicea perseverance. He uses the word ""overcome"" not once, but twice. I think he's also trying to...",33
+REVEREND O'CONNOR,"Witness the power! Witness the awesome power of God as He blesses His people and destroys His enemies! Thank you, God!",21
+CUTS TO,nan,1
+REVEREND MACKEY,"I don't understand it. None of us saw or heard anything. Just her scream. When we ran in, she was lying on the floor. I cleared everybody out of the building once I saw the bite marks, but...",38
+MULDER,"Reverend, how close was Iris to Jared Chirp?",8
+REVEREND MACKEY,Not... particularly close but I'd spoken with her not 15 minutes earlier about him.,14
+MULDER,What'd you talk about?,4
+REVEREND MACKEY,"She was upset. Something about Jared calling her the night he died looking for Gracie. Something about him... paying for his sins. Well, I don't know. We didn't get to finish our conversation.",33
+MULDER,Maybe that was the point.,5
+GRACIE,Why Iris? Why is this happening?,6
+SCULLY,"Gracie we're investigating the leader of your former church, Enoch O'Connor. We believe that he may have had something to do with what happened here tonight.",26
+MULDER,We would appreciate anything you could tell us about him.,10
+GRACIE,"No, he didn't do this. No. He didn't do this. This... this is Satan's work, not man's.",17
+SCULLY,"Gracie, that sounds like something that Reverend O'Connor might say. Now, you're not a member of that congregation anymore. And I understand that's because you're someone who thinks for herself.",30
+MULDER,"Keeping an open mind, Gracie, is it conceivable that O'Connor could have done any of this?",16
+GRACIE,"No! Don't you think I would know, me, of all people? He couldn't have done this. He just cou....",19
+REVEREND MACKEY,Gracie might be biased.,4
+MULDER,O'Connor is your father.,4
+REVEREND MACKEY,When Gracie got pregnant...,4
+MULDER,O'Connor barred her from his church. She and Jared Chirp.,10
+REVEREND MACKEY,His church and his home.,5
+MULDER,You coming?,2
+SCULLY,I think I'll check around back.,6
+MULDER,"""Pray for the souls... lost to us.""",7
+SCULLY,Oh!!,1
+REVEREND O'CONNOR,You must be judged.,4
+REVEREND O'CONNOR,Repent! Pray for the Lord's quickening power. Into the hands of God.,12
+MULDER,Let her go!,3
+REVEREND O'CONNOR,"Your FBI partner could've learned something about herself if you hadn't stopped me. Some powerful good news, maybe.",18
+MULDER,I'd say it's good news for you that she's not here right now... considering what you tried to do to her. Is that what you did to your wife?,29
+MULDER,"Alice O'Connor... succumbed to multiple snakebites in June, 1994. It happened during a church service or at least that's what you told local police. You got away with it... almost. What was, uh... the problem with your wife? Was she not... righteous enough for you? Just like your daughter's boyfriend... or Iris Finster?",53
+REVEREND O'CONNOR,Educated man... too smart to know any better.,8
+MULDER,Smart enough to know you're a murderer.,7
+REVEREND O'CONNOR,"Satan is near, and you don't even have eyes. You're just proud and fancy free.",15
+MULDER,"No one quite passes muster with you, huh? You feel the need to exact some kind of Old Testament revenge? What about your daughter? What were your plans for her?",30
+REVEREND O'CONNOR,I pray for her soul. I pray and I pray because she's lost.,13
+MULDER,Because she no longer believes as you do?,8
+REVEREND O'CONNOR,You think because you're educated you're better than most? You ain't. Unless you're smart down here the Devil's going to make a fool of you and you ain't even going to know it.,33
+GRACIE,"I changed my mind. I don't... I don't want to see him. Besides, I won't do any better than you people in getting him to talk.",26
+SCULLY,Gracie. You still don't believe your father did it?,9
+GRACIE,It don't matter what I believe. He'll be judged as he deserves. Can't nobody avoid it.,16
+MULDER,Deputy found him about an hour ago. There's no telling when he was attacked.,14
+SCULLY,I guess it's looking less and less like he's a suspect.,11
+MULDER,Unless he somehow managed to do this to himself...... as a test of his own righteousness.,16
+SCULLY,"Well, if so, Mulder, the jury's still out. I just spoke to his doctors. It's a toss-up as to whether he's going to pull through this.",26
+MULDER,What about antivenin treatment?,4
+SCULLY,He's not receiving it.,4
+MULDER,Why not?,2
+SCULLY,"Gracie stepped in. She's trying to forbid treatment on religious grounds. It's not clear whether she has a legal claim to do it, but she says that it's up to God as to whether he lives or dies.",38
+MULDER,And you're thinking that her actions may not be entirely motivated by concern for her father's eternal soul?,18
+SCULLY,"Well, more to the point, Mulder, what if she did this? She told me that her father would be judged as he deserves.",23
+MULDER,Do you think this is what she meant?,8
+SCULLY,"Well, she grew up around snakes, Mulder. Who's to say she isn't every bit as adept at handling them as he is?",22
+MULDER,"I can see her being angry enough at her father to attack him, but... what about the others?",18
+MULDER,"He left in a hurry. Packed one suitcase and a gun. Earlier that night he calls Gracie. Gets Iris instead. Starts rambling about paying for his sins. He's frightened... wants to leave town, presumably with Gracie.",36
+SCULLY,"So, what's he scared of?",5
+SCULLY,"Though I don't understand it, O'Connor's church exerts a strong pull on these people.",14
+MULDER,It's not so hard to understand. It's a culture with a very well-defined set of rules.,16
+SCULLY,"It's an intolerant culture, Mulder.",5
+MULDER,"I don't know, Scully. Sometimes a little intolerance can be a welcome thing. Clear-cut right and wrong, black and white, no shades of gray. You know, in a society where hard and fast rules are harder and harder to come by, I think some people would appreciate that.",48
+SCULLY,"You're saying that you, Fox Mulder, would welcome someone telling you what to believe?",14
+MULDER,I'm just saying that somebody offering you all the answers... could be a very powerful thing.,16
+MULDER,"Oh, it's lab results. Am I reading this right? That Jared Chirp had himself tested for sterility? ""Patient is infertile due to insufficient... No medical recommendation to... Condition considered permanent."")",30
+SCULLY,"Which turns out to be more or less the case. Based on this, that means that Jared can't be the father of Gracie's baby.",24
+MULDER,It's dated the day he died.,6
+SCULLY,So maybe he was killed because he discovered the truth.,10
+REVEREND MACKEY,"Gracie, I'd like to ask you to reconsider.",8
+GRACIE,No. This is what he'd want.,6
+REVEREND MACKEY,He may die without medical treatment.,6
+GRACIE,I've seen him bit a dozen times. He always said that it was up to God whether he lives or dies. Said it was a worse sin not to trust God.,31
+REVEREND MACKEY,"There are many ways to trust God, Gracie. One of them is to trust in the miracles of doctors and medicine. Or... in your heart do you really not want him to get better?",34
+GRACIE,It ain't for me. I can't risk his soul.,9
+REVEREND MACKEY,"And when you first came to me you said that you wanted to think for yourself. To live your life as you saw fit. If you stand here and let your father die, whose beliefs are you living? Yours? Or his?",41
+REVEREND MACKEY,"You're doing the right thing. I'll go tell the doctor, okay?",11
+REVEREND MACKEY,"Agents, Enoch O'Connor is gone. I was away for five minutes. His bed's empty. Gracie is gone, too.",18
+SCULLY,How could Gracie have possibly gotten him out of here?,10
+MULDER,Maybe he took her.,4
+SCULLY,"Mulder, he was on his deathbed; that's impossible. And besides, what's his motivation?",13
+REVEREND MACKEY,I may be able to answer that. Jared Chirp wasn't the father of Gracie's child.,15
+MULDER,We know that. What about it?,6
+SCULLY,Enoch O'Connor is.,3
+REVEREND MACKEY,That's why she wanted to get away from him and his church as fast as she could. And I tried to teach her to forgive him.,26
+GRACIE,"Daddy, please...!",2
+REVEREND O'CONNOR,I'm bringing you home.,4
+GRACIE,Somebody help me!,3
+REVEREND O'CONNOR,In the name of our Holy and most fearsome God...,10
+CONGREGATION,Hallelujah!,1
+REVEREND O'CONNOR,Resist the devil and he will flee. Resist him!,9
+GRACIE,Something's wrong... Something's wrong with my baby. Oh!,8
+REVEREND O'CONNOR,"Jesus, put your hands on this one. You can heal her. Oh, yes, God is... Yes... Jesus...",17
+REVEREND O'CONNOR,"Oh, Lord... Jesus. Dear Lord... Jesus, deliver this woman. Jesus, Jesus...",11
+REVEREND O'CONNOR,"Yes, Lord. Yes, Jesus. Oh, yes. Jesus. Jesus.",8
+GRACIE,"Oh, no! Don't, don't!",4
+REVEREND O'CONNOR,"Dear God, dear heavenly Father, deliver this woman. Jesus.",9
+GRACIE,"No, please...",2
+REVEREND O'CONNOR,Lay your hands on this woman. God! Yes!,8
+GRACIE,No... Don't! Don't!,3
+REVEREND O'CONNOR,"Hallelujah, praise the lord!",4
+REVEREND O'CONNOR,"Oh, my God. Oh, my God.",6
+REVEREND O'CONNOR,Dear Jesus. Dear Jesus! Hallelujah! Hallelujah! Dear Jesus! Hallelujah! Hallelujah,10
+SCULLY,How is she?,3
+EMT,Deep shock. Some loss of blood.,6
+SCULLY,What happened here? Where's the baby?,6
+COP,These folks aren't talking.,4
+MULDER,Scully. Take a look at this.,6
+SCULLY,Snakes. She gave birth to snakes.,6
+WOMAN,The devil has been cast out.,6
+MULDER,Stay with her.,3
+SCULLY,Where are you going?,4
+MULDER,To find her father. He's going to want to tie up some loose ends.,14
+REVEREND O'CONNOR,You stole what was most precious to me.,8
+REVEREND MACKEY,Gracie? She came to me on her own. She wanted to escape a life of fear and judgment. Of intolerance.,20
+REVEREND MACKEY,She fled a harsh and vengeful God. And you.,9
+MULDER,Drop the knife!,3
+MULDER,You all right?,3
+GRACIE,Daddy. Daddy?,2
+SCULLY,"Gracie, it's Agent Scully. We're taking you to the doctor right now, okay?",13
+GRACIE,No. I... got to...,4
+SCULLY,"Can you tell me what happened, Gracie?",7
+GRACIE,Where's my Daddy?,3
+SCULLY,"You're safe, Gracie. My partner's gone after him. Gracie, you're going to be okay. He can't hurt you anymore.",19
+GRACIE,You don't understand. He saved me.,6
+REVEREND MACKEY,I'll call for an ambulance.,5
+MULDER,Relax. Help's on the way.,5
+REVEREND O'CONNOR,"No, it's not. I told you, boy. You still don't know which side you're on. Be smart down here.",19
+REVEREND MACKEY,"Yes, please hurry. They're on their way.",7
+REVEREND MACKEY,Agent.,1
+MULDER,It wasn't O'Connor. It was you. You killed Jared Chirp.,10
+REVEREND MACKEY,You're joking.,2
+MULDER,"No, I'm just beginning to see it now. Jared must have come to understand that he wasn't the father of Gracie's baby... that you were. Did he confront you earlier that night only to see you for who you really are?",41
+REVEREND MACKEY,Just who is it you think I am?,8
+MULDER,Is that what happened with Iris Finster? Was she beginning to catch on? Is that why you killed her? Or was it just to further frame Enoch O'Connor? Is that what this is really about? Ruining O'Connor? Seducing his daughter? Destroying him by any conceivable means?,46
+REVEREND MACKEY,"Are you a righteous man, Agent Mulder?",7
+MULDER,Stay where you are.,4
+REVEREND MACKEY,It's just a simple question. Most people believe they're on the side of angels. But are they?,17
+REVEREND MACKEY,If you were put to the test... how would you do?,11
+SCULLY,Where's Mulder?,2
+MULDER,Help!,1
+REVEREND O'CONNOR,You can't help him. This is his alone.,8
+SCULLY,Mulder?!,1
+MULDER,Mackey?,1
+SCULLY,Still no trace... even though every law enforcement agency in Tennessee's out looking for him.,15
+MULDER,They won't find him. People think the devil has horns and a tail. They're not used to looking for some kindly man who tells you what you want to hear.,30
+SCULLY,"He's just a man, Mulder. Just like O'Connor.",8
+MULDER,Not like O'Connor. If this was some kind of test looks like I failed.,14
+SCULLY,"I'd say if it was, you passed with flying colors. You're alive, aren't you?",14
+MULDER,Proud and fancy-free.,3
+WOMAN,"Reverend Wells, it's a real joy to have a man in the pulpit who has such an open and modern way of looking at God.",25
+REVEREND MACKEY,Bless you for saying so.,5
+WOMAN,"Well, I won't keep you. I just wanted to welcome you to Hamden.",13
+REVEREND MACKEY,Thank you. I look forward to seeing you on Sunday.,10
+WOMAN,Thank you.,2

@@ -1,0 +1,300 @@
+speaker,line,words
+SCULLY,"I, Dana Katherine Scully, swear to tell the truth, the whole truth, and nothing but the truth, so help me God. I would like to read from a prepared statement.",30
+SENATOR SORENSON,You may do so.,4
+SCULLY,"I left behind a career in medicine to become an FBI agent four years ago because I believed in this country. Because I wanted to uphold its laws, to punish the guilty and to protect the innocent. I still believe in this country. But I believe that there are powerful men in the government who do not.",57
+SCULLY,. . . men who have no respect for the law and who flout it with impunity.,14
+CHAIRMAN ROMINE,Ms. Scully. . .,2
+SCULLY CONTINUES,I have come to the conclusion that it is no longer possible. . .,12
+CHAIRMAN ROMINE,"Agent Scully- - this is not a soapbox, Miss Scully. Your statement will be entered into the record.",17
+SCULLY,"With all due respect, Mr. Chairman, I would like to finish.",11
+CHAIRMAN ROMINE,This is not why we are here today.,8
+SCULLY,"Then why are we here, sir?",6
+SENATOR SORENSON,"Agent Scully, do you or do you not know the whereabouts of Agent Mulder? Are you or are you not aware of Agent Mulder's present location?",26
+SCULLY,"I respectfully decline to answer that question, sir.",8
+CHAIRMAN ROMINE,"Ms. Scully, you cannot refuse to answer that question.",9
+SCULLY,Because I believe answering that question could endanger Agent Mulder's life.,11
+CHAIRMAN ROMINE,You don't seem to understand. Your response is not optional; you are an agent of the FBI.,17
+SCULLY,Then if I could please finish my statement. . . that it is no longer possible to carry out my duties as an FBI agent.,23
+SENATOR SORENSON,"Are you tendering your resignation, Ms. Scully? Is that what you're trying to say?",14
+SCULLY,"No, sir. What I am saying is that there is a culture of lawlessness that has prevented me from doing my job. That the real target of this committee's investigation should be the men who are beyond prosecution and punishment. The men whose policies are behind the crimes that you are investigating.",52
+SENATOR SORENSON,"Either you tell us what you know about Agent Mulder's whereabouts, or you will be held in Contempt of Congress.",20
+SENATOR SORENSON,Agent Scully?,2
+FIRST CUSTOMS AGENT,Where are you coming from?,5
+FIRST COURIER,Japan,1
+FIRST CUSTOMS AGENT,Did you travel anywhere else?,5
+FIRST COURIER,The Republic of Georgia.,4
+FIRST CUSTOMS AGENT,The purpose of your trip?,5
+FIRST COURIER,Government business.,2
+FIRST CUSTOMS AGENT,"Okay, I'm going to ask you to see the customs official right through those doors.",15
+FIRST COURIER,What for? I'm traveling on a United States diplomatic visa.,10
+FIRST CUSTOMS AGENT,"Random check, sir. Please proceed through those doors.",8
+FIRST COURIER,I've got a connecting flight.,5
+FIRST CUSTOMS AGENT,"Right through those doors, sir.",5
+SECOND CUSTOMS AGENT,"Right over here, sir.",4
+FIRST COURIER,I don't know what this is about. I have diplomatic papers. I can't be treated like this.,17
+SECOND CUSTOMS AGENT,Is that your only piece of luggage sir?,8
+FIRST COURIER,Yes.,1
+SECOND CUSTOMS AGENT,Can you open it for me?,6
+FIRST COURIER,No.,1
+SECOND CUSTOMS AGENT,"Sir, I'm not offering it as a choice. Open the briefcase, or we'll open it for you.",17
+FIRST COURIER,I don't have the combination.,5
+SECOND CUSTOMS AGENT,"Vince, I need a strip and full body cavity search of this man.",13
+FIRST COURIER,There's going to be hell to pay for this treatment.,10
+SECOND CUSTOMS AGENT,"Sir, would you mind telling me what kind of diplomatic work you do, sir, and what material you're transporting in these?",21
+FIRST COURIER,Those are filled with biohazardous materials.,6
+SECOND CUSTOMS AGENT,Then where's the paperwork? And why aren't the containers marked?,10
+FIRST COURIER,"Don't open those, whatever you do -- that material cannot be exposed to --",12
+FIRST COURIER,Listen to me!,3
+FIRST COURIER,Open this door! Somebody open this door!,7
+SECOND CUSTOMS AGENT,What the hell is this?,5
+FIRST COURIER,Oh my god! Somebody open this door! Let me out of here! Let me out of here!,17
+MULDER,"We can't go in too soon. We have to be patient, it'll happen.",13
+SCULLY,What makes you so sure?,5
+MULDER,"I've received receipts over the past few weeks for detonation cord, for racing and diesel fuel, and for 80 bags of ammonium nitrate purchased in cash in three different states under three different signatures.",34
+SCULLY,What makes you so sure that it's here -- that it's tonight?,11
+MULDER,"I've received two new receipts, one for first and last on this storage space, and one to rent a two-ton truck yesterday. Both with the same signatures. We could be looking at the next Oklahoma City.",36
+SCULLY,"Well, so who do you think's leaking them, and why are they leaking them to you?",16
+SWAT GUY,: We got traffic.,3
+SWAT GUY,They're leaving.,2
+MULDER,"Hold it. agent, I'm armed! Exit the vehicle, now!",9
+SCULLY,Driver's dead.,2
+MULDER,I counted two men.,4
+MULDER,Get out of the truck.,5
+MULDER,Get out of the truck!,5
+MULDER,Let me see your hands! Hands in the air!,9
+MULDER,You son of a bitch!.,5
+SCULLY,Mulder!,1
+KRYCEK,"I handed you this bust, Mulder!",6
+MULDER,"Oh, come on, Krycek!",4
+KRYCEK,Who do you think sent you those receipts?,8
+KRYCEK,"Most of the detonation cord was stolen from a construction site, and some of the explosives were just taken from a military base. I mean, security's just so lax, it's a joke --",32
+KRYCEK,Most everything else was over the counter. Two thousand kilos of boom-boom.,12
+SCULLY,How'd you get involved with these men?,7
+KRYCEK,They found me in North Dakota. They liberated me on a salvage hunt.,13
+KRYCEK,"Hey, you go underground, you gotta learn to live with the rats.",12
+MULDER,I'm sure you had no trouble adapting.,7
+KRYCEK,These men are pathetic revolutionaries who'll kill innocent Americans in the name of bonehead ideologies.,15
+MULDER,"You're full of crap, Krycek. You're an invertebrate scum-sucker whose moral dipstick is about two drops short of bone dry.",20
+KRYCEK,Hey! I love this country.,5
+SCULLY,"What do you want, Krycek?",5
+KRYCEK,Same thing you do. To find the man who tried to kill me. The same man that was responsible for your father's death... your sister's.,25
+SCULLY,You want this man brought to justice?,7
+KRYCEK,You can't bring these men to justice. They're protected. The laws of this country protect them in the name of national security. They know no law.,26
+MULDER,Then why don't you put a bullet in his head like you did that man out there?,17
+KRYCEK,"These men, they fear one thing; exposure.",7
+KRYCEK,"You expose *him,* you expose his crimes, you destroy the destroyer's ability to destroy.",14
+MULDER,The only thing that will destroy this man is the truth.,11
+KRYCEK,"The truth, the truth! There's no truth. These men, they make it up as they go along. They're the engineers of the future. They're the real revolutionaries. I can get them for you too.",34
+MULDER,We can't help you Krycek.,5
+KRYCEK,Mulder. This is just one bomb I'm sitting on here. You didn't ask me how many more I know about.,20
+SCULLY,What flight is he on?,5
+KRYCEK,It's an international charter that originated in Russia. Turkish airline.,10
+MULDER,"There it is, Air Lacayo, 6:45. Fifteen minutes ago. Come on, let's go.",13
+SCULLY,He still has to go through customs.,7
+KRYCEK,No. He'll be carrying a diplomatic pouch.,7
+KRYCEK,That's him.,2
+SCULLY,"Sir, federal agent. Don't be alarmed; I just need to speak with you.",13
+SCULLY,Stop! Stop right there! Sir! Mulder!,6
+SCULLY,"Mulder, look.",2
+SCULLY,Is this some kind of joke?,6
+KRYCEK,What?,1
+MULDER,Show him.,2
+KRYCEK,What is it?,3
+MULDER,"Expose it for him, Scully.",5
+MULDER,"What did you get for Halloween, Charlie Brown?",8
+SKINNER,Who is it?,3
+MULDER,"I need to speak with you, sir.",7
+SKINNER,"What do you want, Agent Mulder?",6
+MULDER,I need your authorization to provide a safe house.,9
+SKINNER,A safe house for whom?,5
+MULDER,This man has information about extreme-right militia that could save the lives of innocent Americans.,15
+SKINNER,He'll be safe here.,4
+SKINNER,"Relatively safe. We're not even yet, boy. That's a start. Give me the keys.",14
+KRYCEK,"You can't -- you can't leave me out here, I'm going to freeze to death!",14
+SKINNER,Just think warm thoughts.,4
+SACKS,"I know I asked you earlier, but you have no idea where this came from?",15
+SCULLY,"Not its origin, no.",4
+MULDER,"But you have an idea, don't you?",7
+SACKS,This rock contains what are known as polycyclic aromatic hydrocarbons fitting the approximate description of those in fragments of meteorite found in the ice fields of Antarctica.,27
+SCULLY,Are you saying. . .,3
+SACKS,What you're looking at is quite possibly from Mars. Over four billion years old.,14
+MULDER,Is it valuable?,3
+SACKS,"Beyond adding evidence to the debate over the fossilized remains of alien bacteria, it's relatively worthless.",16
+SCULLY,"Does this rock contain fossilized remains, Dr. Sacks?",8
+SACKS,"Well, I won't know that until I'm able to take a core sample, which I very much hope you'll allow me to do.",23
+MULDER,I think we'd all like to know what's in that rock.,11
+CSM,"I didn't realize you lived in this neighborhood, Mr. Skinner.",10
+SKINNER,I just moved in.,4
+CSM,I'd guess you live on an upper floor? For the view?,11
+SKINNER,What do you want from me?,6
+CSM,"Agents Mulder and Scully intercepted a diplomatic pouch here in Washington last night. I'm afraid it's created a problem in foreign policy circles. Quite a problem, actually.",27
+SKINNER,I don't know anything about a diplomatic pouch.,8
+CSM,No? Nothing about the matter?,5
+SKINNER,No.,1
+CSM,"Well, I find that hard to believe. As their supervisory agent. As a friend, I should advise you, Mr. Skinner, that withholding information on matters of national security is punishable under the laws of this country for treason and sedition.",40
+SKINNER,Thank you. I'll consider myself advised. As a friend.,9
+CSM,"I need that pouch, Mr. Skinner. And I need to know who gave them the order to intercept it.",19
+SKINNER,I'll get back to you.,5
+CSM,"Wars have broken out over far less, Mr. Skinner. Far far less.",12
+SCULLY,Got something?,2
+MULDER,"Big dead end at the State Department, but U.S. Customs officials detained another courier on a similar visa in Honolulu two nights ago. He was coming from Russian Georgia carrying some kind of toxic soil sample.",36
+SCULLY,Toxic?,1
+MULDER,"Yes, which leads me to believe what's in this rock we intercepted are answers beyond the existence of extraterrestrial life. Even beyond the conspiracy to cover up that existence.",29
+SCULLY,"Mulder, that rock contains fossils of what is believed to be alien bacteria, and even that is under intense debate.",20
+MULDER,Why all this effort to get it onto U.S. soil? I think what Alex Krycek has given us is the pivotal piece to an even larger plot.,27
+SCULLY,"What he's given us, Mulder, is a rock. Alex Krycek is a liar, and a murderer.",16
+MULDER,Who wants to expose the same men that we do and will go to any lengths to succeed.,18
+SCULLY,"What I'm worried about is you, Mulder and how far you'll go. And how far I can follow you.",19
+SKINNER,"Agent Mulder, where are you?",5
+MULDER,I'm with Scully. We're on our way out to NASA-Goddard.,10
+SKINNER,"Well, I suggest that you turn around and head home. I don't know how I'm going to explain myself to the police.",22
+MULDER,Explain yourself about what?,4
+SKINNER,The police are at my place with a dead body. They want to talk to everyone in the building.,19
+MULDER,Pull over here.,3
+SCULLY,What are you doing?,4
+MULDER,I'm gonna take a cab.,5
+MULDER,I want you to find out about that rock. Call me as soon as you do.,16
+SKINNER,"No, I wasn't home.",4
+DETECTIVE,And you live on what floor?,6
+SKINNER,Seventeenth. Walter Skinner. I'm an Assistant Director with the FBI.,10
+DETECTIVE,"Oh. Oh, my apologies, I got some bad information from my lieutenant that there's a man hanging from your balcony.",20
+MULDER,"We're going to walk out of here like nothing happened. If anybody speaks to us, you say nothing.",18
+KRYCEK,"I got no problem. You put me up here, man, I'm looking forward to seeing you get me out. Krycek by the front of his jacket, as if he's going to punch him)",33
+KRYCEK,"I got news for you, Mulder. When they find out who's dead on the ground down there, there's going to be no question whose apartment he was pulled out of.",30
+MULDER,Who is he?,3
+KRYCEK,Same guy with the pouch.,5
+KRYCEK,I say follow the pouch.,5
+MULDER,Yeah?,1
+SCULLY,"Mulder, it's me. Listen to me: whatever's in that rock, it appears to be lethal.",15
+MULDER,What is it?,3
+SCULLY,"It's Dr. Sacks. He's. . . I don't know, Mulder. I've never seen this before. I don't know if he's dead or alive.",21
+MULDER,I think you better find out. I want you to get me an address in New York. You're going to have to go through the Bureau to get that.,29
+MARITA,Who is it?,3
+MULDER,Fox Mulder.,2
+MARITA,What are you doing here?,5
+MULDER,I need your help.,4
+MARITA,How do you know where I live?,7
+MULDER,"FBI database. I'm sorry, it's a matter of extreme urgency. A diplomatic pouch left Russia and arrived here in the U.S. Two men are dead. I need to know why. LATER ON Thank you.",34
+MARITA,Agent Mulder?,2
+MARITA,The diplomatic pouch traveled an apex route to the Russian province of Krasnoyarsk.,13
+MULDER,Krasnoyarsk?,1
+MARITA,The point of entry was the city of Norilsk.,9
+MULDER,That's just north of Tunguska.,5
+MARITA,Tunguska?,1
+MULDER,Yeah.,1
+MARITA,What are you looking for?,5
+MULDER,"My cell phone. I gotta book myself on a flight to Krasnoyarsk, Russia.",13
+MARITA,"I can help you, Agent Mulder.",6
+MULDER,Find my cell phone?,4
+MARITA,No. With cover credentials. A diplomatic passport. A visa.,9
+MULDER,Why? Why are you helping me?,6
+MARITA,Because I can. Because there are those of us who believe in you...believe in the search for the truth.,19
+MULDER,How long will it take?,5
+MARITA,How long do you have? Mulder waits.),7
+KRYCEK,Where have you been?,4
+MULDER,Making travel arrangements.,3
+KRYCEK,To go where?,3
+MULDER,To follow the pouch.,4
+KRYCEK,You're going to keep me in the dark?,8
+MULDER,Yeah.,1
+PENDRELL,These are Level 4 suits. Exactly what he's wearing.,9
+SCULLY,"Contamination is impossible unless there's a tear or a loss of pressurization. So whatever happened to him, it's unlikely it penetrated the suit.",23
+PENDRELL,What do you think happened? a closer look.,8
+SCULLY,"Look, there's a film over everything.",6
+PENDRELL,Looks like spray kicked off the saw blade when he was cutting into the rock.,15
+SCULLY,Oh my God! This man's alive!,6
+PENDRELL,He can't be. I mean he's not breathing.,8
+SCULLY,"No, I think he is. I think he's in some kind of coma state or some kind of somatic rigor.",20
+PENDRELL,Due to what?,3
+SCULLY,"I don't know, I don't know, but we have to get him out of here.",15
+KRYCEK,"Mulder, you're not --",3
+MULDER,"I'm leaving the window rolled down. If I'm not back in a week, I'll call Agent Scully to come bring you a bowl of water.",25
+KRYCEK,"Mulder! You're not gonna leave me here! I got information, Mulder, about a second bomb! Time, date and place!",19
+KRYCEK,"...Son of a bitch, get back here!",7
+MULDER,What did you say to me?,6
+KRYCEK,What?,1
+MULDER,You called me a bad name.,6
+KRYCEK,nan,1
+KRYCEK,"My parents were Cold War immigrants, what's it to you?",10
+WMM,You've been putting on the miles.,6
+CSM,It would help if you had a phone.,8
+WMM,I come out here because there are no phones. What is it?,12
+CSM,Our courier's dead.,3
+WMM,"Yes, I heard. Pushed out a window. Can this expose us?",11
+CSM,"No, of course not. Our necessary and plausible denial is intact.",11
+WMM,Then what is your concern?,5
+CSM,"Last night, CIA airport intel had a man using UN credentials appear on their computers booked on a flight for Krasnoyarsk, Russia.",22
+WMM,Who was it?,3
+CSM,"We haven't been able to determine that with any certainty yet, but it appears to be a man fitting the description of Fox Mulder.",24
+WMM,"You fool, you stupid fool! This must be corrected; this must be handled!",13
+CSM,"Well, of course it can be! You know my capabilities in a crisis.",13
+WMM,"I don't think you realize what's at stake here, what level this must be carried to. This will take more than just a good aim!",25
+SCULLY,Senator Sorenson wants to see us?,6
+SKINNER,"That's usually what a letter of summons means, Agent Scully.",10
+SCULLY,"Yes, but a summons for what??",6
+SKINNER,"I can only guess, but the fact I'm named in the invitation with you and Agent Mulder leads me to believe I've been implicated in something far more serious than I already know.",33
+SKINNER,"How much more serious, Scully?",5
+SCULLY,It's hard to say.,4
+SKINNER,More serious than harboring a known felon? What about Agent Mulder? What does he know?,15
+SCULLY,"Agent Mulder is endeavoring to get his own answers, sir.",10
+SKINNER,Where?,1
+KRYCEK,He says it's about five kilometers through those woods.,9
+MULDER,Let's go.,2
+KRYCEK,"You're really gonna keep me in the dark, aren't you? What are we doing here, Mulder?",16
+MULDER,"June 30, 1908. Tungus tribesmen and Russian fur traders look up into the southeastern Siberian sky and see a fireball streaking to Earth. When it hit the atmosphere, it created a series of cataclysmic explosions that are considered to be the largest single cosmic event in the history of civilization. Two thousand times the force of the bomb that was dropped on Hiroshima.",63
+KRYCEK,What was it?,3
+MULDER,"It's been speculated that it was a piece of a comet, an asteroid, or even a piece of anti-matter. The power of the blast leveled trees in a radial pattern for 2000 kilometers. No real definitive evidence has ever been found to provide a satisfying explanation of what it was.",50
+MULDER,I think somebody found that evidence. And the explanation is something that nobody ever dreamed of.,16
+KRYCEK,What are they doing?,4
+MULDER,Looks like some kind of mining camp.,7
+MULDER,Oh!,1
+MULDER,I don't think they're miners.,5
+MULDER,Run!,1
+MULDER,I don't speak Russian.,4
+PRISONER,Then no one has told you.,6
+MULDER,Told me what?,3
+PRISONER,You were brought here to die. To wish you were dead.,11
+MULDER,I wasn't brought here. I came here looking for something.,10
+PRISONER,The only thing you will find here is death and suffering.,11
+MULDER,What is this place?,4
+PRISONER,This place? A gulag. A place where the guilty rule the innocent.,12
+KRYCEK,We gotta get out of here. They're going to torture us.,11
+MULDER,How do you know?,4
+KRYCEK,They were questioning me. Trying to get me to confess.,10
+MULDER,To what?,2
+KRYCEK,To being a spy.,4
+MULDER,What did you tell them?,5
+KRYCEK,"That we were stupid Americans lost in the woods. Mulder, you're going to need me in here. Don't touch me again.",21
+SENATOR SORENSON,"Ah, Agent Scully, Mr. Skinner, thank you for coming.",9
+SKINNER,"Well, it was difficult to decline an invitation from a member of Congress, Senator.",14
+SENATOR SORENSON,"Please, have a seat. Are you familiar with the penalties for obstruction of justice?",14
+SCULLY,"Is that a rhetorical question, sir?",6
+SENATOR SORENSON,You know why you've been called here today?,8
+SKINNER,"We have an idea, Senator.",5
+SENATOR SORENSON,"We've been looking into the death of this man outside your apartment, Mr. Skinner, and it's raised some troubling questions.",20
+SKINNER,Such as?,2
+SENATOR SORENSON,What this man was doing on your balcony before he fell to his death.,14
+SENATOR SORENSON,"It was your balcony, wasn't it, Mr. Skinner? Perjury is a very serious offense, particularly for an FBI agent.",19
+SCULLY,"We intend to file a complete report on this matter, sir, once we fully understand what it is that we're investigating.",21
+SENATOR SORENSON,And Agent Mulder. . . can you explain to me why he declined my invitation to be here today?,17
+SCULLY,"Agent Mulder is in the field, sir, seeking answers to the questions you are asking.",15
+SENATOR SORENSON,And where is he seeking these answers?,7
+SENATOR SORENSON,Agent Scully?,2
+APPROXIMATE TRANSLATION,nan,1
+GUARD,Get up! Get up!,4
+KRYCEK,I want to see your supervisor.,6
+GUARD,Why would my supervisor want to see you?,8
+KRYCEK,He'll want to see me.,5
+GUARD,I don't know...I don't know...,5
+MULDER,What are you saying?,4
+KRYCEK,That I want to see his supervisor.,7
+GUARD,"Okay, but if he doesn't want to see you, you'll be accountable.",12
+KRYCEK,"I'll be accountable, I'll be accountable.",6
+KRYCEK,Da svidanya.,2
+PRISONER,"That man is not your friend. He speaks indifferently to the guards. Formal language, as if to an equal. You are deceived.",22
+MULDER,Who are you?,3
+PRISONER,"A prisoner, like you, but I have committed no crime.",10
+MULDER,Why are you here?,4
+PRISONER,"To do the work. Like the others. Like them, I will die in an experiment when there is no longer any use for me.",24
+MULDER,What kind of experiment?,4
+MULDER,NO!,1

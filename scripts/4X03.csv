@@ -1,0 +1,171 @@
+speaker,line,words
+BATTER,"All right, let's play some ball.",6
+CATCHER,Swing it in here. Strike!,5
+BATTER,In what league?,3
+PITCHER,"Hey, quit complaining. You know, we already had to move home plate 'cause you bitched about the mud.",18
+BOY #1,Nice pitch!,2
+CATCHER,"Come on, let him hear some chin music!",8
+BOY #1,Throw a fastball!,3
+BOY #2,Whoa!,1
+BOY #1,Nice hit!,2
+BOY #2,Go get it!,3
+PITCHER,"Hey, come on!",3
+RIGHT FIELDER,It went on the Peacocks' property.,6
+CATCHER,Here's another one!,3
+PITCHER,"All right, come on, let's play!",6
+BATTER,"All right, come on...",4
+CATCHER,"Come on, baby, bring it home to Mamma. Put it there, put it there. Come on, right here. Come on, baby, bring it home. Come on. Right here. That's it. Ease up.",32
+BOY #2,What are you doing?,4
+SCULLY,"Compression marks indicate the shovel blade to be approximately six and three-quarters inches. Uh, the angle of movement and deeper indentation on the right side of the mark suggests a left-handed individual. I've collected soil specimens and, uh, although numerous shoe impressions were made from the sandlot game, I think a, uh, a couple of dental stone casts will prove invaluable to the investigation. Meanwhile, I've quit the F.B.I. and become a spokesperson for the Ab-roller.",76
+MULDER,"Smell that. It's perfume. Eau de ball. God, this brings back a lot of memories. My sister... all day pick-up games out on the vineyard, ride your bikes down to the beach, eat bologna sandwiches. Only place you had to be on time was home for dinner. Never had to lock your doors. No modems, no faxes, no cell phones.",60
+SCULLY,"Mulder, if you had to do without a cell phone for two minutes, you'd lapse into catatonic schizophrenia.",18
+MULDER,"Scully, you don't know me as well as you think you do. You know, my work demands that I live in a big city, but if I had to settle down, build a home... be a place like this.",39
+SCULLY,Be like living in Mayberry.,5
+ANDY TAYLOR,"Agents Mulder and Scully? Hi, I'm Sheriff Andy Taylor.",9
+MULDER,For real?,2
+ANDY TAYLOR,"Can't thank you or the bureau enough for coming out. It's just me and my deputy, and... hell, we never had anything of this nature.",25
+SCULLY,"Do you have any thoughts or, uh, suspects?",8
+ANDY TAYLOR,"Population of Home is only a few hundred. Everybody knows everybody, pretty much.",13
+SCULLY,"Well, were there any local women who were pregnant and now suddenly aren't?",13
+ANDY TAYLOR,No. I just saw Mary Ellen and Nancy. They're both doing fine.,12
+MULDER,"Hey, Sheriff, who lives in that house there? Did you question them? 'Cause they've been watching us the entire time.",20
+ANDY TAYLOR,"That farm belongs to the Peacock family. Three boys now. Well, men. Guess you could call them human. Their folks were in a bad car wreck and we suppose they died.",31
+SCULLY,You suppose?,2
+ANDY TAYLOR,"Well, we tried to administer medical attention, but the boys hauled the bodies away. Took them home. They haven't been seen in ten years, so... we suppose they died.",29
+SCULLY,Have you questioned the men?,5
+ANDY TAYLOR,"The Peacocks built that farm during the Civil War. It still has no electricity, no running water, no heat... they grow their own food, they raise their own pigs, the breed their own cows... raise and breed their own stock... if you get my meaning.",45
+SCULLY,"It is, however, the closest residence to the crime scene.",10
+ANDY TAYLOR,"Those boys are feeble, Agent Scully... and sad. They wouldn't have any idea what you were talking about.",18
+SCULLY,"Well, they could've witnessed...",4
+ANDY TAYLOR,"Look, this town is my home. I love it. It's quiet... peaceful. I don't even wear a gun. I've seen and heard some of the sick and horrible things that go on outside my Home. At the same time, I knew we couldn't stay hidden forever... that one day, the modern world would find us and... my home town would change forever. And when I saw... it... in the ground... I knew that day had come. Now, I want to find whoever did this... but in doing so, I'd like it if the way things are around here didn't have to change. I know this is iffy bureau jurisdiction......but I didn't know where else to turn. So I called the bureau in Pittsburgh, and when I described the victim... they said I should see you.",135
+MULDER,"Well, maybe we should take a look at the victim then.",11
+ANDY TAYLOR,"We don't have a lab or a morgue. I've got a room down here, might be a bit cleaner. By the way, this is my deputy, Barney.",27
+MULDER,Fife?,1
+BARNEY PASTOR,Pastor!,1
+SCULLY,"Uh, I could use a little more elbow room.",9
+ANDY TAYLOR,"Thing is, see, folks have been dropping in to ask about the case and I wouldn't want anybody to pop in and see this.",24
+MULDER,"Well, you could just lock your door to the office.",10
+ANDY TAYLOR,"Oh, folks know I never lock the door. They'd start rumors.",11
+SCULLY,"Oh, my God... Mulder... it looks as if this child has been afflicted by every rare birth defect known to science. I mean, I, I'm going to have to order DNA typing from the crime lab, but... there appears to be abnormalities associated with Nev-Laxova Syndrome, Meckel-Gruber Syndrome, estrophy of the cloaca, I mean, I don't even know where to begin.",61
+MULDER,"I guess we can rule out murder as the cause of death, huh?",13
+SCULLY,"Well, I don't know about that. There's evidence of occlusion due to dirt in the nose and mouth... indicating the dirt has been inhaled.",24
+MULDER,There's something rotten in Mayberry.,5
+SCULLY,Imagine all a woman's hopes and dreams for her child and then nature turns so cruel. What must a mother go through?,22
+MULDER,Apparently not much in this case if she just threw it out with the trash.,15
+SCULLY,"I, I guess I was just projecting on myself.",9
+MULDER,"Why, is there a history of genetic abnormalities in your family?",11
+SCULLY,No.,1
+MULDER,"Well, just find yourself a man with a spotless genetic make-up and a really high tolerance for being second-guessed and start pumping out the little Uber-Scullies.",26
+SCULLY,What about your family?,4
+MULDER,"Hmm? Well, aside from the need for corrective lenses and a tendency to be abducted by extraterrestrials involved in an international governmental conspiracy, the Mulder family passes genetic muster. Now, Scully, that child inside is a tragedy. Some young parents, probably scared kids, disposed of an unwanted birth... in a very certain sense, infanticide is involved, but this is not an F.B.I. matter.",63
+SCULLY,"But from what I know from about genetic defects, Mulder, it's unlikely that child is a result of a single polygenic mating.",22
+MULDER,We should let local authorities investigate that.,7
+SCULLY,"Those defects, Mulder, are autosomal dominant disorders, and from the degree, I'd say, mutations that go back many generations.",19
+MULDER,"Scully, uh, Sheriff Taylor, uh, implied that the boys in that family were not really the type that could easily get dates.",22
+SCULLY,But he also implied that they practice inbreeding. Now we all have a natural instinct to propagate...,17
+MULDER,Do we?,2
+SCULLY,"There are theories which pose that our bodies are, are simply vehicles for genes needing to replicate.",17
+MULDER,"Yeah, yeah, but there's no sister. The mother's been dead for ten years.",13
+SCULLY,"But if the instinct and the need is strong enough, they will answer it any way that they can. Now a woman gave birth to that child, Mulder, and my guess is, against her will.",35
+MULDER,And kidnapping is a bureau matter. Scully.... I never saw you as a mother before.,15
+SCULLY,"No, there's no probable cause. They match. This room alone should convict them.",13
+MULDER,"Yeah, if we can find them. They probably bolted when they saw us coming. We'll alert Sheriff Taylor to issue a warrant for the brothers' arrest, put out a county-wide A.P.B.",31
+SCULLY,"And check any prior missing-persons for a woman, and check the vehicle identification number on that Cadillac.",17
+MULDER,"If the mother is alive, they probably took her with them.",11
+ANDY TAYLOR,"I've issued descriptions and arrest warrants for George Raymond Peacock... Approximate age thirty... Sherman Nathaniel Peacock, approximately age twenty-six and Edmund Crieghton Peacock, forty-two.",24
+SCULLY,What about missing persons reports?,5
+ANDY TAYLOR,Deputy Pastor's on it right now.,6
+SCULLY,"Sheriff......do you recall over the last eight to ten months any vehicles you found and considered to be abandoned, but which might actually belong to kidnap victims? We saw a white Cadillac in the Peacocks' front yard.",37
+ANDY TAYLOR,"We get so many of those, Agent Scully. A car breaks down, they move on.",15
+SCULLY,"Well, uh, we'll check on those in the morning. You get some sleep, Sheriff.",14
+ANDY TAYLOR,"You too, Miss Scully. Good night.",6
+MULDER,"Whoa! Don't move, don't move. Damn.",6
+SCULLY,You still planning on making a home here?,8
+MULDER,Not if I can't get the Knicks game.,8
+SCULLY,"Well, just as long as a brutal infanticide doesn't weigh into your decision. Good night, Mulder.",16
+MULDER,"Good night, Mom.",3
+SCULLY,"Mulder, this lock is broken.",5
+MULDER,"Oh, you don't have to, uh, lock your doors around here.",11
+BARBARA TAYLOR,Andy? What are you doing?,5
+ANDY TAYLOR,Taking one good last look around before it all changes.,10
+BARBARA TAYLOR,"Oh, honey, come to bed, huh? It will still be here in the morning. Come on, honey.",17
+MAN ON TV,"The eldest dominant male in the pack moves in to ensure that the prey has been killed, and circling the prey is a signal to the others it is safe to a...",32
+BARBARA TAYLOR,"Andy, what is it?",4
+ANDY TAYLOR,Hide. Under the bed.,4
+BARBARA TAYLOR,What?,1
+ANDY TAYLOR,I'm going for the gun.,5
+MULDER,Big American car.,3
+BARNEY PASTOR,"I, uh... I came over to give him these reports and, uh... and found them. The, uh... the owner of the Cadillac was, uh... was found and contacted in Baltimore, she, uh... she ran out of gas and just left the car on the one-nineteen. Other, uh... possible missing persons are in the file, and, uh... This came from the federal crime lab overnight.",64
+MULDER,Where are they?,3
+BARNEY PASTOR,"They're, uh... they're inside.",4
+MULDER,His chest is one big hematoma. There's wood shavings embedded in what's left of the cranium. They really went caveman on them.,22
+SCULLY,"Damn it. The lab screwed up the DNA test on the infant. Multiple maldistribution, chromosomal breakage, maldivision of the centromere...",20
+MULDER,You suspected these abnormalities.,4
+SCULLY,"Yeah, but this shows far too many gene imbalances. It would have to be a lab error. This child's cells would have had to divide triple-fold in cell metaphase.",29
+MULDER,"Triple? Hey, Scully, what if... each of the Peacock brothers was the father of that child?",16
+SCULLY,"Mulder... only one sperm in thousands from a single individual can penetrate an ovum membrane, let alone from three separate males.",21
+MULDER,What if generations of autosomal breeding could produce such a mutation?,11
+SCULLY,"No. For that to be even remotely possible, there'd, there'd have to be a weakening of the ovum, and that would have to come from a female member of the Peacock family, and there aren't any left.",37
+MULDER,"Well, in any case, they haven't ventured too far from home. We should request back-ups from Pittsburgh and go pick them up.",22
+SCULLY,"Mulder, that would take a whole day. I think they, they may have a woman captive up there who may have sustained life-threatening injuries while giving birth. Who knows what those men have done to her. I think that we should go up there right now.",46
+MULDER,"Yeah, but we're outnumbered. We could further endanger the victim in doing that.",13
+BARNEY PASTOR,I'll take you out there. Then it's three against three... and this... This should give us the advantage.,18
+MULDER,"Oh, that was just a little bit too Chuck Bronson for me, Scully.",13
+SCULLY,"Hang on a second, Mulder. Why... why would the Peacocks kill Sheriff Taylor? He didn't even question them about the buried child.",22
+MULDER,"Ah, they probably heard about the warrants issued for their arrest.",11
+SCULLY,"But how would they know? He, he issued the warrants by phone. Unless they overheard us talking about it, how would they know?",23
+MULDER,"No, we searched the house, Scully, they weren't home.",9
+SCULLY,Exactly. How could they know?,5
+SHERMAN PEACOCK,"I'm hungry. All right. I'm ready. You look fine. They'll be coming now. We knew this day was going to happen. That they'd try to change the way things are. All we can do about changing things... is be ready for it... be ready for them. Let them know, this is our home and this is the way it's going to stay. Mulder, Scully, and Pastor ready themselves outside, putting on headsets. Pastor starts to put on a bulletproof vest. Scully looks through the binoculars and sees Sherman walking around, carrying a blunt object.)",94
+SCULLY,"Yup, they're up there.",4
+BARNEY PASTOR,I'll take the front. Their attention will be taken by the uniform. You can approach around back.,17
+SCULLY,"Are these vests absolutely necessary, deputy?",6
+BARNEY PASTOR,"I've seen them fire muskets before. I, for one, am not getting taken out by some antique. This is Pastor. I'm at the front of the house.",27
+MULDER,We're getting into position.,4
+SCULLY,I don't see anybody inside.,5
+BARNEY PASTOR,I'm going in.,3
+SCULLY,"Pastor, no! Pastor's dead. The brothers moved in like a pack of animals.",13
+MULDER,"The eldest will move in to ensure the prey has been killed, and circling the prey signals to the others that it's safe to approach. What we're witnessing, Scully, is undiluted animal behavior. Mankind, absent its own creation of civilization, technology and information, regressed to an almost prehistoric state, obeying... only the often savage laws of nature. We're outsiders invading the den, trying to take away their one chance at reproducing, which we're going to do.",76
+SCULLY,"Even though we have the firearms, I imagine the place is rigged with traps.",14
+MULDER,"Yeah, but we can try and divert them out of the house. Scully, would you think less of me as a man if I told you I was kind of excited right now? Is there some secret farmer trick to get these things moving?",44
+SCULLY,"I don't know... ""nah-ram-ewe."" ""Nah-ram-ewe!""",5
+MULDER,"Yeah, that'll work.",3
+SCULLY,"I baby-sat my nephew this weekend. He watches ""Babe"" fifteen times a day.",13
+MULDER,"And people call me ""Spooky.""",5
+SCULLY,Federal agents! Is anybody in here! F.B.I.! Is anybody in this house? Is there anybody in here?,17
+MULDER,"Oh, no.",2
+MRS. PEACOCK,"No! Get out, get away!",5
+MULDER,"It's all right, ma'am!",4
+MRS. PEACOCK,Get away!,2
+MULDER,We're federal agents! We're here to help you!,8
+MRS. PEACOCK,Go! Get out of here! Go away!,7
+MULDER,Ma'am.,1
+SCULLY,Let's move the bed.,4
+MRS. PEACOCK,Get away! Ah! Get away!,5
+MULDER,They've got her strapped to some kind of board or something.,11
+MRS. PEACOCK,Get away! Get away! Go!,5
+MULDER,"Ma'am, we're here to help you. Calm down. Ma'am, we're here to help. We're from the F.B.I. Take it easy, ma'am, take it easy. It's all right, it's all over. We're from the F.B.I., we're... we're here to help... w, we're going to make sure that you're safe. We're g, we're going to make sure that you get home.",59
+SCULLY,"Mulder, she already is home. It's Mrs. Peacock. She's their mother. Mulder, where are you going?",16
+MULDER,The others may have heard the screams. I'm going to check on their position.,14
+SCULLY,"Well, what about her?",4
+MULDER,She's not going anywhere.,4
+SCULLY,"I mean, we, we may not be able to move her, Mulder. She doesn't appear to be held against her will. I mean, she appears to be, but I don't believe she is.",33
+MULDER,I'm sure she's an accessory. At least she aided and abetted.,11
+SCULLY,We're only assuming. We can't prove anything. The way I think it goes here is that Edmund is the... the brother and father of the other two.,27
+MULDER,"Which means that when Edmund was a kid, he could ground the other two for playing with his things? The brothers killed three people, Scully. Tell her we're going to bring them in... and try convincing her that she's the one way they can get out of this without any of her boys getting hurt. All right, I'm going to keep an eye on them. Scully, w, watch your step. This place is rigged.",74
+SCULLY,Mrs. Peacock? Mrs. Peacock? You are in immediate need of medical attention. Agent Mulder and I are here to help you.,21
+MRS. PEACOCK,This is our home. Why leave it?,7
+SCULLY,Whatever pain you may be...,5
+MRS. PEACOCK,"Don't feel pain. Runs in the family. Have to check the boys, see if they hurt themselves.",17
+SCULLY,What about you? Even after the accident?,7
+MRS. PEACOCK,"Right arm was torn off. Saw it sitting there across my dead husband's lap. Boys took me home... sewed me up just like the family learnt in the War of Northern Aggression. Whole time, felt the same as if been making breakfast. They're such good boys.",46
+SCULLY,"Mrs. Peacock, they murdered Sheriff Taylor and his wife. And Deputy Pastor.",12
+MRS. PEACOCK,I can tell you don't have no children. Maybe one day you'll learn... the pride... the love... when you know your boy will do anything for his mother.,28
+MULDER,"Scully! Federal agent! I'm armed! Stop, or I'll fire!",9
+SCULLY,Mulder! I've got the mother!,5
+MULDER,Where's the other brother... Edmund?,5
+SCULLY,"Mulder, look. Marks on the floor. Okay, thank you.",9
+MULDER,"I looked everywhere, they're both gone.",6
+SCULLY,"I've notified the state police and the highway patrol, they've put out an A.P.B. on the Peacocks and they're setting up a roadblock over a thirty-mile radius. In time, we'll catch them.",32
+MULDER,"I think time already caught them, Scully.",7
+MRS. PEACOCK,"There, there. Sherman and George were good boys. We should be proud. And you got to know, Edmund, you can't keep a Peacock down. There'll be more. One day, there'll be more. Now we have to move on... start a new family... one we'll be proud of. Find a new place to call ours. A new home. A brand new home.",61

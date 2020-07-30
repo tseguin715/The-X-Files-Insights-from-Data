@@ -1,0 +1,287 @@
+speaker,line,words
+EXCAVATOR,"Here, try the screen.",4
+MULDER,"Concentrate on this area, over here. Right there.",8
+SCULLY,Mulder... What's going on?,4
+MULDER,"I'm not sure I can explain, Scully.",7
+SCULLY,You called for a forensic excavation at five A.M. on a Sunday? What are you looking for?,17
+MULDER,"Just give me a minute, Scully, okay?",7
+SCULLY,"Mulder, what are you doing out here?",7
+MULDER,I keep having this dream. It's about a little blond girl.,11
+SCULLY,You're saying that you're out here because of something you saw in a dream?,14
+EXCAVATOR,Sir!,1
+EXCAVATOR,Carefully remove the dirt around it...,6
+SCULLY,"So, tell me about this dream.",6
+MULDER,"I've had... flashes of it, three nights in a row. And last night, it went on long enough to lead me right to her. I need the chest exposed.",29
+EXCAVATOR,"Yes, sir. It just takes a little time. Sir, let us do that... sir...",14
+SCULLY,"Mulder, if you destroy evidence, we may never find out what happened here.",13
+MULDER,I know what happened here. She was strangled. He used an eight-gauge electrical cord. He took something from the body post-mortem... a trophy. A piece of fabric cut from her clothes... in the shape of a heart.,37
+SCULLY,You're saying you got all these details from your dream?,10
+MULDER,No. I know this M.O. I know it from memory.,10
+SCULLY,Whose M.O.?,2
+MULDER,John Lee Roche. He killed thirteen eight-to-ten year-old girls. This makes fourteen.,12
+MULDER,"It was a difficult case, he was extremely hard to catch. By 1990, ten victims had been found scattered across the eastern seaboard. The earliest dated back to 1979. V.I.C.A.P. named the case ""paper hearts"" because of the trophies the killer took. All the victims were abducted from their homes. Reggie Purdue brought me onto the case because he thought I could get inside the killer's head.",67
+SCULLY,Did you?,2
+MULDER,"I concluded that, that we were probably looking for a salesman. Someone who, who traveled around a lot, someone who could gain people's confidence, someone ordinary. Turns out Roche was a vacuum cleaner salesman. His job took him all over the northeast. He'd be in someone's home, demonstrating his vacuum cleaner. All the while, he'd be checking out their kids. He'd choose a victim then come back for her months later.",71
+SCULLY,"But it was your profile that caught him. What about the, uh, the trophies he took, the cloth hearts?",19
+MULDER,"We never found them, but we didn't need them to make the case. We had him cold on thirteen counts of murder. He admitted to thirteen. Polygraph said he was telling the truth. But that always bugged me about this case. I always wanted to find those hearts and count them, see if they really added up to thirteen. I guess they didn't.",63
+SCULLY,"Well, if nothing else... I think I can at least help explain your dream. I don't think you ever stopped thinking about this case. I believe that you may have solved it in your sleep.",35
+MULDER,So you think that I've somehow had this information about a fourteenth victim all the time and I've been processing it unconsciously?,22
+SCULLY,"You said it yourself once. You said that a... a dream is an answer to a question we haven't learned how to ask. You did good work, Mulder. Let's identify this girl so we can put her to rest.",39
+SCULLY,"I believe her name is Addie Sparks. She went missing from her home in King of Prussia, Pennsylvania, in June of 1975. I contacted the Center For Missing and Exploited Children, ran a search through the database.",37
+MULDER,1975 is too early.,4
+SCULLY,"The match is right, Mulder. The, the, the height is right, the description of the sleeper is right.",18
+MULDER,That would mean Roche started way before we thought he did.,11
+SCULLY,"Mulder, we're going to have to verify this. Are you up for that?",13
+SCULLY,Frank Sparks?,2
+FRANK SPARKS,Can I help you?,4
+SCULLY,"Yes, I'm Agent Scully, this is Agent Mulder. We're with the Federal Bureau of Investigation. May we speak with you?",20
+FRANK SPARKS,"You found Addie? This was for the tooth fairy. When Addie was asleep at night, I'd... I'd come and put a quarter in this pocket. Her mother sewed it.",29
+SCULLY,"Where is your wife, sir?",5
+FRANK SPARKS,"She passed away last summer. So, you, you, uh... you're saying the, uh... the man that did this is already in prison.",22
+MULDER,"Yes, sir, and he won't get out.",7
+FRANK SPARKS,"You do this full-time, telling people... this kind of news?",10
+SCULLY,"No, sir, not full-time.",4
+MULDER,It's not a good job.,5
+FRANK SPARKS,"No. I used to think... that missing was worse than dead because... You never knew what happened. Now that I know... I'm glad my wife's not here. She got luckier. How many more people, uh... like me are you going to visit today?",43
+MULDER,Sir?,1
+FRANK SPARKS,Were there other victims... you didn't know about?,8
+MULDER,"Roche's car... Roche drove a white El Camino, Scully. I saw it in my dream.",15
+SCULLY,What are you saying that means?,6
+MULDER,"The cloth hearts he collected, he would have wanted to keep them close to him. For a traveling salesman, that means inside the car, right?",25
+SCULLY,Maybe... you're saying the hearts might still be in his car?,11
+MULDER,"Well, he doesn't have them in prison, the cell is searched regularly, his mail is examined. His car was sold at auction in 1992, put beyond his reach. It's worth a look, Scully. We've got to find those hearts in order to count them.",44
+SCULLY,Don't you think the car might have been searched at least once already?,13
+MULDER,Not by me.,3
+MAN,"Here it is. I've been, you know, detailing it. Dropped the bed shell and did the decals, stuff like that.",20
+SCULLY,Thank you.,2
+MAN,"Honest-to-God, serial killer owned my car? For real?",8
+MULDER,"Helping him detail. Something's wrong here, Scully.",7
+SCULLY,Maybe it's underneath.,3
+MULDER,"""Mad Hat..."" Hey, Scully. The camper shell. The kid said he took the camper shell off. ""Mad Hat."" Mad Hatter.",20
+MULDER,"Eight... nine, ten... eleven, twelve... thirteen, fourteen...",7
+SCULLY,Addie Sparks. Fifteen... sixteen.,4
+MULDER,He had two more victims.,5
+JOHN LEE ROCHE,"Mulder. Long time, no see. You got a new partner.",10
+MULDER,Agent Scully.,2
+JOHN LEE ROCHE,So what's up?,3
+MULDER,"We found Addie Sparks, John.",5
+JOHN LEE ROCHE,"Congratulations, I guess.",3
+SCULLY,We also found your cloth hearts. All sixteen of them.,10
+JOHN LEE ROCHE,Huh.,1
+MULDER,"Sixteen victims, John. How come you only said there were only thirteen?",12
+JOHN LEE ROCHE,"I don't know. Thirteen sounds more magical, you know?",9
+MULDER,"Why don't you tell us about your last two victims, then?",11
+SCULLY,"You're in here for life, you've got nothing to lose.",10
+JOHN LEE ROCHE,I got nothing to gain.,5
+MULDER,You can gain one moment of decency in your life. You can finally let those families put their daughters to rest.,21
+JOHN LEE ROCHE,"I understand you take this very personally, Mulder. How about this? Sink one from there and I'll tell you. You'd trust a child molester? You bring my hearts and give them back to me... I'll tell you everything you want to know. Let me out.",45
+MAN,...she had erased a conversation between President Nixon and H.R. Haldeman while transcribing the subpoenaed tape. Woods testified that she had erased only about five minutes of the conversation but the tape contained an eighteen-minute gap.,36
+SAMANTHA MULDER,"Fox, it's your move.",4
+MAN ON TV #1,"Under investigation from Senator Howard Baker, H.R. Haldeman reiterated the White House explanation that Rosemary Woods mistakenly erased...",18
+MULDER,Samantha...,1
+SAMANTHA MULDER,Are you going to move or not?,7
+MAN ON TV #1,...foot on the footpedal...,4
+SAMANTHA MULDER,"Do we have to watch this, Fox?",7
+MAN ON TV #1,...and then accidentally hitting the record button.,7
+LEON JAWORSKI ON TV,It must be very difficult to reach a conclusion. It was an accident.,13
+MULDER,"""The Magician"" comes on at nine.",6
+SAMANTHA MULDER,"Mom and Dad said I could watch the movie, buttmunch.",10
+MULDER,"They're next door at the Galbrands'. They left me in charge. No. Not again. Samantha, run!",16
+SAMANTHA MULDER,Fox! Fox!,2
+MULDER,Samantha!,1
+JOHN LEE ROCHE,Did you bring me my hearts?,6
+MULDER,"Yesterday, you said something about me taking it personally. Why did you say that to me? Where were you in 1973?",21
+JOHN LEE ROCHE,"What, the whole year?",4
+MULDER,November. Twenty-seventh of November. Do you know what I'm getting at?,11
+JOHN LEE ROCHE,"I was selling vacuum cleaners in 1973. I made a sales trip to Martha's Vineyard that year and... I sold a vacuum cleaner to your dad. He bought it for your mom. I believe it was a, um... Electrovac Duchess or the Princess model and... your dad and I talked about it at great length. He... he had a really hard time choosing.",63
+MULDER,What do you know about my sister?,7
+JOHN LEE ROCHE,You bring me my hearts... and maybe I'll tell you more. This man... this man hit me.,17
+GUARD,I didn't see it.,4
+SCULLY,I did.,2
+MULDER,"He was there, Scully. He was in the house. He took Samantha.",12
+SCULLY,"In your dream, Mulder. It was a dream. Your mind made it up.",13
+MULDER,"A dream is an answer to a question we haven't yet figured out how to ask, right? Something buried in your subconsciousness. You heard him in there, he knew something. He mentioned being on Martha's Vineyard.",36
+SCULLY,Is it a state secret you lived in Martha's Vineyard?,10
+MULDER,"Well, how would he find out about that?",8
+SCULLY,Through the prison library. The inmates have access to computers and the internet. I checked. Roche logged on just yesterday.,20
+MULDER,Looking for what?,3
+SCULLY,"The server records don't show, but on the Net, Mulder, he can find out practically anything about you. Look, he is playing with you, Mulder. He is committing emotional blackmail and you are letting him. You walked into that room with your heart on your sleeve. He saw vulnerability, and he took advantage of it. You had a dream... a nightmare... and you, and you had it because of all the emotions that this case is stirring up for you. But... it was nothing but a dream.",87
+MULDER,"My last dream came true. Scully, do you believe that my sister Samantha was abducted by aliens? Have you ever believed that? No. So what do you think happened to her?",31
+SCULLY,What are you saying you believe now?,7
+MULDER,I don't know. I don't know what happened. I don't know what to believe. I just know that I have to find out now.,24
+MRS. MULDER,Fox?,1
+MULDER,"Mom, I'm in the basement. I'm sorry, how are you feeling?",11
+MRS. MULDER,"Good, Fox, I'm fine. Honey, what are you doing down here in the middle of the night?",17
+MULDER,Do you recognize... these fabrics? Either one of them?,9
+MRS. MULDER,What am I looking at?,5
+MULDER,Just look closely. Do... do they seem familiar to you?,10
+MRS. MULDER,Familiar how?,2
+MULDER,Just familiar. Have you seen them before?,7
+MRS. MULDER,"Fox, I don't know what you want me to say. You know my memory isn't as good as it used to be, ever since I had the stroke, I just don't know...",32
+MULDER,It's all right.,3
+MRS. MULDER,"Oh, Fox...",2
+MULDER,"Dad never bought you a vacuum cleaner, did he?",9
+MRS. MULDER,Yeah. A long time ago. I don't use it anymore.,10
+MULDER,Where is it?,3
+MRS. MULDER,"Well, it's here, under the stairs, in the storage. Fox, what is going on?",14
+MULDER,Sir? I've been denied further access to John Lee Roche. I've been told that order comes down from you.,19
+SKINNER,"Could you tell me why you saw fit to strike a prisoner in federal custody? Agent Scully didn't report that to me, Mulder, though she should have. The whole thing was videotaped as per prison policy. I saw it. You're lucky I don't have your ass in a sling!",49
+MULDER,Sir...,1
+SKINNER,"You gotten too close to this, Mulder. You've let this man get to you.",14
+MULDER,I have reason to believe he can tell us what happened to my sister Samantha.,15
+SCULLY,"It is looking possible, sir. John Lee Roche apparently spent most of 1973 in Boston. He did take one sales trip up to Martha's Vineyard in October of that year. The timing is right.",34
+MULDER,"I need to know. I just need to speak with him one more time, sir.",15
+SKINNER,"It just makes it even less of a good idea, Mulder.",11
+SCULLY,"Sir, the fact remains that we still have two more victims that we need to find and identify, and no one has more insight into Roche than Agent Mulder and this is still Agent Mulder's case.",36
+SKINNER,You tread very lightly. You see that he does.,9
+JOHN LEE ROCHE,I'm not talking to you if you're going to hit me again.,12
+MULDER,No. You don't get to touch them. They stay in the bag. Name them.,14
+JOHN LEE ROCHE,I think you know one of them already.,8
+SCULLY,Prove it.,2
+JOHN LEE ROCHE,"Watergate was on TV. You and your sister... were sitting in front of it... playing a board game with, uh, little red and, uh... blue plastic pieces. And you wanted to watch a TV show... the one, the one with Bill Bixby? What the heck was the name of that thing?",51
+MULDER,How could you know what I said?,7
+JOHN LEE ROCHE,"I was watching... from the window. I was, I was very careful.",12
+MULDER,"If that's true, tell me where my sister is.",9
+JOHN LEE ROCHE,Pick her out.,3
+MULDER,What?,1
+JOHN LEE ROCHE,"You choose the one that was your sister, and I'll tell you where she is. Hey, come on, it's a fifty-fifty chance. Either way, I'm giving you a victim. That one? You're sure you want that one? No, just kidding, it's... it's a good choice. Okay, you want to write this down?",52
+SCULLY,Mulder... let's get a team out here. Let somebody else do this.,12
+MULDER,"Help me, Scully.",3
+SCULLY,Mulder?,1
+MULDER,"It's not her, Scully. Am I right? Samantha broke her collarbone when she was six. It was her left collarbone. We had, we had a rope swing out in the backyard. It's not broken, is it?",36
+SCULLY,"You're right, Mulder, it's not a match. It's not her.",10
+MULDER,"It's somebody, though.",3
+JOHN LEE ROCHE,"You know, like I said...",5
+JOHN LEE ROCHE,It was a fifty-fifty chance.,5
+SCULLY,Tell us the name of that girl.,7
+JOHN LEE ROCHE,"It was Karen Ann Philiponte. She lived in a green rancher in... East Amherst, New York. Mint grew outside her window. I stood outside her window atop sprigs of mint. It smelled wonderful.",33
+SCULLY,What year?,2
+JOHN LEE ROCHE,"July... 1974. I had her mother on the hook for an Electrovac Argosy, but at the last minute, she said ""thanks but no thanks."" Oh, well. It's your sister.",29
+MULDER,"If that's true, tell me where.",6
+JOHN LEE ROCHE,"You want to know a lot more than that, don't you? You want to know everything, right? The big mystery revealed.",21
+SCULLY,Drop the mind games.,4
+JOHN LEE ROCHE,"I can't just tell you. I know you don't believe me. You need me to show you, you need me to lead you through because... after all these years, anything less than that's not going to satisfy you, right?",39
+MULDER,You just want to get out of here.,8
+JOHN LEE ROCHE,"You're damn right I do... if only for a day or two. I'm realistic. And more than that, I... I can't wait to see your face.",26
+SCULLY,"Oh, God... You're going to see the inside of your cell instead. You're going to rot there. Are you okay? Mulder, the last thing you should do is give this man his way on this. If you do, he could string us along forever. I know you appreciate that. There has to be another way to come to the truth.",60
+WOMAN,Clerk's office.,2
+MULDER,This is Special Agent Fox Mulder with the F.B.I.,9
+JOHN LEE ROCHE,Can I use the lavatory?,5
+MULDER,Keep your hands in your lap.,6
+STEWARDESS,Need a drink?,3
+MULDER,Excuse me.,2
+JOHN LEE ROCHE,First flight?,2
+MULDER,"Excuse me, I have to get by.",7
+YOUNG MOTHER,Yeah.,1
+STEWARDESS,"Could you just wait one second, please?",7
+MULDER,Now!,1
+JOHN LEE ROCHE,You having fun?,3
+CAITLIN ROSS,Mmm-hmmm.,1
+JOHN LEE ROCHE,What's your name?,3
+CAITLIN ROSS,Caitlin.,1
+SKINNER,What the hell do you mean...,6
+SKINNER,He checked out Roche?,4
+SCULLY,Agent Mulder convinced the judge that it was an emergency situation.,11
+SKINNER,And where were you while this was happening?,8
+SCULLY,"I had left Agent Mulder for the day. I suggested that he get some sleep. Sir, I have a clear idea of where he might have gone and I am sure that I can catch up with him.",38
+SKINNER,I'll be the one to catch up with him. Where's he headed?,12
+SCULLY,Martha's Vineyard. And I would hope that you'd appreciate the uniqueness of this situation and it's effect on Agent Mulder.,20
+SKINNER,"No, I fully understand the effect it has on him, Agent Scully. As I recall, that was the sum and total of my last words to you on the subject. You let me down. Let's clean up this mess before it gets completely out of hand.",46
+JOHN LEE ROCHE,No one home? I sat on this couch... when your dad bought the vacuum. You're ready?,16
+MULDER,Go.,1
+JOHN LEE ROCHE,"November twenty-seventh, 1973. I watched the house for hours. I parked across the way, out over there. I was just casing, I wasn't planning for this to be the night. But then, all of a sudden, your parents leave and I figure...",42
+MULDER,Where'd they go?,3
+JOHN LEE ROCHE,"House next door. To play pinochle, I don't know... whatever it was people did back then.",16
+MULDER,Go on.,2
+JOHN LEE ROCHE,"So after they're gone, I get out of my car and I move closer. And I watched you and your sister playing that board game. A little bit after eight, I'm about ready so I move to the junction box. I cut the power, and the lights go off, and then I moved around the front door. And I was ready to kick the door in... it was unlocked. It was 1973. It was... a different world back then.",79
+MULDER,And then what did you do?,6
+JOHN LEE ROCHE,"Well, you remember that. I... came in the front door. And you tried to get to your father's gun, I g, I give you credit for that. But then you sort of froze, and then... I took your sister away from all this. To a happier place.",47
+MULDER,That's exactly how it happened? Right here in this room?,10
+JOHN LEE ROCHE,Yeah.,1
+MULDER,Wrong house. My father bought this house after he and my mother divorced. This house is in West Tisbury. The house that Samantha was abducted from is in Chilmark. That's six miles from here! You screwed up. You were never here. You didn't take Samantha.,45
+JOHN LEE ROCHE,Wishful thinking.,2
+MULDER,"No. No, but I think I know what happened. Somehow you got inside my dreams.",15
+JOHN LEE ROCHE,Come again?,2
+MULDER,"I profiled you. I got inside your head, maybe you got inside mine. Maybe some nexus or connection was formed between us and through that, you got access to my memories of my sister Samantha and you used them against me for this.",43
+JOHN LEE ROCHE,You're just resisting me.,4
+MULDER,"And you're in the wrong house, you stupid son of a bitch! You were never here, you liar!",18
+JOHN LEE ROCHE,"It's geography, man. It's just geography. It was twenty-three years ago, that was geography we're talking about.",17
+MULDER,"Yeah, but you remember all the other details so vividly. That's because you watched it through my eyes... through my dreams.",21
+JOHN LEE ROCHE,"I hear things about you, Mulder. You know what I heard? I heard you go after aliens... from space. It's like your world will be okay as long as you can believe in, like, flying saucers. But I'm telling you the God's honest truth. I can see you're not as open-minded as you think you are.",56
+MULDER,"You must have been one hell of a salesman, Roche. First flight's at six A.M. Why don't you enjoy your last few hours of freedom? Come on.",27
+SAMANTHA MULDER,"Fox! Fox, help! Unlock me! Help! Help me! Fox, help me! Help me! Unlock me! Fox! Fox, help me! Unlock me! Fox!",22
+SCULLY,Mulder?,1
+SKINNER,"Mulder, open the door!",4
+MULDER,"He must have done it in my sleep, I had another dream.",12
+SKINNER,Why don't you check to see if anybody saw him leave?,11
+MULDER,He took the last cloth heart.,6
+SCULLY,He also took your badge and your phone.,8
+SKINNER,"Where's your gun? How do you explain yourself, Agent Mulder?",10
+MULDER,I don't.,2
+SKINNER,You don't. A predator is loose because of you. God only knows how many hours lead he's got. Any idea where he might be headed?,25
+MULDER,Yeah.,1
+SCULLY,Where?,1
+MULDER,Where's your phone? There was a small child on the plane.,11
+SCULLY,What child?,2
+WOMAN ON PHONE,Seaboard Air...,2
+MULDER,"Yeah, please put me through to your supervisor.",8
+SCULLY,"Mulder, what child?",3
+MULDER,This is Fox Mulder of the F.B.I. I'd like a passenger manifest last night. My badge number is J-T-T... An Agent Mulder just called ten minutes ago. They gave him the same information.,33
+WOMAN,He said he was from the F.B.I. He said her mother was in an accident. He needed to take Caitlin...,20
+LOCAL COP,"You said he was a, a white male?",8
+WOMAN,Yeah.,1
+LOCAL COP,About how tall was he?,5
+WOMAN,"Um, he was about six foot five or something. He said his name was Mulder. He had a badge. He said he was official. Oh my God, what have I done?",31
+LOCAL COP,We sent a unit over to pick up the girl's mother. She's on her way down.,16
+SKINNER,Okay.,1
+WOMAN,"Wh, what am I going to tell her? It's all my fault.",12
+MULDER,"It's not your fault. It's my fault. Sorry, Scully, you were right. He was playing me the whole time.",19
+SCULLY,You don't think he took Samantha?,6
+MULDER,"None of that really matters now, does it?",8
+SCULLY,"Well, where do you think he'd take this girl? Would he follow his M.O. and drive her out of state?",20
+MULDER,"There's no reason for that, he knows we're going to catch him. He just needs it be sooner than later. He's going to stay in the Boston area. It'll be somewhere nearby.",32
+SCULLY,"Well, how much of a creature of habit is he? Do you think he'd want to take her someplace familiar?",20
+MULDER,"Try to relive some past glory? Is that what you're thinking? I don't know, what?",15
+SCULLY,"Well, he lived in Boston in the early '70s, right?",10
+SKINNER,What do you got?,4
+SCULLY,"Roche's old address in the area. Revere. Nine-eight-o-nine Alice Road, apartment number six...",13
+MULDER,He's there.,2
+SKINNER,How do you know?,4
+MULDER,"Alice, ""Alice in Wonderland,"" he's the Mad Hatter.",8
+SKINNER,"Mulder, that's, that's...",3
+MULDER,That's where he got the idea in the first place.,10
+SKINNER,"All right, let's go! <-9809 ALICE ROAD->",7
+SKINNER,Check the other rooms!,4
+SCULLY,I don't think he brought her here.,7
+MULDER,He never brought anyone here.,5
+SKINNER,Plug the entrance!,3
+JOHN LEE ROCHE,I'm beginning to believe we do share that... nexus you spoke of. You always seem to find me.,18
+MULDER,"Are you okay, Caitlin? Good. My name is Fox, I'm going to take you home.",15
+JOHN LEE ROCHE,"I have your gun, Fox.",5
+MULDER,"Caitlin, can you do me a favor? Can you count to twenty? Can you do that? Will you close your eyes and count to twenty out loud, quietly and slowly?",30
+CAITLIN ROSS/MULDER,"One, two...",2
+CAITLIN ROSS,Three...,1
+JOHN LEE ROCHE,I will shoot.,3
+CAITLIN ROSS,Four...,1
+MULDER,Don't make this end badly.,5
+CAITLIN ROSS,Five... Six... seven...,3
+JOHN LEE ROCHE,You're not giving me very much choice.,7
+CAITLIN ROSS,Eight... Nine...,2
+JOHN LEE ROCHE,I really don't want to go back to prison.,9
+SKINNER,"Put the gun down, Roche!",5
+CAITLIN ROSS,Ten... eleven... twelve...,3
+JOHN LEE ROCHE,You have one left.,4
+CAITLIN ROSS,Thirteen...,1
+JOHN LEE ROCHE,How are you going to find her without me?,9
+CAITLIN ROSS,Fourteen... fifteen...,2
+JOHN LEE ROCHE,How sure are you it's not Samantha?,7
+CAITLIN ROSS,Sixteen...,1
+JOHN LEE ROCHE,Huh?,1
+CAITLIN ROSS,Seventeen...,1
+JOHN LEE ROCHE,How do you know?,4
+CAITLIN ROSS,Eighteen... nineteen...,2
+SCULLY,Come here.,2
+SKINNER,Get her out of here. Call an ambulance!,8
+SCULLY,"I got back some lab results. The dye analysis determined that the fabric of the last heart was manufactured between 1969 and 1974... but beyond that, there's nothing more they can tell us. Mulder, it's not Samantha... and whoever that little girl really is, we'll find her.",47
+MULDER,How?,1
+SCULLY,I don't know... but I do know you. Why don't you go on home and get some sleep?,18

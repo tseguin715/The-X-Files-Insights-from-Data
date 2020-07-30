@@ -1,0 +1,318 @@
+speaker,line,words
+DARLENE MORRIS,Kids!,1
+KEVIN MORRIS,MOM! MOM!,2
+DARLENE MORRIS,Kevin!,1
+KEVIN MORRIS,MOM! MOM! MOM! MOM! MOM! MOM! MOM! Ruby's gone.,9
+DARLENE MORRIS,Ruby! RUBY! RUBY! RUBY! RUBY!,5
+BLEVINS,"Agent Mulder's latest 3-0-2, requesting assignment and travel expenses for the both of you.",14
+SCULLY,"Sioux City, Iowa. That's the first I've heard of it.",10
+BLEVINS,"It came up through channels, from Mulder's Asat, to the district G-14 and onto my desk.",16
+SCULLY,I don't understand.,3
+BLEVINS,"In essence, Mulder is petitioning the bureau to assign a case number to a tabloid headline.",16
+SCULLY,He must have more evidence than..,6
+BLEVINS,"Not according to his 3-0-2, he doesn't.",7
+SCULLY,"I admit, that is strange. Even for Mulder.",8
+BLEVINS,"Perhaps, it has something to do with this, take a look.",11
+SCULLY,"An X-File. Name Samantha T. Mulder Address 2790 Vine Street City Chilmarc, Mass. Place of Birth Chilmarc, Mass. Date of Birth January 22, 1964 Nationality American",26
+REMARKS,Name and address of nearest relative notified in case of emergency. Fox Mulder c/o F.B.I. Washington Bureau,17
+BLEVINS,"Has he shared any of this with you? There's no need to protect him, he's the agent of record, he initiated the file himself.",24
+SCULLY,"She was his sister, she disappeared twenty-one years ago, he was, twelve and she was eight. He claims that he was in the room when it happened. He recalls a, bright light outside the window and er, and a presence in the room.",43
+BLEVINS,"In your opinion, has Agent Mulder's personal agenda clouded his professional judgement?",12
+SCULLY,"In my opinion, no.",4
+BLEVINS,"But you can see, how it might appear that way. As you know, Agent Mulder's pre-occupation with fringe matters has been a big source of friction in the bureau, this is another case in point. I'm gonna disallow the 3- 0-2.",41
+SCULLY,"With respect sir, at least let me talk with him, and make a recommendation.",14
+SCULLY,"It just doesn't seem, substantial enough to warrant an investigation.",10
+MULDER,"Ok Scully, so we disagree, it's not the first time and it won't be the last.",16
+SCULLY,"Well, at least if we had a legitimate source, we could..",11
+MULDER,"This is the essence of science, you ask an impertinent question and you're on your way to a pertinent answer.",20
+SCULLY,"But what makes this case anymore credible, than......the hundred year old mother with the lizard baby?",16
+MULDER,"Because, the lizard baby, wasn't born anywhere near Lake Okobogee.",10
+SCULLY,Oko-what?,1
+MULDER,Bogee. Okobogee.,2
+SCULLY,Is that supposed to mean something to me?,8
+MULDER,"If you know anything about trout fishing, or UFO hotspots.",10
+SCULLY,Define hotspot.,2
+MULDER,"Four sightings in 1967, August, including one by a national weather service plane. This is a light blasted, digitally enhanced enlargement.",21
+SCULLY,The pilot took that photograph?,5
+MULDER,"Try a girl scout with an instamatic. Four of the nine girls in the troupe claim to have seen something, five if you include the den mother. The Air Force said it was a weather balloon caught in a wind sheer. But there wasn't a weather balloon launched that day within seven hundred miles. Now read me the names of those girl scouts from 1967.",65
+SCULLY,"Lisa Tyrell, Bonnie Winston, Dorreen McAllister, Darlene Mor...",8
+MULDER,It's the same Darlene Morris.,5
+SCULLY,"Miss Darlene Morris? I'm Agent Scully and this is Agent Fox Mulder, we talked with you on the phone last night.",21
+DARLENE MORRIS,"Er, please come in. Well I, knew that if I screamed, loud and long enough that, someone would listen. But I never expected the FBI. Er, this is Kevin. Kevin, say ""hi"". Would you like some coffee?",37
+SCULLY,Hmmm.,1
+DARLENE MORRIS,"Somedays I can't even, get myself up out of bed. And, Kevin has been acting so strange, er, I don't know what to do anymore. I, I just, want her back again.",32
+SCULLY,"Miss Morris, during the divorce, was there a custody battle?",10
+DARLENE MORRIS,Charles had nothing to do with this.,7
+SCULLY,How can you be so sure?,6
+DARLENE MORRIS,Because I know what happened. It's just like it was before.,11
+MULDER,"Summer of 1967, the girl scout troupe?",7
+DARLENE MORRIS,How did you know about that?,6
+MULDER,"Your name's on record at the center for UFO studies in Evanston, Illinois.",13
+DARLENE MORRIS,Really?,1
+MULDER,"Yea, pilot for the national weather service made a similar sighting over the same area on the same day.",19
+DARLENE MORRIS,They took her didn't they Mr. Mulder?,7
+MULDER,"You, you said that erm, Kevin was there, the night it happened.",12
+DARLENE MORRIS,"He didn't see anything, he was asleep.",7
+MULDER,Do you think I might talk to him anyway? Thanks.,10
+DARLENE MORRIS,"You know, I've told this story so many times now, oh to the newspapers and the police. And everytime I tell it, people get this, look in their eye, just like the look that you've got right now.",38
+MULDER,Hey buddy! Mind if I sit down? Thanks. Your mom tells me you've been having nightmares.,16
+KEVIN MORRIS,I guess so.,3
+MULDER,Wanna tell me about `em?,5
+KEVIN MORRIS,No.,1
+MULDER,Alright. Whatta you doing? Are you making something? Can I take a look at it? Thanks.,16
+KEVIN MORRIS,It's coming from there.,4
+MULDER,The TV?,2
+DATE,AUG 26,2
+FROM,FOX MULDER,2
+REPORTING TO,"CRYPTOGRAPHY SECTION, F.B.I. WASH. D.C.",5
+MULDER,"I don't know what it is, maybe a binary sequence of some kind. Could be anything, could be nothing. I know you're busy, look erm, I know a friend who knows a friend who knows a friend who-oo can get you tickets to a Redskins game. You got it. Alright, you know where to find me? Thanks Danny.",58
+SIOUX CITY SHERIFF,"So, as I was telling your partner, we found no evidence of kidnap, no phone call, no ransom note, and since we didn't turn up a body....",27
+MULDER,You assume she ran away.,5
+SHERIFF,"Well, it wouldn't be the first time Ruby Morris ran away from home.",13
+MULDER,"Well, how do you explain what her mother saw?",9
+SHERIFF,Well I think that Darlene has a very active imagination. I've been listening to those stories since the first grade.,20
+MULDER,So basically you ignored her statement.,6
+SHERIFF,I included it in my report.,6
+MULDER,But you didn't bother to check it out.,8
+SHERIFF,"We went out to the camp sight, we didn't find anything. Let me tell you something, Darlene's little girl was no prom queen. I can't count the number of times I pulled her out of parked cars, or found her puking her guts out by the side of the road, it was just a matter of time before...",58
+MULDER,Before what?,2
+SHERIFF,"Before something bad happened to her and if Darlene needs to make up crazy stories to get past that, fine. But don't tell me to treat it as the truth, I not gonna waste my time.",36
+SCULLY,I just think it's a good idea not to antagonise local law enforcement.,13
+MULDER,Who me? I'm Mr. Congeniality.,5
+SCULLY,"You never know, we might need his help one of these days.",12
+MULDER,I'll send him a bunt cake.,6
+TESSA,"You're looking for Ruby, right?",5
+SCULLY,That's right. Who are you?,5
+TESSA,Doesn't matter.,2
+SCULLY,Are you a friend of Ruby's?,6
+TESSA,"Ruby didn't have friends, she just had people she liked to hang with.",13
+SCULLY,And she liked to hang out with you?,8
+TESSA,Guess we had some times.,5
+MULDER,Like the night she disappeared?,5
+TESSA,"It was Greg, she was supposed to see him that night.",11
+MULDER,Who's Greg?,2
+TESSA,"Her boyfriend, Greg Randall. Supposed to meet up at the lake. Had stuff to talk about.",16
+MULDER,What kind of stuff?,4
+TESSA,"Greg got Ruby pregnant. I don't know, whatever, she got herself pregnant.",12
+SCULLY,Do you know what they were planning to do about it?,11
+TESSA,"Gonna leave town, least that's what Ruby told me.",9
+SCULLY,You know Greg from School?,5
+TESSA,"Greg, school, I don't think so. All he ever did since we met him was pour beer, The Pennyslvania Pub.",20
+MULDER,`scuse me. Do you know where we could find Greg Randall?,11
+PENNSYLVANIA PUB BARTENDER,Who's asking? What kind of trouble's he got himself into now?,11
+MULDER,"Actually, we were hoping you could tell us.",8
+BARTENDER,"Greg called in sick about three weeks ago man, I haven't seen or heard from him since.",17
+MULDER,Any ideas where he might have gone?,7
+BARTENDER,"No, but if you find him, you tell him he's fired.",11
+SCULLY,This is the motel we'll be staying at if you hear of anything.,13
+MULDER,"Hey, that's a nice tattoo, what is that?",8
+BARTENDER,What's it look like?,4
+MULDER,Flying saucer. You don't really believe in that stuff do ya?,11
+BARTENDER,I take it you don't.,5
+MULDER,"No, I think it's all just a bunch of crazy people howling at the moon.",15
+BARTENDER,"So er, you haven't been out to Lake Okobogie, have ya?",11
+MULDER,"No I haven't, why?",4
+BARTENDER,"You should ride with us sometime, you might see somethings that'll change your mind. Get a killer sunburn in the middle of the night.",24
+VOICE 1,Yeah.,1
+VOICE 2,..downstairs.,1
+VOICE 3,Alright.,1
+FOURTH MAN,Where's Mulder?,2
+HOLTZMAN,Where did you get the document?,6
+MULDER,"Well, if you explain to me what you're talking about, maybe I can help you out. This is a document? Just looks like a bunch of ones and zeroes to me.",31
+HOLTZMAN,Tell me where you got it.,6
+MULDER,Tell me what it is.,5
+HOLTZMAN,"Keep playing games Mulder, I'll haul your ass up in front of the D6. You can explain to them, what you're doing obstructing justice.",24
+MULDER,"It's your call Holtzman. So unless they tell me otherwise, I'm not accountable to anybody outside my sub-committee. I don't care if it's the NSA or the Vatican Police.",29
+HOLTZMAN,It's a defence satellite transmission.,5
+MULDER,You're kidding.,2
+HOLTZMAN,"Just a fragment but highly classified, we need to know where it came from.",14
+MULDER,"Well sure, I'll let you know as soon as I find out.",12
+HOLTZMAN,"That's it Mulder, you just bought yourself a oneway back to Washington.",12
+FOURTH MAN,We got it.,3
+MULDER,Great.,1
+SCULLY,What?,1
+MULDER,You shouldn't have told them. They have no jurisdiction.,9
+SCULLY,"Mulder, they're NSA. They think the boy may be a threat to national security.",14
+MULDER,"C'mon, how could an eight year old boy, who can bearly multiply, be a threat to national security? People call me paranoid.",22
+SCULLY,"Well how did Kevin obtain top secret information? And, where do you think he got it from?",17
+AGENT,"Watch your step, ma'm.",4
+DARLENE MORRIS,"It'll be ok baby, don't worry. It'll be ok.",9
+SECOND AGENT,Come with me son.,4
+KEVIN MORRIS,MOOOMMMM!,1
+SECOND AGENT,Get in the car please.,5
+DARLENE MORRIS,It'll be alright baby.,4
+AGENT,Watch your head please.,4
+MULDER,You guys do really delicate work.,6
+HOLTZMAN,"Let's get this to cryptography. I think we got what we needed, thank you.",14
+SCULLY,What is it?,3
+MULDER,I'm not sure.,3
+LEZA ATSUMI,We scanned all seventy-seven pages through the mainframe in Washington.,10
+SCULLY,And none of the information is actionable?,7
+LEZA ATSUMI,"Other than the satellite transmission, nothing can be construed, in anyway, as a national security risk. As far as I know, the boy's being released this afternoon.",27
+SCULLY,So it's just a random set of ones and zeroes.,10
+LEZA ATSUMI,"On the contrary, there was nothing random about it.",9
+SCULLY,I don't understand.,3
+LEZA ATSUMI,"All information can be rendered digitally, in a series of ones and zeroes. When we downloaded the of a picture comes up) Da Vinci's Vitruvian Man. A DNA double helix. Oh, there's lots more.",34
+SCULLY,That's from the Brandenburg concertos.,5
+LEZA ATSUMI,"But they're just fragments, a few notes here, a few notes there. A line from the Koran, a Shakespearean sonnet...",20
+MULDER,"Almost like someone's switching channels, huh.",6
+MULDER,Mrs. Morris.,2
+DARLENE MORRIS,I have nothing to say to you.,7
+MULDER,"Mrs. Morris, please give me a minute to explain.",9
+DARLENE MORRIS,"Would you please just wait right over there for momma, I'll be right there. I thought you were both supposed to be here, to help us.",26
+SCULLY,This has been a terrible mistake. And I assure you that the government will pay for all repairs and damages.,20
+DARLENE MORRIS,"I don't want your money, I want my daughter back. And I want you to leave us alone.",18
+MULDER,"But your son, has seen something.",6
+DARLENE MORRIS,"You stay away from me, and you stay away from my child. C'mon honey, it's ok, let's, let's go now.",20
+SCULLY,I thought we were headed back into town. Where are we going?,12
+MULDER,"The boy's the key Scully, I know it.",8
+SCULLY,The key to what?,4
+MULDER,"Finding Ruby. Just think about it for a minute, this is a boy who is receiving all kinds of digitised data from a television screen.",25
+SCULLY,Agent Atsumi said it was a statistical aberration.,8
+MULDER,No.,1
+SCULLY,"Ok, I admit it, it's not much of an explanation but it..",12
+MULDER,"I think that Kevin is a conduit, of some kind.",10
+SCULLY,A conduit.,2
+MULDER,"A link, or a connection, to whoever, or whatever, took Ruby that night.",13
+SCULLY,But how?,2
+MULDER,"If there was an abduction, it's likely that Kevin was touched in some way.",14
+SCULLY,Mulder I know what you're thinking. I know why this is so important to you. I know. But there is no evidence indicating an abduction.,25
+MULDER,That's why we're going to Lake Okobogee.,7
+MULDER,"According to the police photos, Ruby and Kevin were sleeping right here.",12
+SCULLY,Just a stones throw from the forest wall.,8
+MULDER,Meaning what?,2
+SCULLY,Meaning anybody could've come out of the forest to grab her.,11
+MULDER,Have you noticed the tree line? Evidence of extreme heat.,10
+SCULLY,"Or an electrical storm. Besides which, there's nothing to connect it to the night of Ruby's disappearance.",17
+MULDER,"That's true. Do you think a lightning strike could've caused this? Do you have any idea at what temperature sand solidifies into glass? Twenty-five hundred degrees fahrenheit. Something was out here Scully, something hot enough to turn sand into glass, that, singed those trees and to blister the roof of that camper.",52
+SCULLY,"Mulder, look. What is it?",5
+MULDER,"It's a grave. Shallow, by the smell of it.",9
+SCULLY,"Mulder what are you doing? Mulder, you are disturbing a crime scene. Stop.",13
+MULDER,What if it's her? I need to know.,8
+SCULLY,You ok Mulder?,3
+MULDER,Fine.,1
+CORONER,Looks like a male caucasian.,5
+M. E. WORKER,Sir.,1
+SIOUX CITY SHERIFF,Victim's name was Greg Randall.,5
+SCULLY,Ruby's boyfriend.,2
+SHERIFF,Ruby had alot of boyfriends.,5
+MULDER,"Before you put that away, can I take a look at it?",12
+SHERIFF,Go right ahead.,3
+SCULLY,"Look at that, it's her, the girl from the library.",10
+SHERIFF,Who?,1
+SCULLY,We didn't get her name but she claimed Greg and Ruby had run off together.,15
+SHERIFF,"Well, Doc Fowler's a buddy o mine, delivered both my kids. I could find out who had that appointment.",19
+SCULLY,"Have a seat Tessa. We know that you lied to us the other day. We know that you had the appointment with Doctor Fowler on August 7th. We know that you're the one that's pregnant, not Ruby.",37
+TESSA,"Aah, don't know nothing do ye.",6
+SCULLY,"We can prove it Tessa, and we can prove that Greg, was the father.",14
+TESSA,So what if he was the father.,7
+SCULLY,"This is very serious. Do you understand how serious this is? Now you've waived the right to an attorney, so if you lie to us here today, you could be charged with perjury.",33
+TESSA,"Promised me we'd be in L.A. by Christmas. He had a friend there, I'd never seen the ocean.",18
+SCULLY,"You said that he and Ruby were seeing each other. You said that they were planning to meet at the lake, is that true?",24
+TESSA,"Look it, I was nowhere near the lake that night, ok.",11
+MULDER,"Sure you were Tessa. You knew they were meeting, so you sat there and you waited for them. You were angry and you were jealous.",25
+TESSA,I wasn't.,2
+MULDER,"You sat there and you waited and when they showed, you killed him first, isn't that how it went?",19
+TESSA,No.,1
+MULDER,"You snuck up from behind him and you shot him in the back, BAAMMM. And then you killed Ruby, BAAMMM. What was she doing right before she died Tessa? Was she pleading for her life? Was she running away?",39
+TESSA,I didn't kill her.,4
+MULDER,Where's she buried Tessa?,4
+TESSA,I don't know.,3
+MULDER,You don't know where you buried her Tessa.,8
+TESSA,I didn't kill her.,4
+MULDER,You didn't?,2
+TESSA,SHE WASN'T EVEN THERE THAT NIGHT!,6
+MULDER,"Well how would you know that Tessa, if you weren't there yourself.",12
+SCULLY,Mulder you're not seeing the whole picture here.,8
+MULDER,Which is?,2
+SCULLY,"Which is that all likelihood, Ruby is dead.",8
+MULDER,Is that your conclusion or the conclusion of the Sioux City Sheriff's Department?,13
+SCULLY,They're searching the national park and a rescue dive team is coming in from Des Moines to drag the lake.,20
+MULDER,They're wasting their time.,4
+SCULLY,Do you really think Tessa Seers is telling the truth?,10
+MULDER,"Why not, what if Ruby never did show up that night?",11
+SCULLY,"She lied to us in the library, she lied to us about her pregnancy, what makes you think she wouldn't lie to us about killing Ruby?",26
+MULDER,Because something was out there in those woods.,8
+SCULLY,"We have a suspect in custody, we have a confession to one murder, and we have a statement which speaks to the intent to commit another. It's over Mulder. It's time to go home and turn this over to local law enforcement.",42
+MULDER,I can't do that.,4
+SCULLY,Mulder where are you going?,5
+MULDER,To talk to the boy.,5
+SCULLY,Darlene won't even let you in the door.,8
+MULDER,"Well, I've gotta see him.",5
+SCULLY,They don't wanna have anything to do with you...us. Mulder stop. Stop running after your sister. This won't bring her back.,21
+MULDER,"Come with me or don't come with me but until they find a body, I'm not giving up on that girl.",21
+MULDER,Hello? Mrs. Morris?,3
+SCULLY,Kevin? Mulder. What does it mean?,6
+MULDER,I don't know.,3
+SCULLY,I'm gonna check upstairs. Oh my god.,7
+MULDER,What is it?,3
+SCULLY,"Just come up here. Look, it's her, it's Ruby.",9
+SCULLY,"This is a longshot Mulder, they could be anywhere.",9
+MULDER,"You know when I was a kid, I had this ritual. I closed my eyes before I walked into my room, cause I thought that one day when I opened them my sister would be there. Just lying in bed, like nothing ever happened. You know I'm still walking into that room, everyday of my life. Scully. DARLENE!",58
+SCULLY,"Look, there's a trail ahead.",5
+MULDER,Are you ok?,3
+DARLENE MORRIS,"It's here, I saw it.",5
+MULDER,Where's Kevin?,2
+DARLENE MORRIS,I couldn't keep up with him.,6
+SCULLY,Go ahead.,2
+MULDER,KEVIN! You ok?,3
+KEVIN MORRIS,She's back.,2
+MULDER,"Kevin I'm sorry but, I don't...",6
+KEVIN MORRIS,She's here I know it.,5
+MULDER,"Kevin I don't think she is. I know how much you want it to be her, I did too.",19
+SCULLY,MULDER!,1
+MULDER,SCULLY!,1
+KEVIN MORRIS,RUBY!,1
+SCULLY,She's unconcious but she's still alive.,6
+MULDER,I'll get help.,3
+SCULLY,Nurse says she been awake for almost an hour.,9
+MULDER,Any ideas what caused the coma?,6
+SCULLY,"Eerrr, there's no sign of head trauma, no narcotic traces or electralight abnormalities, but her white blood cell count was skyhigh.",21
+MULDER,By any chance was there attendant reduction in the lymphocyte population or a release of gluco-cordacoids?,16
+SCULLY,"Errmmm, actually both, how did you know that?",8
+MULDER,They're symptoms of prolonged weightlessness. Shuttle astronauts have reported similar imbalances.,11
+SCULLY,Hi. Hi Ruby.,3
+RUBY MORRIS,Who are you?,3
+SCULLY,"Ooh, we're with the FBI, I'm Special Agent Dana Scully and this is Fox Mulder.",15
+RUBY MORRIS,My mom said you might be coming by.,8
+SCULLY,How are you feeling?,4
+RUBY MORRIS,Fine I guess.,3
+MULDER,Where were you Ruby? Can you tell us?,8
+KEVIN MORRIS,"It's ok Ruby, he knows.",5
+RUBY MORRIS,"Ah, I'm not supposed to tell. They told me not to say.",12
+MULDER,"Who told you? Ruby, who told you?",7
+DARLENE MORRIS,"Sweetheart, you don't have to say anything.",7
+SCULLY,"You're right, we should wait until Ruby gets a little stronger.",11
+DARLENE MORRIS,"Can we speak outside for a moment. I think that it's best that we put all of this, behind us. I mean, hasn't Ruby been through enough already?",28
+MULDER,"I know how dis-oriented she must seem right now, but in a couple of weeks, maybe even a few days, we could..",22
+DARLENE MORRIS,"I don't want her talking to you, or anyone.",9
+MULDER,"She should be encouraged to tell her story, not to keep it inside, it's important that you let her.",19
+DARLENE MORRIS,"Important to who? I have my daughter back, I don't want anymore trouble. Besides she can hardly remember anything.",19
+MULDER,"But she will remember one day, one way or another, even if it's only in dreams. And when she does, she's gonna wanna talk about it, she's gonna need to talk about it.",33
+DARLENE MORRIS,"Like I did? Listen to me, all of my life I have been ridiculed, for speaking my mind.",18
+MULDER,But it was the truth Darlene.,6
+DARLENE MORRIS,"The truth has caused me nothing but heartache, I don't want the same thing for her.",16
+MULDER,It doesn't have to be that way for Ruby.,9
+DARLENE MORRIS,"As far as I'm concerned, she spent the last month on the back of a Harley Davidson.",17
+MULDER,Is that what you're gonna tell Kevin?,7
+DARLENE MORRIS,I'm sorry.,2
+DR. HEITZ WERBER,But your eyes are open?,5
+MULDER,"Yeah, they're open but it's like, nothing's happening.",8
+DR. HEITZ WERBER,Try turning your head.,4
+MULDER,I can't.,2
+DR. HEITZ WERBER,Why not?,2
+MULDER,"I don't know. I can't move, so I don't... I just lie there in bed.",15
+DR. HEITZ WERBER,Can you see your sister?,5
+MULDER,"No, but I can hear her.",6
+DR. HEITZ WERBER,What is she saying?,4
+MULDER,"She's calling out my name, over and over again. She's crying out for help but I can't help her. I can't move.",22
+DR. HEITZ WERBER,Are you scared?,3
+MULDER,I know I should be but I'm not.,8
+DR. HEITZ WERBER,Do you know why?,4
+MULDER,Because of the voice.,4
+DR. HEITZ WERBER,The voice?,2
+MULDER,The voice in my head.,5
+DR. HEITZ WERBER,What's it telling you?,4
+MULDER,"Not to be afraid. It's telling me no harm will come to her, and that one day she'll return.",19
+DR. HEITZ WERBER,Do you believe the voice?,5
+MULDER,I want to believe.,4

@@ -1,0 +1,267 @@
+speaker,line,words
+EVELYN MOUNTJOY,"Happy, stop that.",3
+EVELYN MOUNTJOY,Hap. What's with her all of a sudden?,8
+EVELYN MOUNTJOY,Don't you look at my letters.,6
+DARREN MOUNTJOY,For God's sake.,3
+DARREN MOUNTJOY,Read 'em and weep my dear!,6
+EVELYN MOUNTJOY,Seven letters. 50 bonus points.,5
+EVELYN MOUNTJOY,Darren...,1
+DARREN MOUNTJOY,Get in the basement.,4
+EVELYN MOUNTJOY,What are you going to do?,6
+DARREN MOUNTJOY,Just do what I say.,5
+DARREN MOUNTJOY,I got a gun!,4
+DARREN MOUNTJOY,Stop!,1
+DOGGETT,"Reyes! Sorry, I didn't mean to scare you.",8
+REYES,They told me I'd find you inside.,7
+DOGGETT,"I was out back talking to the Detective in charge. You're the expert here, Monica. Everyone's waiting to hear what you have to say on this.",26
+REYES,What do we know?,4
+DOGGETT,"Darren and Evelyn Mountjoy, married thirty-two years, three kids, five grand-kids. Not an enemy in the world. Just that dog out front. Neck's broken. Footprints in the mud. We're looking for two perps.",33
+REYES,"Nothing's soiled in the house, nothing at all to suggest motive.",11
+DOGGETT,"Well, it all fits the profile, right? This thing is staged to look like some kind of Satanic ritual.",19
+REYES,Placing victims in a suicide posture is ritualistic. And this word is undoubtedly Satanic.,14
+DOGGETT,Daemonicus.,1
+REYES,"It means Satan in Latin, or Daemonicus - Demon Possession.",9
+DOGGETT,"And it's worth 50 extra points. That's why they were posed like this. You think these folks were possessed, right?",20
+REYES,That would be the textbook explanation,6
+DOGGETT,Then I'll let 'em know.,5
+REYES,This may be something else.,5
+DOGGETT,Which is what?,3
+DOGGETT,"Hey, you say anything you want about Satanic ritual, but don't tell me you think the Devil did this, because we've got prints from out there. This case ain't even close to being an X-File.",35
+REYES,Something strange happened in here just before you came in. I can't explain it.,14
+OFFICER,Arghh!,1
+DOGGETT,What?,1
+SCULLY,Dr. Dana Scully. I have just been assigned to the Academy as a forensic investigator. For the past eight years I was part of a unit known as the X-Files. Some of you may have heard of it.,38
+CADET,Ever slay a vampire?,4
+SCULLY,"Sorry to disappoint you, but this is a course in forensic pathology. Hard science. An X-File is a case that has been deemed unsolvable by the Bureau, because such a case cannot be solved it may beg other explanations... a vampire, perhaps. Science, however, tells us that evil comes not from monsters, but from men. It offers us the methodology to catch these men, and only after we have exhausted these methods should we leave science behind to consider more extreme possibilities.",82
+REYES,What did you find?,4
+DOGGETT,I asked Agent Scully for expertise on this. Looks like we can rule out the Exorcist after all.,18
+REYES,And why is that?,4
+SCULLY,There is adhesive residue on Mrs. Mountjoy's wrists and face. Do you see that? She was taped and bound and then shot at a range of ten to twelve feet with her husband's handgun.,34
+REYES,The husband shot her.,4
+REYES,He was tricked into it.,5
+DOGGETT,That's what we're thinking. Some kind of sick game.,9
+SCULLY,"Well, there's also evidence of fingerprint bruising along his collarbone.",10
+REYES,They held him down. Shot him in his chair.,9
+DOGGETT,"Again, we're looking for two guys.",6
+SCULLY,"Snakes appeared to be purely symbolic. They're non-venomous species collected locally. They were sewn post-mortem into the body cavity with household thread, by someone who appears to have surgical skill.",30
+REYES,You've made a lot of headway.,6
+SCULLY,But there's something else. There's something that you're not saying.,10
+REYES,When I was alone in that house this morning I had the strong feeling I was in the presence of evil.,21
+DOGGETT,"Look, Monica, the only reason you were called in on this thing is you've investigated hundreds of these kinds of cases.",21
+REYES,And not once did I find anything to support evidence of genuine Satanic activity.,14
+DOGGETT,I'm saying...,2
+REYES,I've never felt this before.,5
+DOGGETT,Excuse me. John Doggett,4
+REYES,"Agent Scully, have you ever sensed what I'm talking about?",10
+SCULLY,I've felt things that I couldn't understand. Things that I was afraid to admit even to myself.,17
+REYES,And what did you do?,5
+SCULLY,I learned not to ignore it... to trust my instincts.,10
+DOGGETT,nan,1
+REYES,What is it?,3
+DOGGETT,"Mental hospital, 100 miles from here. They think one of their patients did this.",14
+DR. SAMPSON,We're pretty shaken up. We're still trying to figure out how he could have escaped.,15
+DOGGETT,Why do you think this escaped patient Dr. Richmond was involved in these murders?,14
+DR. SAMPSON,Dr. Richmond was committed here because he killed three patients. He'd sewn strychnine tablets in their stomach lining in. And I heard about the snakes.,25
+REYES,"The police believe two men committed this crime, Dr. Sampson.",10
+DR. SAMPSON,Two men?,2
+DOGGETT,Do you have any idea who the second man might be?,11
+DR. SAMPSON,"No, he didn't exactly keep pen-pals.",6
+REYES,"Did Dr. Richmond display any knowledge of Satanic lure, or speak of demonic possession?",14
+DR. SAMPSON,"No, he was perfectly cogent. He didn't suffer from those kinds of delusions.",13
+REYES,I'm not really asking about delusions.,6
+REYES,When you last spoke to him did he seem himself?,10
+DR. SAMPSON,Seem himself?,2
+REYES,I mean did he display personality other than his own? Speaking tongues or in any language which he didn't know?,20
+DR. SAMPSON,"You're asking me if he was possessed? This is the 21th century, Miss Reyes. We stopped looking a long time ago to demons to explain mental illness.",27
+REYES,I'm not really talking about mental illness.,7
+DR. SAMPSON,Excuse me a moment.,4
+DOGGETT,"You know, Monica, a room here just came open.",9
+REYES,You heard what she said. Dr. Richmond didn't know anything about Satanic ritual.,13
+DOGGETT,And that proves he was possessed?,6
+REYES,You explain to me how else he commits a crime that's a perfect example of it?,16
+DOGGETT,Well let's try the obvious - it was his accomplice.,9
+DR. SAMPSON,"Agents... I, uh, think the man you're looking for might be Paul Gerlach.",13
+DOGGETT,Is he a patient here?,5
+DR. SAMPSON,"No, he's a guard. He's been here for 12 years and no one can find him.",16
+REYES,Who would be the last person who saw them together?,10
+DOGGETT,"Mr. Kobold? My name is John Doggett, this is Monica Reyes. We're with the FBI.",15
+REYES,"The patient in the cell next to you escaped last night. Did you see or hear anything? You share the same guard, Mr. Kobold. Do you know anything about their relationship? Why he would have helped him to escape?",39
+KOBOLD,"You mean than the guard forced a patient to escape, or did the patient force the guard? Or are they both of",22
+DOGGETT,"You know something about this, Mr. Kobold? If you do we need your help. To stop them before they hurt more people.",22
+KOBOLD,You're too late for that.,5
+DOGGETT,"If you're afraid to help us, Mr. Kobold, we can protect you. No harm will come to you.",18
+KOBOLD,"Do you believe in the power of the Devil, Mr. Doggett?",11
+DOGGETT,I believe that the Devil's a story made up to scare people.,12
+KOBOLD,Then how can you possibly protect me?,7
+DOGGETT,"Consider the source, Monica.",4
+KOBOLD,Daemonicus. Daemonicus. Dae...,3
+DR. SAMPSON,He's been calling for Agent Doggett for the past hour. He's extremely agitated.,13
+REYES,Has he said why?,4
+DR. SAMPSON,"He keeps saying ""Prince of the Apostles"" over and over again. I don't know what it means. I had to restrain him for his own safety and I thought it was best not to sedate him until you speak to him.",41
+DOGGETT,"Mr. Kobold, it's John Doggett.",5
+KOBOLD,He's speaking to me. Whispering in my ear.,8
+REYES,"What's he saying to you, Mr. Kobold?",7
+KOBOLD,He's... killed again.,3
+REYES,Who?,1
+KOBOLD,I don't know. But I can show you.,8
+KOBOLD,"You can't know what it feels like, being free of that cage, and to see the sky above me.",19
+DOGGETT,"Right, where is he, Mr. Kobold?",6
+KOBOLD,"There, I can take you.",5
+DOGGETT,That's far enough. Take him back to his cage now. Agent Reyes?,12
+REYES,You think he's making it up?,6
+DOGGETT,Yeah.,1
+REYES,That was a pretty convincing show back there.,8
+DOGGETT,"He's play-acting, Monica. Just because he's good at it doesn't make it true.",13
+REYES,Why do it?,3
+DOGGETT,He wanted some fresh air. Maybe he gets off sending the FBI on snipe hunts.,15
+REYES,I don't think that's it.,5
+DOGGETT,"This is the security guard, Paul Gerlach.",7
+SCULLY,"It appears he was shot in the chest. His body was staged post-mortem, just like the others.",17
+DOGGETT,Someone wants to play games.,5
+REYES,Or not. Prince of the Apostles. Kobold kept repeating it in his cell.,13
+SCULLY,Saint Peter. He was said to have been crucified upside down.,11
+REYES,A symbol later adopted by the Satanists to mark the power of Antichrist.,13
+DOGGETT,Which you take as proof that the Devil possessed the surgeon who somehow put him in contact with Kobold.,19
+REYES,It's part of the literature. He could be a medium. A willing host for Satan. May be communicating with Kobold.,20
+DOGGETT,Well that's convenient.,3
+REYES,He brought up the Devil and the snakes. No one told him the details of the crime and yet he knew.,21
+DOGGETT,"That's 'cause he planned it. I pulled his file. This guy's a master manipulator. He was a history Professor at the University of Miami, committed for grinding up six coeds, that he tricked into his basement. He used their flesh as fertiliser in his garden.",45
+REYES,If Kobold's part of this then why is he still behind bars? Why not escape when he had the chance?,20
+DOGGETT,"I don't know yet. You believe this guy, Agent Scully?",10
+SCULLY,"I haven't formed an opinion about it yet, actually.",9
+DOGGETT,That's great. That's great.,4
+DOGGETT,"Where are you going, Monica?",5
+REYES,"This man Kobold can help us, John. I'm going to prove it to you.",14
+REYES,Professor.,1
+KOBOLD,You found the body.,4
+REYES,"Yes. Professor Kobold, we need your help. To find him before anyone else gets hurt.",15
+KOBOLD,I can't.,2
+DOGGETT,You can't or you won't?,5
+KOBOLD,I can't. In here. He whispers to me in a thousand voices. But they're so hard to hear.,18
+REYES,"What can we do, to help you here?",8
+KOBOLD,I need a larger room. One with space. And windows. To see the sky.,14
+DOGGETT,You're not going along with this are you? Giving this guy what he wants?,14
+REYES,"That's my general idea, yeah.",5
+DOGGETT,You're making a mistake.,4
+REYES,"Look, even if you're right, even if this man is faking it, he can help us. I'm not willing to turn my back on that. Are you?",27
+DOGGETT,That's Officer Custer. He's going to keep an eye on you.,11
+KOBOLD,I'm familiar with Officer Custer.,5
+OFFICER CUSTER,"I'm outside the door if you need anything, Professor.",9
+KOBOLD,"Agent Reyes believes me. But you don't, Mr. Doggett.",9
+DOGGETT,It doesn't matter what I believe.,6
+KOBOLD,"I'm wondering, why a sceptic such as yourself would accept an assignment to an obscure unit of the FBI devoted exclusively to the investigating of paranormal phenomena.",27
+DOGGETT,"You been checking up on me, Professor?",7
+KOBOLD,"Ordinarily men do not pursue occupations against their own inclinations unless there's some strong countervailing reason. Seeking the love or approval of a woman, perhaps? Agent Reyes may have affection for you, but you for her? Of course it could be someone else. Or something else. Some... dark secret from your past.",52
+DOGGETT,That's enough.,2
+KOBOLD,"An unsolved tragedy for which you feel responsible. In some morbid way you haven't even admitted to yourself, perhaps you feel that... chasing ghosts will answer the questions which damn you.",31
+DOGGETT,I don't have time for this. Tell me if he says anything.,12
+OFFICER CUSTER,Agent Doggett?,2
+DOGGETT,Agent Reyes! Get Agent Reyes!,5
+KOBOLD,"Me-di-cus, me-diii-cuss.",2
+REYES,He's saying something. Medicus... a physician.,6
+DOGGETT,Dr. Sampson?,2
+REYES,John.,1
+DOGGETT,Dr. Sampson?,2
+SCULLY,"The syringes contained roperidol, that's the same anti-psychotic medication that she was giving to Dr. Richmond.",16
+DOGGETT,He's not the one calling the shots.,7
+SCULLY,You still think that it was Kobold?,7
+DOGGETT,"This is not about demons, it's not about demonic possession, it's about men.",13
+SCULLY,"Agent Doggett, have you considered that something else might be going on here?",13
+DOGGETT,"I heard you say, Agent Scully, I heard you tell a classroom full of FBI cadets - most evil in the world comes from men.",24
+SCULLY,"But I also said that once science fails, we have to consider extreme possibilities.",14
+SCULLY,I know what you're feeling. I know your frustration. But you can't let it cloud your objectivity.,17
+DOGGETT,"Agent Reyes is thinking just what this guy Kobold wants her to think, and now you are too.",18
+OFFICER CUSTER,"Professor, you done with this meal?",6
+DOGGETT,"I brought something, Professor. Something to read. It's a monograph you wrote six years ago. Know the one I'm talking about, Professor? It's about the influence of Satan in Renaissance thinking.",31
+KOBOLD,"So, you found your proof. Circumstantial though it may be.",10
+DOGGETT,You planned this whole thing. I want to know why.,10
+KOBOLD,"I've been thinking a lot about you, Agent Doggett.",9
+DOGGETT,"You're not answering my question, Professor.",6
+KOBOLD,"About why someone so ill-suited would draw this duty. Clearly, you have feelings for her.",15
+DOGGETT,"You ordered Dr. Richmond to kill these people, didn't you?",10
+KOBOLD,"But you can't compete with the long-lost Agent Mulder. With his easy good looks, his Oxford education.",17
+DOGGETT,"This is about you, Professor.",5
+KOBOLD,"Mulder has what you can't have. What you stumble for. The flat-footed cop, thinking he could put handcuffs on a demon.",21
+DOGGETT,Answer the question!,3
+KOBOLD,"You want her, but she feels sorry for you. They both do.",12
+DOGGETT,Guard! We need a medic! Guard! We need a medic! Guard!,11
+REYES,She's coming.,2
+SCULLY,As far as I can tell physically he's fine.,9
+DOGGETT,Of course he is.,4
+SCULLY,What brought this on?,4
+DOGGETT,"The guy's an expert on Satanic history, I, I confronted him on it.",13
+REYES,Which proves what?,3
+DOGGETT,"Come on, Monica, y-you wanted to know who could stage a textbook example. This guy wrote the damn book!",19
+REYES,I can't explain those voices we heard in his room... or this.,12
+DOGGETT,It's a trick.,3
+REYES,What if it's ectoplasm?,4
+DOGGETT,Ectoplasm?,1
+REYES,"You've heard of it, Agent Scully?",6
+SCULLY,Agent Mulder used to refer to it as psychic plasma - a residual by-product of telepathic communication. In theory it would have inorganic properties that couldn't be explained otherwise.,28
+DOGGETT,So what are we talking now? The Ghostbusters?,8
+REYES,If I'm right an analysis of this sample could prove whether he's telling the truth or faking it.,18
+DOGGETT,"Well, you can throw that crap away because I can tell you right now that this guy's liar. He's playing a game.",22
+SCULLY,"Well, then let's just see how well he plays that game.",11
+DOGGETT,Why? So you can get suckered in even more? Listen to you two!,13
+SCULLY,Agent Doggett.,2
+DOGGETT,"Listen, I'm telling ya. This guy threw this up for our benefit. He knew exactly what you'd say, he knew exactly what I'd say. He even knew that the two of you would be so blinded by this hocus pocus that you wouldn't see what's in front of your faces.",50
+SCULLY,"Agent Reyes is just trying to get to the truth, okay? What are you doing?",15
+REYES,"Maybe this is a hoax. Maybe you're right. But now you're saying we should turn away from evidence? It's not like you, John. I don't understand why.",27
+DOGGETT,I already told you why.,5
+SCULLY,Scully.,1
+DOGGETT,"Agent Scully, I tried to reach you at Quantico.",9
+SCULLY,I'm on my way back to DC. What is it?,10
+DOGGETT,Kobold. He told the guard he knows where we can find Dr. Richmond.,13
+SCULLY,Where?,1
+DOGGETT,"Well, let's just say it sounds like a joke. Another game. It's a place called Happy Landing.",17
+DOGGETT,Scully?,1
+SCULLY,"On state road 710, near Annandale.",6
+DOGGETT,What are you talking about?,5
+SCULLY,"There-there's old marina there. I passed it on my way home, in fact I'm almost there right now.",18
+DOGGETT,"State road 710 near Annandale. All right, we're going to meet you there.",13
+REYES,Where is she?,3
+DOGGETT,I don't know. But I know who does.,8
+DOGGETT,"Where is she, Professor?",4
+KOBOLD,"Game's over, Mr. Doggett.",4
+DOGGETT,"Tell me where she is right now, you son of a bitch, I swear to God I'll kill you where you sit!",22
+REYES,John...,1
+KOBOLD,You lost.,2
+DOGGETT,Where is she!!??,3
+DOGGETT,Agent Scully?,2
+SCULLY,"Agent Doggett, over here.",4
+DOGGETT,I don't understand.,3
+SCULLY,He held me at gunpoint until you arrived and then he shot himself.,13
+REYES,It doesn't make sense.,4
+DOGGETT,"Yes, it does. Game's over.",5
+DOGGETT,Josef Kobold! Stop there! I'm armed! I will shoot!,9
+SCULLY,"Uncertainty. Not matter how thorough the investigation, some doubts inevitably remain. Just as juries seek to convict beyond reasonable doubt, the forensic investigator will seek conclusions supported by a preponderance of evidence. Rarely will you encounter a case where all of the variables, all of the open questions, are fully answered.",51
+SCULLY,I'll see you Monday.,4
+REYES,Have you filed your report on the case yet?,9
+SCULLY,I was going to do it on my way home.,10
+REYES,We'd rather you didn't.,4
+DOGGETT,We haven't accounted to Kobold's actions. Not all of them.,10
+SCULLY,But Agent Reyes told me that Kobold accessed information about all of us over the Internet. About Mulder too.,19
+DOGGETT,"Well, that explains how he knew how we'd respond to the first killings. Why he staged them to look like Satanic ritual, to make sure that we would.",28
+SCULLY,"He wanted us on the case, we know that.",9
+DOGGETT,He bent everyone to think and do whatever he wanted.,10
+SCULLY,"But we know all this already. It was a game, every move was played out perfectly. Except the last one.",20
+REYES,"Not unless that was part of the game, too.",9
+SCULLY,"What, to get shot in the back?",7
+REYES,No. Kobold's body still hasn't been found.,7
+SCULLY,Kobold's dead. Agent Doggett shot him. We all saw that.,10
+DOGGETT,"Did we? Think back to Agent Reyes' question - why didn't Kobold escape with the others when he had the chance? Why? Because he wanted to escape without anyone knowing he'd escaped, so that by the time it was discovered, he'd be too far away for anyone to find him.",49
+SCULLY,Satan.,1
+DOGGETT,Daemonicus. The beginning and the end of our case. The snake eating its own tail. We lost. Kobold told me so. He wanted us to see how brilliantly he played the game.,32
+DOGGETT,"How thoroughly we lost. The first victims, Darren and Evelyn Mountjoy.",11
+SCULLY,Chosen from the phone book. For what reason?,8
+DOGGETT,No reason. Other than their names.,6
+SCULLY,And the third victim?,4
+DOGGETT,The doctor. Monique Sampson. And the last. The man whose body is at the bottom of that river.,18
+SCULLY,It's not Kobold.,3
+DOGGETT,The guard we assigned to him. The guard he knew he'd have when we transferred him.),16
+SCULLY,Custer.,1
+DOGGETT,Checkmate.,1
+SCULLY,"Something still bothering you, Agent Reyes? You don't believe this explanation?",11
+REYES,"It all makes sense to me as far as it goes. But there's something else, something he's afraid to explain.",20
+SCULLY,You mean that you felt the presence of evil?,9
+REYES,"No, I mean that he felt it, too.",8

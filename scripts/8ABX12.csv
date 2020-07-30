@@ -1,0 +1,240 @@
+speaker,line,words
+BEGGARS,Paise! Paise!,2
+CUSTOMS AGENT,"Home to America, Mr. Potocki?",5
+MR. POTOCKI,Not a moment too soon.,5
+CUSTOMS AGENT,"Next in line. Passport, please.",5
+MR. POTOCKI,Poor bastard.,2
+MR. POTOCKI,Here's 50 paise. Buy yourself some WD-40.,7
+CIUT TO,nan,1
+MR. POTOCKI,"Oh, for crying out loud. Listen, fella, I already gave.",10
+MR. POTOCKI,Do you understand English?,4
+BELLBOY,"Long flight, huh? Bombay to D.C.?",6
+BELLBOY,"You know, I always wondered do they serve, like, Indian food on the plane?",14
+BELLBOY,"If there's anything else I can do for you, sir...",10
+DOGGETT,"Things that land in your in-box, huh, Agent Scully?",9
+SCULLY,Good morning. I'm sorry I'm late. I didn't get a chance to look at the case file. The traffic's terrible.,20
+DOGGETT,"Beltway's a nightmare. Takes longer to get crosstown than it does a plane ride from India, which is where our victim flew in from last night-- Bombay.",27
+SCULLY,Who are we talking about?,5
+DOGGETT,Hugh Potocki. Importer/exporter from Minneapolis. Laid over in DC on his way home when all this blood drains from his body.,21
+SCULLY,Did the M.E. See it? The body?,7
+DOGGETT,"Yeah. Tox test ruled out hemorrhagic fever, Ebola, anything exotic. Something killed this man but it doesn't seem to be any foreign disease.",23
+SCULLY,No sign of forced entry?,5
+DOGGETT,"No. No one was seen coming or going from this room. The maid found the body 20 minutes after a bellman left Mr. Potocki here. Whatever happened, happened fast.",29
+SCULLY,"So, basically what you're saying is that nobody knows anything.",10
+DOGGETT,But then I guess that's why it's in your in-box.,10
+DOGGETT,"So, what do you think, Agent Scully? Haunted hotel room? Alien invaders? Sloppy vampires?",14
+DOGGETT,There is one small thing. The cops missed it their first time around.,13
+SCULLY,A child's print.,3
+DOGGETT,Yeah. That's what it looks like.,6
+DOGGETT,You know there was a ring of thieves when I was back in New York. They used kids for B&E jobs.,21
+SCULLY,Mm...,1
+DOGGETT,"Squeezing in through cracked windows, that kind of thing. But this, this is beyond.",14
+SCULLY,"No. From what I see, Agent Doggett, from the way this man died... I doubt it was a kid who did this.",22
+DOGGETT,Thanks. I'm not quite ready yet to lose all my faith in humanity.,13
+SCULLY,"But regardless, I'd say it's wise you keep an open mind.",11
+MRS. HOLT,"The better the economy gets the harder it is to fill these kinds of jobs. And the problem is that people look at it as just a paycheck. They don't realize that as maintenance engineer you are playing an important part in these kids' lives. And I can't tell you how wonderful it is to find someone as enthusiastic as you are, Mr. Burrard. And I understand you can start immediately?",71
+MRS. HOLT,That's wonderful.,2
+DOGGETT,"Big fella, isn't he?",4
+SCULLY,"Big is a relative term, Agent Doggett. It took three strong men to wheel him in here. He tipped the scale at 402 pounds.",24
+DOGGETT,"Uh, Hugh Potocki was a big man, big appetites. Loved big cars, big houses, big business. Divorced twice. He carried two alimonies, one with child support. Never missed a payment. In fact, he seems to have spoiled his wives and kids.",41
+SCULLY,I'm missing the point.,4
+DOGGETT,"It seems he loved big women, too. Considering the evidence and motives we can probably rule out his ex-wives as suspects.",21
+SCULLY,"Well, considering what I found here today I'd say I have to agree.",13
+SCULLY,Tissue damage. Massive trauma to the lower intestine and the rectal wall.,12
+DOGGETT,Is that from something going in or coming out?,9
+SCULLY,"Well, unfortunately there's so much damage that it's hard to tell.",11
+SCULLY,"I took MRIs, which reveal further shredding throughout the abdomen and, uh, into the stomach area.",16
+DOGGETT,India's a major transit point for the Golden Triangle. This guy flew in and out of India half a dozen times over the past 18 months.,26
+SCULLY,Are you suggesting that he's a mule? A courier of heroine or opiates? Drug dealer?,15
+DOGGETT,"Fills a latex balloon with heroine, swallows it. We've all seen this kind of thing before but what if somebody got to him en route, forcibly extracted the drugs, tearing it from his stomach?",34
+SCULLY,"Well, I'd say, uh, that's a good theory, Agent Doggett, not to mention a graphic one, but there would have been traces left of drugs in his system. Nor does it account for the blood loss that this man experienced.",40
+DOGGETT,Then we're right back where we started. Nobody knows anything.,10
+SCULLY,"Not exactly. I ran a decay analysis to, uh, determine the time of death. Liver temperature, buildup of gases, extent of rigor-- routine stuff. It's not 100% accurate, but it gives us a range.",34
+DOGGETT,What's the range?,3
+SCULLY,24 to 36 hours.,4
+DOGGETT,"Well, that's just wrong.",4
+SCULLY,"Well, it would mean that, uh, Mr. Potocki here would have died before he left Bombay.",16
+DOGGETT,"No. It would mean that a dead man boarded a plane in India, changed planes in Paris, hailed a cab at Dulles, and then checked into a downtown hotel and tipped the bellman. In my experience, dead men don't tip, Agent Scully.",42
+[CARRIK,"Well, we didn't see Mr. Potocki tip. Is this a subtle reference to the possibly dead, nontipping Mulder, i.e. Bad Blood?]",21
+SCULLY,I told you to keep an open mind.,8
+TREVOR,Oh... look what he just did to my scooter.,9
+QUINTON,That's mine!,2
+TREVOR,"Yeah, right, you going to take it from me?",9
+QUINTON'S FATHER,"Hey! Leave him alone. What's going on here, Quinton?",9
+QUINTON'S FATHER,"I know you. Your name's Trevor? You're in seventh grade, right? Don't you guys have anything better to do than pick on sixth graders?",24
+TREVOR,"Well, he ran into me.",5
+QUINTON,That's a lie!,3
+QUINTON'S FATHER,"Enough. You want to be a bully? Find somebody your own age. I'll talk to your father if I have to. Come on, Quinton.",24
+DOGGETT,Yes. Thank you. Sorry to wake you. Good-bye.,8
+SCULLY,Bad connection?,2
+DOGGETT,Consulate in New Delhi. Three weeks ago an American businessman was found dead inside his hotel room. Take a look.,20
+DOGGETT,A Mr. Albert Brecht of Spokane. The reports have been hard to piece together. The medical records are in Hindi. Death certificate's in Farsi and the news accounts are in... I don't know—letters I've never seen before but I did get you a translation of Mr. Brecht's autopsy results.,49
+DOGGETT,"Internal trauma. Tearing in the abdomen. You're the doctor-- it sounds like the same MO, doesn't it, Agent Scully?",19
+SCULLY,"Look at this. Albert Brecht's passport was a recent issue and it has his weight at 205 pounds whereas here, an Indian medical examiner has him listed at 238 pounds just two hours after his death.",36
+DOGGETT,"Well, if there's one thing people lie about, it's their weight.",11
+SCULLY,"Well, that's a pretty big lie. I mean, that's a 33 pound discrepancy.",13
+DOGGETT,"Well, he was a big man, that's for sure.",9
+SCULLY,Yeah. As was our DC victim. All the better for accommodation.,11
+DOGGETT,Accommodation?,1
+SCULLY,"Well, something has to account for the weight gain, Agent Doggett. What if, whatever it is that killed these men entered and exited them of its own free will? I mean, something.... small... with small hands... living... inside the victims as a... as a stowaway of sorts.",47
+DOGGETT,"You know I agree that having an open mind is important to crime solving, but... this theory of yours requires an openness that I'm... … I'm just not comfortable with.",30
+SCULLY,"I understand, Agent Doggett and I can't prove it... but I bet that if we had weighed Hugh Potocki when he first arrived here from Bombay that he would have been 33 pounds heavier than his corpse.",37
+DOGGETT,"It's a theory, Agent Scully, but to my mind and... pretty much the rest of me, it-it... doesn't work.",19
+SCULLY,I appreciate your resistance but so far this evidence supports it.,11
+DOGGETT,Except one thing... Even if there was something living inside of Hugh Potocki when he arrived here from Bombay... you said that Mr. Potocki was already dead.,27
+QUINTON,Dad? Dad. Dad! Dad! Dad!!,5
+QUINTON'S FATHER,"Quint, what is it?",4
+QUINTON,There's a man in here.,5
+QUINTON'S FATHER,What? What are you talking about?,6
+QUINTON,"He was here, Dad. Right over there. He had no legs!",11
+QUINTON'S FATHER,"Quinton... Quinton, listen to me. The things that you imagine, the things that-that you dream... are not real. And what's not real can't hurt you.",25
+QUINTON,"But, Dad, it was real. It was.",7
+QUINTON'S FATHER,"Quint, there's nobody here.",4
+QUINTON'S FATHER,Try to get some sleep. Okay?,6
+NEWSGUY 1,There's no denying the world order has changed. The United States is the sole Super Power-- in both a military sense and an economic one. With this comes responsibility.,29
+NEWSGUYS,"No one's dismissing American responsibilities, here or abroad. But Third World debt relief, in my view would be a positive step toward solving Third World issues and Third World problems. Well, now it's my turn to disagree. Relieving that debt would allow these countries to find solutions without American intervention... I think you're being naive... There's no denying the world order has changed...",63
+QUINTON,Dad?,1
+QUINTON,Dad?,1
+DOGGETT,"The first dead body I saw, I was 19 and a marine. This boy... criminy.",15
+SCULLY,Yeah. That's not all he claims he saw.,8
+DOGGETT,That's what the cops told me. That's why I thought we should come down here.,15
+SCULLY,He said he called his dad in because there was something in his room. I asked him to describe it. He said that it was a munchkin. That it had no legs. And that it was keeping itself up with its arms.,42
+DOGGETT,"Well, that's a pretty good trick considering what I just found upstairs. Palm prints in the boy's bedroom. They match the one's we found in Potocki's room. And that's the good news. It just doesn't serve your theory because this thing didn't get in here in anybody's body. It came in through the bedroom window.",55
+SCULLY,How can you be sure?,5
+DOGGETT,There was another print on the sill outside the locked window. And somebody must have closed it after this thing got in.,22
+SCULLY,"Right. Which is exactly what the boy said that his father did. But it's the father that I have a problem with here. I mean he had none of the massive hemorrhaging that we found in Mr. Potocki. In the coroner's initial report, he makes it sound like the guy died of a cerebral embolism. The one salient detail in the external exam were the eyes... in which only the blood vessels are broken.",74
+SCULLY,Unless that's just the first stage.,6
+SCULLY,"This is Special Agent Dana Scully. I am a medical doctor about to perform an unauthorized procedure on a body. The, uh … the subject is a Caucasian male. Age, uh... I don't remember at this particular time. His height is about six feet. And his weight is... quite possibly subject to change.",53
+SCULLY,I suppose distention could be due to decomposition gases... but that seems unlikely.,13
+SCULLY,Oh.,1
+MRS. HOLT,Reliability's one of the most important parts of your job. We were very worried when you didn't show up this morning.,21
+(CLOSED CAPTIONING,CHUCK BURKS: They take religious devotion to an extreme.),9
+CHUCK BURKS,They're called Fakir-- ascetic masters bound to acts of self-torture to attain enlightenment.,13
+CHUCK BURKS,"We shot this video when I was traveling through India back in the late '70s... Oh, man, look at my hair back then.",23
+SCULLY,Agent Mulder consulted with Dr. Burks on occasion and I have to admit that I've been skeptical of him in the past but he does have certain insights.,28
+DOGGETT,"Well, we could use some insights.",6
+CHUCK BURKS,"Uh, well, I-I'm embarrassed to admit but I-I'm not sure I know what the heck's going on here.",18
+SCULLY,These ascetic masters... they have abilities?,6
+CHUCK BURKS,"Oh, absolutely. An-and abilities similar to those you told me about on the phone have been ascribed to what are know as Siddhi mystics. The Siddhi are a very mysterious and particularly powerful order of Fakirs. These Siddhi, they pass on their secret practices from father to son gaining occult powers with each generation.",54
+DOGGETT,What kind of powers?,4
+CHUCK BURKS,Powers of the mind. Powers that help them manipulate reality. Powers that allow them to become invisible or tiny as an atom.,22
+DOGGETT,"Well, I hope they're tiny. Where, whoever it is, is going.",11
+SCULLY,"Chuck... Could one of these Siddhi mystics make you believe that he vanished in a room when in fact, he's standing right in front of you?",26
+CHUCK BURKS,"Totally. Or disguise themselves appearing in front of you as, uh, well, virtually anyone.",14
+DOGGETT,"I'm sorry, Dr. Burks, you're a... you're a professor of what?",11
+CHUCK BURKS,"I run the Advanced Digital Imaging lab at the University of Maryland. And, um, I dabble.",16
+DOGGETT,"You dabble. Well, this has been... insightful.",7
+CHUCK BURKS,Doesn't surprise me.,3
+SCULLY,What?,1
+CHUCK BURKS,It's hard to believe in something when you can't understand it.,11
+QUINTON,Get out of here.,4
+TREVOR,"No, just... let me talk to you.",7
+QUINTON,Leave me alone.,3
+TREVOR,"No, I want to say I'm sorry.",7
+QUINTON,"No, you're not.",3
+TREVOR,"Look, I am. Would you just... listen.",7
+TREVOR,I'm... sorry about your Dad.,5
+TREVOR,"I, I think I know who did it.",8
+CHUCK BURKS,Agent Scully?,2
+SCULLY,"Chuck. Thank you for, uh, coming down here again.",9
+CHUCK BURKS,"Not at all. Uh... I'm just a little curious. I mean, it's always Mulder who'd been doing all the calling and...",21
+SCULLY,"This, uh... this case, I-I-I-I'm just... I'm trying to see it the way that Mulder would and... please have a seat.",21
+CHUCK BURKS,"Of course. So, what's seems to be the problem?",9
+SCULLY,"You described these, uh, Siddhi mystics as being religious men.",10
+CHUCK BURKS,Extremely. They believe their powers derive directly from the divine.,10
+SCULLY,"So, presumably using those powers for murder would be in opposition of that?",13
+CHUCK BURKS,Worse. It would violate the very foundation of ascetic life. It would endanger their eternal soul.,16
+SCULLY,"Which got me thinking that, uh... if these Siddhi hold so fast to their orthodoxy then what would cause them to break their faith?",24
+CHUCK BURKS,I don't know.,3
+SCULLY,Something human?,2
+SCULLY,Revenge?,1
+CHUCK BURKS,"Well, maybe, um.",3
+SCULLY,"This is... an American chemical plant in a village in India called, uh, Vishi. It's just outside of Mumbai which is a better known to us as Bombay. About six months ago the plant inadvertently released a small cloud of methyl isocyanate gas. 118 of Vishi's mostly indigenous population were killed. But it wasn't very well reported over here. I spent all night cross-checking the, uh, victims of the disaster. And one... finally caught my attention.",76
+SCULLY,"Now, I'd say, right here. It's an 11-year-old boy... whose father is described as being a holy man of the Chamar caste.",22
+CHUCK BURKS,"The beggar caste. Fakirs and mystics are.... well, often of low birth.",12
+SCULLY,Do you think that this boy's father could be a Siddhi mystic like you described?,15
+CHUCK BURKS,He could be. But if he's out for revenge then why is he killing the people that he's killing?,19
+TREVOR'S MOTHER,Woo! What's the matter with you?,6
+TREVOR,Nothing.,1
+TREVOR'S MOTHER,Trevor? Where are you going? Dinner's on the table.,9
+TREVOR'S MOTHER,Trevor. Trevor? Dinner.,3
+TREVOR'S MOTHER,Trevor!,1
+TREVOR'S FATHER,Excuse me.,2
+SCULLY,She came out to call her son in for dinner. That's all we know.,14
+DOGGETT,"What are we doing here, Agent Scully 'cause I'm not sure.",11
+SCULLY,What are we doing? A woman died of mysterious circumstances not three blocks away from a previous victim. External signs are a direct match. That woman's eyes.,27
+DOGGETT,"I saw her eyes. But dollars to donuts there wasn't anything that crawled up inside her. Now, I think we're reaching here and I don't know how to say it but maybe you're seeing things that you want to see.",40
+SCULLY,Are you questioning my integrity?,5
+DOGGETT,"No, I'm questioning the whole damn case. From your so-called expert, to the evidence you've chosen to ignore, to the fact that your approach has got us no closer to seeing a pattern or a motive or even catching this killer than we were when we started.",47
+SCULLY,I asked you to keep an open mind.,8
+DOGGETT,"Yeah, well, I try to keep an open mind but it tends to shut my eyes.",16
+SCULLY,"There is something here, Agent Doggett. And I'll admit that it's hard to accept. But there is a motive and there is a pattern and there is a reason and we will see it... but not working like this.",39
+DOGGETT,"Yeah, well... I hope somebody sees it.",7
+SCULLY,"Trevor. Trevor, I'm Dana Scully...",5
+TREVOR,What happened?,2
+SCULLY,Your father's in the house. I'm going to take...,9
+TREVOR,Where's my mom?,3
+SCULLY,Trevor.,1
+TREVOR,He was here. The-the little man. I-I saw him. He... he followed me.,13
+CHUCK BURKS,Agent Doggett? Where is he? Is that him?,8
+DOGGETT,"If you mean the janitor yeah, that's him, right in there.",11
+CHUCK BURKS,"Agent Scully called and said that, uh, you had arrested what might be an honest to goodness Siddhi mystic.",19
+DOGGETT,"Well, Agent Scully jumped the gun on that one. The only thing extraordinary about this man is he doesn't speak... to anyone.",22
+CHUCK BURKS,"Well, where is Agent Scully?",5
+DOGGETT,"She left, after four hours of attempting to interrogate this guy. Unless he jumps up and does something mystical in the next ten minutes, we're releasing him.",27
+DOGGETT,What are you doing?,4
+CHUCK BURKS,"The man sitting there may not be the man sitting there. No one may be there at all, in fact.",20
+DOGGETT,"Not in the next ten minutes, there ain't.",8
+CHUCK BURKS,"Oh, wow. Agent Doggett? Y-you got to take a look at this.",12
+DOGGETT,Come on. It's a trick.,5
+CHUCK BURKS,"Yeah, but not of the camera.",6
+DOGGETT,"Wait, if... if he's not there...",6
+CHUCK BURKS,He could be anywhere.,4
+TREVOR'S FATHER,Yeah.,1
+SCULLY,"Sir, I am so sorry to bother you again. I know this has been a terrible ordeal.",17
+TREVOR'S FATHER,Yes... what is it you need?,6
+SCULLY,"I need to speak with your son, Trevor, again.",9
+TREVOR'S FATHER,Is this about his mother?,5
+SCULLY,"Well, Trevor told me that he saw a man... It was just something that doesn't quite add up and I need to be certain.",24
+SCULLY,Thank you.,2
+SCULLY,Scully.,1
+DOGGETT,"Think you ought to get back here, Agent Scully. There's something...",11
+SCULLY,What?,1
+DOGGETT,"The janitor, he's here... but he's not. I can't... I can't explain it.",13
+TREVOR'S FATHER,Trevor's not in his room.,5
+SCULLY,"I'm sorry, just hang on one second.",7
+SCULLY,Agent Doggett what do you mean he's not there?,9
+TEACHER,Who's that?,2
+MRS. HOLT,Hello?,1
+MRS. HOLT,"Mr. Burrard... I thought you... Well, I-I didn't expect to see you back at work.",15
+MRS. HOLT,This is the agent who picked him up before. Can you make this call?,14
+QUINTON,Here he comes.,3
+QUINTON,"Trevor, are you there?",4
+TREVOR,"Get out of there, let's go!",6
+QUINTON,"I can't, the windows are locked.",6
+TREVOR,"Break them, okay!? You...",4
+TREVOR,I'll get help.,3
+SCULLY,"Oh, thank god.",3
+QUINTON,Do something!,2
+SCULLY,"Quinton, what's the matter?",4
+QUINTON,It's him! It's the little man!,6
+SCULLY,Who? Trevor?,2
+MRS. HOLT,"All right, now you boys, you just stop playing around.",10
+SCULLY,"Okay, don't move. Stay where you are.",7
+MRS. HOLT,"Wait, wait what are you doing?",6
+QUINTON,Stop him! Shoot him!,4
+SCULLY,I can't.,2
+MRS. HOLT,"Oh, my god.",3
+DOGGETT,"What is it, what happened? Agent Scully! Scully.",8
+[CARRIK,First time he's called her Scully?],6
+DOGGETT,"You going to be okay, Agent Scully?",7
+DOGGETT,"I got a drift of what happened in there... to you. I mean, sort of.",15
+SCULLY,I shot a young boy.,5
+DOGGETT,"The good news is, you're wrong.",6
+SCULLY,"But it's what I saw. With my eyes, anyway. Do you know what it's like not to be able to trust your own eyes?",24
+DOGGETT,Then why'd you shoot him?,5
+SCULLY,Because it's what the boy saw. And in an instant I realized that it's what Mulder would have seen or understood.,21
+SCULLY,Because that's just how he came at things... without judgment and without prejudice and with an open mind that I am just not capable of.,25
+DOGGETT,It's been a long night. Give yourself a break.,9
+DOGGETT,This whole thing doesn't make any sense.,7
+SCULLY,"No... it did. In some way, it did.",8

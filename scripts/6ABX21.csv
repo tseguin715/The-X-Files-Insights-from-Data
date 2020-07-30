@@ -1,0 +1,283 @@
+speaker,line,words
+ANGELA,Ohh! I've got mosquito bites. I've got blisters. I hate those new boots.,13
+WALLACE,Honey. Why are you so P.O.'d? I thought we had a good time.,13
+ANGELA,"You had a good time. You had a fine time tromping around and leaving me a half a mile behind. Look, for future reference, me running through the woods after you for an entire day is not my idea of a good time.",43
+WALLACE,"I'm sorry. I've got longer legs. I was excited, you know? The great outdoors, communing with nature.",17
+WALLACE,Your head hurt?,3
+ANGELA,Yeah.,1
+WALLACE,You can hit me in the head with a rock if it'll make you feel better.,16
+ANGELA,Fine. Go get one. I'm taking a shower.,8
+WALLACE,You still mad at me?,5
+ANGELA,No. I'm not mad.,4
+WALLACE,"Come here. So I guess we're never going hiking again. It's indoors forever from now on. Angie, honey, what's up?",20
+ANGELA,Just hold me.,3
+MULDER,"Oh. Ugh. I don't know what they did with the screen for this thing. Now, this is Angela and Wallace Schiff. It's a young married couple last seen hiking in the vicinity of Brown Mountain, North Carolina. That's Angie on the right. I should add that this is the condition in which their bodies were found after being missing for only three days... in temperatures that never got above 70 degrees.",71
+SCULLY,"Which rules out decomposition. I'd say predation, but the... the bones would be scattered.",14
+MULDER,Not to mention that these skeletons are not wearing any clothes.,11
+SCULLY,"Right. Well, I'd say it looks like a double murder, possibly one with ritualistic overtones. The bodies may have been stripped then skeletonized, possibly by boiling or by the use of some kind of acid solution. Maybe the arrangement of the bodies has some meaning for the killer or killers. But at any rate, I'd term it ""ritualistic.""",58
+MULDER,"That's a pretty big operation you're describing. There was no evidence found at the scene-- no tire tracks, no footprints, nothing.",21
+SCULLY,"Well, what do you think this is?",7
+MULDER,"It's Brown Mountain, Scully. That doesn't ring a bell? The Brown Mountain lights? It's a famous atmospheric phenomenon dating back nearly 700 years witnessed by thousands of people-- back to the Cherokee Indians. Strange multicolored lights are seen to dance above the peak of the mountain. There's been no geological explanation, no scientific credible explanation at all.",57
+SCULLY,And what does that have to do with these two?,10
+MULDER,"As I said, there's been no scientific credible explanation but there are those of us who believe these strange multicolored lights are really...",23
+SCULLY,UFOs. Extraterrestrial visitors from beyond who apparently have nothing better to do than buzz one mountain over and over again for 700 years.,23
+MULDER,"Sounds like crap when you say it. I'm just wondering if there's a connection, Scully. I mean, the conditions of these bodies are reminiscent of certain southwestern cattle mutilations. Those are cases where there's no physical evidence and they've long been associated with UFO activity.",45
+SCULLY,"Mulder, can't you just for once, just... for the novelty of it come up with the simplest explanation, the most logical one, instead of automatically jumping to UFOs or Bigfoot or...?",31
+MULDER,"Scully, in six years, how... how often have I been wrong? No, seriously. I mean, every time I bring you a case we go through this perfunctory dance. You tell me I'm not being scientifically rigorous and that I'm off my nut, and then in the end who turns out to be right like 98.9% of the time? I just think I've... earned the benefit of the doubt here.",69
+CORONER,We gave them adjoining suites. I was ready to send them on to Chapel Hill. Figured the state medical examiner should have a look at them.,26
+MULDER,We appreciate you holding off.,5
+SCULLY,The connective tissue is more or less intact.,8
+CORONER,Unlike everything else. I'm not sure what to make of it considering the short time frame.,16
+SCULLY,"If you'll, um, pardon an obvious question are you sure that these are the right two bodies and not two others that have lain out for six months?",28
+CORONER,We triple-checked the dental records. Angela and Wallace Schiff-- no doubt about it.,13
+MULDER,"Hmm. And they were both found near Brown Mountain, right? Where exactly?",12
+CORONER,"Well, I could write you some directions.",7
+SCULLY,"Would you, uh, happen to know what this is?",9
+CORONER,"Well, the remains were found in a swampy area. It's some sort of organic material relating to that. It's bog sludge.",21
+MULDER,I'm going to check out where the bodies were found. You coming?,12
+SCULLY,No. You go ahead.,4
+MULDER,Wallace Schiff?,2
+MULDER,Wallace Schiff?,2
+CORONER,We got your gas spectrometer results. That stuff on the bones I said was bog sludge? It isn't.,18
+SCULLY,"Water, hydrochloric acid... Electrolytes, pepsins and trypsins. It's a digestive secretion.",11
+CORONER,It's stomach juices pretty much-- Pretty damn close to it... Except for this.,13
+SCULLY,Chitinase?,1
+CORONER,"It's a digestive enzyme as well but it's strictly plant, not animal.",12
+MULDER,Hello!,1
+CORONER,"I told you, I'd seen this before. These are the two I remember anyway.",14
+SCULLY,Both of these were discovered as skeletal remains.,8
+CORONER,"Right, but we saw nothing odd in that. Both were lost hikers found months or years later or whatever it says there.",22
+(REPORT SAYS,"""Victim found 2 miles southeast … Brown Mountain exit - Highway 5 …"")",12
+SCULLY,It says here that the bodies were found not far from where Angela and Wallace Schiff turned up.,18
+SCULLY,"Oh, Mulder, answer your phone.",5
+RECORDING,The cellular customer you are trying...,6
+SCULLY,Do me a favor. I want you to forward a sample of that secretion over to the FBI lab at Quantico. I want them to run a complete analysis.,29
+CORONER,You got it.,3
+SCULLY,"And, uh, in the meantime, could I borrow your truck?",10
+WALLACE,Please... don't take me.,4
+MULDER,"Then, come out here. Step closer. I won't hurt you.",10
+WALLACE,You're not one of them?,5
+MULDER,"One of who? Are you Wallace Schiff? Well, I hate to tell you this, Wallace, but you're supposed to be dead. They found your skeleton not 200 yards from here.",30
+WALLACE,It's fake. They put it there.,6
+MULDER,Who put it there?,4
+WALLACE,You know who.,3
+MULDER,The Brown Mountain lights.,4
+WALLACE,"They abducted us... me and my wife Angela. They took us on board their... oh, God.",16
+MULDER,"Wallace... Wallace? They found your wife Angela, too... lying right alongside your skeleton.",13
+WALLACE,"No. Don't you get it? They-they faked our deaths! They have that kind of technology. Who the hell would look for us if they thought they'd already found our bodies? You see? They returned me, but Angela, she's still up there... being experimented on and I-I-I-I can't... I don't know what to... what do I do?!",56
+SCULLY,Mulder?!,1
+MULDER,First things first-- we got to find a way out of here.,12
+WALLACE,Right behind you.,3
+MULDER,What the hell's going on? That was solid rock a minute ago. Now there's nothing there.,16
+WALLACE,"Oh, God. It's them. They're affecting your head... maybe mine, too. What if I can't even tell what's real?",19
+MULDER,"Wallace, let's get out of here. Come on, Wallace.",9
+WALLACE,"They're out there, man.",4
+WALLACE,It's them!,2
+MULDER,Wallace!,1
+SCULLY,Mulder?! Mulder!,2
+WALLACE,Don't let them see you!,5
+MULDER,They're gone.,2
+WALLACE,"Yeah, for now. Thank God, they didn't find us.",9
+MULDER,They should have. Maybe they came for something else.,9
+WALLACE,"Oh, my God! Oh, my God... Angie!",7
+WALLACE,They brought her back.,4
+MULDER,"Angie, can you talk to me? Do you remember what happened? Can you tell me?",15
+ANGELA,It's all fuzzy and...,4
+MULDER,You were with your husband. With Wallace.,7
+ANGELA,There was a light. A bright light.,7
+MULDER,Where was that light coming from? From the mountain?,9
+ANGELA,"Over Brown Mountain. There were strange lights dancing over the peak and... and they took me. And Wallace, too.",19
+MULDER,And then what happened?,4
+ANGELA,"Oh, just... it all went black. And when I woke up, I didn't know where I was and I couldn't see Wallace anymore.",23
+WALLACE,They returned me first.,4
+MULDER,This... this place that they took you to can you describe it to me tell me what it looked like?,20
+ANGELA,"It was white. A white place. It was featureless. I was lying on a table and I couldn't get up. I mean, nothing was holding me down but I couldn't move.",31
+MULDER,Were there men there?,4
+ANGELA,"Yes, there were men standing over me but I couldn't see their faces.",13
+MULDER,Did they perform tests on you?,6
+ANGELA,Yes. They did tests. Terrible... tests. What?,7
+MULDER,"You have a, uh... you have a scar back here on the back of your neck.",16
+WALLACE,What? What scar?,3
+MULDER,It's fresh.,2
+WALLACE,What is that?,3
+MULDER,It's an implant. I've seen this before.,7
+ANGELA,"Yes. The drill-- I remember the drill. I couldn't see it at first. That was the worst part. But I could hear it spinning and it was coming out of the light... oh, what did they put in me?",39
+WALLACE,Is there one in me?,5
+MULDER,"No, male abductees don't usually report this. And everything she says so far is textbook down to the last detail, except for one.",23
+WALLACE,What?,1
+MULDER,Two skeletons we found were identified as yours and Angie's? I don't understand that. It doesn't make sense to me.,20
+WALLACE,Maybe they're like the cattle mutilations you hear about. Maybe they're somehow related. Maybe they're part of their tests.,19
+MULDER,I had that thought but there's no precedent for it. It's in none of the literature.,16
+WALLACE,"Well, they didn't want anybody to find us. I guess they didn't want you to know the truth.",18
+MULDER,We got to get out of here right now.,9
+WALLACE,"Oh, no way.",3
+ANGELA,They're out there. They're always watching.,6
+WALLACE,"If they find us, if we leave, they'll take us again.",11
+MULDER,"We're leaving now. Gather your things. Angie, I'll help you up.",11
+ANGELA,They're coming. I can feel it.,6
+ANGELA,They're here!,2
+WALLACE,"Hide! They'll take you, too! We've got to hide!",9
+MULDER,No!,1
+WALLACE,No!,1
+MULDER,Scully...,1
+SCULLY,Mulder. Why the hell did you leave North Carolina without telling me?,12
+MULDER,Long story.,2
+SCULLY,You disappear and then I get a furtive call that you're back here in D.C.?,15
+MULDER,I'm sorry. Does anybody know you're here?,7
+SCULLY,No.,1
+MULDER,"Scully, this is...",3
+SCULLY,"Angela... and Wallace Schiff. But, Mulder, it can't be.",9
+MULDER,"This is my partner, Agent Scully.",6
+SCULLY,"Mulder, I I.D.'d their remains myself.",6
+MULDER,"Yeah, I think you were meant to.",7
+ANGELA,"Agent Scully, the aliens planted decoys so you would think we were dead.",13
+SCULLY,The aliens?,2
+MULDER,"Scully, I want you to... put aside your scientific bias for a moment. 'Cause what I'm about to tell you is going to change your life forever. Your life, my life the life of everybody on this planet.",38
+SCULLY,Mulder...,1
+MULDER,I was out there... and I found it.,8
+SCULLY,What?,1
+MULDER,The truth. This couple... they were abducted by a UFO-- the Brown Mountain lights.,14
+ANGELA,They took me to a white place. There were men there. They put an implant in my neck.,18
+MULDER,Just like what happened to you.,6
+SCULLY,"Mulder, from what very little I understand about this case, this is not what happened to me.",17
+MULDER,There's more.,2
+MULDER,It doesn't like the light.,5
+SCULLY,Who?,1
+MULDER,I abducted him. It's a gray. It speaks to me. We communicate telepathically. He told me everything.,17
+SCULLY,I... I can hear him.,5
+MULDER,Yeah.,1
+SCULLY,"Oh, my god.",3
+SCULLY,"I, uh... I don't know what to say, Mulder. Where to begin. I mean, you... you were right. All these years, you were right.",24
+MULDER,You think so?,3
+SCULLY,"You were right about the grays, about... about the abductions, about the UFOs... the lights, the Brown Mountain lights...",19
+MULDER,What about the skeletons?,4
+SCULLY,They were... they were fake. They were decoys.,8
+MULDER,You're buying that decoy theory? What about that organic substance we found on the skeletons? That goo you were so interested in?,22
+SCULLY,It was nothing. It was bog sludge.,7
+MULDER,"That, uh... doesn't sound like you, Scully. It, uh... God, I can't believe you're buying this.",16
+SCULLY,"Mulder, I'm admitting that I was wrong.",7
+SCULLY,Are... are you all right?,5
+SCULLY,How are you feeling?,4
+MULDER,"Uh, this doesn't make any sense.",6
+SCULLY,What?,1
+MULDER,These two. Their story. Their skeletons. None of it.,9
+SCULLY,"Mulder, if I, of all people, can believe this then why can't you?",13
+CORONER,Did you go inside the cave?,6
+SCULLY,Yeah. I looked. It's empty. It's as if he just vanished.,11
+CORONER,He's got to be around. We'll catch up to him. I know this area pretty well.,16
+SCULLY,Doctor... It's more of that digestive material. Looks like it's coming up from out of the ground.,17
+CORONER,Agent Scully? I got tracks going in and out.,9
+SCULLY,They were only going in before.,6
+CORONER,"Oh, I guess you missed him.",6
+SCULLY,"How? I mean, this, this cave's not much more than a hole in the rock.",15
+CORONER,Agent Scully?,2
+CORONER,The courier just arrived. They brought your partner's charts.,9
+CORONER,I'm sorry. I know it's difficult.,6
+SCULLY,"That, um... that digestive secretion that we keep finding-- could it, could it have done this to him?",18
+CORONER,I'm not sure I follow.,5
+SCULLY,"Well, it's... it's chemically similar to gastric juices, right? I mean, maybe he fell in it or... may... maybe it's a product of a... of a particular vegetation that grows in the area.",33
+CORONER,"That... all sounds plausible, I guess except for one thing. There's no sign of it on these remains.",18
+SCULLY,It was... it was on the Schiffs.,7
+CORONER,I just think we need to look for the simplest explanation. The most logical.,14
+SCULLY,What is the most logical explanation?,6
+CORONER,"I'd say we're looking at a murder-- one with ritualistic overtones. I think his body was stripped and then skeletonized. Possibly by boiling or use of an acid solution. Don't worry, Agent. We'll take care of the arrangements.",38
+SCULLY,What arrangement?,2
+CORONER,We'll have the remains sent on to Washington.,8
+SKINNER,I appreciate the thoroughness of your report. Especially given the circumstances. It might be best if you took some time off-- a short leave. Agent?,25
+SCULLY,Sir? You're satisfied with my conclusions in this case?,9
+SKINNER,Absolutely. I take it you're not.,6
+SCULLY,Well... I was unable to determine a clear cause of death nor was I able to fully account for the condition of Agent Mulder's body.,25
+SKINNER,You concluded he was a victim of a ritual killing.,10
+SCULLY,"No. I mean that was one possible scenario that I mentioned, but... in my mind it, it, it was the least plausible.",22
+SKINNER,"Not only is it plausible, it's, it's, uh... it's likely. Why are you questioning your own findings?",17
+SCULLY,My role in the X-Files has always been to provide a... a rational scientific perspective to cases that would seem to defy explanation-- a counterpoint to Agent Mulder.,28
+SKINNER,And you have done that. You have performed admirably.,9
+SCULLY,Have I? How many X-Files has my scientific approach fully and satisfactorily explained?,13
+SKINNER,Your reports have consistently made sense of his conclusions.,9
+SCULLY,"Sir, this one makes no sense at all.",8
+SKINNER,Are you suggesting this is anything other than a murder?,10
+SCULLY,That's what Agent Mulder would have thought.,7
+SKINNER,"You think he would have been right? Given Mulder's life work it's tempting to attribute his death to the paranormal, the unexplained, the unknown but that's simply not the case here.",31
+SKINNER,"You need to see this for what it is and given that, I promise you we'll get the bastard who did this.",22
+SKINNER,I'm sorry.,2
+BYERS,Agent Scully... How are you holding up?,7
+SCULLY,"I, uh... I still can't believe it.",7
+LANGLY,"Neither can we. I half expect Mulder to come knocking at that door. ""Surprise.""",14
+FROHIKE,This will dull the pain.,5
+SCULLY,"No, thank you.",3
+BYERS,Just so you know... we've launched our own investigation.,9
+SCULLY,I was beginning to think that I was the only one who was a little suspicious.,16
+FROHIKE,"We'll find him. We'll find him, and we'll make him pay.",11
+SCULLY,Find who?,2
+FROHIKE,The son of a bitch who killed Mulder.,8
+BYERS,"I hope you're not offended but we, uh, managed to get ahold of your report. I must say, we were impressed by the thoroughness of it.",26
+LANGLY,Especially given the circumstances.,4
+SCULLY,I don't understand.,3
+BYERS,"We concur with your findings. Clearly, this was a ritualistic murder.",11
+SCULLY,"Those were not my findings. You guys believe that, too-- that Mulder was murdered?",14
+LANGLY,It's the obvious answer.,4
+SCULLY,"No, it is not the obvious answer!",7
+BYERS,"We believe his body was stripped then skeletonized, possibly by boiling or the use of an acid solution.",18
+FROHIKE,We'll make that monkey pay.,5
+SCULLY,"What the hell is wrong with everybody?! You guys, there are unanswered questions here! Am I the only one that's asking them?!",22
+FROHIKE,I could use a drink.,5
+SCULLY,"You three, of all people! You should be all over this, not buying the party line. Look, something else is going on here. Am I the only one who thinks that?!",31
+BYERS,Are you all right?,4
+SKINNER,I think you need to go home and get some rest. I'll call you a cab.,16
+SCULLY,What have you done with him?,6
+SKINNER,"Scully, you're emotionally distraught. You need to calm down and get some rest.",13
+SCULLY,Where is Mulder? Where is he? What have you done with him?!,12
+SKINNER,Listen to me. He's gone. You need to accept that.,10
+SCULLY,"Look, something else is going on here! Where is he?! Where's Mulder?!",12
+MULDER,Scully.,1
+MULDER,"We were in the cave when the light came. It was a blinding blue-white light. Then they took me. I was abducted. I found myself in some kind of medical bay. It was white, featureless. It was just as the Schiffs had described it.",44
+SCULLY,"Mulder, the Schiffs are dead.",5
+MULDER,"No, actually, they're not.",4
+SCULLY,"Mulder, their remains were discovered in a field. That's... that's what brought us to this case in the first place. I found your remains in that same field.",28
+MULDER,Look at me. I'm here.,5
+SCULLY,How did you get here?,5
+MULDER,Aliens brought me back here.,5
+SCULLY,"From North Carolina direct to your apartment door? Mulder, you don't remember getting here, do you? Neither do I.",19
+MULDER,It doesn't change what happened.,5
+SCULLY,"Mulder, why did you knock? This is your apartment. And you don't seem the least bit surprised to find me here. And what about the Schiffs? I mean, if they're alive, as you say, then... then where are they? Where'd they go? Mulder, five minutes ago... this room was filled with people attending your wake.",55
+MULDER,"Well, what can I say, Scully? I'm here. I'm real.",10
+SCULLY,"Mulder, this is not reality. This is a hallucination. It has to be. And either I am having it, or you are having it or we are having it together.",30
+MULDER,Brought on by what?,4
+SCULLY,"Something that we found in that field, Mulder, because that's where it began. Wild mushroom. Wild mushrooms, Mulder. They were growing there. I stepped on one, and it gave off spores. Several varieties of … of mushrooms are known for their hallucinogenic properties. If … if we inhaled it...",49
+MULDER,Whatever happened to the most logical explanation?,7
+SCULLY,"This is it, Mulder. What if we're still there? If we're still in that cave in North Carolina-- that we're not here in this apartment right now?",27
+MULDER,"Whoa, Scully.",2
+SCULLY,"No, Mulder, bear with me. I think this is making sense. I think that Angela and Wallace Schiff were digested by that substance that I found all over that field. That they were dissolved and then expelled up out of the ground. What if that substance and this hallucinogen are - are from one and the same organism?",57
+MULDER,A giant mushroom?,3
+SCULLY,"A giant fungal organism, Mulder. We already know that they exist. Biologists have found specimens that range dozens of acres that weigh hundreds of tons. And what if this one needs to feed on living tissue, Mulder? There is carnivorous plant life. There's … there's the Venus Flytrap and the pitcher plant. Mulder, what if this one puts off an hallucinogen...",61
+MULDER,To lure its prey into the cave?,7
+SCULLY,To make it complacent. To keep it still while it devours it.,12
+(CUT QUICKLY TO,"MULDER, underground, covered in yellow goo.)",6
+SCULLY,"What if we're still underground, Mulder? What if we're moving deeper into the cave? Or being moved? Mulder, what if we're being digested? Right now.",25
+SKINNER,The exact size of this organism has yet to be determined?,11
+SCULLY,"That's correct, sir. We know that the organism extends for at least ten acres. Though it's mostly subterranean so it may be far larger.",24
+MULDER,We've contacted Fish and Wildlife. We've contacted the North Carolina State Health Department as well as the local FBI field office in Raleigh. And we've contacted a mycologist at the Smithsonian for good measure. We think we have our bases covered.,41
+SCULLY,The lab results determined that the spores we were exposed to have a chemical structure similar to LSD. They also contain an alkaloid which induces a state of narcosis.,29
+SKINNER,It's a rare day when the two of you sign off on the same report.,15
+SKINNER,Agent Mulder?,2
+MULDER,I'm just thinking... I'm not exactly clear on how we escaped.,11
+SKINNER,What's not clear?,3
+MULDER,Once you recognized that we were under a chemical influence then it simply kind of... broke its spell?,18
+SCULLY,That's right.,2
+MULDER,"Scully, how could we simply will ourselves out of a chemical hallucination?",12
+SCULLY,"Well, the fact remains we did.",6
+MULDER,Did we? Can you name me one drug that loses its effect once the user realizes it's in his system?,20
+SKINNER,I assume the effects wore off to the point that you were both able to make your escape.,18
+MULDER,"Scully, how long were we underground? Hours? Half a day? How come our bodies don't show any effects of being burned by the digestive fluids? We were covered in hydrochloric acid. Yet look at our skin. Nothing.",37
+SKINNER,"Agent Mulder, where are you going with this?",8
+MULDER,Scully... we never escaped. We're still trapped underground.,8
+SCULLY,"Mulder, we did escape. I think you're suffering from post-traumatic stress.",11
+MULDER,"No, I'm not. This is not real. You, you're not real.",11
+SCULLY,"Mulder, I...",2
+MULDER,"I'll prove it, Scully.",4
+SCULLY,Mulder!,1
+SKINNER,Over here! Over here!,4
+PULSE FINDING AGENT,He's alive.,2
+SKINNER,Hurry up! Get him out! Get him out! Keep digging! She's down here! Pull her up. Get her out.,19
+SCULLY,Mushroom.,1
+MUSHROOM FINDING AGENT,"We found it. Just take it easy, Agent.",8

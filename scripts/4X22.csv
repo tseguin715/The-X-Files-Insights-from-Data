@@ -1,0 +1,368 @@
+speaker,line,words
+ANGIE,"Oh gosh, go home Harold.",5
+HAROLD,I'm not done yet.,4
+ANGIE,"Harold, you hear me? You should have gone home already.",10
+HAROLD,I'm not done yet.,4
+ANGIE,"For praying out loud Harold, this ain't so difficult.",9
+ANGIE,"Harold, it's past your bedtime. It's ok. And the doctors will be worried about you. You did a good job today now you go home c'mon.",26
+HAROLD,16 21 37 45 60 71 86...,7
+ANGIE,What the hell?,3
+ANGIE,Jeez.,1
+ANGIE,"Oh God, oh my God! No! I'll get help! Oh!",10
+ANGIE,"Officer, officer!",2
+OFFICER,"Sir, this don't involve you.",5
+ANGIE,"There's a woman inside, she's bleeding, she's...",7
+ANGIE,God. That's her! That's the girl I saw!,8
+MULDER,"Hey, Scully, take a look at this.",7
+SCULLY,What am I looking at?,5
+MULDER,The pin setter. You see the way it's wedged and broken?,11
+SCULLY,Yep.,1
+MULDER,Mr. Pintero said the only way that would happen would be if considerable weight or pressure was placed on it from above.,22
+SCULLY,This is where you saw the body?,7
+ANGIE,"Yes ma'am, she was caught up in the machinery. Her neck was cut.",13
+SCULLY,And the blood from the victim was pooling where?,9
+ANGIE,Right here.,2
+SCULLY,But both the body and the blood were gone when you returned?,12
+ANGIE,"Yeah, but like, like I said, the woman in the parking lot...",12
+SCULLY,Was the same woman that you saw caught up here in the machinery?,13
+ANGIE,That's right.,2
+ANGIE,"Look, I'm not making this up!",6
+MULDER,"No one's suggesting that you are, Mr. Pintero.",8
+ANGIE,I saw the look on her face.,7
+MULDER,"Can I ask you a favor? Can I get a soda, a cola, something like that?",16
+ANGIE,Sure.,1
+MULDER,Thanks.,1
+ANGIE,Yeah.,1
+MULDER,"What is that look, Scully?",5
+SCULLY,I would have thought that after three years you'd know exactly what that look was.,15
+MULDER,"What, you don't believe in ghosts?",6
+SCULLY,You're saying that what this man saw was the victim's ghost?,11
+MULDER,Sounds more like a disembodied soul.,6
+SCULLY,Which is just another name for a ghost.,8
+MULDER,"Except according to Mr. Pintero, this one was trying to communicate. It was speaking to him as if she was trying to tell him something. It sounds more like a death omen.",32
+SCULLY,A death omen?,3
+MULDER,Yeah. It's a spirit being that arrives as a harbinger of death.,12
+MULDER,"This is the third reported sighting in as many weeks... and as many murders. Each time the victim appearing near the crime scene trying to communicate, trying to say something.",30
+SCULLY,Communicate what?,2
+MULDER,"I don't know yet but, uh,...... thank you. If you hold on a second I may have an answer for you.",21
+ANGIE,Hey! What are you doing?,5
+MULDER,She is me.,3
+SCULLY,What?,1
+MULDER,Written onto the wax - she is me - look at this!,10
+HUDAK,"Three victims... all women... all approximately the same age, height, weight, hair and eye color... all attacked within the same six block area of each other. Our FBI profiling model suggests a white male, late twenties / early thirties. His victims were probably strangers to him... symbols representing other women in his life... perhaps all women. Hey you in the back! Are we boring you?",64
+MULDER,"No, not at all.",4
+HUDAK,Because if you have nothing to contribute to this profile...,10
+MULDER,"No, actually I do have something to add. I think that following the FBI model in this case will not only fail to turn up the killer but will undoubtedly lead to more victims and more deaths.",37
+HUDAK,You want to tell us who you are and what you base that on?,14
+MULDER,I'm Special Agent Mulder. This is Agent Scully. We're from the FBI. We're here following up a lead that seems to have been dropped - a statement made by the proprietor of the bowling alley that...,35
+HUDAK,... the guy that claims that he saw the victim...,9
+MULDER,"No, no, not the victim. Her apparition, what the Irish call a fetch, what is more commonly known as a wraith.",21
+HUDAK,"Oh, ok.",2
+MULDER,Were there any written messages in any of these other cases?,11
+HUDAK,Written messages?,2
+MULDER,"Do the words ""she is me"" have any meaning to you?",11
+HUDAK,You mean Penny Timmons last words?,6
+MULDER,Those were her dying words?,5
+HUDAK,According to a 911 call we received...,7
+MULDER,Well who made that call?,5
+HUDAK,A nut.,2
+MULDER,What do you mean?,4
+HUDAK,There were no dying words. Penny Timmons larynx was severed. She couldn't cry for help even if there was help to cry for.,23
+MULDER,And no one followed up on this lead?,8
+HUDAK,"No but, uh, I'll have someone get you the number and you can follow up on it.",17
+MULDER,I'd appreciate that.,3
+ALPERT,"People! People! Listen up now. I've brought some folks who want to talk with you. Nurse Innes, could you gather the group?",22
+INNES,"All right everyone! Let's go, you know the drill. Get your seats. Group seating. Go on in. Harold, come on. Harold.",21
+ALPERT,"Good morning, everybody.",3
+PATIENTS,"Good morning, Mr. Alpert.",4
+ALPERT,I've brought visitors today. They're investigating a crime. It's OK. They just want to ask you a few questions.,19
+MULDER,Hi. I wanted to ask if anybody used the pay phone out in the hallway there on Friday night - because somebody called the police and reported a murder.,28
+ALPERT,Sloppy Joe night.,3
+MULDER,"That was Sloppy Joe night. it, I did it. I'm just a human being, after all.",16
+ALPERT,Chuck! Tell the truth.,4
+CHUCK,"No. I'm sorry, I didn't mean it. I... I lied. I lied but I'm just a human being.",18
+ALPERT,Has anyone used the pay phone to call the police?,10
+MULDER,Anybody recognize this woman?,4
+CHUCK,That's the lady that got murdered.,6
+VARIOUS PATIENTS,Yeah she's the one...I recognize her... I know her... She was murdered...,12
+SCULLY,"And, does anybody recognize this man?",6
+VARIOUS PATIENTS,"Oh, yes, yes, he did it... He did it... He's the murderer... He's a very funny man... He smiles a lot.",21
+MULDER,The quiet man in the back.,6
+ALPERT,Harold Spuller.,2
+MULDER,"The only one who didn't raise his hand, yeah. Has he ever been a problem?",15
+ALPERT,Harold? No. He has a tendency to get a little worked up.,12
+MULDER,Do you think I could talk to him.,8
+ALPERT,"Yeah, sure.",2
+SCULLY,"Yeah, I found something here Mulder... in these photos taken by the forensics team. The third victim, her left hand, that band of pale skin. It looks like she wore a ring on that hand.",35
+MULDER,"A wedding ring, yeah.",4
+SCULLY,Yeah. But she wasn't married.,5
+MULDER,"So what, he stole her ring?",6
+SCULLY,"No, not at all.",4
+MULDER,"Oh, he switched it.",4
+SCULLY,"And in all the other murders he repeated the same ritual, changing the ring on each of the victims.",19
+MULDER,"Nice catch, Scully. Any idea about the psychology at work?",10
+SCULLY,"Well, there's something called ego dystonia. It's a form of obsessive-compulsive disorder where a person has the persistent and inescapable impulses to change things, to organize, to reorganize. But it's not ordinarily something that escalates to a murderous impulse.",39
+MULDER,"Not ordinarily unless there was a more complex psychology at work, like pronounced mental illness.",15
+SCULLY,You really think that the killer is a patient here?,10
+MULDER,"I'm not sure if the killer is here, but certainly the person that made that phone call is, and I think his name is Harold Spuller.",26
+SCULLY,Did he cop to making the call?,7
+MULDER,No but he's about to.,5
+HAROLD,I don't know anything. I didn't do anything. Leave me alone.,11
+MULDER,"You made that phone call, didn't you Harold?",8
+HAROLD,No!,1
+MULDER,"Did you say the words ""she is me""?",8
+HAROLD,No!,1
+MULDER,Have you ever heard those words?,6
+HAROLD,No!,1
+MULDER,"Have you ever seen a ghost, Harold?",7
+HAROLD,No! No! Please leave me alone.,6
+SCULLY,"Well... when you're right, you're right.",6
+HAROLD,17... 30... 37... 45... 53,5
+SCULLY,"Harold Spuller suffers from pervasive developmental disorder, which is sometimes called atypical autism. He's spent his entire life in and out of facilities just like this one. He has been medicated, he has received shock therapy and, aside from his other disabilites, he has been diagnosed with severe ego dystonic obsessive-compulsive disorder... which would explain the switching of the victims rings.",61
+MULDER,So why all of a sudden?,6
+SCULLY,"You mean what made him snap? Why, I think his outburst clearly showed a frustrated impulse towards violence when he was put in a challenging situation.",26
+MULDER,That outburst didn't come until after I'd asked him if he'd ever seen a ghost.,15
+SCULLY,"Mulder, the man is disturbed. You could see the pressure building in him from the moment the interview began.",19
+MULDER,Yeah.,1
+SCULLY,Why are you now so unconvinced that Harold Spuller is the man we came here looking for?,17
+MULDER,I'm sure Harold Spuller is the man that made that phone call. But what led us to him still remains unexplained.,21
+SCULLY,"""She is me.""",3
+MULDER,"Uh huh, and the other apparitions, like the one Mr. Pintero saw at the bowling alley.",16
+SCULLY,"Well, I think I have an idea about that if not an explanation. Howard Spuller is at this facility voluntarily, which means he can come and go as he pleases, to kill those women or to hold down a job or both.",42
+MULDER,Oh Scully...,2
+SCULLY,Yeah. It's ok.,3
+MULDER,You sure?,2
+SCULLY,"Yeah, it's just, um, I'm fine. I just need to find a washroom.",13
+MULDER,Scully?,1
+MULDER,"Scully, you in there?",4
+SCULLY,Yeah.,1
+MULDER,They found another victim. A college student with her throat cut. Just about a half block from here.,18
+MULDER,"Her name was Loren Heller, age 21. She's single, apparently she was on her way home from a bar that she part-timed at after school. She had a ring on her left hand, switched to her right hand, pinky finger. She was dead less than an hour when she was found.",51
+SCULLY,"That would rule out Harold Spuller as the killer, huh?",10
+MULDER,"No, actually it doesn't. Harold's not at the home. He's nowhere to be found. His nurse locked him in his room after we left, but he managed to escape unnoticed.",30
+SCULLY,I don't imagine he'd be too hard to find.,9
+MULDER,"Yeah, but I think we should be the ones to find him, if only to find out what ""she is me"" means.",22
+SCULLY,Mulder... I...,2
+MULDER,What?,1
+SCULLY,"I think I'm going to let you take care of that. I, uh, I think I'm gonna get this checked out just, you know, just to be safe.",28
+MULDER,You want me to drive you?,6
+SCULLY,"No, no, I'm fine really. I've had the doctors keep a close watch and it's just, just precaution.",18
+MULDER,You're sure?,2
+SCULLY,I'm fine.,2
+HAROLD,No... no... I just want to be left alone!,9
+KOSSEFF,"We've spoken about your fear. You've been afraid to express it to others, to Agent Mulder.",16
+SCULLY,This is different.,3
+KOSSEFF,How?,1
+SCULLY,"Several months ago, I was diagnosed with a cancerous mass - a nasal pharyngeal tumor that can not be operated on and, uh, cannot be treated by conventional medicine.",28
+KOSSEFF,I'm sorry.,2
+SCULLY,I don't mean for this to sound too dire. My health has been good. I have been checked up on a weekly basis.,23
+KOSSEFF,You've kept working?,3
+SCULLY,Yes. It's been important to me.,6
+KOSSEFF,Why?,1
+SCULLY,Why? Um...Agent Mulder has been concerned. He's been supportive through this time.,12
+KOSSEFF,Do you feel that you owe it to him to continue working?,12
+SCULLY,No. I guess I never realized how much I rely on him before this... his passion... he's been a great source of strength that I've drawn on.,27
+KOSSEFF,"What happened last night, Dana?",5
+SCULLY,"I saw something. I, I don't know what to trust. If I saw it because of the stress, because the image had been suggested to me or if it was a suggestion of my own fears.",36
+KOSSEFF,Your fear of failing him?,5
+SCULLY,Maybe.,1
+KOSSEFF,What did you see?,4
+SCULLY,I saw a woman who had recently been murdered. I saw her. It appeared as if she was trying to tell me something.,23
+KOSSEFF,Do you know what?,4
+SCULLY,No.,1
+KOSSEFF,Are you sure?,3
+ANGIE,"Hey, you're back.",3
+MULDER,"Yeah, I'm looking for Harold Spuller.",6
+ANGIE,Harold? What for?,3
+MULDER,Suspicion of murder.,3
+ANGIE,You think Harold killed those women?,6
+MULDER,"You obviously don't think so, huh?",6
+ANGIE,Harold's worked for me for 10 years. He might be crazy but he couldn't kill anyone. He's a sweet kid.,20
+MULDER,You know where he is now?,6
+ANGIE,"He was here this morning when I arrived, arranging the shoes.",11
+MULDER,He has a key?,4
+ANGIE,"No, he's got some damn way of getting in here through an abandoned building next door.",16
+MULDER,Did you ever get lane 6 working?,7
+ANGIE,"No, not since I saw the girl.",7
+MULDER,"Harold? Harold? Harold, I just want to talk to you. Harold?",11
+HAROLD,She is me... she is me... she is me... she is me... she is me... she is me...,18
+MULDER,Harold?,1
+HAROLD,She is me... she is me... she is me... she is me... she is me... she is me...,18
+ATTORNEY,I want to make this clear from the start. My client is suffering from a mental disorder which impairs his judgement. He will not answer any questions regarding his guilt or innocence.,32
+HUDAK,I'd be real happy if you'd quit talking right now.,10
+ATTORNEY,"Any time Harold becomes upset or unwilling to cooperate, this interrogation will end. Detective Hudak?",15
+HUDAK,"Tell me why you did it, Harold, huh? Come on, tell me why you killed those women.",17
+ATTORNEY,What did I just say? This is totally unacceptable. I am prepared to tell my client not to cooperate.,19
+MULDER,"Harold? Harold, you knew those women who were murdered, didn't you? That's why you're scared. You're afraid they've come back to visit you. Penny Timmons.",25
+HAROLD,8 17 30 37 45 53 71 80 92 99 108.,11
+MULDER,Missy Shapiro.,2
+HAROLD,14 29 38 57 71 79 88 101 117.,9
+MULDER,Michelle Chamberlain.,2
+HAROLD,17 32 49 69 78 87 99.,7
+MULDER,What was her shoe size?,5
+HAROLD,Six and a half.,4
+HUDAK,There you have it.,4
+ATTORNEY,This is not a confession.,5
+HUDAK,"He killed them. He stalked them, he fixated on them, and he slit their pretty little throats. Isn't that right, Harold, huh?",22
+ATTORNEY,"Harold, as your paid attorney, I'm advising you not to respond to any more questions nor to cooperate with this investigation any further.",23
+MULDER,"Harold, there are people who think that you murdered these women. I'm not one of them. But I need your help for me to prove that. You think you can do that? I think you can.",36
+MULDER,Mr. Pintero? I'd like to search the building for any ways in or out that Harold might have of the bowling alley.,22
+ANGIE,Oh sure.,2
+MULDER,Thanks.,1
+ANGIE,"You OK, Harold?",3
+HAROLD,"The shoes are out of order, Mr. Pintero. I'm sorry.",10
+ANGIE,"Hey. It's OK, buddy, don't you worry about it. You get this straightened out with these folks, then you'll come back and keep me in line.",26
+HAROLD,"OK, Mr. Pintero.",3
+HUDAK,I want to know why the hell we're being led around like this.,13
+MULDER,I'm hoping it will become clear to us when we find it.,12
+HUDAK,Is that right? He's going to show us something that's going to exonerate him?,14
+MULDER,I think so.,3
+HAROLD,Here.,1
+HUDAK,Here what?,2
+HUDAK,"My God! They're all here, every victim.",7
+ATTORNEY,This proves nothing.,3
+HUDAK,He fixated on them.,4
+ATTORNEY,"I see hundreds of scorecards up here, thousands of names.",10
+MULDER,"Choose a name. Pick a name, pick any name up there.",11
+HUDAK,Fred Graham.,2
+HAROLD,17 42 67 88 107 122 131 166 178 201.,10
+MULDER,200 game. that's not bad.,5
+HUDAK,You're saying he has all these scores in his head?,10
+MULDER,Including the victims.,3
+ATTORNEY,You said this proves his innocence. How?,7
+MULDER,"I'm not sure exactly, but I think that...",8
+HAROLD,No! No!,2
+HAROLD,No! No! No!,3
+OFFICER,He just keeled... fell right over. I've done what I can. Must have been a heart attack.,17
+MULDER,Hey Scully. Is it too late?,6
+SCULLY,No. What are you doing Mulder?,6
+MULDER,I needed your help on something. I needed your medical expertise.,11
+SCULLY,On what?,2
+MULDER,"Harold Spuller. Oh, I'm sorry, I didn't even ask you. What did your doctor say?",15
+SCULLY,I'm fine.,2
+MULDER,Good.,1
+SCULLY,"What's up, Mulder?",3
+MULDER,"Angie Pintero, the bowling alley guy? He's dead.",8
+SCULLY,How?,1
+MULDER,Natural causes. Congestive heart failure. Just keeled over right in the bowling alley.,13
+SCULLY,That's what you need my medical opinion on?,8
+MULDER,No. Howard Spuller had a preminatory vision of his boss's death.,11
+SCULLY,I don't understand.,3
+MULDER,Harold saw an apparation - what may have been Angie Pintero's disembodied soul at the moment of or just prior to his death.,22
+SCULLY,How do you know?,4
+MULDER,Because I was standing right there when he saw it.,10
+SCULLY,But you didn't see it yourself?,6
+MULDER,No.,1
+SCULLY,Why?,1
+MULDER,"I don't have that facility, that kind of connection to the victims that would have made such a vision possible.",20
+SCULLY,What's Harold Spuller's connection?,4
+MULDER,"I don't know its exact nature but I think it has something to do with his autism... that Harold experienced a profound attachment to these victims but because of his disability was unable to express the depth and power of those relationships, so somehow a psychic or preconscious bond was formed that went beyond the temporal.",56
+SCULLY,"Oh, wait a minute, so Harold knew the people that were killed?",12
+MULDER,"Yeah, from the bowling alley, going back seven years.",9
+SCULLY,"Even if what you're saying is true, Harold wasn't the only one who claims to have seen these apparitions.",19
+MULDER,"No, but he does have something in common with those who've had the visions that is quite powerful in its own right.",22
+SCULLY,Which is what?,3
+MULDER,"Well, they were all dying... one of emphysema, one of cancer and now Angie Pintero.",15
+SCULLY,Harold Spuller is dying too?,5
+MULDER,Well that's what I need your medical opinion on.,9
+SCULLY,"Well, what if he isn't?",5
+MULDER,I would be very surprised. What is a death omen if not a vision of our own mortality? And who among us would most likely be able to see the dead? Harold's at the resident home right now.,38
+SCULLY,I'll meet you there.,4
+NEW HORIZON PSYCHIATRIC CENTER - 11,42 PM,2
+ALPERT,"Well, you're back. Everything's going to be all right now, Harold. They just want us to keep you here for a little checkup. Nothing to worry about. Thanks, officers.",29
+ALPERT,"All right, Chuck. Go to bed. You can see Harold in the morning.",13
+ALPERT,"See. Everyone's so glad to see you back, Harold. You'll be able to talk to Chuck in the morning.",19
+ALPERT,"You still have to take your meds, Harold. Keeps you flying straight and level. Come on. It's the way we always do it.",23
+ALPERT,Atta boy. Good stuff. Hi. We just brought him back.,10
+INNES,Is he acting up?,4
+ALPERT,"No, I think he's just a little scared. I've been trying to get him to take his meds.",18
+INNES,Why don't you let me sit with him for a bit.,11
+ALPERT,"OK, sure.",2
+INNES,"Take your poison, Harold. Go on. What you got to live for now, huh? What did you tell them, Harold? Did you tell them about your little girlfriends? Huh? Did you tell them how you were in love?",38
+HAROLD,No!,1
+INNES,Did you show them your pictures?,6
+HAROLD,No!,1
+INNES,"What do you think those girls thought of you, Harold? Do you think they loved you back? No one could love you, Harold. Look at yourself. They looked at you and saw an ugly toad. A retard.",37
+ALPERT,Agent Mulder.,2
+MULDER,Thanks for accomodating us again.,5
+ALPERT,Not a problem. We're all concerned for Harold.,8
+MULDER,I understand.,2
+ALPERT,You're bringing a doctor?,4
+MULDER,"Agent Scully's a doctor. If you can arrange to have Harold's medical records made available, that would expedite the...",19
+ALPERT,Oh God. What's happened to you? Don't touch that. Don't touch that. It's just a cut.,16
+MULDER,Tell me exactly what happened.,5
+INNES,"Like he just went wacko. I was trying to get him to take his meds and he went beserk. He jumps me, he starts pounding me like he wants to kill me.",32
+MULDER,Did he say anything?,4
+INNES,"No, he just started screaming like a lunatic. Something's gone wrong with him. I think he's lost it for good. I'll be damned if I'm gonna to take care of him any more.",33
+ALPERT,"Look, I think you should get this cut on your head looked at.",13
+INNES,"Maybe, just give me a few minutes to get my nerves back.",12
+ALPERT,"OK everybody, everything's fine now. Come on, back to bed. That's right. Go on now. We'll see you in the morning. Night-night everybody. What can I do to help?",29
+MULDER,"I want you to call the police. Ask for Detective Hudak. Tell them what happened, tell them to look for Harold down at the bowling alley.",26
+ALPERT,Are they going to arrest him?,6
+MULDER,I don't see that there's any way around that. Sorry.,10
+SCULLY,Maybe you were wrong.,4
+MULDER,"Well, that's a superficial head wound, Scully. He didn't mean to kill her or maim her. That's not the work of a murderer if you ask me.",27
+SCULLY,Then why would he do it?,6
+MULDER,Maybe Harold is sicker than we thought he was.,9
+SCULLY,Maybe. We won't know until we can examine him.,9
+MULDER,I think there's someone you can talk to about it. Why don't you talk to his roommate and I'll see what I can do about finding Harold.,27
+CHUCK,Oh hi.,2
+SCULLY,Is your name Chuck?,4
+CHUCK,"Yes. Yes it is. Uh, Chuck Forsch. F-O-R-S-C-H. Chuck Forsch.",10
+SCULLY,"Do you, uh, do you share this room with Harold?",10
+CHUCK,"Yes, he's my friend.",4
+SCULLY,Do you know where he is?,6
+CHUCK,"He's dying, isn't he? Harold is dying.",7
+SCULLY,Why do you say that?,5
+CHUCK,"Nurse Innes, she's, she's trying to poison him.",8
+SCULLY,Who told you that?,4
+CHUCK,Harold. He said she told him she was putting poison in his meds.,13
+SCULLY,Harold hasn't been taking his medication?,6
+CHUCK,"I don't know. I don't know everything, I'm only a human being. But I do know that Harold's my friend. He wouldn't hurt anybody. You know, he really loved them.",30
+SCULLY,Who?,1
+CHUCK,Harold. He gave them to me. He was afraid.,9
+SCULLY,"Does anybody else know about these pictures, Chuck?",8
+CHUCK,Nurse Innes.,2
+SCULLY,How are you feeling?,4
+INNES,"I'm, you know, shaky.",4
+SCULLY,Understandable.,1
+INNES,Working with these people starts driving you crazy too. I'm just looking forward to going home.,16
+SCULLY,Will your family be a comfort?,6
+INNES,I live alone.,3
+SCULLY,No children?,2
+INNES,Just the one my husband ran off with.,8
+SCULLY,"Nurse Innes, I'm afraid I'm gonna to have to ask you to step out into the hallway.",17
+SCULLY,Stay where you are! Drop it! Let it go!,9
+SCULLY,She's alive. Let's get a paramedic in here.,8
+ALPERT,Yeah.,1
+MULDER,You're cut.,2
+SCULLY,"Yeah, she attacked me. . You might want to bag that. I'm pretty sure it's the murder weapon.",17
+SCULLY,She had been taking Harold's meds... clonazepam and clozapine... the unregulated effects of which are violence and unpredictable behaviour.,19
+MULDER,"Yeah, but why did you even suspect her?",8
+SCULLY,"Well, I went in to talk to Harold's roommate and he said that Harold thought that she'd been poisoning him. So I went in to confront her and she just went off.",32
+MULDER,Why do you think she killed those women?,8
+SCULLY,"I don't know. I mean, maybe in some drug-addled way, she was trying to kill happiness, Harold's happiness, his love for those women, maybe trying to destroy something she thought she'd never have again.",34
+MULDER,She is me.,3
+SCULLY,I don't know. Have they found Harold?,7
+MULDER,"Yeah. They found in an alley a few blocks from here, face down on the pavement. They worked on him for twenty minutes but he couldn't be revived.",28
+SCULLY,What happened?,2
+MULDER,"Well, preliminary diagnosis is apnia - respiratory failure.",7
+SCULLY,As a result of what?,5
+MULDER,"Well, the paramedics are at a loss to explain that, but if what you're saying is true, that Harold stopped taking his medications, then that could have been a factor in his death - at least in the visions that he was seeing.",42
+SCULLY,"Well, Harold Spuller wasn't dying, Mulder. He, he was killed as a result of what that woman took away from him.",21
+MULDER,Is that your medical opinion?,5
+SCULLY,I saw something Mulder.,4
+MULDER,What?,1
+SCULLY,The fourth victim. I saw her in the bathroom before you came to tell me.,15
+MULDER,Why didn't you tell me?,5
+SCULLY,Because I didn't want to believe it. Because I don't want to believe it.,14
+MULDER,"Is that why you came down here, to prove that it wasn't true?",13
+SCULLY,"No, I came down here because you asked me to.",10
+MULDER,Why can't you be honest with me?,7
+SCULLY,"What do you want me to say? That you're right, that, that I believe it even if I don't. I mean, is that what you want?",26
+MULDER,Is that what you think I want to hear?,9
+SCULLY,No.,1
+MULDER,"You can believe what you want to believe, Scully, but you can't hide the truth from me because if you do, then you're working against me... and yourself. I know what you're afraid of. I'm afraid of the same thing.",40
+SCULLY,The doctor said I was fine.,6
+MULDER,I hope that's the truth.,5
+SCULLY,I'm going home.,3

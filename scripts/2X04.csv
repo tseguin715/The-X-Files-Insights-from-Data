@@ -1,0 +1,299 @@
+speaker,line,words
+GRISSOM,AH! Calls 911,3
+OPERATOR,"911 operator, please state emergency.",5
+GRISSOM,"Yeah, this is Dr. Saul Grissom. There’s a fire outside my apartment. I’m trapped.",14
+OPERATOR,Are you at 700 East 56th street?,7
+GRISSOM,"Yes, apt. 606. For god’s sake, hurry",7
+OPERATOR,"Fire units are being dispatched right now, sir. Please stay on the line.",13
+GRISSOM,Somebody help! Ah! Flames consume the room and he starts to choke from smoke inhalation as firemen race up the stairs. A large black man is seen going down the stairs. Much chaos and shouting.,35
+FIREMAN 1,Get a crew up to the roof!,7
+LT. REAGAN,"This is Lt. Reagan and we have a possible 23 false alarm in apartment six-zero-six. Let’s confirm that location, 606.",20
+WOMAN AT OTHER END OF RADIO,"Yes, that’s affirmative, 606.",4
+REAGAN,"It’s cold, let’s do it! The men break in the door and find nothing but Grissom’s dead body",18
+FIREMAN,He looks dead. Mulder opens his paper at his apartment and a tape falls out along with Dr. Grissom’s article circled.,21
+MULDER,The article makes no mention of the fire.,8
+SKINNER,"Yes, Agent Mulder, I can read.",6
+MULDER,Grissom’s company had a number of government contracts which would place this investigation within the Bureau’s jurisdiction.,17
+SKINNER,But that’s not why you want the assignment.,8
+MULDER,I think that the circumstances surrounding Grissom’s death warrant a closer look. I called NYPD but they won’t even talk to me unless I get the Attorney General to sign off on it.,33
+SKINNER,"Where’d you get the tape. Presumably, someone had led you to believe that there is more here than is being reported.",21
+MULDER,"My source, the only one I have ever trusted, is dead.",11
+SKINNER,"I’ll look into this further and I’ll let you know. In the mean time, you have 24 hours of wiretap that needs to be transcribed.",25
+PERSON ON TAP,Are you comin’ over or what? You said you was comin’ over two hours ago and I’m waitin’ here like some stupid bimbo who ain’t got nothin’ better to do with her time. . . Mulder rewinds tape some,37
+PERSON,. . .waitin’ here like some stupid bimbo who ain’t got nothin’ better to do with her time than to sit around here waitin’ for you.,24
+KRYCEK,Agent Mulder?,2
+MULDER,Yeah.,1
+KRYCEK,It’s your 302. Assistant Director Skinner just approved it.,9
+MULDER,There’s a mistake here. There’s been another agent assigned to the case.,12
+KRYCEK,"That would be me. Krycek, Alex Krycek.",7
+MULDER,Skinner didn’t say anything about taking on a new partner.,10
+KRYCEK,"It wasn’t Skinner. Actually, I opened the file 2 Hours before your request so technically, it’s my case.",18
+MULDER,And you all ready talked to the police?,8
+KRYCEK,"Yeah, just hung up on the officer in charge a few minutes ago. A detective named Whorton. Turns out Grissom called 911 to report a fire.",26
+MULDER,I heard the tape.,4
+KRYCEK,Did you hear that forensics found a spent fire extinguisher on the floor. Grissom’s prints were all over it. The walls and floor in his living room were covered with ammonium phosphate.,32
+MULDER,But no trace of a fire.,6
+KRYCEK,Not even a burnt match.,5
+MULDER,That all you know?,4
+KRYCEK,So far. What do you think it means?,8
+MULDER,"Listen, I appreciate the show and tell, and I don’t want you to take this personally, but I work alone. I’ll straighten things out with Skinner.",26
+KRYCEK,"It’s my case, Agent Mulder. Look, I may be---green, but I had the case first and I’m not going to give it away so quickly.",25
+MULDER,"All right, I’ll tell you what, I got a little work to finish up around here. Why don’t you go down to the motor pool and requisition us a car and I’ll meet you down there.",36
+KRYCEK,That’s all. I mean you don’t have a problem with us working together.,13
+MULDER,It’s your party.,3
+KRYCEK,"Well, um, I’ll get the car. Krycek walks away with a satisfied smile and Mulder watches him go.",18
+SCULLY,"Electrocution effects electrolytic conduction, disrupting the heart beat and most of the autonomic systems. Death actually occurs from tissue damage, and necrosis in the heart itself, particularly in the sinus and the atria ventricular nodes. . .",35
+MAN,"Agent Scully, sorry to interrupt, but you have a call from a George Hale, says it’s urgent.",17
+SCULLY,Excuse me. Scully picks up the phone.,7
+SCULLY,Where are you?,3
+MULDER,National airport. Catching the shuttle up to Laguardia in a half an hour. How do you feel about joining me in the ‘Big Apple’ for an autopsy.,27
+SCULLY,What’s going on?,3
+MULDER,I was hoping you could tell me.,7
+SCULLY,I can’t do it today. My last class isn’t until 4:30.,11
+MULDER,That’s fine. I can have the ME wrap the body to go,12
+SCULLY,Mulder. . .,1
+MULDER,You’ll get it by five.,5
+SCULLY,What’s the name?,3
+NURSE,"Dr. Grissom’s alpha-wave analysis defined the standard, he revolutionized the way we think about sleep. His death was a tremendous loss to the scientific community.",25
+MULDER,How many other kinds of sleep disorder did he treat?,10
+NURSE,There are 38 different dissomnias and parasomnias. Dr. Grissom treated them all with an unprecedented success ratio.,17
+MULDER,Maintaining that kind of batting average must have taken it’s toll.,11
+NURSE,Excellence demands certain sacrifices.,4
+MULDER,Did he ever show any signs of psychological stress?,9
+NURSE,Not really. Except for his own occasional bout of insomnia.,10
+MULDER,But he was never delusional.,5
+NURSE,Of course not.,3
+MULDER,What’s his story?,3
+NURSE,"This patient’s night terrors prevent him from cycling out REM sleep into the more restful slow wave sleep. It’s still experimental, but what we’re trying to do is modify his brain wave patterns externally.",34
+MULDER,How do you do that?,5
+NURSE,Electrical stimulation of the occipital lobe creates simply visual and auditory hallucinations.,12
+MULDER,So it’s actually possible to alter somebody’s dreams?,8
+NURSE,"In theory, yes.",3
+KRYCEK,"I paid off your cab. Hey, I don’t appreciate being ditched like someone’s bad date",15
+MULDER,I’m sorry if I hurt your feelings.,7
+KRYCEK,Where do you get off copping this attitude. You don’t even know the first thing about me.,17
+MULDER,Exactly.,1
+KRYCEK,"You know, back at the academy, some of the guys used to make fun of you.",16
+MULDER,"Oh stop it, or you’ll hurt my feelings.",8
+KRYCEK,But there were some of us who followed your work. Believed what you were doing because we knew that there was more out there than they were telling us. Mulder’s cell phone rings.,33
+MULDER,Yeah.,1
+SCULLY,Grissom didn’t die from cardiac arrest.,6
+MULDER,What is it?,3
+SCULLY,I think you should come down and take a look for yourself. I haven’t even started on the chest and abdomen yet and I’ll have a lot more to tell you then.,32
+MULDER,I can make it in two hours. Mulder reaches for the door. Krycek holds up the keys.,17
+KRYCEK,Where are we going.,4
+MULDER,Spleen or pancreas?,3
+SCULLY,Stomach. I was just about to start on it.,9
+MULDER,"This is Alex Krycek. We’re, uh, working the case together.",10
+SCULLY,Good to meet you.,4
+KRYCEK,"You too. He holds out his hand, she walks right by it.",12
+SCULLY,"Notice the pugilistic attitude of the corpse. Krycek coughs into fist, loudly.",12
+SCULLY,This condition generally occurs several hours after death. It’s caused by a coagulation of muscle proteins when the body is exposed to extremely high temperatures.,25
+MULDER,Like fire?,2
+SCULLY,This degree of limb flexion is observed exclusively in burn-related victims.,11
+KRYCEK,But there was no fire.,5
+SCULLY,"And no epidermal burns to indicate as much but when I opened up the skull, I found external hemorrhages, which can only be caused by intense heat. Some how, this man suffered all of the secondary, but none of the primary physiological signs of being in a fire.",48
+MULDER,Any theories?,2
+SCULLY,I couldn’t even begin to explain what could have caused this. It’s almost as if. . .,15
+MULDER,What?,1
+SCULLY,It’s almost as if his body believed that it was burning.,11
+COLE,"You left the door open, Willie.",6
+HENRY,Preacher?,1
+COLE,Not a good idea leaving your door open in this neighborhood. You never know who’s gonna drop by.,18
+HENRY,What are you doin’ here? How long ya been in town? Want a beer?,14
+COLE,"How ya doin’, Henry? Huh? How ya been?",8
+HENRY,"How am I doin’? I’m, uh,---tryin’ to forget. You know. I’m trying to get it out of my head.",19
+COLE,No luck?,2
+HENRY,"And I’m, uh, still fightin’ it, you know. I keep seein’ the faces. Every day I see---aw, what’s the difference. We’re all goin’ to Hell, right?",26
+COLE,"Where you think we been the last 24 years? After this, whatever you is gonna seem like you get a wine invitation.",22
+HENRY,"What do you want here, Preacher? You killed them, didn’t you. You killed Grissom, I saw it on TV",19
+COLE,"He had to pay, Henry. All of us have to answer for what did over there---can’t get away from it. Many Vietnamese people appear, holding guns",26
+HENRY,No.,1
+COLE,"He retains that is anger forever because he delights in mercy. He will turn again. He will have compassion on us. He will subdue our inequities and he will cast all our sins into the depths of the sea. It’s all right, Henry. It’s all over now. The Vietnamese people raise their guns and fire at Henry, killing him.",59
+KRYCEK,"The victim’s name was Henry Willig. Unemployed and lived on disability. Police found no indication of force entry of struggle, no abrasions or contusions on the body and cause of death is being listed as a burst aneurysm.",38
+MULDER,"So, why did your friend from homicide call us.",9
+KRYCEK,Because the medical examiner called him. The autopsy revealed forty-three small internal hemorrhages and skeletal fragments which doesn’t just happen spontaneously. Not without some corresponding external trauma.,27
+MULDER,So what does the ME have to say about it?,10
+KRYCEK,"He said if he didn’t know otherwise, he would swear they were gunshot wounds.",14
+MULDER,What’s this scar right here?,5
+KRYCEK,"According to his medical history, the only surgery he ever had was an appendectomy.",14
+MULDER,"Well, unless they got to his appendix through his neck.",10
+KRYCEK,"Maybe it happened during Vietnam. Willig did a tour with the Marines in 1970, and I’m sure they didn’t keep the best of records.",24
+MULDER,Willig was a Marine? So where do all Marines receive basic training on the East coast?,16
+KRYCEK,Parris Island.,2
+MULDER,Where Grissom was stationed from 1968 to 1971.,8
+KRYCEK,"Which means that he and Willig were there at the same time, 24 years ago.",15
+MULDER,"Here we go. Willig was assigned to Special Forces on Re-con squad J-7. Of thirteen original members, he’s one of two survivors.",22
+KRYCEK,Until yesterday.,2
+MULDER,This leaves us with one person who can tell us what happened on Parris Island.,15
+DOCTOR,"I’ve been supervising Mr. Cole’s treatment since I admitted him twelve years ago. ‘Fraid you won’t find him very cooperative, though.",21
+MULDER,We just want to ask him a few questions about his military service.,13
+DOCTOR,He doesn’t respond very well to authority figures.,8
+MULDER,Is that why you put him in isolation?,8
+DOCTOR,"Oh, we’ve had to house Mr. Cole in this section of the ward because he kept interfering with our treatment of the other patients.",24
+MULDER,How was he interfering?,4
+DOCTOR,"He was disrupting their sleep patterns. Psychiatric patients especially, it’s critical that the Circadian cycles be strictly maintained. . .",18
+MULDER,"Excuse me, but exactly how would Cole disrupt their sleep?",10
+DOCTOR,"Here we are. Mr. Cole, there are some gentlemen here to. . . Cole is not in his cell when the door is opened.",22
+RECEPTIONIST,You discharged him just a few days ago.,8
+DOCTOR,I most certainly did not. Don’t you think I would remember if I did.,14
+RECEPTIONIST,"Well, I was on shift, Doctor. You signed the order yourself. That’s your signature, isn’t it?",16
+MULDER,Let’s get Cole’s face onto the wire. Mulder’s cell phone rings.,11
+MULDER,Mulder.,1
+X,"Mr. Mulder. I have obtained some information that may shed some light on your current work. You must exercise discretion when we meet. If anyone follows you, I won’t be there.",31
+MULDER,Who are you?,3
+X,Who I am is irrelevant.,5
+MULDER,Why are you trying to help me?,7
+X,"You think I want to be here, Agent Mulder? I don’t want to be here.",15
+MULDER,What is this?,3
+X,Data from a top secret military project. Borne of the idea that sleep was the soldiers greatest enemy.,18
+MULDER,Of course. Someone was conducting sleep deprivation experiments on Parris Island.,11
+X,"Not deprivation, eradication.",3
+MULDER,Why?,1
+X,"Why else? To build a better soldier. Sustained wakefulness dulls fear, heightens aggression. Science had just put a man on the moon. So they looked to science to win a losing war.",32
+MULDER,And Willig and Cole were the lab rats.,8
+X,"Lab rats with the highest kill ratio in the marine corps. 4,000 plus confirmed kills for a thirteen man squad.",20
+MULDER,You think Cole’s behind what’s happening now?,7
+X,"I’m not here to do your thinking, Agent Mulder. All I know is Augustus Cole hasn’t slept in 24 years. There’s someone else you should see. A member of the squad who was reportedly killed in action.",37
+MULDER,I thought Cole was the last.,6
+X,His name is on the envelope.,6
+MULDER,So how do I contact you?,6
+X,You can’t,2
+MULDER,I may still need more.,5
+X,"You still don’t get it, do you? Closing the X-Files, separating you and Scully was only the beginning. The truth is still out there, but it’s never been more dangerous. The man we both knew paid for that information with his life, a sacrifice I’m not willing to make.",49
+KRYCEK,Where were ya? Someone matching Cole’s description just robbed a drugstore in Queens and the place is located under a motel just around the corner.,25
+MULDER,Is he alive?,3
+KRYCEK,He was when the night man just saw him. So where were ya? They enter the hotel.,17
+KRYCEK,"Detective Whorton? I’m Agent Krycek, this is Agent Mulder",9
+WHORTON,"I’ve been waiting for you guys. I tried holding the swat guys back but they’re getting a little antsy. For what it’s worth, Cole didn’t steal dime-one from that drug store, just a bunch of pills. Three gunshots are fired and a scream is heard. Mulder and Krycek race up the stairs.",52
+KRYCEK,"Inside, NOW! Officer down!",4
+MAN,"We got two officers down, request emergency vehicles, immediately. Cole is seen against the wall outside.",16
+KRYCEK,"What’s going on here Mulder? These two officers, they shot each other.",12
+SCULLY,"Also in the described in the report, is a highly experimental neurosurgical procedure meant to induce a permanent waking state. The procedure involved cutting out part of the brainstem in the mid-frontal region which would explain Henry Willig’s scar. A similar scar should also be evident on Augustus Cole. Post-op treatment also included a regiment of synthetic supplements to replenish the organic deficits caused by prolong lack of sleep. This is consistent with the anti-depressants Cole robbed from the pharmacy. These drugs maintain serotonin levels in the blood. Serotonin being the primary substance produced during sleep. While it is theoretically possible that this procedure greatly diminished the subjects need for sleep, I can neither quantify nor substantiate it’s success without further clinical evidence. Telephone rings.",125
+SCULLY,Scully,1
+MULDER,"Well, that second officer is still in a coma, so I don’t think we can count on him to give us an answer.",23
+SCULLY,I’m going over these reports you faxed me. They’re incredible.,10
+MULDER,"Well, the military all ready sent troops to radioactive mushroom clouds, I guess they figured they had to top themselves, right?",21
+SCULLY,"Sleep eradication still doesn’t explain the shooting of those two officers, or the anomalous autopsy results on Willig and Dr. Grissom.",21
+MULDER,"Well, I learned something at Dr. Grissom’s clinic. About what happens to a persons cortex when you stimulate it with electricity.",21
+SCULLY,"They experience mild visual and auditory hallucinations, any first year med. student could tell you that.",16
+MULDER,"Well, what if that stimulus were to come from a remote source? What if Cole had somehow developed the ability to project his unconscious.",24
+SCULLY,Are you suggesting that Cole killed these people with telepathic images?,11
+MULDER,"Think about it, Scully. In all those years without REM sleep, maybe Cole built a bridge between the waking world and the dream world. A collective unconscious. And what if, by existing consciously in the unconscious world, he developed the ability to externalize his dreams and effectively alter reality.",49
+SCULLY,"Even if you’re right, you’ll have a much better chance of finding Cole if you work up a profile and try to surmise his next move.",26
+MULDER,"All right, I’ll sharpen my pencils and I’ll see you later. Krycek beckons towards Mulder.",15
+MULDER,"I’ll be right there, Krycek.",5
+SCULLY,Where are you going?,4
+MULDER,We’re gonna check out another member of the squad and see if he can tell us anything about Cole.,19
+SCULLY,Sounds like your new partner’s working out.,7
+MULDER,He’s all right. He could use a little more seasoning and some wardrobe advice But he’s a lot more open to extreme possibilities then. . .,24
+SCULLY,Then I was?,3
+MULDER,. . .then I assumed he would be.,6
+SCULLY,"Must be nice not having someone question your every move, poking holes in all your theories.",16
+MULDER,"Oh yeah, it’s---it’s great. I’m surprised I put up with you so long.",13
+SCULLY,You’d better go. I’ll read over this report again and see what else I can come up with.,18
+MULDER,Okay. Hangs up phone.,4
+MULDER,Salvatore Matola?,2
+MATOLA,You gonna shoot me? You gonna kill me?,8
+MULDER,We’re with the FBI. We just want to ask you some questions. Why’d you think we were gonna kill you?,20
+MATOLA,I dunno.,2
+MULDER,You know about Willig and Grissom.,6
+MOTOLA,I read about it in the paper. I guess they’re finally killin’ us all off.,15
+MULDER,"Who? Hey Sal, can you spare a few minutes?",9
+MATOLA,"I guess so. I got a break comin’ up. Spare a few minutes. I guess. They said it’s be like living two lifetimes. At---at first, that’s what it was like. Not having to sleep at all made us feel like nothin’ could touch us, you know? We’d do 24 hour patrols, night ambushes, you know, and that type of thing.",60
+MULDER,And you never got tired?,5
+MATOLA,"No. Not so that we had to sleep. And then, nothing that the pills couldn’t fix.",16
+MULDER,Serotonin?,1
+MATOLA,Yeah.,1
+MULDER,How long did this go on?,6
+MATOLA,"Quite awhile, I’d say. Quite awhile until we stopped taking orders from the company commander in Saigon.",17
+KRYCEK,You mean the entire squad went AWOL?,7
+MATOLA,"Yeah, somethin’ like that.",4
+MULDER,"Well, then who did you take orders from?",8
+MATOLA,"We just made up missions as we went along, until it didn’t matter anymore who we were killing. Farmers, women. Outside of Phu Bai, there was this school, they were just kids.",32
+KRYCEK,No one ever tried to stop you?,7
+MATOLA,"No, sir.",2
+MULDER,We suspect that Augustus Cole may be behind the murders of Willig and Grissom.,14
+MATOLA,"Preacher? That’s what we used to call him on account that he was always reading from his bible, saying this and that about judgment day. Sayin’ that we’ll have to pay for what we were doin'. That’s what he said back then, that’s what he’s sayin’.",46
+MULDER,"But why Grissom. He was never in country, he wasn’t even part of the squadron.",15
+MATOLA,Sure he was. He made us what we are. Him and Dr. Gerardi.,13
+MULDER,Who’s Gerardi?,2
+MATOLA,"The other Doc. The one who did the surgeries on us. It’s because of him, I haven’t slept a night in 24 years.",23
+MULDER,"We’re going after Gerardi. Cole sees himself as a kind of avenging angel. In his mind, everyone responsible for the atrocities, whether directly or indirectly, must be punished.",28
+KRYCEK,"Yeah, but why now. Why after all these years.",9
+MULDER,"Phu Bai was one of the bloodiest massacres of the war. Over 300 children slaughtered. But unlike My Lai, no US troops were ever charged. The 24th anniversary of the massacre was two days ago. Mulder’s cell phone rings.",39
+MULDER,Mulder.,1
+SCULLY,I think I found the Francis Gerardi you’re looking for. He’s a professor of neurosurgery at Harvard.,17
+MULDER,Do you have his number in Boston?,7
+SCULLY,"Yes, except he’s coming to New York for Grissom’s funeral,",10
+MULDER,"Try to have a photograph waiting for us at the security desk so we know who we’re looking for, okay?",20
+SCULLY,Got it.,2
+MULDER,"Stay here, I’ll cover you on the side. Mulder thinks he sees Gerardi..",13
+MULDER,Federal Agent! Drop your weapon. Mulder fires four shots. Krycek runs towards him.,13
+KRYCEK,Mulder.,1
+MULDER,Gerardi! Where is he?,4
+KRYCEK,Gerardi’s not here.,3
+MULDER,I saw him.,3
+KRYCEK,"Mulder! You were shouting and waving your gun around, but Gerardi never showed.",13
+MULDER,"No, Gerardi was here, and so was Cole. We just missed them.",12
+KRYCEK,"Mulder, if they had been here, I would have seen it. I’m telling you Mulder, they weren’t here.",18
+MULDER,"Okay, there’s nothing here. Start with a small window of time, say 1935 to 1945. If you don’t find anything in that time frame, then open it up one minute at a time. With all these cameras, we should be able to see something.",44
+KRYCEK,Can we talk for a second.,6
+MULDER,What’s the problem.,3
+KRYCEK,You still haven’t answered my question. What happened?,8
+MULDER,"I told you, I thought I saw Gerardi.",8
+KRYCEK,"Come on, you just about killed somebody back there. We both know I’m covering for you by keeping it between us.",21
+MULDER,"All right, what do you want to know.",8
+KRYCEK,What’s the truth? There are things you’re not telling me that I need to know.,15
+MULDER,It’s just that my ideas usually aren’t very popular.,9
+KRYCEK,"I told you, I want to believe. But I need a place to start.",14
+MULDER,I think that Cole possesses the psychic ability to manipulate sounds and images to generate illusions that are so convincing they can kill. How’s that for a theory.,28
+KRYCEK,Puts a whole new spin on virtual reality but at least it begins to explain some things.,17
+SECURITY OFFICER,"Agent Mulder, see this car in the upper right corner?",10
+MULDER,Yeah.,1
+SECURITY OFFICER,It wasn’t there five minutes ago.,6
+MULDER,Where is this.,3
+SECURITY OFFICER,Track 17. It’s a restricted part of the yard.,9
+GERARDI,"What are you doing? This is insane. You can’t do this to me. You can’t hold me responsible. I was following orders, just like you.",25
+COLE,The lord hates the lying tongue.,6
+GERARDI,It’s the truth. Cole hits Gerardi.,6
+COLE,The truth is what you did to us. What you made us do.,13
+GERARDI,No one Made you do anything. You volunteered.,8
+COLE,The righteous shall rejoice when he sees the vengeance.,9
+GERARDI,Who is it? Who’s there.,5
+COLE,He shall wash his feet in the wicked,8
+GERARDI,Who is it. I can’t see without my glasses.,9
+COLE,You don’t need to see to know who it is. You know who it is! Troops are seen walking by and they pick up scalpels.,25
+COLE,"You shall pay as the judge has determined. We shall give life for life, eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn. Wound for wound, strike for strike. As he has disfigured a man, so shall he be disfigured. And he who kills a man shall be put to death. Mulder and Krycek drive in.",62
+GERARDI,AHHHH!!!! They search the place.,5
+MULDER,He’s still alive. Put pressure on the wound on the back of his neck and radio for help. NOW!,19
+KRYCEK,This is Agent Krycek requesting emergency assistance. My location is track 17 in the freight way house.,17
+MULDER,"Step away from the edge. Corporal Cole, I’m a federal agent, now please, step back.",15
+COLE,"Go ahead, shoot me.",4
+MULDER,"That’s not why I’m here. I’m putting down my gun. I just want to talk to you for a few minutes, after that, you’re free to do whatever you want.",30
+COLE,I’m tired.,2
+MULDER,I know.,2
+COLE,"Naw, man, you don’t know. You have no idea.",9
+MULDER,One minute is all I’m asking.,6
+COLE,One minute is more than I can give. My blood’s boilin’ in my veins. I can feel the air stingin’ on my skin.,23
+MULDER,"What the military did to you was wrong, but your testimony can help.",13
+COLE,"They cut out a part of my brain. They made me into somebody else. I can never get back what they took away from me, and I’m gonna stop them from taking anything more. Krycek walks into the room and extends his weapon.",43
+MULDER,"Krycek put down the gun and get out of here. Krycek, I said put down the gun and get out of here! Krycek sees Cole raising a gun. When Mulder looks over, he sees Cole raising his bible.",38
+MULDER,"NO!!!!!! Krycek fires his gun twice, killing Cole.",8
+COLE,Good-night.,1
+KRYCEK,He had a gun. He was gonna shoot you.,9
+MULDER,You did the right thing. Mulder reaches under his car seat to find that the file is gone. He goes to Scully’s office.,23
+SCULLY,"They broke into my office. Went through my files, my computer. . .I came as soon as security called but the report was all ready gone.",25
+MULDER,Someone went through a lot of trouble stealing both our copies to keep this a secret.,16
+SCULLY,"Without that report as evidence, Skinner’s not going to authorize an investigation.",12
+MULDER,He said it’s never been more dangerous.,7
+SCULLY,Skinner?,1
+MULDER,"No, the man who leaked us the report. The one who’s been helping us.",14
+SCULLY,You actually met with him.,5
+MULDER,He said that closing down the X-Files was just the beginning. That we’ve never been in greater danger.,18
+SCULLY,Do you trust him,4
+CANCERMAN,Do you know where he got this?,7
+KRYCEK,"Not yet. But he got it. Which means he’s either found another source, or another source has found him. Sir, if I can recommend something. You’ll see that I have outlined several counter measures.",34
+CANCERMAN,What about Scully?,3
+KRYCEK,Reassigning them to other areas seems to have only strengthened their determination. Scully’s a problem. A much larger problem than you described.,22
+CANCERMAN,Every problem has a solution. He puts out his cigarette.,10

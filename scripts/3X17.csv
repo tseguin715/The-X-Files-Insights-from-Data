@@ -1,0 +1,351 @@
+speaker,line,words
+PUSHER,Let's get this show on the road.,7
+AGENT #1,Federal agents! Get down!,4
+AGENT #2,Federal agent! Get down!,4
+PUSHER,Turn this thing off.,4
+FRANK BURST,"You're Pusher, I presume.",4
+PUSHER,"You must be Frank Burst. You know, I got to tell you... you got the greatest name.",17
+FRANK BURST,"Agent Collins, read him his rights and lets get the hell out of here.",14
+COLLINS,"You have the right to remain silent. If you choose to give up that right, anything you say can and will be used against you in a court of law. You have the right to an attorney...",37
+PUSHER,Think you can hold me?,5
+FRANK BURST,Put him in a waist chain and leg arms!,9
+COLLINS,If you choose to waive that right...,7
+FRANK BURST,"I want him in a car with a cage! Loudoun County Unit, whatever. I'll ride shotgun. It would really help me out if you gave us your name.",28
+PUSHER,"Pusher's good enough. Hey, you know, Deputy, I just got to say that your uniform is really the most soothing shade of blue. I'm not kidding you. I notice those things. It's a sky blue. Very calming. Very tranquil. I think the word for that particular shade is cerulean, actually. Cerulean blue.",52
+FRANK BURST,"Okay, okay, we get it. It's a nice shade of blue.",11
+PUSHER,Cerulean blue. Cerulean makes me think of a breeze. A gentle breeze.,12
+FRANK BURST,Hey! Mister Blackwell. Put a sock in it.,8
+PUSHER,Cerulean is like a gentle breeze. Cerulean... a gentle breeze.,10
+FRANK BURST,Stop!,1
+FRANK BURST,"I was knocked unconscious. Deputy Scott Kerber was mortally injured. Before he succumbed, he managed to, uh, pull himself out of the car, dig his keys out of his pocket... and his last breath was spent unlocking my prisoner, who, despite his own injuries, managed to escape on foot. Calls himself ""Pusher.""",52
+MULDER,What's his story?,3
+FRANK BURST,He cold-called me about a month ago. Confessed to a series of contract killings going back over the course of two years.,22
+SCULLY,He wanted to turn himself in?,6
+FRANK BURST,"No. It was a game. He was bragging. See, the thing about these murders is, nobody considers them murders. They went down in the books as suicides.",27
+SCULLY,So you think he was just a crank?,8
+FRANK BURST,"No. He knows too much about each case, too many details that were only in the police reports.",18
+SCULLY,What connection did this dead deputy have with him?,9
+FRANK BURST,"None, as far as I can tell. Kerber was a good cop.",12
+SCULLY,Then why did he free him?,6
+FRANK BURST,"Pusher kept rambling about cerulean blue. Kept saying how it reminded him of, uh, a breeze or something. ""Cerulean blue is like a gentle breeze..."" over and over and then, uh, Kerber pulled into the truck and... blammo.",38
+MULDER,So you think that Pusher somehow talked him into doing this? He willed him into doing that?,17
+SCULLY,Willed him? How?,3
+FRANK BURST,"No kidding, how? Your guess is as good as mine on this one. See, Pusher likes to leave clues. Ronin.",20
+MULDER,Ro-neen. It's a samurai without a master. What? You never saw Yojimbo?,12
+SCULLY,"Still, what does it mean?",5
+MULDER,It means I bet I know ten-to-one what this guy's got stacked on the back of his toilet.,18
+HOLLY,Agents?,1
+MULDER,"Oh, thanks.",2
+HOLLY,Here's volume ten.,3
+SCULLY,"I'm sorry, I couldn't help noticing.",6
+HOLLY,I was in Georgetown this weekend. A guy knocked me down and stole my purse.,15
+MULDER,They get him?,3
+HOLLY,Do they ever? No offense. Excuse me.,7
+SCULLY,"Mulder, I'm still not sure what we're looking for.",9
+MULDER,Samurais without masters have to advertise.,6
+SCULLY,"Yes, but advertise for what? I mean, how... how did this ""Pusher"" convince an otherwise honest deputy sheriff to free him? I mean, I'm sure you have a theory.",29
+MULDER,"Suggestion is a powerful force. The science of hypnosis is predicated on it, as are most TV commercials. I mean, they're designed to plant thoughts in your head.",28
+SCULLY,Inducing someone to buy hair color is a little different than inducing them to drive in front of a speeding truck.,21
+MULDER,"But the mechanism of suggestion is the same. It's just a lot more powerful in this case. I mean, this guy calls himself ""Pusher."" Can't we take that to mean that he pushes his will onto other people?",38
+SCULLY,"Well, even if he could push his will, why would he, he cause an accident when he himself was in the car?",22
+MULDER,Maybe he really didn't want to go to jail.,9
+MULDER,"Look at this. ""I SOLVE PROBLEMS. OSU. 555-0146, 555-0118, 555-0177."") ""I solve problems. O-S-U.""",14
+SCULLY,Ohio State University?,3
+MULDER,"No, it's a northern Virginia area code. I've seen this ad in all these magazines dating back to April, 1994.",20
+SCULLY,The time span of the murders.,6
+MULDER,"O-S-U... O-S... U... Osu. It's a Japanese word. It means ""to push.""",12
+SCULLY,I say we run down those telephone numbers.,8
+MULDER,Hey. I think you drooled on me.,7
+SCULLY,Sorry. What time is it?,5
+MULDER,"It's, uh... twenty to three.",5
+SCULLY,"No luck, I take it?",5
+MULDER,"No, nothing here, nothing at the other two payphones. I checked in with Burst. He's beginning to think it's a wild goose chase. Hello?",24
+PUSHER,"Are you two just going to sit there all night? Don't bother hunting around for me, I'm far away. Although...",20
+SCULLY,Okay on the trace.,4
+PUSHER,I was watching you up until about an hour ago. You and your pretty partner seem awfully close. Do you work well together?,23
+MULDER,Who is this? What's your name?,6
+PUSHER,"Sorry, G-man, it's not that easy. You have to follow my little bread crumb trail, prove your worth. So far, you're doing all right.",24
+MULDER,"Why do I have to prove my worth to you? You think this is a game? What, do you want to be found? All right, where's my next bread crumb?",30
+PUSHER,"Right in front of you. You let your fingers do the walking, G-man.",13
+MAN,"Sorry, we didn't get him.",5
+SCULLY,Okay. Not a complete trace. They think he was using a digital scrambler.,13
+MULDER,"""Let your fingers do the walking.""",6
+SCULLY,Phone book.,2
+MULDER,"No, no, what if, what if Pusher was the last person to use this phone? Can you redial on these kind of phones?",23
+SCULLY,Hang on a second.,4
+MAN,Murphy.,1
+SCULLY,"Yeah, it's me again. We want the last number dialed out from this location. Just ring it on through. Okay.",20
+WOMAN,"Hi! You've reached Tee Totallers, golf driving range and pro shop. Our hours of operation are seven A.M. to midnight, Monday through Saturday, and seven A.M. to ten P.M. on Sundays.",31
+SCULLY,So he's a killer and a golfer.,7
+MULDER,"Rings a bell, huh? Let's go, G-Woman.",7
+PUSHER,"Oh, yeah! Strong shot. Good shoot. Hoo-hoo! All right, gentleman, I'm using this here non-sanctioned golf ball. It's got a core of uranium, or some damned thing, I don't know what... gets up there like Sputnik. Yeah! About time. Konichiwa, gentlemen. I was never here.",45
+COLLINS,Police! Get down!,3
+PUSHER,Whoa! Okay.,2
+COLLINS,Get down!,2
+PUSHER,"Okay. Okay... relax. Relax. Let me see your face. Take it easy... come on now. That's right. That's right. Hey, Collins. Listen. I need you to do something for me. Will you do something for me?",36
+SCULLY,Mulder.,1
+FRANK BURST,Collins?,1
+COLLINS,God... God...,2
+FRANK BURST,What the hell...,3
+COLLINS,Stop me.,2
+FRANK BURST,"Collins, what the hell are you doing?",7
+MULDER,"Collins, let it go.",4
+COLLINS,Stop me!,2
+FRANK BURST,Collins!,1
+MULDER,Put that down.,3
+COLLINS,"Light up... light up, light up... light up... light up...",10
+FRANK BURST,"Come in, this is Burst! Get a burn crew down here. Yeah, Collins is down bad.",16
+COLLINS,Light up... light up... light up...,6
+FRANK BURST,"Bad, yeah, real bad. I don't know what happened, get over here!",12
+COLLINS,Light up... light up... light up... light up...,8
+FRANK BURST,"Yeah, get somebody over here! Now!",6
+MULDER,Federal agent!,2
+PUSHER,Light up... light up... light... light it up... Oh. Bet you five bucks I get off.,16
+BAILIFF,State your name and address for the court.,8
+PUSHER,"Robert Patrick Modell. Thirty-eighty-three Roseneath Avenue, apartment nine, Alexandria, Virginia.",10
+JUDGE,"Agent Mulder, does the F.B.I. believe that this defendant is responsible for fourteen murders?",14
+MULDER,"That is correct, your honor.",5
+JUDGE,"Well, in each of the cases, the coroner's office ruled suicide.",11
+MULDER,"We believe that they were indeed murders, your honor.",9
+JUDGE,You believe... but do you have any actual evidence?,9
+MULDER,"We have the defendant on audio tape confessing to the murders. On several separate occasions, he clearly identifies them as such. Furthermore, the defendant knows crime scene details that were only available to the police.",35
+DEFENSE ATTORNEY BRENT,"Your honor, one of these so-called ""murder victims"" threw herself in under a commuter train. This was a crowded platform. A hundred witnesses. Nobody pushed her. No one was within thirty feet of her.",34
+MULDER,But your client was present.,5
+DEFENSE ATTORNEY BRENT,Which is how he knew your crime scene details.,9
+JUDGE,"Make your point, Agent Mulder.",5
+MULDER,I believe that these people died because it was the defendant's express will that they do so.,17
+JUDGE,His will?,2
+MULDER,This man admitted to being a killer for hire. I believe he has a unique suggestive ability which makes for the perfect M.O. He is able to talk his victims into injuring themselves.,33
+DEFENSE ATTORNEY BRENT,I can't believe this.,4
+JUDGE,"You want to run that by me one more time, Agent Mulder?",12
+MULDER,"Yesterday, a federal law enforcement officer was induced to self-immolation by the defendant. I witnessed it. All these other officers witnessed it.",22
+FRANK BURST,"Your honor, we have Modell's confession. All we're asking...",9
+PROSECUTER,"Your honor, the evidence chain to this case has been rather difficult to establish. We're asking the court's indulgence while we complete our investigation and we'd like to have Mister Modell held for trial based on the strength of his taped confession.",42
+JUDGE,"What about this audio tape, Mister Modell? Did you confess to... fourteen murders?",13
+PUSHER,"Unfortunately, yes, your honor. Not that I remember any of it.",11
+DEFENSE ATTORNEY BRENT,"This was, uh, basically, a drunken phone prank on the part of my client, your honor.",16
+MULDER,"A phone prank? He had the details of every case, your honor.",12
+DEFENSE ATTORNEY BRENT,And Robert deeply regrets the distress and confusion this situation has caused.,12
+JUDGE,Do you deny these charges?,5
+PUSHER,"Absolutely, your honor. I'm not guilty. Thank you very much. Will you excuse me for a minute? I believe you owe me five dollars.",24
+MULDER,"Hey, your shoe's untied. Made you look. How do you do it?",12
+FRANK BURST,"Hey, Modell. I know your name now. I know where you live!",12
+SCULLY,I dug up a few more things on our Robert Patrick Modell.,12
+MULDER,"Let me guess. He was an average student, he attended an average community college, he did an average stint in the military.",22
+SCULLY,Which branch of service?,4
+MULDER,"Not his first choice. He wanted to be a Navy Seal and then he wanted to be an Army Special Forces Green Beret. Promptly washed out of both, though not for lack of intelligence. He ended up being a supply clerk at Fort Bragg. Served two years, general discharge.",49
+SCULLY,Did you know that he applied to the F.B.I.? He didn't even come close to passing the psyche screening.,19
+MULDER,You got a copy of that?,6
+SCULLY,"Yeah. They found him to be acutely ego-centered. He has no regard for the feelings of others, instead perceiving people as objects. He's extremely suspicious of government and authority.",29
+MULDER,Yet he wants to be in authority.,7
+SCULLY,"The screener caught him in a dozen self-aggrandizing lies... saying that he was a master of martial arts, that he had been trained by gurkhas in Nepal and ninjas in Japan.",31
+MULDER,"Well, ninjas are said to have the ability to cloud the minds of their opponents.",15
+SCULLY,"Are we talking kung-fu movies, Mulder?",6
+MULDER,"He certainly clouded the mind of that judge, Scully.",9
+SCULLY,"Even if Modell could, he didn't need to. We barely had a case against him.",15
+MULDER,"Oh, we had enough to get past a simple preliminary hearing. Modell psyched the guy out. He put the whammy on him.",22
+SCULLY,"Please explain to me the scientific nature of the ""whammy.""",10
+MULDER,"I don't know, maybe, maybe it's some mental aspect of some eastern martial art. You know, the temporary suppression of the brain's chemistry, produced by a specific timbre or cadence in Modell's voice. His voice seems to be the key.",40
+SCULLY,"Mulder, Modell's last known employment was as a convenience store clerk. He has never been trained by ninjas. He has never even been out of the U.S. He is just a little man who wishes that he were someone big... and, and, we're feeding that wish. That, that failed psyche screening... if, if Modell could actually control people's minds, right now, he'd be an F.B.I. agent, right? He'd be a Green Beret, uh, a Navy Seal.",76
+MULDER,"Maybe the ability came to him more recently, like in the last two years. Well, o, o, okay. What's your big theory? How do you explain what Agent Collins did? I mean, this was a sane man, a family man with no prior history of psychological problems, sets himself on fire. You witnessed that. How does that happen?",58
+SCULLY,"What do you need me to say, Mulder, that I believe that Modell is guilty of murder? I do. I'm just looking for an explanation a little more mundane than ""the whammy.""",32
+MULDER,"Well, he's laughing at us, Scully.",6
+PUSHER,Excuse me. Where might I find the computer records section?,10
+LOBBY GUARD,"Fourth floor, west wing.",4
+PUSHER,Thank you very much.,4
+HOLLY,Can I help you?,4
+PUSHER,"I need to know some things... Holly. Great. Just, uh, let me have the keyboard for a minute. I'd love a print-out of this... And a cup of coffee when you get the chance. I wish I could get my hands on the guy that did that you. I'd make him pay. This is great, Holly. It's perfect. What I wanted.",61
+SKINNER,Can I help you?,4
+PUSHER,"No. No, thanks. We're, uh... we're just fine. Look, we're in the middle of something here, so...",17
+SKINNER,Who are you and what are you doing here?,9
+PUSHER,"Take a walk, Mel Cooley. Let me go! Let me go!",11
+SKINNER,Shut up. Shut up! Holly... call security.,7
+PUSHER,Holly. He's the one. He's the one who mugged you.,10
+SKINNER,"Holly, call security now!",4
+PUSHER,"Make him stop hurting me, Ho...",6
+SKINNER,"Shut up! Holly, now!",4
+PUSHER,Holly?,1
+SKINNER,Holly!,1
+MAN,Security.,1
+SKINNER,"Yeah, we've got a situation in here, fourth floor... Oh, God!",11
+PUSHER,Hurt him back.,3
+HOLLY,"I'm so terribly, terribly sorry. I don't know why I... oh, God... I'm so sorry.",15
+SKINNER,"All right, let's hit the bricks, huh?",7
+SCULLY,"Holly, can you tell us anything more that might help us understand why you attacked Assistant Director Skinner?",18
+HOLLY,"It's like suddenly, I was watching myself from across the room... doing these things. It's like he was with me inside my head.",23
+SCULLY,Modell?,1
+HOLLY,That's the only way I know how to put it.,10
+MULDER,"Excuse me, sir? Can we speak outside?",7
+SKINNER,"Yeah, sure. Uh, Holly, excuse us for a minute, please.",10
+MULDER,"I reviewed the building's security tapes. Modell can clearly be seen entering and leaving unnoticed. He had the word ""pass"" on his lapel. Cars that waved him by don't even remember seeing him at all.",35
+SKINNER,And you're saying this same mysterious phenomenon is the reason I have a size-seven heel mark in my face?,19
+SCULLY,"I have to agree with Agent Mulder, sir. I can't even begin to explain how, but I think that Modell is responsible for your injuries?",25
+SKINNER,Why is this guy so interested in you?,8
+MULDER,What do you mean?,4
+SKINNER,"He left with one file, yours. He didn't access any others.",11
+SCULLY,Now he knows where you live.,6
+SKINNER,And you know where he lives. Go pick him up.,10
+MULDER,"Yeah, for what? About the only thing we got on him now is criminal trespass.",15
+SKINNER,That's enough for a warrant.,5
+MAN #1,Police! Get down!,3
+MAN #2,Police! Get down!,3
+MAN #3,"Police, get down!",3
+MAN #2,Modell!,1
+SCULLY,Lights coming on!,3
+MAN #1,Not here.,2
+MAN ON TV,Lighten the eyes... lighten the eyes...,6
+WOMAN ON TV,Help me. Let me go.,5
+SCULLY,Svengali.,1
+WOMAN ON TV,No.,1
+MAN #2,All clear. No one's home.,5
+MULDER,Search the whole building.,4
+SCULLY,And nearby buildings too. We know that Modell likes to watch from a distance.,14
+FRANK BURST,Check the place out. I'll talk to the neighbors.,9
+MULDER,"Hey, Scully, check this out. ""Mango Kiwi Tropical Swirl."" Now we know we're dealing with a madman.",17
+SCULLY,"Is there anything else you can tell me? Yeah, yeah. When does it date to? Right. Thank you very much. Tegretol.",21
+MULDER,What's that?,2
+SCULLY,It's to relieve Modell's seizures. He has temporal-lobe epilepsy. I just talked to his doctor's office. They wouldn't give me much over the phone... just that that prescription dates back to April 1994.,33
+MULDER,What causes epilepsy this late in life?,7
+SCULLY,"Uh, head injury, neurological disease, a brain tumor or a lesion...",11
+MULDER,Brain tumor? The growth of brain tumors has been linked with the reported occurrence of psychic ability.,17
+SCULLY,"Mulder, those reports are completely unsubstantiated.",6
+MULDER,"Just, just bear with me for a second. What if Modell's suggestive ability is really a form of psychokinesis?",19
+SCULLY,Brought on by the brain tumor?,6
+MULDER,"Well, it fits. All those protein drinks in his fridge? Maybe he's got to replenish the metabolic energy that he uses in the process of controlling somebody's will.",28
+SCULLY,"Mulder, more to the point, if Modell did have a brain tumor, the effects on his health would be more debilitating. It's, it's likely that he simply wouldn't be well enough to play these cat-and-mouse games with us.",38
+MULDER,Maybe he isn't. Maybe that's the whole point.,8
+SCULLY,What do you mean?,4
+MULDER,"His exhaustion at the driving range. He didn't let us capture him. He was too sick to escape, too tired, too wiped out. Why would a, a killer who is so proficient confess to murders that he'd already gotten away with? Maybe he's dying.",44
+SCULLY,And he wants to go out in a blaze of glory.,11
+MULDER,Not with a whimper but a bang.,7
+FRANK BURST,Get the tracing gear. Hello?,5
+PUSHER,"Hey, hey, hey, what do you say?",7
+FRANK BURST,"What's up, Modell? How are you doing? Long time no see. Told you I knew where you lived. Uh, nice apartment, Modell. Who does your decorating? The Grinch that stole Christmas?",31
+PUSHER,"Agent Frank Burst, the guy with the great name. Say, Frank, are Agents Mulder and Scully there?",17
+MULDER,"Yeah, we're here.",3
+PUSHER,"Perfect. Frank, how much do you weigh?",7
+FRANK BURST,Excuse me?,2
+PUSHER,About how much do you weigh?,6
+FRANK BURST,"Anything to keep you on the line, you stupid piece of... I don't know, about a hundred-ninety, hundred and ninety-five.",20
+PUSHER,"Two-fifteen if you're a day, you're totally the wrong weight for your height. I mean, no offense, Frank, but you're built like a fireplug.",24
+FRANK BURST,"Yeah, and I got stubby little legs that are gonna kick you right in the ass. You going somewhere with this, Modell?",22
+PUSHER,"Yeah, it's just that it can't be healthy. And you look like maybe you're a smoker, you probably take a little drink now and then, eat greasy fried food... sausage, bacon, eggs-over-easy.",32
+MULDER,Frank...,1
+PUSHER,Onion rings that soak those dark stains through the cardboard. And I'm guessing you shake on that salt like a maraca.,21
+MULDER,Frank...,1
+PUSHER,How about it? Am I packing it up on this?,10
+MULDER,"Frank, hang up the phone.",5
+FRANK BURST,"What are you talking about, Modell? What's your point?",9
+PUSHER,"Frank, you know what that's doing to your arteries.",9
+(FIRST NUMBER OF THE CALL,"Five.) Terrible things, Frank. Terrible.",5
+MULDER,Frank...,1
+PUSHER,Waxy yellow chunks of plaque are tumbling through your bloodstream... Sticking like glue to your arterial walls...,17
+MULDER,Hang up the phone.,4
+PUSHER,"Squeezing shut your aorta... can you feel it, Frank?",9
+MULDER,"Come on, man, hang up the phone.",7
+PUSHER,Can you feel your aorta...,5
+MULDER,"Frank, hang up the phone!",5
+FRANK BURST,Back off!,2
+PUSHER,...closing shut? All those miles of aorta.,7
+MULDER,"Frank, hang up the phone!",5
+FRANK BURST,I said back off!,4
+MULDER,Hang up!,2
+PUSHER,The pressure...,2
+FRANK BURST,Finish the trace.,3
+PUSHER,"Ever hear of pachyemia, Frank?",5
+SCULLY,Mulder?,1
+MULDER,Somebody hang up the phone!,5
+PUSHER,Ever hear of a medical condition called pachyemia? It's when the blood thickens......up in your veins like strawberry jam.,19
+FRANK BURST,Finish the trace!,3
+MULDER,"Frank, hang it up!",4
+PUSHER,Your heart flatlines...,3
+MULDER,Frank!,1
+PUSHER,"And you die, Frank. Frank? Yo, Frank?",7
+SCULLY,No pulse. Get an ambulance.,5
+LEAD SWAT COP,"Yeah, we need an ambulance, thirty-eighty-three Roseneath Avenue, apartment nine, possible cardiac arrest.",13
+MULDER,Modell?,1
+PUSHER,"Hey, Mulder. How's Frankie-boy?",4
+MULDER,"What is it, Modell, really, what you want?",8
+PUSHER,A worthy adversary. It's obviously not that fat lout lying at your feet. And I'm hoping it's you.,18
+MULDER,Why me?,2
+PUSHER,"I've read all about you. You're a top criminal profiler. Oxford University grad, all-around bright, young man. You know what makes guys like me tick, right? You think you see right through old Bob Modell.",35
+MULDER,"Sick old Bob Modell, right? You're dying, aren't you, Bob? What, do you want to take a few innocent people with you before you go?",25
+PUSHER,Biology tells us we're all dying... and original sin tells me ain't nobody innocent.,14
+MULDER,"Yeah, and some are more innocent than others. Now why don't you just tell me where you are?",18
+PUSHER,"Oh... you want the phone number? Sure. Just, uh... it's five-five-five oh-one-nine-seven. You know it's just a payphone. In two minutes, I'll be gone.",24
+MULDER,"You mean you killed this man for nothing, you sick bastard?",11
+PUSHER,"Me? No, haven't you caught on, Mulder? They all kill themselves.",11
+MULDER,Where's Modell calling from?,4
+SWAT LIEUTENANT,The gas station parking lot. Twelve-thousand block Chain Bridge Road. It's a payphone... just like he said.,17
+MULDER,"Fairfax Mercy Hospital is right down the street from there, huh?",11
+SCULLY,"Fairfax Mercy Pharmacy... ""Fairfax Mercy Pharmacy."" He must need regular treatment, Mulder.",12
+MULDER,"Well, let's go find out.",5
+MAN #1,"Okay, unit two is ready. He's not in his car. Engine's still warm. He's probably in the building.",18
+MAN #2,All entrances covered. Do we hold or go in?,9
+MULDER,Hold.,1
+SCULLY,"Right, thank you.",3
+SWAT LIEUTENANT,Hold.,1
+SCULLY,The outpatient office says Modell is scheduled for a two-thirty M.R.I. That's right now.,14
+SWAT LIEUTENANT,How do you want to play this?,7
+MULDER,I think I should go in alone.,7
+SCULLY,Why?,1
+SWAT LIEUTENANT,My team could flush him out.,6
+MULDER,What if Modell turns one of your men against the others... in a crowded hospital? I think we should give him what he wants.,24
+SCULLY,You.,1
+MULDER,"We stand a better chance if we're separated. I'll go on mike. That way, you'll know what he's doing and where he is at all times. You got a radio so I can keep my hands free?",37
+SWAT LIEUTENANT,I got just what you need. Two-lux video camera. It'll practically see in the dark. It's designed for bomb disposal work to keep only one officer at risk. See?,29
+MULDER,"Think I get the Playboy channel? Smile, Scully.",8
+SCULLY,Take it.,2
+MULDER,"No. I wouldn't want to end up pointing it at anybody except Modell. Let's get this show on the road. Federal agent, go about your business as usual. Scully, do you read me?",33
+SCULLY,"I'm with you, Mulder.",4
+MULDER,Nothing out of the ordinary.,5
+SWAT LIEUTENANT,"Swat team, hold outside.",4
+MAN,Swat team still holding.,4
+SCULLY,Mulder.,1
+MULDER,Two shots fired.,3
+SWAT LIEUTENANT,Swat team!,2
+MULDER,"No, not yet! Everybody keep moving! Federal agent! Let me see what the hell's going on.",16
+SCULLY,We're losing you!,3
+SWAT LIEUTENANT,"Mulder! Agent Mulder! Wait, Agent Scully!",6
+MULDER,"You, uh, you getting this back there?",7
+SCULLY,"Mulder, what happened?",3
+MULDER,"Looks like the guard shot the technician, then he shot himself. His gun is missing. the SWAT Lieutenant, tell your men Modell may be heading your way.",27
+SWAT LIEUTENANT,Swat team! Suspect is armed and is possibly.......making his way out of the building.,14
+MAN #1,We copy. We're ready for him.,6
+MAN #2,Shooters in position.,3
+SCULLY,"Mulder, wait, wait. Get close to the computer monitor.",9
+MULDER,Over here.,2
+SCULLY,"Yeah, yeah, yeah, right there. There. That light mass in his temporal lobe.",13
+MULDER,Right here.,2
+SCULLY,"You were right, Mulder. Now check around you. Modell's chart should be somewhere around there.",15
+MULDER,"We're batting a thousand, Scully. Modell's dying. He's got nothing to lose.",12
+SCULLY,"Mulder, just get out of there. Go. Mulder? Mulder! God!",10
+SWAT LIEUTENANT,"We think they're three doors down. We got both ends sewed up tight, but there are six critical care rooms we can't get to. If we gas the halls, we might kill those patients. Why do we keep giving this guy exactly what he wants?",45
+SCULLY,Just wait for a signal from me.,7
+SWAT MEMBER,You're clear.,2
+SCULLY,Mulder.,1
+PUSHER,Thanks for joining us.,4
+SCULLY,We've got a dozen law enforcement officers outside in the hall... another thirty in the parking lot.,17
+PUSHER,Regular convention.,2
+SCULLY,"So whatever you've got planned, it's not going to work out the way you it want to.",17
+PUSHER,"You don't know what I got planned. Two warriors of equal skill fight to the death. One is a student of Japanese budo... the way of war. Budo teaches the warrior to leave himself outside the battle. In other words... To disregard his own death. Because of that, the budo warrior always wins. I am that warrior. I don't fear my death. So I... I'm going to give you... one pull of the trigger against me. One-in-six chance. One. One pull.",81
+SCULLY,"Wait. Mulder, look... there's pure oxygen in this room. There's no telling what could happen if you pull that trigger...",20
+PUSHER,Piece of cake. Your turn.,5
+SCULLY,"Mulder, no.",2
+PUSHER,"Mulder, yes.",2
+PUSHER,Go.,1
+SCULLY,"Mulder, listen to me. Give me the gun. We can stop this thing right now. You and I can walk outside of this room... No! Damn you! You bastard! Mulder, hand me the g... Mulder, you don't have to do this. You're stronger than this.",45
+PUSHER,"Your turn, Scully. Got to play by the rules. Pull the trigger, Mulder.",13
+SCULLY,"Mulder, fight him. You can fight this.",7
+PUSHER,"Come on. Pull the trigger, Mulder. She shot you, I read it in her files. Payback time... shoot the little spy!",21
+MULDER,"I'm going to kill you, Modell.",6
+PUSHER,"Yeah, pull the trigger, you get another crack at me.",10
+MULDER,"Scully, run! Scully...",3
+SWAT LIEUTENANT,"Federal agents! Get down, get down, get down!",8
+SCULLY,"There's no telling how long he'll hang on, but he'll never regain consciousness.",13
+MULDER,"You know, we thought he was undergoing treatment. We were wrong.",11
+SCULLY,What do you mean?,4
+MULDER,"Read his chart. The M.R.I.s were a way to gauge how much life he had left, but he consistently refused treatment. The tumor remained operable right up until the end, but he refused to have it removed.",37
+SCULLY,Why?,1
+MULDER,I think it was like you said. He was always such a... little man. This was finally something that made him feel big.,23
+SCULLY,I say we don't let him take up another minute of our time.,13

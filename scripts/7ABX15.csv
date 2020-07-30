@@ -1,0 +1,259 @@
+speaker,line,words
+CAMERON MCPECK,"Almost home now, Jason. What do we say?",8
+IRENE MCPECK AND JASON MCPECK,Sticks and stones may break my bones but words can never hurt me.,13
+CAMERON MCPECK,"Keep your chin up, son. We'll get through this just fine.",11
+REPORTER,"How do you feel, Jason?",5
+DEPUTIES,"Back up, now......Boys, come on! Everybody back. Clear the car. Get back. Alan, you're in charge!",16
+DEPUTY,"Okay, folks, come on out. You're safe now, don't worry. Just step out and stay in front of me. We'll get you in your house.",25
+CAMERON MCPECK,"Come on, son.",3
+DEPUTY,Just stay in front of me.,6
+IRENE MCPECK,"There you go, sweetheart. If you need anything during the night... If you don't feel well you just ring that bell, okay?",22
+JASON MCPECK,"Okay, Mom.",2
+IRENE MCPECK,"Good night, Jason.",3
+CAMERON MCPECK,"I know you're afraid. Maybe you think those people outside are right-- that we should take you to the hospital and let the doctors treat you. We could do that... and they might take away your cancer... and your body might feel better... but not your soul. It's God himself who gave you this illness, Jason, for reasons that are His. If you're to be well in body and spirit it's God who must come to deliver you.",78
+FADE TO,nan,1
+MULDER,"Good morning. Here's a story to warm the cockles of your heart, Scully. An 11-year-old boy, diagnosed with lymphatic cancer, cured with a miracle.",24
+SCULLY,"Jason McPeck, Goochland, Virginia.",4
+MULDER,Ah.,1
+SCULLY,Yeah. His parents refused treatment on religious grounds. His faith forbids medical aid and so Jason's cure was delivered by angels.,21
+SCULLY,"Well, spontaneous remission, Mulder, isn't completely unheard of. So-called miracle recoveries attributable to no clear cause or reason.",18
+MULDER,It's not the miracle I'm suspicious of. It's the messenger. That came as an anonymous e-mail to me from the Defense Advanced Research Projects Agency.,25
+SCULLY,DARPA.,1
+MULDER,Someone at DARPA. How'd you hear about it?,8
+MULDER,You subscribe to the Goochland Guardian?,6
+SCULLY,No.,1
+MULDER,So this just appeared miraculously on your doorstep this morning?,10
+SCULLY,"As far as I can tell, I was the only one to whom it was delivered.",16
+MULDER,Someone wants us on this case.,6
+SCULLY,"It's not a case, Mulder.",5
+MULDER,Not yet. I'm going to go back over to DARPA. You see what else you can find out about that boy.,21
+MULDER,I've just got to know whether it was Roma Downey or Della Reese.,13
+IRENE MCPECK,Yes?,1
+SCULLY,"Hi, I'm Dana Scully with the, uh, Federal Bureau of Investigation. Are you Mrs. McPeck?",15
+IRENE MCPECK,What can we do for you?,6
+SCULLY,I'm here about your son.,5
+CAMERON MCPECK,Are we under investigation?,4
+SCULLY,"Ah, no. I was just hoping to better understand what happened to him. May I ask is he okay?",19
+IRENE MCPECK,"Jason, we've got somebody to see you.",7
+IRENE MCPECK,Tell her how you're feeling.,5
+JASON MCPECK,I feel good. Just a little out of breath.,9
+CAMERON MCPECK,You're looking at God's work. Jason's life owes to his Grace and exalts his name in the highest. Praise the Lord.,21
+IRENE MCPECK,Praise the Lord.,3
+JASON MCPECK,Praise the Lord.,3
+SCULLY,And you say that you saw angels?,7
+JASON MCPECK,Yes.,1
+SCULLY,May I ask what they looked like?,7
+JASON MCPECK,They looked like men. They came from the sky in a ball of light.,14
+SCULLY,And what did they say?,5
+JASON MCPECK,They said not to be afraid. Then one of them pinched me kind of hard and then I was better right away.,22
+SCULLY,He pinched you? Where?,4
+JASON MCPECK,Right here.,2
+SCULLY,What the hell are you doing?,6
+CSM,"God's work, what else?",4
+SCULLY,Get out of my car!,5
+CSM,I'd hoped for more accommodation toward the man that saved that young boy's life... and yours.,16
+SCULLY,You got your light. Now get out.,7
+CSM,"You're not at all curious? About the chip that's been put in that boy's neck? You, a medical doctor who has the same technology in your body? Has witnessed this wondrous ""miracle"" first-hand? I've taken considerable trouble to prove my intentions. The newspaper at your door. The e-mail to Mulder.",50
+CSM,"The elaborate demonstration of curing this boy's cancer. You see, I'm dying myself.",13
+CSM,A dying man who wants to make right; to share his secrets; to bequeath this cure to millions of others just like that boy.,24
+SCULLY,So you want to give it to us.,8
+CSM,"To you, Agent Scully. I've tired of Mulder's mule-headedness-- his foolish ideas of overthrowing the system.",16
+SCULLY,You think I'm fooled by this?,6
+CSM,"I've made you my offer. Agent Mulder hears a breath of this rest assured, I'll rescind it... take it to my grave.",22
+"ALONE, SCULLY IS LOOKING AT THE CARD.  ONLY A PHONE NUMBER","202-555-1030. She picks up the phone, dials, lets it ring twice, then hangs up quickly. She looks at the card again. She thinks. She picks up the phone and dials.)",30
+SCULLY,"Yes, I need a trace on a D.C. area phone number. I need an address.",15
+VOICE ON PHONE,Thank you.,2
+GUARD,May I help you?,4
+SCULLY,"I'm sorry, I, uh, made a mistake.",7
+GUARD,May I see some identification?,5
+SCULLY,"Look, is this necessary? I just walked through the wrong door.",11
+GUARD,"Your identification, please.",3
+SCULLY,Look...,1
+GUARD,Third floor.,2
+CSM,"Agent Scully... please, sit.",4
+CSM,I'm glad you came.,4
+SCULLY,You obviously knew that I would.,6
+CSM,"Well, I know you're a doctor and... a woman of compassion.",11
+SCULLY,Please.,1
+CSM,"In the end... a man finally looks at the sum of his life to see what he'll leave behind. Most of what I worked to build is in ruins and now that the... darkness descends, I... find I have no real legacy.",42
+SCULLY,What are you dying of?,5
+CSM,Cerebral inflammation-- a consequence of brain surgery I had in the fall. The doctors give me just a few months.,20
+SCULLY,"So, you want to use me to clear the slate... to make you a respectable person. It won't work.",19
+CSM,How many people in the world are dying of cancer? And here we are wasting time with the past.,19
+SCULLY,I'm here. Where is it... this miracle cure of yours?,10
+CSM,We'll need to take a trip. It'll require a few days.,11
+SCULLY,I'll get back to you.,5
+CSM,"I have access, Agent Scully. I have these miraculous chips but the genetic research that makes them work is closely guarded. There are men in this building who would kill me if they knew what I'd offered you. They'd kill you, too, in the blink of an eye. I've destroyed a lot of things in my life including the people most precious to me. All I want is a chance to do something in service to man before I go.",80
+MACHINE VOICE,CALL RECEIVED 8:01 P.M..,4
+SCULLY,"Mulder, it's me. I wanted to let you know that I'll be out of town for a day or two. It's a family emergency. I'll... I'll call you when I can.",31
+SCULLY,This is Dana Scully. I'm not in right now. Please leave a message after the beep.,16
+MULDER,"Hey, Scully, it's me. Pick up if you're there. Scully? Are you there? All right, I just got, I got your message and I hope everything's okay. I'll try on your cell right now.",34
+SCULLY,You're going to smoke?,4
+CSM,It's time I quit.,4
+SCULLY,Just like that.,3
+CSM,No sacrifice is purely altruistic. We give expecting to receive.,10
+SCULLY,What exactly is it you expect to receive?,8
+CSM,Your trust. You question my sincerity. You think I'm heartless. Would it soften your opinion of me if I confessed that I've always had a particular affection for you?,29
+CSM,"I assure you my intentions are honorable. I have affection for Mulder, too. My affection for you is special. I held your life in my hands. Your cancer was terminal. I had a cure. Can you imagine what that's like-- to have the power to extinguish a life or to save it and let it flourish? Now, to give you that power, so you can do the same.",68
+LANDLORD,"Yeah, she said it was a family matter. Dropped off the key... asked me to water the plants-- no biggie. Hey, great girl-- independent as they come, you know but a great girl.",33
+MULDER,"Yeah, yeah.",2
+LANDLORD,Tenants like having an FBI agent in the building. Gives them a sense of security.,15
+MULDER,Do you know how many people have died in there?,10
+LANDLORD,"Oh, we don't really talk about that.",7
+MULDER,"You said she was, uh, carrying a suitcase. Did you notice anything else, anything abnormal?",15
+LANDLORD,"No. No, actually it wasn't her carrying the suitcase. It was her driver.",13
+MULDER,Her driver?,2
+LANDLORD,"Yeah, older guy... tall. I've seen him here before. Smokes like a chimney.",13
+LANDLORD,"Hey, don't you want...",4
+CSM,You've been at the wheel too long. Would you like me to drive?,13
+SCULLY,I might if you let me know where we're going.,10
+CSM,"Knowing that, you'd feel comfortable? You'd trust me?",8
+CSM,How long did it take Mulder to win your trust?,10
+SCULLY,I've always trusted Mulder.,4
+CSM,"You're not being honest with yourself. Think back. There was a time when you feared for your future, for your career when you were first partnered with this man. I told you, I've studied you for years... and if you would permit me, I'd like to make an observation.",49
+CSM,"You're drawn to powerful men but you fear their power. You keep your guard up, a wall around your heart. How else do you explain that fearless devotion to a man obsessed, and, yet, a life alone? You'd die for Mulder but you won't allow yourself to love him.",49
+SCULLY,"Wow. I'm learning a whole other side to you. You're not just a cold-blooded killer, you're a pop psychologist as well.",21
+CSM,"I've been a destroyer all my life. Before I die, I'd like to prove that I'm capable of something more.",20
+CSM,"Turn here, on the left.",5
+SCULLY,Where are we going?,4
+CSM,To show you what I'm capable of.,7
+CSM,Her name's Marjorie Butters. She's got quite a green thumb. Plays a mean game of Scrabble if you're interested.,19
+SCULLY,And what's her relationship to you?,6
+CSM,"Well, how should I put it? You could say that I'm her angel. Marjorie's 118 years old.",17
+CSM,Marjorie!,1
+MARJORIE BUTTERS,Hey!,1
+MARJORIE BUTTERS,I'm glad to see you.,5
+CSM,I thought I'd surprise you.,5
+MARJORIE BUTTERS,I look an absolute wreck. I've been trying to get in some bulbs before spring.,15
+CSM,"Marjorie, uh, this is Dana Scully. She's a very good friend of mine.",13
+SCULLY,Nice to meet you.,4
+MARJORIE BUTTERS,"My pleasure. Well, come inside. I baked some fresh bread this morning and there are tomatoes in the garden.",19
+CSM,To have this power... to visit this woman and see her joy... must be why you became a doctor.,19
+SKINNER,I'll expect your call. Thanks.,5
+SKINNER,She requisitioned a fleet sedan when she left the bureau yesterday. I don't know why and there have been no fuel charges.,22
+MULDER,Her mother doesn't know anything about a family emergency.,9
+SKINNER,"Look, I know you're worried about the company that she's in but from what you've told me it's not like she's sneaking out. The truth is, she's gone to a lot of trouble to allay your fears.",37
+MULDER,I know she can take care of herself. It's just not like her to lie to me.,17
+SKINNER,That's my private line.,4
+SKINNER,Skinner.,1
+SCULLY,Sir?,1
+SKINNER,"Agent Scully, where are you?",5
+SCULLY,"I'm on the road. Um, I'm sorry to call you on this line.",13
+SKINNER,"No, it's all right. It's just we've been worried about you.",11
+SCULLY,Everything's okay. I just wanted you to express that to Mulder.,11
+SKINNER,"Well, he's standing right here. Why don't you do that yourself?",11
+SCULLY,"No, sir. That's all right. Can you tell him that I'll call him later? Just, just tell him that I'm fine.",21
+SKINNER,She says she's fine.,4
+MULDER,She's in trouble.,3
+SCULLY,I'm going to the restroom.,5
+SCULLY,"Mulder, I'm trusting you'll be able to make sense of what's on this tape. I had no other way of contacting you. Please try to understand that I weighed the risks. I couldn't divulge these plans without risking them and I promise you that I weighed everything. Our current location is northbound on the upstate expressway. We are driving my FBI fleet sedan. I will promise I will get these tapes to you as fast as I can.",78
+ATTENDANT,Whoa! Excuse me.,3
+CSM,Lifesaver?,1
+CSM,May as well get comfortable. We've got a good drive ahead.,11
+MULDER,It's the masters of disguise.,5
+LANGLY,Can we laugh it up in your apartment?,8
+FROHIKE,We got heat on our tail.,6
+BYERS,Did what you asked. We pulled up what we could on Scully.,12
+LANGLY,We started with her credit cards to see if she purchased any airline tickets.,14
+FROHIKE,And ended up hacking into some Defense Department node...,9
+LANGLY,Where they demanded we immediately identify ourselves or face prosecution for espionage or crimes against the government.,17
+MULDER,"Well, what does this have to do with finding Scully?",10
+BYERS,When we went into her computer we found a series of deleted transmissions.,13
+FROHIKE,E-mail that had been erased from her subdirectories but not her hard drive. A series of communications.,17
+LANGLY,From someone named Cobra.,4
+MULDER,Who the hell is Cobra? Scully would have told me about him.,12
+LANGLY,"Well, it looks like she's gone to great lengths to keep this from you.",14
+MULDER,"I don't believe that. She knows that I'd find her, no matter what.",13
+BYERS,"Mulder, we can't find her. There's nowhere to start looking.",10
+MULDER,"I don't believe that, either. Give me that.",8
+CSM,How do you take your coffee?,6
+SCULLY,"Unadulterated, thank you.",3
+SCULLY,You drugged me.,3
+CSM,I did nothing of the sort.,6
+SCULLY,How the hell did I get out of my clothes and into bed?,13
+CSM,I carried you. You'd been up for over 30 hours. You were delirious. I only wanted to make you comfortable.,20
+SCULLY,Where are we?,3
+CSM,"Milford, Pennsylvania.",2
+SCULLY,"Well, that wasn't part of the deal. I don't know what you're up to.",14
+CSM,"Keys are in the ignition. You're free to go, of course. The choice is still yours.",16
+MULDER,"Sir, I need your attention.",5
+SKINNER,Is my assistant...?,3
+MULDER,"No. She's away from her desk. I wouldn't just bust in here but, as I said, it's a breaking situation.",20
+SKINNER,What the hell's going on here?,6
+MULDER,That's my question exactly. I believe you've all met.,9
+LANGLY,Is this place secure?,4
+SKINNER,Is it secure?,3
+FROHIKE,"Don't get testy, G-man.",4
+MULDER,"Are you aware of a federal fugitive, code name Cobra? For the past six months Cobra's been e-mailing Scully from the Department of Defense where he works on a shadow project for advanced research.",34
+BYERS,A shadow project is right.,5
+LANGLY,Where this dude works even the shadows have shadows.,9
+SKINNER,Is that what I'm looking at here?,7
+MULDER,No. What they're pulling up is Scully's correspondence back to Cobra.,11
+SKINNER,She has a relationship?,4
+MULDER,No. Somebody posing as Scully who hacked into her computer and has been capturing all her e-mail. Passing themselves off as Scully in order to win Cobra's trust. The last five exchanges hint at a meeting where they're going to exchange information on the project Cobra's working on.,48
+SKINNER,A meeting where?,3
+FROHIKE,Don't know. They just ended.,5
+SKINNER,Who's been in her computer?,5
+MULDER,Smoking man. Or someone working for him. You got to get to him now.,14
+SKINNER,You of all people should know that you just don't get to him.,13
+MULDER,"Well, if you don't get to him it may be the last time we see Scully alive.",17
+CSM,We'll be getting final instructions from our contact tonight. He's invited us to dinner. I took the liberty of getting you something to wear.,24
+SCULLY,"It's, uh... It's beautiful.",4
+CSM,I'm glad you like it. I look forward to tonight.,10
+SCULLY,"So, your contact's going to join us?",7
+CSM,I presume so.,3
+SCULLY,You extol our great trust but you still haven't told me who he is.,14
+CSM,He is to human genetic science as Oppenheimer and Fermi were to the advent of nuclear warfare.,17
+SCULLY,I'm still not clear what my importance is to this exchange.,11
+CSM,This man-- call him Cobra-- he needs assurances that the science he's going to hand over won't fall into the wrong hands. I've told him of you.,27
+CSM,"He's expecting to meet you here. Well, to the future.",10
+CSM,"I must tell you something else. Something that's so unbelievable, so incredible... that to know it is to look at the entire world anew.",24
+SCULLY,What?,1
+CSM,"What we are being given... it's not the cure for cancer. It's the holiest of grails, Dana. It's the cure for all human disease.",24
+SCULLY,How?,1
+CSM,It's from that final frontier. It's largely extraterrestrial.,8
+SCULLY,Then you would be cured.,5
+CSM,That which makes miracles can also make,7
+GREAT EVIL.  THERE ARE THOSE WHO WOULD USE THIS POWER FOR THEIR OWN PURPOSES,"To choose who will live and who will die. Theoretically, I can be cured. Everything I've told you about wanting to make right? I'm a lonely man, Dana.",28
+CSM,Would you excuse me?,4
+CSM,Cobra hasn't shown.,3
+BLACK-HAIRED MAN,What do you want to do?,6
+CSM,Wait. What else can we do?,6
+BLACK-HAIRED MAN,What trust you've won... Scully won't stick around forever. What's wrong?,11
+CSM,Just do your damn job.,5
+CSM,Calico Inlet's 15 minutes out. South end.,7
+SCULLY,What do I do when I get there?,8
+CSM,I don't know. Just wait. Be careful.,7
+SCIENTIST/COBRA,Finally we meet. You're just as you described yourself. Certainly more so last night at dinner.,16
+SCIENTIST/COBRA,I only wish we could continue to correspond but it must end after this. I hope one day we can take some time when I'm not a marked man. This is it. The science I promised you.,37
+SCULLY,"Well, wait. Where did you get this? Where did it come from, this science?",14
+SCIENTIST/COBRA,Where did it come from?,5
+SCULLY,Who developed it?,3
+SCIENTIST/COBRA,Scully?,1
+SCULLY,"Yes, I'm Scully but I don't believe that we've spoken before or corresponded.",13
+SCULLY,They shot him. They killed him and they shot at me.,11
+CSM,Did you get it?,4
+SCULLY,You told me that no one else knew about this.,10
+CSM,I wouldn't have sent you if I thought there'd be any danger.,12
+SCULLY,"Oh, man.",2
+CSM,Dana...,1
+SCULLY,"Yes, I got it.",4
+CSM,Forgive me. Here... take it. This is for you.,9
+SCULLY,I've got to go.,4
+CSM,Go.,1
+FROHIKE,There's nothing on this.,4
+LANGLY,It's empty.,2
+BYERS,Completely.,1
+SCULLY,"No, it can't be. It can't be. It's got to be on there.",13
+SCULLY,He was here! These were his offices. What the hell is this?,12
+MULDER,He used you.,3
+SCULLY,"Mulder, he laid it all out for me. I recorded it. I mailed you the tape.",16
+SCULLY,"This old woman, Marjorie Butters, I met her. I saw her pictures, her birth certificate...",15
+MULDER,You saw what you needed to see in order to make you believe.,13
+SCULLY,"Well, then what about this boy? This boy with cancer? You can't deny that. That's undeniable proof.",17
+MULDER,"Even if we could convince his parents to let us march him out how long before that chip in his neck mysteriously disappears? This was the perfectly executed con, Scully. The only thing I can't figure out is why you're still alive.",42
+SCULLY,"Mulder, I looked into his eyes. I swear what he told me was true.",14
+MULDER,"He did it all for himself-- to get the science on that disk. His sincerity was a mask, Scully. The man's motives never changed.",24
+SCULLY,You think he used me to save himself-- at the expense of the human race.,15
+MULDER,"No, he knows what that science is worth, how powerful it is. He'd let nothing stand in his way.",19
+SCULLY,"You may be right... but for a moment, I saw something else in him. A longing for something more than power. Maybe for something he could never have.",28

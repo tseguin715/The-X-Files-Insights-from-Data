@@ -1,0 +1,323 @@
+speaker,line,words
+MAN,Ven aqui! Ven aqui! Ven! Aver.,6
+OTHER MEN,"Nos debemos irnos y dejarlo en paz. Debemos decirle al anciano. El sabra que hacer. Esto es malo, muy malo. Nos va a traer problemas para todos nosotros.",28
+BILAC,Le tenemos que decir al Doctor Roosevelt. Inmediatamente.,8
+BILAC,Dr. Roosevelt.,2
+DR. ROOSEVELT,What is it?,3
+BILAC,We found something I think you should see.,8
+DR. ROOSEVELT,It's an Amaru.,3
+BILAC,I know.,2
+DR. ROOSEVELT,It's fantastic. It's nearly intact.,5
+BILAC,We can’t take it.,4
+DR. ROOSEVELT,What do you mean?,4
+BILAC,They're saying the body of a female shaman is sacred to the tribe. They won't allow us to disturb her.,20
+DR. ROOSEVELT,We’re not disturbing her. We’re saving her. You know the situation here. I thought you could handle these people.,19
+BILAC,"Dr. Roosevelt, I think this is dangerous. I don't think this is right.",13
+DR. ROOSEVELT,Have the piece cleared and packed. It's going with us.,10
+GUARD,"Mr. Horning, you still here? Mr. Horning? What the hell...?",10
+SCULLY,How did you learn about what happened here last night?,10
+DR.LEWTON,"Tim Decker, one of our security guards, called me when he first discovered the blood.",15
+SCULLY,"According to the police, you felt this murder may have been an act of political terrorism.",16
+DR.LEWTON,I think Craig Horning was killed because of the project he was working on.,14
+SCULLY,"Is that the survey and excavation of the uh … ""highland burial grounds of the Secona Indians?"" This is from a letter that was sent to the State Department on behalf of the Secona demanding the return of a certain artifact.",41
+DR.LEWTON,The Amaru Urn. It was among the antiquities we rescued last month.,12
+SCULLY,Rescued?,1
+DR.LEWTON,When Petroecuadot announced plans to build a gas pipeline through the burial grounds Carl Roosevelt and I organized the dig.,20
+SCULLY,"As I understand it, Roosevelt disappeared under circumstances not dissimilar to the ones here.",14
+DR.LEWTON,The Ecuadorean government claimed he was carried off in some kind of wild animal attack.,15
+SCULLY,But that’s not what you believe.,6
+DR.LEWTON,Not after last night.,4
+SCULLY,Have there ever been any death threats?,7
+DR.LEWTON,No.,1
+MULDER,"Well, what about the curse? The Secona believe great evil would befall anyone that disturbed the remains of an Amaru, a woman shaman – that they would be devoured by the Jaguar Spirit.",33
+DR.LEWTON,A myth that gained some currency among the Secona when Dr. Roosevelt disappeared.,13
+MULDER,I’m sure.,2
+DR.LEWTON,"The unfortunate thing is somebody exploiting it to promote fear, to pressure us into returning the bones which I have absolutely no intention of doing.",25
+MULDER,Can we see it?,4
+DR.LEWTON,"Yes, of course. Uh, Mona.",5
+MULDER,"Personally, if someone digs me up in 1,000 years I hope there's a curse on them too.",17
+MONA,They should have left it buried. None of this would have happened.,12
+MULDER,Do you believe the bones are cursed?,7
+MONA,Might as well be.,4
+SCULLY,Did you know Craig Horning?,5
+MONA,"Yeah, I've been helping Craig sort and catalog the Ecuadorean artifacts. I'm a PHd. candidate at BU.",17
+SCULLY,Did he have any warning that this could happen?,9
+MONA,Craig? No. He was so dedicated. He was just doing the work that Dr. Lewton asked him to.,18
+MULDER,He had no political feelings about the piece being brought here?,11
+MONA,"No, not Craig.",3
+SCULLY,Are you aware that a letter of protest was sent to the State Department concerning this urn?,17
+MONA,I’m aware of several letters of protest.,7
+SCULLY,This one was written by a man named Alonzo Bilac.,10
+MONA,Dr. Bilac. He was the liaison with the Secona Indians.,10
+SCULLY,Is he still with the project?,6
+MONA,"No, he either resigned or was forced out by Dr. Lewton depending on who you talk to.",17
+SCULLY,Why is that?,3
+MONA,Dr. Bilac feels the Secona have the right to determine the fate of their ancestral remains.,16
+MULDER,Do you know where we might find him?,8
+SCULLY,Dr. Bilac?,2
+BILAC,Yes.,1
+SCULLY,We’re with the FBI. We’re investigating the disappearance of an associate of yours --- Craig Horning.,15
+BILAC,Yes.,1
+SCULLY,May we ask you some questions?,6
+BILAC,Come in then.,3
+SCULLY,"Dr. Bilac, you were part of the expedition that brought back the Amaru urn.",14
+BILAC,Who told you that?,4
+SCULLY,Mona Wustner.,2
+BILAC,I objected from the beginning.,5
+SCULLY,But you were Dr. Roosevelt's liaison in Ecuador. At what point did you part company with him on the taking of artifacts?,22
+BILAC,When I felt like he had gone too far. Against the wishes of the Secona.,15
+SCULLY,Did you express that to him?,6
+BILAC,Yes. He wouldn’t listen.,4
+SCULLY,Were you speaking for yourself or for the Indians?,9
+BILAC,"I spent the last six months living with the Secona, learning from them, coming to understand the nature and the depth of their culture.",24
+SCULLY,"Well, apparently, they’ve learned something from you too.",8
+BILAC,"Yes, I've been teaching them the joys of American bureaucracy.",10
+SCULLY,Dr. Lewton believes that the protest over the Amaru urn has something to do with Craig Horning's disappearance.,18
+BILAC,You say disappearance as if you expect to see him alive again.,12
+SCULLY,What do you think happened to him?,7
+BILAC,You don't want to know what I think.,8
+MULDER,"Yes, we would like to know. We'd be very interested in what you think.",14
+BILAC,I think whatever happened to Craig Horning will continue to happen until the bones are returned to their rightful place.,20
+SCULLY,"Let me ask you, Dr. Bilac. How far would you go to defend the rights of the Seconas? Farther than writing a letter to the state department?",27
+BILAC,"If you think I did this, then you’re a fool.",10
+SCULLY,Can you account for your whereabouts last night?,8
+BILAC,I was here.,3
+MULDER,Alone?,1
+BILAC,Yes. Your investigation is a waste of time and that's something I can assure you of.,16
+MULDER,"It's nice to meet people who really believe in something, isn't it?",12
+SCULLY,You mean the kind who would kill for their cause?,10
+MULDER,Do you think Bilac's a suspect?,6
+SCULLY,No. I think he's *the* suspect.,6
+MULDER,Based on what?,3
+SCULLY,"Based on the arrogance of his politics, on his rift with Dr. Lewton, on his sympathies towards the Indians. And the lack of any other suspect.",26
+MULDER,He did look a little squirrely back there.,8
+SCULLY,Maybe because he was up late murdering Craig Horning.,9
+MULDER,"Well, let me remind you we don't have a body and not much more forensic detail than a lot of spilled blood.",22
+SCULLY,Craig Horning's blood. What do you think he did with him?,11
+MULDER,I'm not sure he did anything.,6
+SCULLY,You think Bilac's innocent? That the victim wasn't even murdered at all? That he was devoured by a mythological jaguar spirit?,21
+MULDER,"Go with it, Scully.",4
+MONA,"Why did you lie to them? … You're only drawing suspicion to yourself by lying, Lonnie. … You should have told them the truth. ….I'm worried about you. …. Let me come over. Why? Why not?",36
+MONA,Dr. Lewton's here. I got to go. I'll call you later.,11
+DR. LEWTON,Thought you'd already left.,4
+MONA,"I have, uh...I really need to keep working right now.",10
+DR. LEWTON,I'd feel better if you weren't alone here.,8
+MONA,The guard knows I'm here.,5
+DR. LEWTON,Was that Dr. Bilac on the phone?,7
+MONA,Yes.,1
+DR. LEWTON,"We have a responsibility, Mona, to history and posterity. Dr. Roosevelt was only doing what any good conservationist would have done in bringing the Amaru urn back. Otherwise, it would certainly have been destroyed.",34
+MONA,I know.,2
+LEWTON,"You know, if we get caught up in the politics we lose sight of that. Mona, let me give you a little free advice. You have a bright future here. Be careful where you plant your flag.",37
+MONA,"Oh, Sugar.",2
+SCULLY,Label that.,2
+OFFICER,As what?,2
+SCULLY,Partial rat body part.,4
+SCULLY,Excuse me Can I have a word with you? You were working here last night when Dr. Lewton was killed.,20
+MONA,He stopped by my office on his way out.,9
+SCULLY,Did you notice anything out of the ordinary? Was he behaving strange or did he seem nervous about anything?,19
+MONA,"No, not at all.",4
+SCULLY,Did he say anything to you about Dr. Bilac?,9
+MONA,"No, he didn't.",3
+SCULLY,Do you have any idea when the two of them last spoke to each other?,15
+MONA,I really don't know.,4
+SCULLY,I'm going to give you my card. Call me if anything comes to mind.,14
+SCULLY,Mulder…,1
+MULDER,They turn up a body?,5
+SCULLY,No. They've been over the entire museum grounds. Have you found anything at all out here?,16
+MULDER,"If Dr. Lewton was brought through here, it's going to be hard to determine. It looks like it rained pretty hard last night.",23
+SCULLY,"Well, they determined that the hood release had been pulled. They found a small flashlight near the car. Looks to me like he was checking the engine when attacked.",29
+MULDER,Maybe somebody didn't want that car started.,7
+SCULLY,"I don’t think so, Mulder.",5
+MULDER,Why not?,2
+SCULLY,We found evidence of at least two mutilated rat bodies down in the engine compartment.,15
+MULDER,Rats?,1
+SCULLY,"Apparently, the museum has always had a rat problem. They must have crawled into the engine to keep warm.",19
+SCULLY,"You know, Mulder, there's hardly a thing about these deaths that adds up.",13
+MULDER,What’s he estimate on the time of death?,8
+SCULLY,Somewhere between 9:30 and midnight when the guard discovered the blood.,11
+MULDER,That's about the same time as Craig Horning.,8
+SCULLY,What’s the connection?,3
+MULDER,I don’t know.,3
+SCULLY,I think Mona Wustner might know something.,7
+MULDER,Why?,1
+SCULLY,"Well, she seemed to get nervous when I asked her about Bilac. Maybe she’s trying to protect him.",18
+MULDER,I think it’s starting to rain again.,7
+SCULLY,"I don’t think so, Mulder.",5
+MULDER,What the hell is that?,5
+MONA,Lonnie?,1
+MONA,Lonnie?,1
+BILAC,Don’t.,1
+MONA,"Lonnie? I came to tell you... Dr. Lewton is dead. Did you hear what I said? Say something, Lonnie, please. You're scaring me.",23
+BILAC,I told you not to come here.,7
+MONA,Why not? What's happened to you? Ever since you came back you're acting like some stranger. Like someone else.,19
+BILAC,The blood has to stop.,5
+MONA,"You know something, don’t you?",5
+BILAC,You wouldn’t understand.,3
+MONA,"Then help me to understand! You can tell me. You know that, don't you? What is that?",17
+BILAC,Vine of the soul.,4
+MONA,"Yahe?! You’re drinking Yahe?!!! You're sick, Lonnie! You need help. Don't you see what's happening here? Can't you see what you're doing to yourself?",24
+BILAC,Go.,1
+MONA,Let me help you.,4
+BILAC,I said GET OUT!!!!!,4
+SCULLY,"Well, it's human. Small intestine. There's about four feet of jejunum and another foot of ileum.",16
+MULDER,Do we know for sure it's Lewton?,7
+SCULLY,"Yeah, by what he had for lunch. Corn chowder. It looks like he'd been snacking on sunflower seeds all afternoon.",20
+MULDER,A man of taste.,4
+SCULLY,What I can't determine how the body was eviscerated. There are no knife marks on the epithelium. I imagine they could have been torn or pulled from the body cavity.,30
+MULDER,Torn or pulled?,3
+SCULLY,"But I can't determine that, either, because there was considerable postmortem predation.",12
+MULDER,By what?,2
+SCULLY,"Well, by the size of the bite marks, a small animal, most probably a rat.",15
+MULDER,More rats.,2
+SCULLY,Yep.,1
+SCULLY,"Scully? …. Slow down, Mona.",5
+MONA,I … I was with Dr. Bilac. He frightened me. I … I thought he was going to hurt me.,20
+SCULLY,"What happened, Mona?",3
+MONA,He’s sick. He doesn’t know what he’s doing.,8
+SCULLY,Where is he now?,4
+MONA,At his house. I left him there and I came back to the museum. But … I feel like someone’s here. Like someone’s watching me.,25
+SCULLY,"I want you to stay exactly where you are. I’m going to send Agent Mulder over to get you, right away, okay? He’s on his way.",26
+MONA,Okay.,1
+MONA,What is it Sugar?,4
+SCULLY,Dr. Bilac?,2
+GUARD,Oh! What are you doing here?,6
+MULDER,Looking for Mona Wustner. I got a panicked call from her.,11
+GUARD,From Mona?,2
+MULDER,"Yeah, where is she?",4
+GUARD,I'll show you.,3
+MULDER,Mulder.,1
+SCULLY,"Mulder, it’s me. Did you find Mona?",7
+MULDER,"No, but her car is parked outside. She’s not here. Did you find Bilac?",14
+SCULLY,"No. He’s not here either. But I found his journals. ""I've seen the Amaru coming out of the jungle with the eyes of a scorpion, the claws of a jaguar. She leaps down from the trees. She tears at my flesh, then holds my head in her hands, and eats out my eyes.""",53
+MULDER,Is there a date of entry on that?,8
+SCULLY,These are all recent.,4
+MULDER,Read about the jaguar coming down from the trees again.,10
+SCULLY,Why?,1
+MULDER,Maybe that’s how the intestines got up there.,8
+SCULLY,"Mulder, I think Bilac’s been tripping. I found something strange in a ceremonial bowl and - and from his writings it says that it’s .. it’s a hallucinogen called ""Yaje."" ""The Vine of the Soul.""",33
+MULDER,What the hell’s that supposed to mean?,7
+SCULLY,I think he's been praying to the Amaru through some kind of a ceremony.,14
+MULDER,What's he want from her?,5
+SCULLY,"It looks like he's invoking the curse, Mulder.",8
+MULDER,"Scully, I'm going to have to call you back.",9
+SCULLY,Did you find Mona?,4
+MULDER,I hope not.,3
+MULDER,"What are you doing here? I said, what are you doing here?",12
+BILAC,She's dead.,2
+SCULLY,Where is she?,3
+BILAC,I don't know.,3
+SCULLY,You told Agent Mulder that she was dead. You must know where she is.,14
+BILAC,I didn't kill her.,4
+SCULLY,Then why do you have blood on your clothes?,9
+BILAC,I told you. I came here because the Amaru would not be appeased. I was afraid for Mona. I tried to keep her away from all this... She was an innocent.,31
+SCULLY,She said she was scared. She said that you became violent.,11
+BILAC,She wouldn’t listen.,3
+SCULLY,"Maybe you were too high to know the difference. There is no curse, is there, Dr. Bilac? You are the curse.",21
+BILAC,No. This is more powerful than any man. This is a spirit you're dealing with-- the spirit of the Amaru. This is not something you can put in handcuffs.,29
+SCULLY,"I’m going to ask you one more time, Dr, Bilac, where is Mona’s body?",14
+BILAC,I don't know.,3
+SCULLY,"That man stays in that room until there's a full search of the museum, okay?",15
+OFFICER,"Yes, ma'am.",2
+MULDER,"Hey, Scully! Come here for a second. Just dawned on me. Why do you think there's so much water in here?",21
+SCULLY,I just assumed that one of the toilets had overflowed.,10
+MULDER,"There's water on every seat. It's more like every toilet overflowed. Now, why would that happen?",16
+SCULLY,There's only one way to find out.,7
+MULDER,I hate this.,3
+MULDER,Rats.,1
+MULDER,In every toilet.,3
+SCULLY,How did they get in there.,6
+GUARD,Agent Mulder.,2
+MULDER,Yeah.,1
+GUARD,The police found something outside.,5
+SCULLY,Mona Wustner?,2
+GUARD,No. Sugar – her dog. He’s dead.,7
+MULDER,Finally a body.,3
+SCULLY,What did you find?,4
+VETERINARIAN,I have to run a full toxicological to be sure but it looks like warfarin poisoning.,16
+SCULLY,Warfarin?,1
+VETERINARIAN,Rat poison.,2
+MULDER,Someone fed this dog rat poison?,6
+VETERINARIAN,No. When I dissected the dog's stomach I found an undigested fragment of intestine which appears to be feline.,19
+SCULLY,The dog ate a cat.,5
+VETERINARIAN,I also found what appears to be bits of rat fur. I think the rat ate the poison.,18
+SCULLY,The cat ate a rat.,5
+MULDER,"And the dog ate the cat. More rats, Scully.",9
+SCULLY,Yeah.,1
+MULDER,Don't you think that's significant?,5
+SCULLY,Significant of what?,3
+MULDER,There were rats in Dr. Lewton's car engine. There were rats in the bathroom where it looks like Mona might have been killed and now here.,26
+SCULLY,"It’s an old building, Mulder. They have a rat problem. A lot of old buildings have rats.",17
+MULDER,"No, no. I think it’s more than that. What is it that the Secona believe? That the jaguar spirit will devour anybody that desecrates the burial place of a holy woman. Essentially, they’re talking about transmigration of the soul into animal form achieved through a ceremony where they drink, the uh...",51
+SCULLY,Yaje.,1
+MULDER,Yeah. To summon the spirits.,5
+SCULLY,"So, what are we talking here, Mulder, a possessed rat? The return of Ben?",14
+MULDER,"No, I think those rats were killed trying to escape from something.",12
+SCULLY,From something that sent them diving into the toilet.,9
+MULDER,"No, the lids were down. They weren’t trying to get into the toilets, they were trying to get out. They were coming from within the sewer lines trying to get away from something.",33
+SCULLY,"Have *you* been drinking Yaje, Mulder?",6
+MULDER,"Go with it, Scully.",4
+OFFICER,Agent Scully? Bilac’s gone.,4
+SCULLY,What? How’s that possible?,4
+OFFICER,I don’t know. I went to check on him and he just … wasn’t there.,15
+SCULLY,Did you step away from this door at any time?,10
+OFFICER,No.,1
+SCULLY,And no one entered this room?,6
+OFFICER,Absolutely not.,2
+MULDER,What about a rat?,4
+OFFICER,Sir?,1
+MULDER,You ever see any rats in this room?,8
+GUARD,All the time. Why?,4
+MULDER,How do you think they get in here?,8
+GUARD,Through the old heating system. There are vents all over this place.,12
+SCULLY,Are there any other doors or windows in this room?,10
+OFFICER,I checked. There’s only one way out.,7
+SCULLY,You didn’t hear anything?,4
+OFFICER,Nothing. I heard nothing.,4
+SCULLY,I want you to search the entire building beginning with every room on this floor.,15
+OFFICER,"Yes, Ma’am.",2
+MULDER,"Hey, Scully, take a look at this.",7
+SCULLY,Where does it lead to?,5
+GUARD,The old steam tunnels.,4
+MULDER,How do you get down there?,6
+GUARD,They’re pretty much sealed up. Haven’t been used for 50 years.,11
+SCULLY,You think Bilac crawled down there?,6
+MULDER,Unless he was dragged.,4
+SCULLY,The system looks like it branches off into three directions. There must be miles of tunneling down there.,18
+MULDER,And only one way in.,5
+SCULLY,And one way out.,4
+MULDER,Ladies first?,2
+MULDER,Which way?,2
+SCULLY,"To the left, it looks like.",6
+MULDER,Follow that rat.,3
+SCULLY,We should be directly under the museum here.,8
+MULDER,Scully? Scully?!,2
+SCULLY,What is it?,3
+SCULLY,"Oh, my God. It’s Dr. Lewton. It looks like his eyes were eaten right out of his sockets.",18
+MULDER,We still don’t know by what.,6
+SCULLY,What is it?,3
+MULDER,I think it’s a cat. ),5
+SCULLY,You think that cat killed those people?,7
+MULDER,"No, *these* cats. Which way is out?",7
+MULDER,"Come on, Scully!",3
+SCULLY,"No, Mulder, this way. There’s a room here with a vent. Up there.",13
+SCULLY,It’s Bilac.,2
+MULDER,Can you reach up in there?,6
+SCULLY,Yeah.,1
+MULDER,Let’s pull him down.,4
+MULDER,"Okay, I will call you back later.",7
+SCULLY,"Well, the search team's on their way back up. They've recovered all the bodies including Mona's and Bilac's.",18
+MULDER,What about the cats?,4
+SCULLY,"Animal control is still looking. So far, they haven't found any sign of them.",14
+MULDER,"Well, we both saw them down there, Scully. We know they’re down there.",13
+SCULLY,"No one’s denying that, Mulder, it’s just that there are miles of tunnels down there. And they’re saying it’s gonna take weeks to search them all.",26
+MULDER,"Well, by then it won’t even matter.",7
+SCULLY,What are you talking about?,5
+MULDER,I just got off the phone with the Assistant Secretary of State’s office. They’ve called in the Ecuadorean Ambassador.,19
+SCULLY,What for?,2
+MULDER,Five people had to die but they're finally taking it seriously.,11
+SCULLY,The curse?,2
+MULDER,No. Bilac's letter of protest. The State Department has asked that the museum remain closed until they can act officially on it.,22
+SCULLY,Are they going to send back the bones?,8
+MULDER,The urn will be back in Ecuador by the end of the week.,13
+MULDER,"The Suffolk county coroner ruled the deaths at the museum were the result of animal attacks. What motivated these attacks and why no more have occurred since has not been explained. To the museum, the urn was an artifact from a dying culture-- its curse merely a primitive superstition. Dr. Bilac learned there is a world beyond our own, unseen but powerful, and as real as the urn itself.",69
+MULDER,The icons from that world represent forces that cannot be tamed or collected in a museum. The true curse that struck the museum was the failure to understand that there are powers that should not be disturbed... That some things are better left buried.,44

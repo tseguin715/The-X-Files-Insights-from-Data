@@ -1,0 +1,319 @@
+speaker,line,words
+WOO,"Come on Fong. Don't be scared. Okay, here it is. I saw them load it in Hong Kong.",18
+FONG,Tell me what you think is inside.,7
+WOO,Yesterday I put my face close to the box. The thing inside tried to bite me.,16
+FONG,Maybe it's a tiger.,4
+WOO,"Come on, Fong. Take a look. With eyes like that, how can it be a tiger?",16
+WOO,I think we killed it.,5
+YEE,This hold was secured in Hong Kong. I don't know how this happened. It makes no sense. We found the cage still locked. Two of my men are missing.,29
+DETWEILER,Who's in charge here? You?,5
+YEE,Who are you?,3
+DETWEILER,"My name is Detweiler. I'm the owner of this cargo. I was to be notified immediately of its arrival. There's an animal in here, damn it. It needs care.",29
+SCULLY,Aren't you going home?,4
+MULDER,I am home. I'm just feathering the nest.,8
+SCULLY,What you got?,3
+MULDER,Two merchant marines found dead this morning in San Pedro … in the hold of their cargo ship.,18
+SCULLY,You mind if I ask the cause of death?,9
+MULDER,On the crime report it says multiple bite wounds.,9
+SCULLY,From what?,2
+MULDER,The Hong Kong manifest has the cargo listed as a dog.,11
+SCULLY,"A dog? A ""dog"" dog?",5
+MULDER,Yo quiero Taco Bell. That alone is not what drew me to this case. The two men were found inside the container. It was locked from the outside.,28
+SCULLY,What happened to the dog?,5
+MULDER,Dog gone…. Dog gone… Doggone.,5
+SCULLY,"Yeah, I got it. Did anybody, um, examine the victims, Mulder?",11
+SCULLY,"Look, bite wounds are rarely lethal in themselves. I mean, they are not the cause of death. They lead to it through the loss of blood, but, uh... it makes you wonder how accurate this report is.",37
+MULDER,Local PD wrote it up. Department of Fish and Wildlife is on the case. I got an outside source says it was a dog.,24
+SCULLY,"Mulder, I don't have to tell you how absolutely and completely wrong that seems. I mean, they were found dead in a locked cage, right?",25
+MULDER,Yeah.,1
+SCULLY,Two grown men?,3
+MULDER,Mm-hmm.,1
+SCULLY,You're not going to tell me that a dog did this.,11
+MULDER,A bad dog.,3
+SCULLY,Yeah.,1
+JAKE CONROY,"Shh. Quiet. Jo-Jo, come on. Shh. Shh. Shh. That's enough now. Come on. Come on. Come on. It's okay.",19
+JAKE CONROY,"Hey, get out of here. Go on, git! Come on, inside. Come on. Come on. Inside. Inside. Inside, Jo-Jo.",19
+JAKE CONROY,Get out of here. Go on home. Go home.,9
+JAKE CONROY,"Jo-Jo? Here, girl. You better not be on the bed. There you are. What are you doing, girl? You nut. Big ol' lazy bones. Jo-Jo, what are you doing...?",29
+JAKE CONROY,Stay away. Go on.,4
+MULDER,Officer Jeffrey Cahn?,3
+OFFICER JEFFREY CAHN,Yeah?,1
+MULDER,"I'm Special Agent Fox Mulder with the FBI. This is my partner, Dana Scully. I think the LA field office would have contacted you that we were coming down today.",30
+OFFICER JEFFREY CAHN,"Oh, yeah. I hope you don't mind - I had to look around the ship with my men. We were pretty thorough.",21
+SCULLY,What did you find?,4
+OFFICER JEFFREY CAHN,"Nothing conclusive, really, but I can tell you the dog's not likely still on the ship.",16
+MULDER,How did you determine that?,5
+OFFICER JEFFREY CAHN,"You ever owned a dog, sir?",6
+MULDER,Yeah.,1
+OFFICER JEFFREY CAHN,Had to clean up after it?,6
+SCULLY,I don't suppose you can tell us what kind of dog this is.,13
+OFFICER JEFFREY CAHN,"I'm not really sure. The man it was shipped to's name is Detweiler. Dr. Ian Detweiler. Calls himself a ""cryptozoologist.""",20
+MULDER,Cryptozoologist?,1
+OFFICER JEFFREY CAHN,They deal with animals thought to be extinct.,8
+MULDER,Animals that aren't supposed to exist like Sasquatch and the Ogopogo and the Abominable Snowman and - - -,16
+SCULLY,Don't mind him. He'll go on forever. Did you have a chance to talk to this Dr. Detweiler?,18
+OFFICER JEFFREY CAHN,About five minutes ago.,4
+DETWEILER,"Officer Cahn, any progress?",4
+OFFICER JEFFREY CAHN,"Agents, this is Dr. Detweiler.",5
+DETWEILER,Are you from the FBI?,5
+MULDER,Yes.,1
+DETWEILER,Who should I be speaking to about the theft of this animal?,12
+MULDER,Theft? What do you mean theft?,6
+DETWEILER,This is a very valuable animal that's disappeared. A rare breed and arguably a priceless specimen.,16
+SCULLY,A breed of what?,4
+DETWEILER,Wanshang Dhole. It's a canid.,5
+MULDER,That's an Asian dog. Supposed to have been extinct for the last 150 years.,14
+DETWEILER,"Yes. That's right, actually.",4
+SCULLY,And you have one of these?,6
+DETWEILER,I was on the expedition that caught it.,8
+OFFICER JEFFREY CAHN,Be that as it may-- we now have an unquarantined animal loose.,12
+MULDER,Loose? Sounds a little more than loose. It seems to have killed two people.,14
+DETWEILER,No. No. Let me assure you this is not a predatory animal. Chinese folklore has imbued it with mythic qualities. But it doesn't even hunt-- it scavenges.,27
+COP,"Where's Officer Cahn? Hey, Jeff, I just got a report on the radio. Some kind of vicious dog attack in Bellflower.",21
+MULDER,Watch your step.,3
+SCULLY,"Jake Conroy, age 30. He was employed as a customs agent by the Federal Government. The bite marks match those of the victims on the Chinese freighter. In this case, it bit off the man's hand. There's some talk in the house that he may be involved in the theft of the animal and that it turned on him.",59
+MULDER,Talk about biting the hand that feeds you.,8
+SCULLY,"Well, it does make sense. I mean, a victim and his dog are attacked inside of a house with all the doors shut. It couldn't have happened unless the dog was being kept inside.",34
+MULDER,"If all the doors were shut, how did it get out?",11
+SCULLY,"Well, then what?",3
+MULDER,I think we're speaking in too common terms about an animal we're calling a dog but which displays none of the behavior of man's best friend.,26
+SCULLY,You mean covering up crime scenes?,6
+MULDER,"You get a biscuit, Scully.",5
+SCULLY,"So, you're talking about a dog that has human intelligence. Well, even if there were such an animal where would we even begin to look for one?",27
+MULDER,With a human that thinks like an animal.,8
+MULDER,Karin? Karin Berquist?,3
+STACY MUIR,No. Stacy Muir. Just putting up this fence for her. She's been having some coyote problems. You two looking for Karin about boarding?,23
+MULDER,"No, it's actually more of a behavior problem.",8
+SCULLY,"Yeah, he doesn't listen and he chews on the furniture.",10
+MULDER,Just... can you tell her the FBI's here to see her?,11
+STACY MUIR,Right this way.,3
+STACY MUIR,"Karin will be out in a moment, all right?",9
+SCULLY,You sure this woman's not an authority on bats?,9
+MULDER,Karin Berquist knows more about canine behaviorisms than anybody on the planet. She's lived with wild canids and wolves in the wilderness on five different continents.,26
+SCULLY,How is it that you know so much about her but you don't know what she looks like?,18
+MULDER,I never actually met her.,5
+SCULLY,But you assume that she's going to help us?,9
+MULDER,"No, actually, it's not an assumption. She is the one who told me about his case.",16
+SCULLY,"Oh, so you two are chummy?",6
+MULDER,"Well, I've read her books.",5
+SCULLY,Ah. The Wolf Inside... Dogs Don't Lie... Better Than Human... Better Than Human?,13
+MULDER,She's not a real people person.,6
+SCULLY,"Well, she seems to have made a connection to you.",10
+KARIN BERQUIST,All right... Settle down. Settle.,5
+MULDER,"Karin, I'm Fox. Fox Mulder. This is my partner, Dana Scully. It's nice to finally meet you.",17
+KARIN BERQUIST,I wish I'd known. I don't get many visitors. Stacy tells me you have a question about behaviorism?,18
+MULDER,"Yeah, it's about the animal I'm tracking. The one you mentioned in your e-mail - about its intelligence.",17
+KARIN BERQUIST,Canids' intelligence is far superior to ours if that's what you want to know.,14
+SCULLY,Intelligence enough to murder?,4
+KARIN BERQUIST,Murder takes no intelligence. It's a human behaviorism.,8
+MULDER,What about hunting?,3
+KARIN BERQUIST,Coyotes use elaborate trickeries to draw out their prey. Many canids do... alone or in packs.,16
+SCULLY,What about a Dhole?,4
+KARIN BERQUIST,"If you mean the Wanshang Dhole, it's extinct. Is there any other reason you came here?",16
+MULDER,"No. Thank you, Karin.",4
+KARIN BERQUIST,Come on.,2
+SCULLY,Mulder... She's a friend of yours?,6
+MULDER,We met on-line.,3
+SCULLY,On-line...,1
+MULDER,Two professionals exchanging information.,4
+OFFICER FIEDLER,This is Fiedler. I'm at an alley just south of Cooper in Signal Hill. Looks like something's been scavenging. I'm going to check it out.,25
+DISPATCHER,Copy that.,2
+OFFICER FIEDLER,"Hey! Hello, sir. I'm with US Fish and Wildlife. Maybe you've seen a dog I'm looking for.",17
+OFFICER FEIDLER,Sir? Can you hear me?,5
+OFFICER JEFFREY CAHN,You want to catch a killer? You arrest that crypto son of a bitch who shipped that dog over here.,20
+SCULLY,Is it the same dog?,5
+OFFICER JEFFREY CAHN,That's Frank Fiedler over there. He's a friend of mine. Damn good at his job. You think this kind of thing happens here every day?,25
+MULDER,"No, I'm sure it doesn't. We're just trying to catch this animal just like you though, sir.",17
+OFFICER JEFFREY CAHN,"Oh, you can catch it. I want to kill it.",10
+SCULLY,I don't think wolfwoman is here to speak to me about this. I'll take a look at the body.,19
+MULDER,I didn't expect you.,4
+KARIN BERQUIST,"""Dog eats dogcatcher."" Story's all over the news this morning. It's sort of uplifting.",14
+MULDER,Mm-hmm.,1
+KARIN BERQUIST,I'm joking.,2
+MULDER,Mm-hmm.,1
+KARIN BERQUIST,Sorry.,1
+MULDER,That's okay.,2
+KARIN BERQUIST,I thought you might use some help.,7
+MULDER,You said that a dog or a canid only hunts what it needs but I've got four bodies with bite marks on it from an animal that seems to kill for no other reason.,34
+KARIN BERQUIST,Who are the victims?,4
+MULDER,"There's two men on the ship that it came in on, a customs agent, and now an officer from Fish and Wildlife. In fact, all these men could have come in contact with the animal before the attacks.",38
+KARIN BERQUIST,Classic dominant-alpha territorial behavior.,4
+MULDER,No. This animal seems to have ranged many miles to make its attacks. In each case it seems to have outsmarted or at least tricked its victims.,27
+KARIN BERQUIST,"Unlike we homo sapiens a canid's motives are simple and direct. It would be an extraordinary case to find one who kills for sport. Likely, we may never know. I'm sure someone will kill it first.",36
+MULDER,This guy over here? He claims to have caught it once. Maybe he can catch it again. He's Dr. Ian Detweiler. Do you know him?,25
+KARIN BERQUIST,"No, but I dislike him already.",6
+DETWEILER,"I've been over the area. If that was my animal there's absolutely no evidence of it-- no prints, nothing whatsoever I can find.",23
+MULDER,But it's still on the loose.,6
+KARIN BERQUIST,How did you say you caught it originally?,8
+MULDER,"Oh, this is Karin Berquist.",5
+DETWEILER,We tranquilized it after tracking it for two weeks.,9
+KARIN BERQUIST,"You admire it, don't you?",5
+DETWEILER,I admire its ability to survive.,6
+KARIN BERQUIST,"Think I'll look around, too.",5
+MULDER,Mm-hmm.,1
+DETWEILER,"Now, that's one strange bird.",5
+OFFICER JEFFREY CAHN,"No, I'm leaving my dart gun in the car. I'm going to live rounds from here on out. I don't care what the regulations say. I shouldn't be asked to risk my life and neither should anyone else.",38
+DISPATCHER,"No one's asking you to risk your life, Cahn.",9
+OFFICER JEFFREY CAHN,Fiedler's lying dead. You realize that?,6
+DISPATCHER,"Cahn, you still there?",4
+OFFICER JEFFREY CAHN,"Look, we need more men out here. How more many people have to go down before you guys listen? Look, I don't have a photo of this animal. No one's even seen it. Let's get more men out here so we can catch it and kill it. If you want …",51
+OFFICER JEFFREY CAHN,You scared me.,3
+DETWEILER,"You kill that dog, and I'll kill you.",8
+KARIN BERQUIST,This man Detweiler said he could find no evidence at the scene but with very little effort I was able to find several tracks on the floor of the building where the man was attacked.,35
+SCULLY,Did they tell you anything?,5
+KARIN BERQUIST,"That this is a large, rangy animal with primitive, even pre-evolutionary aspects. It isn't perfectly visible, but with the computer I can enhance the prints so that you can see it. A fifth toe pad on the right paw. Canids only have four toes.",44
+MULDER,"Uh, he's got a vestigial toe pad on his front paws. Right there.",13
+KARIN BERQUIST,"The dewclaw, serving no purpose now. Although some believe it was once a prehensile thumb.",15
+SCULLY,And that's what you think the print indicates?,8
+KARIN BERQUIST,I am told this animal went in and out of closed buildings.,12
+SCULLY,"Just yesterday you dismissed the possibility outright, that a dog or a... a canid, as you call it, would behave like this.",22
+KARIN BERQUIST,I dismissed the idea of murder.,6
+SCULLY,But you'll accept the idea that it behaves in every other way like Jack the Ripper.,16
+KARIN BERQUIST,"I'm just going by the facts. In Chinese myth the Dhole can be evil, capable of opening doors, stealing wives and disappearing into thin air. Maybe there is some basis in reality for this trickster myth.",36
+SCULLY,"Oh, I'm... fairly certain there is.",6
+MULDER,"Everything okay, Scully?",3
+SCULLY,"How well do you know this woman, Mulder?",8
+MULDER,How well do you know anybody you meet on the Internet? She likes to talk.,15
+SCULLY,"Well, I question her motives.",5
+MULDER,"You're suggesting that this case was a way to get me out here, to meet me?",16
+MULDER,"I'm flattered, but, no. I don't know this woman. I'd go out on a limb and say there's no way in hell she has anything to do with those four people being dead.",33
+SCULLY,"She's enamored of you, Mulder. Don't underestimate a woman. They can be tricksters, too.",14
+ANGIE,So Dr. Riley wanted me to give Duke three pills a day. Is the one bottle going to be enough?,20
+PEGGY,"Oh, we can get you a refill.",7
+ANGIE,Okay.,1
+ANGIE,Duke… Duke … enough!,4
+DETWEILER,Can't you control your dog?,5
+ANGIE,I'm sorry. He gets this way with strangers sometimes.,9
+DR JAMES RILEY,Let's take him outside.,4
+ANGIE,"Duke, come on.",3
+DR JAMES RILEY,Excuse me. You got him? Good luck.,7
+DR JAMES RILEY,Sorry about that. It's usually a well-behaved dog.,8
+DETWEILER,I'm Dr. Detweiler. I called about the animal tranquilizer.,9
+DR JAMES RILEY,"The Telezol. I don't have much occasion to dispense it. If I have any, it's very little.",17
+DETWEILER,"Well, I'll take whatever you've got.",6
+DR JAMES RILEY,I have Etorphine. Can you use that?,7
+DETWEILER,Yeah.,1
+DR JAMES RILEY,Can I ask what these tranqs are for?,8
+DETWEILER,An animal escaped from a pier in San Pedro.,9
+DR JAMES RILEY,Not that dog that's been attacking people?,7
+DETWEILER,"If you don't mind, I'm in a bit of a hurry.",11
+DR JAMES RILEY,"Uh, this dog you're looking for-- you're not looking around here?",11
+DETWEILER,I'm afraid we are.,4
+DR JAMES RILEY,"Good night, Peggy.",3
+[CLOSED CAPTIONING,PEGGY: Good night.],3
+DR JAMES RILEY,"Uh, be sure to relock that front door for me, would you? And I'll relock the back.",17
+[CLOSED CAPTIONING,PEGGY: Sure.],2
+DR JAMES RILEY,"Good night, Sparky. Bye, Dino.",5
+DR JAMES RILEY,"Hey, Buck. What's wrong, Buck? What's wrong, Buck?",8
+OFFICER JEFFREY CAHN,Come on!,2
+OFFICER JEFFREY CAHN,Where is it?,3
+DR JAMES RILEY,He's trapped in a kennel behind that door.,8
+OFFICER JEFFREY CAHN,How'd it get in there?,5
+DR JAMES RILEY,"Uh, it must have come around back.",7
+OFFICER JEFFREY CAHN,"Lowell and Shoen, go around back. All right, I'm going to open the door. Doc, you're going to have to move back. I'm going to have to shoot him. See him!",31
+DR JAMES RILEY,You hit him?,3
+OFFICER JEFFREY CAHN,I think so. He's down.,5
+DR JAMES RILEY,Duke... It's the wrong dog.,5
+OFFICER JEFFREY CAHN,Came out for nothing.,4
+MULDER,How's that?,2
+OFFICER JEFFREY CAHN,Took out somebody's pet.,4
+MULDER,What kind of pet?,4
+OFFICER JEFFREY CAHN,St. Bernard. It was dark. I just saw something moving.,10
+DR RILEY,"Okay, Duke... All done, pal. You're going to be all right. Now we got find out how you got back in here, huh?",23
+SCULLY,"I'm a federal agent. I'm armed. If you can hear me, don't move. Just stay where you are and tell me if you're okay.",24
+SCULLY,Mulder?,1
+MULDER,Yeah?,1
+SCULLY,Come take a look at this.,6
+SCULLY,I'll call the paramedics.,4
+KARIN BERQUIST,Where's Fox?,2
+SCULLY,Continuing his investigation.,3
+KARIN BERQUIST,You're not working together?,4
+SCULLY,No. This is my investigation.,5
+KARIN BERQUIST,Of...?,1
+SCULLY,You.,1
+KARIN BERQUIST,I have no idea what you mean.,7
+SCULLY,"I thought at first that they were eccentricities or affectations-- the dark, the clothes-- but it's photosensitivity. Your sleeves cover up skin lesions. It's why you're here amongst the humans instead of out in the field. Systemic lupus erythematosus.",39
+KARIN BERQUIST,"Lupus... From the Latin for ""wolf."" Ironic, isn't it?",9
+SCULLY,Ironic or perverse?,3
+KARIN BERQUIST,I've ignored the symptoms for years. I've always felt more like a wolf than a person.,16
+SCULLY,"But not with Mulder. With Mulder, you found somebody you could communicate with.... someone who challenged you... But that wasn't enough. You needed to lure him out here.",28
+KARIN BERQUIST,I lack your feminine wiles.,5
+SCULLY,"You don't believe it, do you-- not for a minute-- that there's an animal out there killing?",17
+KARIN BERQUIST,"I don't believe that this man, Dr. Detweiler, ever caught it. I lived in Asia. I know about the Wanshang Dhole and if it survived for over a century it was because it was more cunning than man, more cunning than this man Detweiler ever dreamed of.",47
+SCULLY,More cunning than you?,4
+SCULLY,I'm watching you.,3
+KARIN BERQUIST,You watch... But you don't see.,6
+DISPATCHER,"Officer Cahn, we have an emergency phone call we'd like to patch through to you. Officer Cahn, are you there? Officer Cahn, please respond. Officer Cahn? Please respond.",28
+OFFICER JEFFREY CAHN,This is Jeffrey Cahn. Go ahead.,6
+DISPATCHER,We have an FBI agent holding for you. I'm going to patch him through now.,15
+MULDER,Officer Cahn?,2
+OFFICER JEFFREY CAHN,Agent Mulder.,2
+MULDER,"Yeah, I'm back at the animal clinic. You know Detweiler had been here.",13
+OFFICER JEFFREY CAHN,Dr. Detweiler was there?,4
+MULDER,"Yeah. He signed for something. It looks like, uh... Eet... Etorfeen, Etorphine?",12
+OFFICER JEFFREY CAHN,Tranquilizers-- ampules.,2
+MULDER,Are you anywhere near here at all?,7
+OFFICER JEFFREY CAHN,Not far. Why?,3
+MULDER,You have access to a lab. There's something I'd like you to check for me.,15
+OFFICER JEFFREY CAHN,I'll be there in 15 minutes.,6
+MULDER,What are you doing here?,5
+DETWEILER,I'd heard what had happened. I didn't know how bad he would be. I thought I might get a description of the animal.,23
+MULDER,How did you learn about the attack?,7
+DETWEILER,I'd been in contact with Officer Cahn. I learned through his office.,12
+MULDER,"No, you didn't. No, you hadn't. Officer Cahn didn't want to have anything to do with you.",17
+DETWEILER,He was going to kill it.,6
+MULDER,Does that frighten you?,4
+DETWEILER,"Please, sir. This is ridiculous.",5
+MULDER,You aren't hunting this animal. You know very well it can't be caught.,13
+DETWEILER,Then how did I bring it here?,7
+MULDER,That's what no one can figure out except for Karin Berquist. She knows what was in that cage and she knows it must be killed and that's the thought she can't bear because she doesn't want this thing to be extinct anymore than you do.,45
+DETWEILER,You're not making any sense.,5
+MULDER,"No, I think I am. You went to China looking for that animal and you may have tracked it as you claim but the rest is far from the truth. You found the Wanshang Dhole, but you never caught it. It caught you. You may not have known what was happening to you at first but you're well aware now-- that when night comes, you stop being yourself.",68
+DETWEILER,That's insane.,2
+MULDER,"No, you become the trickster-- a shape-shifting man who becomes an animal.",12
+DETWEILER,I've heard enough.,3
+MULDER,No. You killed because you could. You may have resisted it at first. You may have hated what you'd become. Eventually it took you over. That's where the tranquilizer came in. I found traces of Etorphine and animal blood at the clinic. You injected yourself with the tranquilizer hoping to stop the killings... But they didn't and they haven't and they won't.,62
+KARIN BERQUIST,I protected you as long as I could. I won't any longer.,12
+KARIN BERQUIST,I can usually get a sense of a person right away from the dogs. Dogs are the best judges of character I know.,23
+MULDER,"I'm sensing something myself here. I'm thinking maybe I've been misled, that you haven't been totally honest with me about this case.",22
+KARIN BERQUIST,"I've been honest with you, though perhaps not myself. I was looking forward to meeting you. I wouldn't admit how much.",21
+MULDER,But you might also have admitted what you knew about this animal-- that it wasn't an animal at all.,19
+KARIN BERQUIST,I heard the reports and called you out if only so you could disprove them. What I knew was it couldn't be a dog responsible for those killings.,28
+MULDER,"It's Detweiler, isn't it?",4
+KARIN BERQUIST,Yes.,1
+MULDER,So you knew that and didn't say.,7
+KARIN BERQUIST,"I only realized it when I saw him. My failure was in thinking I was protecting the animal that by deceiving you, it might be captured alive. He's got to be put down, Fox. It's the only way to stop this.",41
+MULDER,"I've got Scully on him, tailing him watching his every move.",11
+KARIN BERQUIST,He'll elude her easily.,4
+MULDER,"So, where's he going to go?",6
+KARIN BERQUIST,"To the man he only wounded-- to the hospital, to finish the kill.",13
+MULDER,"Scully, it's me. You got to get to the hospital. … You got to make sure Cahn is protected. … Yeah, he's in danger.",24
+SCULLY,Now tell me why you pulled me away from the suspect and chained me to this chair 'cause I haven't seen hide nor hair of Detweiler since I've been here.,30
+MULDER,That's aptly put... but it's not yet dark. You should take a load off. We might be here all night.,20
+SCULLY,What do you mean?,4
+MULDER,It's Detweiler... but it's not Detweiler. It's something that he becomes.,11
+SCULLY,Mulder...,1
+MULDER,"Through some blood curse, this man undergoes some kind of nocturnal transformation. He becomes the same shape-shifting trickster as that mythical dog.",22
+SCULLY,"So, what is he going to do? Walk in here, skitter across the linoleum and pee in the corners?",19
+MULDER,It's about territoriality. He's going to come back here tonight to make sure his dominance isn't challenged. He's going to put down the threat he failed to eliminate when he attacked Cahn. Karin Berquist confirmed it.,36
+SCULLY,"Mulder, the only thing Karin Berquist is interested in is you.",11
+SCULLY,You're kidding yourself if you think that she hasn't manipulated this entire situation for her own purposes.,17
+MULDER,"He'll come here tonight, Scully. You'll see.",7
+MULDER,Okay. He's not coming.,4
+SCULLY,"Well, you've got no argument from me.",7
+MULDER,He's not coming here tonight. Karin knew that. She lied to me.,12
+MULDER,"Karin, it's Fox Mulder. If you can hear me, I know what you're doing. If you can hear me, lock your doors. I'm on my way.",26
+KARIN BERQUIST,"Come on, dog. Come on.",5
+SCULLY,Mulder...,1
+MULDER,Yeah.... It's Detweiler.,3
+SCULLY,You going home?,3
+MULDER,"Yeah, pretty soon.",3
+SCULLY,You think this is your fault.,6
+MULDER,"I think that I... believed her very quickly. I think maybe that was my fault, yeah.",16
+SCULLY,Why wouldn't you believe her?,5
+MULDER,I barely knew her.,4
+SCULLY,"Well, she had a lot of secrets, that's for sure. I think that Karin Berquist lived by her instincts. She sized people up pretty quickly and I think she figured you out to a ""T."" I think she saw in you a kindred spirit, Mulder. She may not have been able to express that to you. Maybe what she did was the highest form of compliment.",66
+SCULLY,You going to be okay?,5
+MULDER,"Uh, yeah.",2
+SCULLY,Oh. This came for you.,5
+MULDER,Thank you.,2

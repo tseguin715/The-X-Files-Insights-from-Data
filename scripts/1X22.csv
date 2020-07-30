@@ -1,0 +1,284 @@
+speaker,line,words
+DR. KEATS,"Here, let me do it. Put your number in, then your card. What's your number, Roland?",16
+ROLAND,315.,1
+DR. KEATS,See how easy it is?,5
+DR. NOLLETTE,Engine efficiency?,2
+DR. SURNOW,94%.,1
+DR. NOLLETTE,We need more. How's the backpressure holding?,7
+DR. SURNOW,What do you think? It's climbing.,6
+DR. NOLLETTE,"Increase the blade inclination. I said, increase the blade inclination!",10
+DR. SURNOW,The inclination of the blade is pi over 9. We've reached maximum velocity.,13
+DR. NOLLETTE,No. Let it go! It will work!,7
+DR. SURNOW,The engine's going to destroy itself! I'm not going to do that!,12
+DR. NOLLETTE,"It's not going to destroy itself. Come on, we're almost there!",11
+DR. SURNOW,There's something wrong with our equation.,6
+DR. KEATS,What happened?,2
+DR. NOLLETTE,Nothing. Because Surnow pulled the plug.,6
+DR. SURNOW,"I'm just protecting the baby... and four years of work, Frank!",11
+DR. NOLLETTE,"Four years of work that's going to add up to zilch, because unless we show some progress, they're going to pull the plug on us, Ron.",26
+DR. KEATS,"He's right, you know. We should have continued with the test.",11
+DR. SURNOW,"Somebody's going to crack Mach 15, and I want that someone to be us. I'm not going to jeopardize everything just because you two guys can't wait to see your name in print!",33
+DR. KEATS,"It's the print that gets the money, Ron.",8
+DR. SURNOW,"If you want to go down in flames together, fine. You go ahead. I'm gonna do the math.",18
+ROLAND,"Good night, Dr. Keats.",4
+DR. SURNOW,What the hell?,3
+DR. SURNOW,"Roland, open the door. Open the door. Roland, I want you to listen to me very carefully. We have to open this door, Roland. Stop typing, Roland!",27
+DR. SURNOW,"Roland, open the door! What are you doing? Open the door!",11
+DR. SURNOW,Roland! Are you listening?,4
+MULDER,How was the wedding?,4
+SCULLY,You mean the part where the groom passed out or the dog bit the drummer?,15
+MULDER,Did you catch the bouquet?,5
+SCULLY,May-be. So is that what you couldn't talk to me about over the phone?,14
+MULDER,"The project that everyone says doesn't exist, does exist.",9
+SCULLY,The Icarus project?,3
+MULDER,"The next generation in jet engine design, capable of doubling current supersonic speeds using half the fuel. At least in theory.",21
+SCULLY,And Ronald Surnow was an aeronautical scientist who worked on it here at the university.,15
+MULDER,Yes.,1
+SCULLY,How close are they?,4
+MULDER,"I'm not sure, but Surnow is the second scientist on the team to die in the last six months.",19
+SCULLY,"OK, but how is this an X-file? Mulder, you don't think this has anything to do with UFO technology?",19
+MULDER,"There's something unexplainable here, Scully, but it's certainly not unidentifiable.",10
+MULDER,Keats?,1
+MAN,There.,1
+MULDER,"Dr. Keats? We're with the FBI. I'm Agent Mulder, this is Agent Scully. We understand you discovered Dr. Surnow this morning.",21
+DR. KEATS,What was left of him.,5
+SCULLY,How do you suppose he became trapped in the wind tunnel?,11
+DR. KEATS,Someone must have shut him in. The door can only be opened or locked from in there.,17
+SCULLY,By computer?,2
+DR. KEATS,We've already been through this with the police. How many times do we have to rehash it?,17
+SCULLY,Another member of your team died a short time ago. Isn't that correct?,13
+DR. NOLLETTE,Yes. Arthur Grable. He was killed in an automobile accident in November. I'm Frank Nollette. I'm also on the project.,20
+SCULLY,Are you certain it was an accident?,7
+DR. KEATS,What are you driving at?,5
+SCULLY,Your work seems to be a perfect target for industrial espionage.,11
+MULDER,Who wrote this?,3
+DR. NOLLETTE,Ron was working on it when I left.,8
+MULDER,"You see, the handwriting here doesn't seem to match any of the other handwriting on the board.",17
+DR. KEATS,It isn't mine.,3
+MULDER,What about Roland Fuller?,4
+DR. NOLLETTE,"Uh, Roland's the, uh, janitor.",5
+MULDER,"Well, according to the police report, he was the only other person here last night.",15
+DR. KEATS,Roland didn't do that.,4
+SCULLY,How do you know?,4
+DR. KEATS,Let's just say Roland isn't exactly a rocket scientist.,9
+ROLAND,Here.,1
+TRACY,"""Tracy.""",1
+ROLAND,With stars.,2
+MRS. STODIE,Roland? There are some people here would like to talk with you.,12
+ROLAND,Uh-oh. I went off the paper. Sorry.,7
+MRS. STODIE,"That's all right, Roland. Tracy, would you like to come help me in the TV room?",16
+TRACY,OK.,1
+MULDER,"Hi, Roland. Do you mind if we sit down?",9
+ROLAND,OK.,1
+MULDER,Thanks. You mind if we ask you a couple of questions? Do you remember working last night?,17
+ROLAND,Uh-huh.,1
+SCULLY,"Do you remember seeing anything unusual? Seeing any strangers? Did, um, did Dr. Surnow or Dr. Keats or Dr. Nollette do anything unusual?",23
+ROLAND,Nope.,1
+SCULLY,You must like stars.,4
+ROLAND,One hundred and forty-seven.,4
+SCULLY,Sorry?,1
+ROLAND,Stars.,1
+MULDER,"You like numbers, too.",4
+SCULLY,"Roland, let me help you.",5
+ROLAND,"One, two, three, four, five...",5
+ROLAND,... six...,1
+MRS. STODIE,Roland.,1
+ROLAND,... seven...,1
+MRS. STODIE,Is everything ok?,3
+ROLAND,"... eight, nine...",2
+MRS. STODIE,"Roland, are you all right?",5
+ROLAND,"... ten, eleven, twelve, thirteen...",4
+MRS. STODIE,What happened?,2
+ROLAND,... fourteen...,1
+MRS. STODIE,What did you say to upset him so?,8
+ROLAND,"... fifteen, sixteen, seventeen...",3
+ANALYST,"It's definitely the work of a fourth and distinct individual. Dr. Surnow's, Dr. Keats', and Dr. Nollette's cursive standards don't match what you found on the whiteboard.",27
+MULDER,Would you do me a favor and try this?,9
+SCULLY,What is it?,3
+MULDER,It's something Roland was doodling at the home.,8
+SCULLY,You don't really think that Roland...,6
+MULDER,"Besides Nollette and Keats, he's the only person we can prove was in the lab that night.",17
+SCULLY,"Yes, but we're talking about a sophisticated fluid dynamics equation. Roland Fuller barely has an IQ of 70.",18
+MULDER,"Well, you saw his facility with mathematics. Don't some autistic individuals display unusual abilities?",14
+SCULLY,"Yes, but even savants behave only as human calculators. I mean, they can perform certain functions but they can't tell you the value of anything or even the meaning of a number.",32
+ANALYST,"I hate to take sides, guys, but the bottom line is no. The terminal stroke on the 6, the roof on the 5 - I'm sorry. He didn't write it.",29
+SCULLY,"An organic object exposed to liquid nitrogen at minus 320 degrees will become frozen, exhibiting great tensile strength, but is vulnerable to stress from compression or impact. Now, I've seen this demonstrated on a fish before...",36
+MULDER,I don't think they'll be performing this experiment on Beakman's World. Has this been dusted?,15
+DETECTIVE,Treat yourself.,2
+MULDER,"Hey, Scully! Look at these files. KMAN, must be Keats.",10
+SCULLY,"But look, someone else entered a file under the name Arthur",11
+MULDER,And worked on it for nearly 5 hours.,8
+SCULLY,"Well, it couldn't have been Keats. Judging from the rigor",10
+MULDER,"So you're saying someone came in here, killed Keats, and then just did some work on an old Dr. Arthur Grable file?",22
+SCULLY,"Well, I can't access the ARTHUR file. We're gonna need the password.",12
+MULDER,Try 15626.,2
+SCULLY,How did you know that that...,6
+MULDER,This is Arthur Grable's work on the same fluid dynamics equation the others were working on. Look at all those entries. Someone has been continuing his work in the six months since he died.,34
+SCULLY,How did you know what the password was?,8
+MRS. STODIE,"Roland? Why did you sleep in your clothes last night? Well, let's get you dressed. You have visitors.",18
+ROLAND,I'm not supposed to talk to them.,7
+MRS. STODIE,"Who told you that? Remember that talk we had about being shy. These are nice people, Roland.",17
+MULDER,"Hey, Roland, you've got more shirts than I do. I think this one would look stylin' today. What do you think?",21
+ROLAND,The green one.,3
+MULDER,The green one?,3
+ROLAND,Please.,1
+SCULLY,"Mrs. Stodie, can I talk to you a second? See you later, Roland.",13
+MULDER,"This one? Here you go. So you like your job at the college, Roland?",14
+ROLAND,Yes.,1
+MULDER,I hear you're very good at it. You remember how you got your job?,14
+ROLAND,A man talked to Mrs. Stodie.,6
+MULDER,What man?,2
+ROLAND,Dr. Grable.,2
+MULDER,Was Dr. Grable nice to you?,6
+ROLAND,Yes.,1
+MULDER,"When was the last time you spoke to him? Last week, the day before?",14
+ROLAND,Dr. Grable died.,3
+MULDER,I'm sorry.,2
+ROLAND,Yeah. People die. They go away... and they're not supposed to come back.,13
+SCULLY,Has Roland ever mentioned the name Arthur?,7
+MRS. STODIE,That was Dr. Grable's first name. But we only called him Dr. Grable. I doubt Roland even knew his first name was Arthur.,23
+SCULLY,"Mrs. Stodie, can I get a copy of Roland's file and past history?",13
+MRS. STODIE,Our patients' histories are confidential.,5
+SCULLY,"I understand, but I have grounds to obtain them, and the less time we have to spend in court, the more time we have to help Roland.",27
+MULDER,Roland Fuller was hired by Arthur Grable. He went to the halfway house specifically to find a mentally challenged person.,20
+SCULLY,Are you suggesting that Arthur Grable hired Roland in order to use him? And are you suggesting that Arthur Grable is not dead?,23
+MULDER,"Well, if he had intentions of killing Nollette, Keats and Surnow, why not set it up to appear the least likely suspect?",22
+SCULLY,"Yeah, but by the look of this, he's hamburger.",9
+MULDER,"Maybe he staged it. That would explain why his work is continuing on, six months after his ""death"".",18
+SCULLY,"This obituary says that Arthur Grable was born in Seattle. His father was a big banker, his mother was active in a number of charities. Only child. Summa cum laude in physics. Doctoral and post-doctoral in aeronautical engineering at Harvey Mudd. Brilliant future, tragically cut short.",46
+MULDER,Roland's also from Seattle. He spent most of his life at the Heritage Halfway House. The identity of his parents has been sealed by the courts. There's very little information on Roland before the age of three. That's when he was put in the Heritage program.,46
+SCULLY,Does it say when he was born?,7
+MULDER,"July 15, 1952.",3
+SCULLY,That's also Arthur's birthdate.,4
+ROLAND,Don't you wish you could fly?,6
+TRACY,"I can... when I dream. People can do anything in a dream, you know. Once, one time I had a dream we were married and lived in a house. Do you have dreams, Roland?",34
+TRACY,You can tell me. Roland? Who's Arthur?,7
+TRACY,"I'm sorry, Roland. I'm sorry!",5
+TRACY,Roland! Roland.,2
+ROLAND,Go away!,2
+TRACY,"Roland, what's the matter?",4
+ROLAND,Go away! I don't want to hurt you. Go away! Go away.,12
+MULDER,Is that you?,3
+DR. NOLLETTE,Yes.,1
+MULDER,Cool 'do. What's the story here?,6
+DR. NOLLETTE,"Um, a quantum physics professor of mine at Harvey Mudd flunked me. He challenged the tenets of one of my theories - a theory I later published in 'Nature'. Anyway, uh, to get back him, one afternoon we decided to take his car apart and put it back together again in his office and left it running.",56
+MULDER,"Hmmm, an egghead classic.",4
+DR. NOLLETTE,It was Arthur Grable's idea.,5
+SCULLY,"Is that Arthur Grable there, sitting on the chair?",9
+DR. NOLLETTE,Yeah.,1
+SCULLY,Was he a practical joker?,5
+DR. NOLLETTE,"On top of all his brilliance, he had a genius for executing elaborate schemes.",14
+MULDER,"Could he be making it seem like a man with a 70 IQ is gaining access to and, uh, operating his old computer files?",24
+DR. NOLLETTE,Arthur would still have to be alive.,7
+SCULLY,Could he have faked his own death?,7
+DR. NOLLETTE,No.,1
+MULDER,"The police report on the auto accident that killed Arthur Grable is woefully incomplete. The dry road surface, no mechanical problems found. The body was never admitted to the county morgue and there was no funeral.",36
+DR. NOLLETTE,"If, uh, you are trying to suggest that Arthur Grable killed Surnow and Keats and is after me next, you're way off. Art could not have done the murders.",29
+SCULLY,How can you be so certain?,6
+BARRINGTON,"This is Arthur Grable. Uh, because of the massive internal damage to his body caused by the car accident, we could only preserve the head.",25
+SCULLY,"Wouldn't your client find it somewhat inconvenient to be thawed out in the future, only to discover he had no functional mobility?",22
+BARRINGTON,We believe that by the time science figures a way to revive our clients...,14
+MULDER,... you'll also know how to clone new bodies for them.,10
+BARRINGTON,"Exactly. This technology is progressing faster than anyone thought possible. Ask anyone here at the university. So, while for us the passing of each second brings our bodies closer to death, for our clients it brings them closer to life.",40
+MULDER,These fluctuations in temperature - do they happen often?,8
+BARRINGTON,"No, we've had some problems with Dr. Grable's capsule, and the technicians have checked it for possible malfunctions but they found nothing.",22
+MULDER,Is it possible the brain is causing the fluctuation?,9
+BARRINGTON,"No, but we are looking for the explanation. The patient's in no danger. He remains perfectly preserved as long as there's liquid nitrogen in the capsule.",26
+SCULLY,"May we take a look at Arthur Grable's records? Thank you. Dr. Barrington, in your conception of future medical science, what requirements will exist to be an organ or tissue donor?",31
+BARRINGTON,"Same requirements as there are today, compatible genetic make-up. It's best if the donor's related.",15
+SCULLY,Mulder? Arthur Grable put down only one donor.,8
+MULDER,Roland Fuller and Arthur Grable had the same birthday. I think they're twins.,13
+TECHNICIAN,Older or younger?,3
+MULDER,"Same age, just less hairy and with better eyesight.",9
+TECHNICIAN,Gotcha. And the moustache?,4
+SCULLY,"No, lose the whole beard.",5
+TECHNICIAN,Next?,1
+MULDER,"Close cropped hair, with a slightly receding widow's peak. Lose the glasses.",12
+SCULLY,That's Roland.,2
+MULDER,Give or take a few pounds.,6
+ROLAND,"Tell me about your dreams, Roland. It's all right, I won't tell anybody. You know, I had a dream last night. I dreamt I was, uh, swimming in this pool. And I could see my father underwater, but when I dove down, the water stung my eyes. Then there was another man at the pool, watching me. He upset me. He was asking me questions I didn't want to answer. And I had to leave. I couldn't find my father.",80
+ROLAND,I can't tell you my dreams.,6
+MULDER,Why not?,2
+ROLAND,Bad.,1
+MULDER,"Your dreams are bad, Roland. Not you. You're a good person.",11
+ROLAND,I hit Tracy.,3
+MULDER,Your dreams make you hit Tracy?,6
+MULDER,"You know how to work this toy, Roland?",8
+ROLAND,Yeah.,1
+MULDER,"Now, you see the way you work that toy is like what's happening to you. You're the spaceship, Roland, and your dreams are the controls.",25
+ROLAND,But who... who runs the controls?,6
+MULDER,Have you seen this man recently?,6
+MULDER,"Roland! Roland! Roland, stop!",4
+TRACY,Roland!,1
+TRACY,Roland! Roland!,2
+MULDER,We need to arrange to keep Roland under observation.,9
+TRACY,Roland! Roland!,2
+MULDER,He's trying to get away.,5
+TRACY,Roland! Roland!,2
+MULDER,Roland! Roland! Roland! Roland! Roland!,5
+MULDER,Nollette's gone. We should arrange a security guard to find him.,11
+SCULLY,"Mulder, no one's gonna provide you with anything once you explain your theory on how Roland Fuller is capable of these murders.",22
+MULDER,"You've got a brother, don't you Scully?",7
+SCULLY,Yeah. I've got an older one and a younger one.,10
+MULDER,"Well, have you ever thought about calling one of them all day long and then all of a sudden the phone rings and it's one of them calling you?",29
+SCULLY,Does this pitch somehow end with a way for me to lower my long distance charges?,16
+MULDER,"I believe in psychic connections, and evidence suggests that it's stronger between family members, strongest of all between twin siblings that shared the same womb.",25
+SCULLY,"OK, maybe. But in this case, one sibling has closer ties to a frozen fudgesicle than he does to his own brother.",22
+MULDER,Arthur Grable is not dead. He's in a state of consciousness that no human has ever returned from. And what if that state allows one to develop psychic ability to a potential that the conscious mind is too preoccupied to explore or believe in? He could use that ability to control his brother to kill those scientists.,57
+SCULLY,But why? He's been working with these colleagues for years.,10
+MULDER,"Well, that's a question that only Dr. Nollette can answer.",10
+SCULLY,OK. Let's go. I have to call my brother.,9
+MULDER,We've got to find Nollette.,5
+SCULLY,Let's talk to campus security.,5
+MULDER,We go this way?,4
+SCULLY,"No, we go left.",4
+DR. NOLLETTE,"Well, wherever you are, Arthur, I'm sure you'll appreciate this.",10
+SCULLY,"Arthur and Roland Grable, born at Puget Presbyterian to Mr. and Mrs. Louis Grable on July 15, 1952. Arthur was four minutes older than Roland.",25
+MULDER,Identical twins.,2
+SCULLY,Which means that they're the result of a single egg fertilized by a single sperm.,15
+MULDER,I've read studies which suggest that in some cases the identical twin arises very early in the embryonic stage when a mutation in one cell is rejected by the other cells as foreign.,33
+SCULLY,So that maybe Roland's condition is the result of a damaged chromosome rejected by one of Arthur's cells?,18
+MULDER,"In a way, that would explain Arthur's genius and Roland's strange mathematical gift.",13
+SCULLY,In a way. Agent Scully.,5
+BARRINGTON,"This is Larry Barrington at the Avalon Foundation. We've, uh, got a situation here.",14
+SCULLY,Uh-huh.,1
+BARRINGTON,"Last night we had a break-in at the facility. That's right. Yeah, it's Arthur Grable's storage unit. His internal thermostat's been compromised.",22
+SCULLY,Was there any tissue damage?,5
+BARRINGTON,We're trying to assess that now. The temperature's still rising. Something's blocking our access to the cooling program.,18
+SCULLY,Someone tampered with Arthur Grable's capsule. They're attempting to stabilize it now.,12
+MULDER,Nollette?,1
+ROLAND,What? What is it?,4
+DR. NOLLETTE,"""If I've seen further than other men, it's because I have stood on the shoulders of giants.""",17
+ROLAND,No. This isn't yours!,4
+DR. NOLLETTE,"It's amazing. There's this body, sitting there in front of me, talking. But you're controlling it, Arthur.",17
+ROLAND,You... took my work!,4
+DR. NOLLETTE,"What good was your work going to do you? You died before you could finish it, before you could publish it.",21
+ROLAND,It was mine!,3
+DR. NOLLETTE,"And a brilliant piece of work, too. When I saw the writing on the whiteboard, I knew someone had found the key. Mach 15 was within our reach. Our futures were guaranteed. Ironic, isn't it? You did all the work, and I get all the glory.",46
+ROLAND,No!,1
+DR. NOLLETTE,"Yes. Yes, Arthur. I was here, working on the intake problem, moments away from a solution when you attacked me. Fortunately, I was carrying a gun. After the murder of my colleagues, who could blame me?",36
+ROLAND,No!,1
+DR. NOLLETTE,"That's, that's interesting. I've got it. That's it. I've got it.",11
+DR. NOLLETTE,"Arthur! Arthur, open the door! Arthur!",6
+MULDER,"Arthur, how do you stop this? Tell me how! Arthur!",10
+SCULLY,"Wait. Roland, we need you to help us. Please, we need you to help us to stop the machine.",19
+SCULLY,"Try to remember how. Roland, you've got to help him or he's going to die.",15
+MULDER,"Come on, Roland.",3
+ROLAND,I can't remember.,3
+SCULLY,He'll be held in psychiatric custody for evaluation.,8
+MRS. STODIE,Is he being charged with a crime?,7
+SCULLY,The D.A. hasn't made that determination yet.,7
+MULDER,But we've recommended that he be remanded to your custody as soon as the court deems it appropriate.,18
+MRS. STODIE,How could this happen? Roland never exhibited any violent tendencies.,10
+MULDER,It's my belief that he wasn't acting under his own volition.,11
+MRS. STODIE,What do you mean?,4
+MULDER,"This is the work of Arthur Grable, Roland's brother. It's a new theory of jet propulsion, unfinished at the time of his death. In the last two weeks, Roland has completed the calculations.",33
+MRS. STODIE,How?,1
+SCULLY,"We're not sure, Mrs. Stodie. All we know is that Roland was somehow able to finish his brother's research.",19
+TRACY,"Roland? Where are you going? Roland, don't go.",8
+ROLAND,I have to.,3
+TRACY,OK. Fine.,2
+ROLAND,Tracy. Wait.,2
+ROLAND,Keep my stars.,3
+TRACY,I love you.,3
+ROLAND,Me too.,2

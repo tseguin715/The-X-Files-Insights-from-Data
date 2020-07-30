@@ -1,0 +1,367 @@
+speaker,line,words
+JOE CRANDELL,What are you doing to Barnett?,6
+JOSEPH RIDLEY,Excuse me?,2
+JOE CRANDELL,What are you doing to Johnny?,6
+JOSEPH RIDLEY,Go on back to your ward. There's nothing you can do for your friend now.,15
+JOE CRANDELL,What?,1
+JOSEPH RIDLEY,John Barnett is dead.,4
+JOE CRANDELL,"No, I heard him screaming.",5
+JOSEPH RIDLEY,"I said John Barnett is dead. You understand? Go on, Crandell, get out of here. There's nothing more to see here. You understand?",23
+SCULLY,I still don't get it. What does this have to do with us?,13
+MULDER,Robbing a jewelry store is a federal crime.,8
+SCULLY,Thank you.,2
+MULDER,"I don't know. I got a call from some guy I used to work with over at the violent crimes section, said it was important.",25
+MULDER,Reggie! Reggie!,2
+REGGIE PURDUE,"Mulder, God, I hate it when you do that.",9
+MULDER,This is Special Agent Scully. Reggie Purdue.,7
+REGGIE PURDUE,How are you?,3
+SCULLY,What happened here?,3
+REGGIE PURDUE,Lone gunman took out a salesgirl after she filled up a bag for him.,14
+MULDER,You guys turn up anything?,5
+REGGIE PURDUE,Not much... except... this. It's going to blow your mind.,10
+MULDER,Why?,1
+REGGIE PURDUE,"I'm telling you, Mulder, this is going to blow... your... mind.",11
+SCULLY,What is it?,3
+MULDER,"Wait, wait a second...",4
+REGGIE PURDUE,You see why I called you?,6
+MULDER,What about witness descriptions?,4
+REGGIE PURDUE,"White male, five-eleven to six feet, ski mask.",8
+MULDER,"Damn it, Reggie, that's Barnett.",5
+REGGIE PURDUE,"Yeah, but it can't be.",5
+SCULLY,Who's Barnett?,2
+MULDER,"It was my first case at the bureau. Barnett was doing armed jobs all over D.C. and getting away with it, very trigger-happy. Killed seven people. There was this big task force, Reggie was my ASAC. I was twenty-eight years old, right out of the academy. I had this theory on the case. Reggie thought I was full of it. I was full of it.",65
+SCULLY,What was the theory?,4
+MULDER,That Barnett had an inside connection. An employee at the armored car company was tipping him off about large shipments of cash. Turns out I was sort of right.,29
+SCULLY,Sort of?,2
+MULDER,"Yeah, we planted bogus waybills, manifests with the armored car company to try to set a trap but Barnett was way ahead of us. That's... when the notes started.",29
+SCULLY,"""Fox can't guard the chicken coop.""",6
+MULDER,"Clever, huh?",2
+SCULLY,So you never caught him?,5
+MULDER,"No, we did. We did, but not, uh, not clean. An agent died because I screwed up.",17
+SCULLY,And what happened to Barnett?,5
+MULDER,"He avoided the death penalty on a technicality. But he went down for every job he did. Consecutive terms, three-hundred-and-forty years. The judge promised me he would die in prison.",30
+SCULLY,So you think he escaped?,5
+MULDER,"No, that's just it. He did die in prison, four years ago.",12
+SCULLY,You're sure?,2
+MULDER,I was paying attention.,4
+HENDERSON,This guy a friend of yours?,6
+MULDER,"Yeah, I play golf with him every Sunday. What do you think?",12
+HENDERSON,You just brought this in ten minutes ago.,8
+MULDER,"You're slipping, Henderson.",3
+HENDERSON,"Ten minutes may be enough time for you, Mulder. Of course, I wouldn't know that from personal experience.",18
+MULDER,"Yeah... seriously, what do you think?",6
+HENDERSON,"Okay, first impressions... the ink is fresh, the note was written in the last forty-eight hours. Ballpoint, but you knew that. A right-hander. Let's see... written by someone sitting down, but now I'm just showing off.",36
+MULDER,"Yeah, does it match Barnett?",5
+HENDERSON,I'd say it's him.,4
+MULDER,But you're not sure?,4
+HENDERSON,Ninety-five percent. The writing's sloppy. Some of the ascenders and descenders are heavier.,13
+MULDER,Could it have been traced over an old note of Barnett's?,11
+HENDERSON,"Could be, but it's a damn good job if it is.",11
+MULDER,"Thanks, Henderson, I owe you one.",6
+HENDERSON,"Promises, promises.",2
+REGGIE PURDUE,There's Barnett. We staked-out an airport warehouse but everything went to hell when Barnett took the driver of the armored truck hostage.,22
+SCULLY,Where's Mulder?,2
+REGGIE PURDUE,"There, coming around back. Barnett doesn't see him.",8
+SCULLY,He's got a clear shot.,5
+REGGIE PURDUE,"Yeah, he should've taken it.",5
+SCULLY,But he couldn't.,3
+REGGIE PURDUE,"No, no, not with a hostage so close.",8
+SCULLY,Because it's not by the book.,6
+REGGIE PURDUE,"It would have saved one life, maybe two. Bastard Barnett just started blasting away.",14
+SCULLY,"So, Mulder did shoot Barnett.",5
+REGGIE PURDUE,"Twice, in the shoulder and hand but not before Barnett killed the driver and Agent Steve Wallenberg. Mulder never forgave himself for that. You should have heard his testimony at Barnett's trial.",32
+SCULLY,Probably had a lot to do with the sentence the judge gave Barnett.,13
+REGGIE PURDUE,"I'll never forget Mulder coming down from the witness stand and Barnett turning and saying he'd get Mulder. To tell you the truth, I wish Mulder had killed Barnett right there in the warehouse.",34
+SCULLY,What did Henderson come up with?,6
+MULDER,Ninety-five percent sure it's Barnett's handwriting.,6
+SCULLY,What's that?,2
+MULDER,"Federal Bureau of Prisons sent me a copy of his death certificate. ""Name of deceased, Barnett, John Irvin. Cause of death, cardiac arrest. Date, September sixteenth, 1989.""",27
+SCULLY,Then it must be a very clever copycat.,8
+MULDER,The note was written in the last forty-eight hours.,9
+SCULLY,Pull any prints?,3
+MULDER,No prints.,2
+SCULLY,"Barnett had a lot of time on his hands while he was in prison, maybe he planned it with someone on the outside.",23
+MULDER,Revenge from the grave? That'd be a neat trick.,9
+SCULLY,"He planned to get you, didn't he? I was just down talking to Agent Purdue.",15
+MULDER,And he showed you the videotape?,6
+SCULLY,"You did the right thing, Mulder.",6
+MULDER,"Did I? Steve Wallenberg had a wife and two kids. One of his boys is an all-star on his football team now. If I had pulled the trigger two seconds earlier and Wallenberg would be here to see his kid play. Instead, I got some dead man robbing jewelry stores and sending me haikus.",54
+COACH,"Fire it in there! Yeah, that's better!",7
+WOMAN,"Very good! Way to go, Alex!",6
+COACH,"Hustle it up! Come on, guys, line it up. Let's go.",11
+QUARTERBACK,Down! Set! Hut!,3
+COACH,"Go, go, go! You're the man, there it is!",9
+WOMAN,Very good!,2
+COACH,"That was over the line, let's go! Okay, watch the ball.",11
+MULDER,"I'll get you, you son of a bitch!",8
+REGGIE PURDUE,"Agent Mulder, and I think that somebody is messing with your head.",12
+MULDER,"Barnett said he'd get me, you were there.",8
+REGGIE PURDUE,"I don't care what Barnett said, he's dead, Mulder.",9
+MULDER,Apparently not.,2
+REGGIE PURDUE,"Aw, come on. Let me tell you something, there are a lot of guys who know that Barnett made the threat.",21
+MULDER,"It's Barnett, Reggie.",3
+REGGIE PURDUE,How could you say that?,5
+MULDER,"I don't know, I just feel it.",7
+REGGIE PURDUE,"You know, all this talk about you, about ""Spooky"" Mulder, I never used to pay it much mind. I figured it was just talk about how paranoid you were and all.",31
+MULDER,And now?,2
+REGGIE PURDUE,"Remember the day you walked into my office wet from Quantico? You pissed me off just looking at you but then I saw how your mind worked. How you were always three jumps ahead. It was scary, Mulder. Everybody said so.",41
+MULDER,I've heard this story.,4
+REGGIE PURDUE,"Yeah, well, maybe you ought to hear it again. You let a lot of people down here in the bureau. They had big plans for you. A lot of people are saying that ""Spooky"" Mulder has become an embarrassment, a liability.",41
+MULDER,What? Are you saying that somebody from the bureau's behind this?,11
+REGGIE PURDUE,"Maybe, maybe not. It's always best to cover your ass in any event.",13
+SCULLY,"Sorry. This was just faxed. This is a copy of John Barnett's last will and testament. No surviving relatives, left what little he had to another prisoner... a Joe Crandall... and instructions for his body to be cremated. His will was executed six months after his death and this document states that his ashes were spread along the bank of the Delaware River by an employee of the crematory used by the prison.",73
+REGGIE PURDUE,"It's like I said, I think somebody's messing with your head.",11
+MULDER,Killing a sales clerk just to leave me a note? I'd say that's going a little out of your way.,20
+MULDER,"He's older now, he may have put on some weight.",10
+COMPUTER TECHNICIAN,How much older?,3
+MULDER,Five years. He could be wearing any kind of disguise.,10
+PROSECUTOR,"Take us back to the day in question. Was it your impression, Agent Mulder, that John Barnett took a kind of a perverse pleasure in his crimes? Didn't he send you notes to taunt you?",35
+MULDER,"Yes, I felt that he was, uh, daring us to catch him. That he killed his victims almost as if it were part of a game.",26
+PROSECUTOR,"Describe for the court if you would, Agent Mulder, what happened when you finally caught John Barnett.",17
+MULDER,"We had a customs warehouse at the airport staked out. Now, we knew that Barnett had someone working for the armored car transport tipping him off about large cash shipments but we never figured that he would actually be inside the vehicle when it arrived. That's how Barnett was able to take the driver of the vehicle hostage.",58
+PROSECUTOR,"In other words, John Barnett used his own accomplice as a hostage?",12
+MULDER,"Yes, ma'am.",2
+PROSECUTOR,And then what happened?,4
+MULDER,We surrounded Barnett. We ordered him to surrender his hostage and his weapon.,13
+PROSECUTOR,"And where were you at this time, Agent Mulder?",9
+MULDER,I was right behind Barnett.,5
+PROSECUTOR,With a clear shot at the suspect?,7
+MULDER,"Yes, ma'am.",2
+PROSECUTOR,But you didn't fire. Why?,5
+MULDER,"Well, it's against F.B.I. regulations to unnecessarily endanger the life of a hostage. And I thought that with no means of escape, Barnett would give up.",26
+PROSECUTOR,But what happened instead?,4
+MULDER,"The suspect, uh, John Barnett, fired his weapon point-blank at the hostage and then he turned his gun on Steve Wallenberg... shot him in the face.",26
+PROSECUTOR,"Thank you, Agent Mulder. No further questions at this time.",10
+MULDER,He gunned him down just for spite.,7
+DEFENSE LAWYER,"Your honor, we object...",4
+JUDGE,Witness will step down.,4
+MULDER,This is a man with a wife and two small children...,11
+JUDGE,Please step down...,3
+MULDER,"...and you, you shot him without hesitation, without conscience, without an ounce of humanity.",14
+DEFENSE LAWYER,"Your honor, do something.",4
+MULDER,"Which is why you should die like an animal, you son of a bitch!",14
+JUDGE,"Agent Mulder, if you do not stop, I will find you in contempt of court. Order, order in the court. If there is not order in this court, I will be forced to clear the courtroom.",36
+DEFENSE LAWYER,"Your honor, the defense finds they are highly irregular and inflammatory against the defendant now and we ask that they be stricken from the record.",25
+JUDGE,"Duly noted, counsel. The jury will disregard the witness' last...",10
+JOHN BARNETT,I'll... get... you.,3
+MULDER,I'll need printouts of every variation.,6
+COMPUTER SPECIALIST,Right.,1
+SCULLY,I just got off the phone with the prison.,9
+MULDER,What did they come up with?,6
+SCULLY,"No, I called them on a hunch. John Barnett died of a heart attack, right? At least that's what it says on his death certificate. Well, I had them fax me all of his medical records. Barnett was admitted to the prison infirmary for an infection in his right hand. There isn't any indication or diagnosis of coronary complications. In fact, on his physical six months earlier, he was given a clean bill of health.",75
+INMATE,Crandall. Someone to see you.,5
+JOE CRANDALL,I don't get many visitors.,5
+MULDER,You knew John Barnett?,4
+JOE CRANDALL,"Yes, sir.",2
+MULDER,How well did you know him?,6
+GUARD,"Excuse me, ma'am.",3
+JOE CRANDALL,Pretty well.,2
+SCULLY,He left you everything he had in his will. You must've known him better than pretty well.,17
+JOE CRANDALL,"Used to change his bandages, and we just got to... know each other.",13
+MULDER,Are you aware that Barnett died of cardiac arrest in this facility in 1989?,14
+JOE CRANDALL,Cardiac arrest? Where does it say that?,7
+SCULLY,On his death certificate.,4
+JOE CRANDALL,"He ain't dead, is he?",5
+MULDER,Why do you say that?,5
+JOE CRANDALL,"Last time I saw John Barnett, it was right in that room over there. Doctor working on him with a knife took his bad hand clean off.",27
+SCULLY,What doctor?,2
+MULDER,Was it Doctor Ridley?,4
+JOE CRANDALL,"Yeah, yeah, it was Doctor Ridley, that's the one. He told me Johnny was dead but, uh, I knew it was a lie. Put a knife right up under my chin just for asking.",34
+SCULLY,How could you tell Barnett wasn't dead?,7
+JOE CRANDALL,"I saw him looking at me. I saw him blink. Man, I'll never forget those eyes.",16
+SCULLY,What are you going to do?,6
+MULDER,I know what I'm not going to do. I'm not going to hang around and wait for Barnett to send me another valentine.,23
+SCULLY,You mean the ghost of John Barnett.,7
+MULDER,"I didn't know you believe in ghosts, Scully.",8
+SCULLY,"Hello? Yeah, just a minute. It's for you.",8
+MULDER,Mulder.,1
+JOHN BARNETT,Fox Mulder.,2
+MULDER,Barnett?,1
+SCULLY,"All right, all right...",4
+JOHN BARNETT,You sound surprised.,3
+MULDER,"Well, you know, shouldn't I be?",6
+JOHN BARNETT,"You know, it's illegal to tape another's phone call......without their express permission. Isn't that what they call it?",18
+MULDER,In some states. What makes you think I'm taping you?,10
+JOHN BARNETT,Same thing makes me think you're putting a trace on this call.,12
+MULDER,What state are you in?,5
+JOHN BARNETT,The same state you are. I stood next to you in line for coffee this morning.,16
+MULDER,I don't think so.,4
+JOHN BARNETT,"Man, I'm everywhere you are. Everywhere. I own you.",9
+MULDER,"How do I know it's really you, Barnett?",8
+JOHN BARNETT,What did I say to you in the courtroom? Did you ever... doubt me?,14
+MULDER,"I don't know, what did you tell me in the courtroom?",11
+JOHN BARNETT,Huh... if you think you're going to keep me on this phone with this clumsy act...,16
+MULDER,"Listen, by all accounts, John Barnett is a dead man.",10
+JOHN BARNETT,"Oh, you're the dead man... Mulder.",6
+MULDER,Fine. I just need confirmation that you are who you say you are.,13
+JOHN BARNETT,You want confirmation? You got it.,6
+MULDER,Barnett? You there?,3
+SCULLY,You lost him.,3
+MULDER,"Yeah, he was hip to the trace.",7
+SCULLY,Was it Barnett?,3
+MULDER,John Barnett was from New Hampshire. He had a slight accent. Listen to this.,14
+MULDER ON RECORDER,I just need confirmation that you are who you say you are.,12
+JOHN BARNETT ON RECORDER,You want confirmation? You got it.,6
+SCULLY,What did he mean by that?,6
+MULDER,"I don't know, but that is... John Barnett. I'm sure of it.",12
+REGGIE PURDUE,Oh... Yeah.,2
+MULDER,"Reggie, it's Mulder.",3
+REGGIE PURDUE,"Mulder, what do you want? It's the middle of the night.",11
+MULDER,"IT'S ONLY 10:45, old man.",5
+REGGIE PURDUE,"Yeah, well... I was sleeping.",5
+MULDER,"Listen, Reggie, it doesn't look like Barnett's dead after all.",10
+REGGIE PURDUE,Now what?,2
+MULDER,I got an inmate at the prison who swears he saw Barnett alive the night they say he died.,19
+REGGIE PURDUE,"Mulder, go home. Get some rest.",6
+MULDER,"No, listen, Reggie, there's just one thing that doesn't make sense to me.",13
+REGGIE PURDUE,"Yeah, what's that?",3
+MULDER,That Agent Henderson said that that note that was left at the jewelry store was written by a right-hander.,19
+REGGIE PURDUE,"Yeah, so?",2
+MULDER,"Well, this inmate at the prison swears he saw Barnett's right hand amputated. Reggie, you there? Hey, Reggie! Reggie! Reggie, what's going on? Are you there? What the hell is going on, Reggie? Reggie! What happened? Hey, Reggie! What's going on? Are you there? What the hell's going on, Reggie?",50
+SCULLY,"I hope you guys brought your fine-toothed comb. I want every piece of lint collected and analyzed. If nothing turns up, run it through it again. Mulder...",27
+MULDER,"His wife died of cancer six years ago. Never liked to talk about it. As long as I knew him, he was working on a mystery novel. He promised to show it to me once, but he never did. I think he was afraid I wouldn't like it. I'm probably the only guy on the bureau he trusted enough to even ask.",62
+SCULLY,I'm sorry.,2
+MULDER,I'm just thinking how different things would've been if I would've taken that shot at Barnett when I had it.,20
+SCULLY,Mulder... we're still not a hundred percent sure that this is him.,12
+HENDERSON,"Fresh ink, slightly smeared... I hate to tell you, and I'm not known to be wrong about these things, but this note was most certainly written by a right-handed person. You see the pressure points inside the pen grooves? It's a dead giveaway.",43
+MULDER,Would you be able to tell if this note was written by somebody using a prosthetic hand?,17
+HENDERSON,"Well, this fellow... and I'm assuming from the cursive figures here that it is a male suspect... he has a fairly nice, fluid style. Judging from the pressure variations in the connectors, this person would need good finger dexterity. You're not going to get that with a prosthesis.",48
+MULDER,So you think it's the same person that wrote the first note.,12
+HENDERSON,Uh-huh. This the guy you think killed Agent Purdue?,9
+MULDER,Yeah.,1
+HENDERSON,"You know what occured to me? You never got any prints off those notes. If this guy was wearing a glove on his pen hand, the note wouldn't be smeared like it is. For what it's worth.",37
+SCULLY,"I was just trying to find you. Listen to this. According to the A.M.A., Doctor Ridley, who signed Barnett's death certificate, hasn't officially been a doctor since 1979.",28
+MULDER,What do you mean?,4
+SCULLY,His membership expired and wasn't renowed after the state of Maryland revoked his medical license for flagrant research malpractice and misuse of a government grant.,25
+MULDER,Where does it say that?,5
+SCULLY,Right here. In the federal journal for the National Institute of Health.,12
+MULDER,What kind of research?,4
+SCULLY,He was conducting experiments on young children afflicted with a disease called progeria.,13
+NIH DOCTOR,The patient you see is an eight-year-old girl suffering from the advanced stages of progeria.,15
+MULDER,She looks about ninety.,4
+NIH DOCTOR,Only about a hundred cases have ever been reported so the disease is rare.,14
+SCULLY,But fatal.,2
+NIH DOCTOR,Some progeria patients make it to early adulthood but others become terminal at age seven or eight.,17
+MULDER,What's the cause of death?,5
+NIH DOCTOR,"Clinically, it's cardiac or cerebral vascular disease but actually, these poor kids die of old age.",16
+MULDER,Is that Doctor Ridley?,4
+NIH DOCTOR,"Yes, in 1974. Joe Ridley thought that he could take their accelerated aging and slow it down. Initially, some of his lab work was promising but then... things got out of control. He wanted to begin human trials.",38
+MULDER,Why wasn't he allowed to?,5
+NIH DOCTOR,"Because he hadn't met the criteria. It was all too hypothetical, too... dangerous. I mean... I knew Joe Ridley. He didn't care about those kids. He talked about them as if they were laboratory animals. This terrible disease, progeria... he saw it as ""a wonderful opportunity."" He used those exact words with me once. An opportunity to ""unlock all the secrets."" When they refused to allow the human trials, he became enraged. Do you know what they called Joe Ridley behind his back?",83
+MULDER,What?,1
+NIH DOCTOR,Doktor Mengele.,2
+SCULLY,"So, how did Doctor Ridley eventually lose his medical license?",10
+NIH DOCTOR,"He went ahead with the human trials secretly on an out-patient basis. When we learned about it, of course, we terminated his grant and filed charges with the state medical boards.",31
+SCULLY,"I'm afraid your colleague, Doctor Ridley, has dropped off the face of the earth.",14
+NIH DOCTOR,"Yeah. Although, it's rumored he went to South America to continue his work.",13
+SCULLY,You just don't reverse aging.,5
+MULDER,Ridley's found a way.,4
+SCULLY,Listen to what you're saying.,5
+MULDER,"He wanted human research subjects, right? Prisoners. Prisoners like John Barnett.",11
+SCULLY,"Mulder, it's science fiction.",4
+MULDER,"Well, what would you have said twenty years ago about gene splicing, DNA fingerprinting, cloning, artificial intelligence? Maybe we're not looking for a man in his late forty's after all. Maybe John Barnett has found the perfect disguise... youth.",39
+MULDER,"I want to age him backwards now. Let's start with ten years. Now, five years more. And add twenty pounds. A healthy twenty pounds.",24
+SCULLY,"Ridley's notes from the human trials at N.I.H. indicate he didn't see aging as inevitable but as an opportunistic disease. A disease that could be prevented, reversed even, by changing the chemical cues that trigger certain genes. However, there is no evidence whatsoever that Ridley's work yielded any results or that his theories, all hope to the contrary, hold any validity. According to the leading scientific journals, projections on this kind of genetic engineering are at best speculative and futuristic.",80
+SCULLY,Who is it?,3
+JOSEPH RIDLEY,Doctor Joe Ridley.,3
+MULDER,"If you're really Doctor Joseph Ridley, where've you been for the past five years?",14
+JOSEPH RIDLEY,"I originally continued my research in Mexico but for the last three years, I spent my time in Central America. In Belize, to be exact.",25
+MULDER,What about Barnett?,3
+JOSEPH RIDLEY,John Barnett is the only patient left. The only one who survived the experiments.,14
+MULDER,What about you?,3
+JOSEPH RIDLEY,My appearance is decieving. I have no more than a month to live as I am dying from a rare cerebral vascular disease.,23
+SCULLY,The same disease that kills the kids suffering from progeria?,10
+JOSEPH RIDLEY,"That's right. An unfortunate side effect of the treatment. By using the genetic components of progeria, I was able to reverse the aging process in much the same way the disease expedited it. At the same time, I and my patients became genetically susceptible to the same ailments a child six or eight would if he had the disease.",59
+MULDER,And what about Barnett?,4
+JOSEPH RIDLEY,"John Barnett. If I didn't so personally detest the man, I might call him my one triumph.",17
+MULDER,Barnett's not dying.,3
+JOSEPH RIDLEY,"Only his eyes, which for some reason do not respond to the gene therapy. Otherwise, John Barnett appears to be thriving.",21
+SCULLY,But how?,2
+JOSEPH RIDLEY,"I varied Barnett's treatment. Once I isolated the progeria receptors, I stumbled onto something quite unexpected... these same genes related to the production of myelin.",25
+SCULLY,The material that insulates neurons in the body.,8
+JOSEPH RIDLEY,"Yes. You see, myelin is not present in the very young and by reversing the effects of aging, I found, with Barnett, I was able to regulate the production of myelin. Myelin being the material that prohibits you or I from, say, regenerating a new hand if we were to have ours cut off.",54
+MULDER,You were able to grow John Barnett a new hand?,10
+JOSEPH RIDLEY,"Not exactly. Not a human hand, anyway. I could never get the cells to divide or behave properly.",18
+SCULLY,"I, I'm afraid to ask. What kind of hand did you grow?",12
+JOSEPH RIDLEY,"There had been some successful work done in London. By taking samples of what we call cell morphegins from an amputated salamander arm and applying them to the back of the creature, they were able to grow a new limb on a completely different part of the body. But only on salamanders.",52
+MULDER,Until John Barnett.,3
+JOSEPH RIDLEY,Yeah.,1
+SCULLY,Unbelievable.,1
+JOSEPH RIDLEY,"My work has cost me dearly. I'm an outcast in the medical community. I was called Doctor Mengele, Doctor Frankenstein but I didn't care.",24
+SCULLY,Because you knew that if your theories panned out...,9
+JOSEPH RIDLEY,"The man who owns the fountain of youth controls the world. When the A.M.A. censured me, certain sponsors came out of the woodwork. One of them is the U.S. government.",30
+MULDER,They financed your research?,4
+JOSEPH RIDLEY,You might be more surprised to learn just how high up the ladder this dirty little secret goes.,18
+DEEP THROAT,"I know why you've contacted me. Listen and I'll explain. I am not particularly proud of the way in which this matter was handled but, uh, like it or not, John Barnett is a fact of life.",37
+MULDER,I wish Agent Perdue were around to appreciate the irony.,10
+DEEP THROAT,"The government knew full well that Barnett was in the country. You, of course, know that Barnett stole all of Ridley's research.",22
+MULDER,"Yes, Ridley was...",3
+DEEP THROAT,"Well, what Ridley doesn't know is that our government is bargaining with Barnett to buy it from him.",18
+MULDER,What does he want?,4
+DEEP THROAT,"A lot of money, immunity, safe haven.",7
+MULDER,Will he get it?,4
+DEEP THROAT,He holds all the cards.,5
+MULDER,You're aware that this... freak of science you're negotiating with is a murderer?,13
+DEEP THROAT,The information he has... could change the course of mankind. Consider the options.,13
+MULDER,I will.,2
+SCULLY ON MACHINE,Hi. This is Dana Scully. Please leave a message after the tone.,12
+ANSWERING MACHINE,Reading messages.,2
+MARGARET SCULLY ON MACHINE,"Hi, Dana, it's Mom. I just wanted to call and say hi. Um, give me a call, whenever. Okay, bye.",20
+KATHY ON MACHINE,"Hi, Dana, it's Kathy. Look, I hope you're still going to meet me before my cello recital...",17
+MULDER,What's that?,2
+SCULLY,It's my private answering machine. Or at least it used to be.,12
+MULDER,What do you mean?,4
+SCULLY,"When I ran from the shower this morning, I heard someone dialing in my private code and replaying my messages. Last night, before Doctor Ridley, I could have sworn that someone was in my apartment. But when Ridley knocked, I thought I'd mistaken the noise for him.",47
+MULDER,Scully...,1
+SCULLY,"This morning, I took this down to prints before I came here. John Barnett's left index oblique is on the underside of this unit.",24
+MULDER,Mulder. Barnett?,2
+JOHN BARNETT,"Your new friend, Ridley? Don't grow to fond of him... huh? He's going to die soon like the rest of your friends.",22
+MULDER,The rest of my friends?,5
+JOHN BARNETT,One by one.,3
+MULDER,You're not that smart.,4
+JOHN BARNETT,"Tell me, you're not going to make me prove it to you again, are you? Oh, well, no matter. It'll be your turn soon enough.",25
+MULDER,"Well, you won't get that chance.",6
+JOHN BARNETT,"Oh, no? Who's going to stop me, huh? Man, this is... this is the land of the free! Well, I'm just checking in. Bye. For now.",26
+MULDER,What does Barnett know about your phone messages?,8
+SCULLY,"Uh, that my mother called for no reason and I'm meeting a friend before her cello recital.",17
+MULDER,Where's that?,2
+MULDER,"Before the performance and during, we're working at a disadvantage because we don't know exactly what Barnett looks like. Study each of these faces. Know them, particularly the eyes.",29
+SCULLY,I'm including a diagram of the theater. You have six front entrances and four more backstage.,16
+MULDER,"We know that if he shows, he'll be keying on Scully. So wherever she is, she should not leave your sight. We've got two hours before the performance. Know this place inside and out. We don't want any shots fired if we can help it. We want to take Barnett alive, okay? How are you feeling?",56
+SCULLY,It's the first time I've ever played the target.,9
+MULDER,Let's make sure it's not the last time.,8
+SCULLY,Gun!,1
+MULDER,Down! Check her out!,4
+JOHN BARNETT,"Stay back, Mulder! Shut up...",5
+MULDER,"Back off, back off...",4
+JOHN BARNETT,I'll kill her! Don't even think about it!,8
+MULDER,Just let her go.,4
+JOHN BARNETT,"Go ahead and shoot. Go ahead, man. Shoot, Mulder! What are you afraid of, huh? What, it's against regulations... huh? No, man. You need me alive, don't you? Because I'm the only one who knows where the research is! Huh? So I could shoot her! And you just to live with it, don't you, huh?",55
+MULDER,Shut up!,2
+KATHY,"Please, no. Please, please, please...",5
+JOHN BARNETT,"How about it, Mulder?",4
+KATHY,"Please, please, please, please, please...",5
+JOHN BARNETT,"Just like old times, huh? Huh?",6
+MULDER,Call an ambulance!,3
+AGENT,"Okay... it's okay, Scully, an ambulance is on the way. You all right? Don't try to move...",17
+MAN-IN-BLACK,Where are they? Can you here me?,7
+DOCTOR,"One, two, three...",3
+MAN-IN-BLACK,Where'd you hide them?,4
+MULDER,How you feeling?,3
+SCULLY,Like somebody kicked me in the ribs.,7
+MULDER,"That bullet went through eight layers of kevlar, you're lucky to be alive.",13
+SCULLY,What about him?,3
+MULDER,"Well, they flew in three specialists to try to save his life. That guy in the ugly suit there is probably C.I.A. Been trying to talk to him.",28
+SCULLY,Is Barnett conscious?,3
+MULDER,"Yeah, but he's not talking.",5
+SCULLY,"Mulder, I know what you did wasn't by the book.",10
+MULDER,"Tells you a lot about the book, doesn't it?",9
+DOCTOR,"Barnett! Barnett, come on!",4
+MAN,Vitals dropping...,2
+DOCTOR,"Barnett... shock him, now!",4
+SCULLY,They lost him.,3
+MULDER,Bastard will take that research with him to the grave.,10
+SCULLY,Where do you think it is?,6
+MULDER,"Who knows? If Barnett didn't destroy it, he could have stashed it anywhere. Which would have a cruel irony, wouldn't it? Scientific knowledge that could change the course of mankind buried out in a field somewhere or in some safe deposit box. Getting old, just like the rest of us.",50
+SCULLY,"If it didn't destroy it, chances are that somehow, someday, somebody will find it.",14
+MULDER,"And when they do... maybe he can get his revenge from beyond the grave but somehow, I feel like we haven't heard the last from John Barnett.",27

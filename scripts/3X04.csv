@@ -1,0 +1,331 @@
+speaker,line,words
+CLYDE BRUCKMAN,"""I foresee a rock affair between superstar Madonna and super-witness Kato Kaelin."" Well, that's a gimme, that's not really going out on a limb, is it? ""I foresee Author J.D. Salinger finally publishing a new novel and hitting the talk show circuit to promote it."" Hmmm... that's just playing the odds. ""I foresee the revelation that not Elvis, but rather Buddy Holly is still alive, having faked his own death so many years ago. Holly will not only reemerge but also regroup with the Crickets and they will headline in next year's Lalapalaza..."" Lalapaz... pazoola? What the hell is Lalapalazo?",100
+CLERK,Who's Buddy Holly?,3
+CLYDE BRUCKMAN,"Just give me my lotto ticket and, uh, a pint of malt scotch whiskey.",14
+CLERK,Anything else?,2
+CLYDE BRUCKMAN,"Yeah. One of these. ""That'll be the day when I die... that'll be the day..."" Sorry.",16
+PUPPET,Don't apologize. You're a better dancer than my last date.,10
+MADAME ZELMA,"So, what has brought you to Madame Zelma?",8
+PUPPET,Well... can you really know everything about me just by looking at my hands?,14
+MADAME ZELMA,Mm-hmm. The palms tell me all.,6
+PUPPET,I would just like for you to be able to tell me why I am going to be doing the things I'm going to be doing?,26
+MADAME ZELMA,"Madame Zelma, she is a palm reader, not a psychologist.",10
+PUPPET,"I know, I know, it's just... I think I've somehow caught a glimpse of my own future, myself. And I see me doing things that... that just seem so out of character for me. I mean, these are things that not only do I not want to be doing, but I can't even imagine myself capable of doing and yet, there I am. I'm doing them.",66
+MADAME ZELMA,"Mister... please, you're hurting me.",5
+PUPPET,"I know, I know... and I'm sorry. But you're a fortune teller.",12
+MADAME ZELMA,No...,1
+PUPPET,You should've seen this coming.,5
+MADAME ZELMA,Please...,1
+WOMAN ON APB WIRE,"Unit seven, unit seven...",4
+PHOTOGRAPHER,They say the eyes capture the last image the murder victim sees before they're killed.,15
+CLINE,So what do they say about the entrails?,8
+PHOTOGRAPHER,Yuck.,1
+HAVEZ,Is it true you asked for some help in this case?,11
+CLINE,This guy's supposed to be an expert at this sort of thing.,12
+HAVEZ,I heard he was a bit... unorthodox.,7
+CLINE,He comes highly recommended.,4
+HAVEZ,Yeah. I saw him on TV.,6
+CLINE,"Hey, so he's a publicity hound. As long as he gets results.",12
+PHOTOGRAPHER,I once worked on a case he did. Very spooky.,10
+CLINE,"As long as he gives us leads, I don't care how big a kook.",14
+POLICEMAN,"Sir, right in here, please.",5
+CLINE,Who the hell are you?,5
+MULDER,I'm Agent Mulder. This is Agent Scully.,7
+CLINE,"Oh, I forgot you were coming aboard. I'm, uh, Cline, this is Havez.",13
+HAVEZ,"We're thinking this guy might be a satanist, what with the eyeballs.",12
+MULDER,"Satanists take the eyeballs and leave the body, not vice-versa. Not in anything but modern myths.",16
+CLINE,He's gouging eyes for no reason?,6
+SCULLY,"No, nobody does anything without a reason. We've already composed a profile of the killer. We offer possible explanations for the nature of his attacks and also his choice of victims.",31
+CLINE,Does it explain the entrails?,5
+MULDER,Anthropomancy. It was once believed that you could divine your future by vivisecting a human being and studying the entrails.,20
+HAVEZ,So this guy is hacking up people in order to see his future?,13
+SCULLY,"Well, there's a possible connection with all of his victims being professional prognosticators.",13
+CLINE,Till this one. She was a professional doll collector.,9
+MULDER,"And an amateur tasseographer. She read tea leaves. After drinking the tea, you can gain insight into your future by examining the pattern of the leaves on the bottom of the cup.",32
+CLINE,You believe in this stuff?,5
+MULDER,I'm not convinced of its accuracy but I'm pretty sure the victim was.,13
+CLINE,Why?,1
+MULDER,Her leaves were telling her she was about to be murdered.,11
+POLICEMAN,"Right this way, sir... You're going to have to stand back, all right? This is official police business.",18
+CLINE,"Mister Yappi, I appreciate you coming all the way down here...",11
+YAPPI,"Quiet! Yes, I'm seeing visions. Visions of the killer. He does not feel like he is in control of his own life. Very important. That's why he kills, yes!",29
+CLINE,Can you see what he looks like?,7
+YAPPI,"He looks like... A white man with facial hair. Or not. But he has... yes! A tattoo! Somewhere on his body. Maybe the tattoo has the facial hair. I think. Hmm! I see him here! Forcing himself, yes! On the girl! But he cannot perform... so he's taking out his rage. It's gone. I lost the vision. Someone is blocking me. I am picking up negative energy. Please leave this room.",71
+MULDER,I'm part of this investigation.,5
+YAPPI,You give off negative energy.,5
+MULDER,"I can assure you, Mister Yappi, I'm a believer in psychic ability.",12
+YAPPI,So you say with your mouth but your thoughts tell me the truth.,13
+CLINE,"Agent Mulder, please.",3
+SCULLY,I can't take you anywhere.,5
+YAPPI,"Now, if you'll excuse me, I have an interview to give. Skeptics like you make me sick.",17
+MULDER,"Mister Yappi, read this thought.",5
+YAPPI,So's your old man!,4
+SCULLY,"It's too bad about your ""negative energy,"" Mulder, you missed quite a performance.",13
+CLINE,Look what he did to my pen.,7
+MULDER,"Well, let me impress you with my psychic ability. Mister Yappi proclaimed the victim's body would be found near water, he saw a church or a school in the vicinity, he got a flash of the letter ""S"" and/or the number ""seven.""",42
+CLINE,So what's your point?,4
+MULDER,"Well, his leads are so vague as to be practically useless yet easily interpreted to be correct after the fact.",20
+SCULLY,He said the killer doesn't feel in control of his own life but that's true of everyone at times.,19
+CLINE,He said a lot of things.,6
+MULDER,"Yeah, and some are bound by percentages to be right but most will turn out wrong. Now, which is which?",20
+CLINE,"Look, all I know is that so far, Yappi has provided more solid, concrete leads on this case than you have. Now, if you don't mind, I have to get an A.P.B. out on a white male, age seventeen to thirty-four, with or without a beard, maybe a tattoo... who's impotent. Let's go.",53
+SCULLY,"Might as well go home, Mulder, this case is as good as solved.",13
+CLYDE BRUCKMAN,So General Mutual has a very comprehensive two-hundred thousand dollar life policy at a net annual cost of twenty-four hundred dollars.,21
+YOUNG HUSBAND,"You see, the thing is... we were really hoping to buy a boat.",13
+CLYDE BRUCKMAN,"Mister Gordon, uh, as a young husband, I think you're going to find that your new responsibilities to your family take precedent over your recreational needs.",26
+YOUNG HUSBAND,But this is a really good boat.,7
+CLYDE BRUCKMAN,"You don't get it, do you, kid? Two years from now, while driving down Route 91... coming home to your wife and baby daughter... you're going to be hit head-on by a drunk... driving a blue '87 mustang. You'll end up looking worse than sixty feet of bad road your body slides across... after flying out your front windshield.",59
+YOUNG HUSBAND,Mister... you really need to work on your closing technique.,10
+CLYDE BRUCKMAN,"Oh, no, no, no, no. Not your lighter, Mrs. Lowe. I wa, I want your garbage. Get out of here, you monster. Is everything all right, Mrs. Lowe? Do you have enough supplies? You have enough dog food? Oh, God.",40
+CLINE,"It's kind of creepy, isn't it? The Stupendous Yappi said the first victim's body would be dumped somewhere, then we find it in a dumpster.",25
+MULDER,"Oooh, I just got a chill down my spine.",9
+SCULLY,Who found the body?,4
+SCULLY,"According to the police report, Mister Bruckman, you didn't touch the body after you found her.",16
+CLYDE BRUCKMAN,Why would I want to?,5
+SCULLY,"But you reported that you found a body with its eyes cut out. The body was face down. If you didn't move it, how did you know the eyes had been removed?",32
+CLYDE BRUCKMAN,"Well, they had been, hadn't they? Then what are you complaining about?",12
+MULDER,How had the eyes been cut out?,7
+CLYDE BRUCKMAN,"By a piece of crystal ball, of all cockamamie things.",10
+MULDER,"We did find some crystal shards on the body, how do you know it was from a crystal ball?",19
+CLYDE BRUCKMAN,"Well, well, it just, it just figures, I mean, uh... if a guy goes to kill a fortune teller, uh, he's obviously going to assault her with her own crystal ball and, uh, use the shattered piece as a sort of lance. Isn't he?",44
+SCULLY,"Mister Bruckman, how much have you heard about the recent slayings in town?",13
+CLYDE BRUCKMAN,Just that some nut is going around killing fortune tellers and ripping their eyes and entrails out.,17
+SCULLY,How did you know about the entrails? That information hasn't been released to the press.,15
+CLYDE BRUCKMAN,I never read the papers. Too depressing.,7
+MULDER,"Mister Bruckman? Sorry, Mister Bruckman, but I'm going to have to ask you to come with us.",17
+MULDER,"Step inside, Mister Bruckman.",4
+CLYDE BRUCKMAN,"Why, what, what is this all about?",7
+MULDER,A murder occurred here earlier this evening and we have reason to believe that it was committed by the same person who murdered the woman that you found. Is there anything you can tell us about it?,37
+CLYDE BRUCKMAN,I didn't do it.,4
+MULDER,You're not under suspicion... but I do harbor a suspicion that you can see things about this crime... things that we can't see.,23
+CLYDE BRUCKMAN,"I'm, I'm not sure I understand what you mean.",9
+MULDER,I think you do.,4
+CLYDE BRUCKMAN,"Yeah, yeah, right. I'd, uh, like to see both your badges again, right now.",14
+SCULLY,"I don't blame you, Mister Bruckman.",6
+CLYDE BRUCKMAN,"I'm supposed to believe that's a real name? What is this all about? I found a dead body in my dumpster. I, I, I reported it to the police. And now suddenly, I'm accused of doing things? Or, or being able to do things that I couldn't poss...",48
+MULDER,Pinch me.,2
+SCULLY,"This guy's performing the same routine as the Stupendous Yappi, he's just doing it in a different style.",18
+MULDER,"No, something told me, Scully, something is telling me this guy's for real.",13
+SCULLY,"Oh, so now you're psychic?",5
+CLYDE BRUCKMAN,"The killer... he doesn't feel like he's in control of his own life. I mean, like... who is, am I right? But this guy... he truly believes it. He sees himself as some kind of a... a puppet.",38
+MULDER,Can you describe him? Do you get a visual impression of him?,12
+SCULLY,"So you can see into him but not at him. I'm sorry, I didn't mean to give any negative energy.",20
+CLYDE BRUCKMAN,"Negative energy, what is this...",5
+MULDER,What is it? What do you see?,7
+CLYDE BRUCKMAN,He's having sex with her. There.,6
+SCULLY,Is he raping her?,4
+CLYDE BRUCKMAN,"Oh, no, no, no, not at all. In fact, she's instigating the whole thing.",14
+MULDER,Then what's wrong?,3
+CLYDE BRUCKMAN,"Oh... sometimes, it... it just seems that everyone's having sex except for me.",13
+MULDER,"Mister Bruckman, can you tell us why the killer is murdering people in the way that he is?",18
+CLYDE BRUCKMAN,"Why does anyone do the things they do? Why do I sell insurance? I wish I knew. Why did this woman collect dolls? What was it about her life? Was it one specific moment where she suddenly said, ""I know... dolls."" Or was it a whole series of things? Starting when her parents first met that somehow combined in such a way that in the end, she had no choice but to be a doll colle... You'll find the woman tomorrow morning... by the fat, little, white Nazi stormtrooper. Glenview Lake. Her body's floating in Glenview Lake. Now, if you'll excuse me... I think I've seen enough death for one night.",111
+DIVER,One more... here we go...,5
+WOMAN,"From around here, you say?",5
+MULDER,"Be honest, Scully. Doesn't that propane tank bear more than just a slight resemblance to a fat, little, white Nazi stormtrooper?",21
+SCULLY,"Mulder, the human mind naturally seeks meaningful patterns and configurations in things that don't inherently have any. Given the suggestion of a particular image, you can't help but see that shape somewhere. If that tank weren't there, you'd see it in a, in a rock or in a tree...",49
+MULDER,Did you answer my question?,5
+SCULLY,"Yes, it looks like a fat, little, white Nazi stormtrooper but that only proves my point.",16
+MULDER,He named the specific body of water the victim would be found in.,13
+SCULLY,"Mulder, that only implies that he was the one who put her in there.",14
+MULDER,I don't believe he's the killer.,6
+SCULLY,I don't believe he's psychic.,5
+MULDER,"Well, if he's not, then how did he know where the body would be found?",15
+SCULLY,Maybe he's just lucky.,4
+WOMAN ON RADIO,"Thirty-eight, forty and forty-four. Once again, the winning lotto numbers are...",11
+CLYDE BRUCKMAN,Why?,1
+WOMAN ON RADIO,"...eight, twelve...",2
+CLYDE BRUCKMAN,"Why do I do this to myself? Come in. I knew it was you. I know why you're here. You're here because you found that woman's body where I told you it would be. And now you're convinced I have some kind of psychic power. So while your skeptical lady partner is off performing an autopsy, you came here to ask my help catching this serial murderer.",67
+MULDER,Everything you said is correct.,5
+CLYDE BRUCKMAN,"Oh, it's you. I won't help you. Please leave.",9
+MULDER,But you do admit to having this gift.,8
+CLYDE BRUCKMAN,"Oh, I got it, all right. The only problem is, it's non-returnable.",12
+MULDER,"Mister Bruckman, you possess an ability that not only has staggering implications upon physics and human consciousness, but it's one which most people, myself included, would be envious of. Yet you seem to treat it with disdain.",37
+CLYDE BRUCKMAN,Do you want to know how you're going to die?,10
+MULDER,"Y, yes, I would.",4
+CLYDE BRUCKMAN,"No, you don't. Of course, not knowing has its own drawbacks which is why a good insurance policy is so important. I, I don't know what kind of coverage the F.B.I. has, but, uh, General Mutual has...",37
+MULDER,"Mister Bruckman, this murderer has already committed four homicides.",9
+CLYDE BRUCKMAN,And he'll commit more whether I help you or not.,10
+MULDER,How can you be so sure?,6
+CLYDE BRUCKMAN,How can I see the future if it didn't already exist?,11
+MULDER,"Then if the future is written, then why bother to do anything?",12
+CLYDE BRUCKMAN,Now you're catching on.,4
+MULDER,"Mister Bruckman, I believe in your ability but not your attitude. I can't stand by and watch people die without doing everything in my, albeit unsupernatural, power to interfere with that fate.",32
+CLYDE BRUCKMAN,"Well, you see, that's another reason I can't help you catch this guy. I might adversely affect the fate of the future. I mean, his next victim might be the mother of the daughter whose son invents the time machine. Then the son goes back in time and changes world history and then Columbus never discovers America, man never lands on the moon, the U.S. never invades Grenada... Or something less significant... resulting in the fact that my father never meets my mother and consequently, I'm never born. So when do we start?",93
+CLYDE BRUCKMAN,I don't know what it is but it belonged to one of the victims.,14
+MULDER,"That's a hit. In psychical research parlance, a correct answer's a ""hit,"" an incorrect answer's a ""miss.""",17
+CLYDE BRUCKMAN,The guy who cast the mold for this will die of prostate cancer at the age of eighty-two. Hit or miss?,21
+MULDER,I have no way of verifying that information.,8
+CLYDE BRUCKMAN,Then why'd you ask me?,5
+MULDER,Do you receive any other impressions from it?,8
+CLYDE BRUCKMAN,It's ugly. Next.,3
+SCULLY,I was told you were interrogating a suspect but something tells me...,12
+MULDER,"I'm now convinced of our psychic's abilities, Scully, or rather, his one ability. He is able to divine how people are going to die but that's all. He can't provide any practical information on our case.",36
+CLYDE BRUCKMAN,I got it! This is yours. This is from your New York Knicks t-shirt!,14
+MULDER,Miss.,1
+CLYDE BRUCKMAN,This is worse than playing the lotto.,7
+SCULLY,Try reading this.,3
+MULDER,"Save me the headache, Scully, what is it?",8
+SCULLY,It was found on the woman that was pulled from the lake. Identical keychains were found on two of the other victims. I managed to trace the insignia to an investment firm called Uranus Unlimited. They provide market strategies based on astrological forecasts. And the company is owned by a man named...,52
+CLYDE BRUCKMAN,Claude Dukenfield. Age forty-three. 316 Roundview Lane. Divorced with two children. Makes about eighty-seven thousand a year. Non-smoker.,18
+MULDER,Is that a hit or a miss?,7
+SCULLY,"As far as I know, that's correct.",7
+MULDER,You got all that information just by handling that keychain?,10
+CLYDE BRUCKMAN,"Oh, no. I sold him a policy a couple of months ago. Just a coincidence.",15
+SCULLY,"In any case, we're trying to get a hold of him.",11
+CLYDE BRUCKMAN,"Oh, you won't be able to do that. He's been murdered.",11
+CLYDE BRUCKMAN,We're almost there.,3
+MULDER,How are you receiving this information about the body's location?,10
+CLYDE BRUCKMAN,How should I know?,4
+MULDER,"I mean, are you seeing it in a vision or is it a... sensation? How do you know where to go?",21
+CLYDE BRUCKMAN,I just know.,3
+MULDER,But how do you know?,5
+CLYDE BRUCKMAN,"I don't know! Look, it's just up ahead. You know, there are worse ways to go, but I can't think of a more undignified way than autoerotic asphyxiation.",28
+MULDER,Why are you telling me that?,6
+CLYDE BRUCKMAN,"Look, forget I mentioned it. It's none of my business. Oops, pull over here. Stop. This is the spot. I guess you run into a lot of dead bodies in your line of work.",34
+SCULLY,You get used to it.,5
+CLYDE BRUCKMAN,I never have. I'm not sure you're supposed to.,9
+MULDER,Do you remember the first time you foresaw someone's death?,10
+CLYDE BRUCKMAN,1959.,1
+MULDER,What happened in 1959?,4
+CLYDE BRUCKMAN,Buddy Holly's plane crashed.,4
+SCULLY,You prognosticated Buddy Holly's death?,5
+CLYDE BRUCKMAN,"Oh, God, no. Why would I want to do that? But I did have a ticket to see him perform the next night. Actually, I was a bigger fan of the Big Bopper than Buddy Holly. ""Chantilly Lace,"" that was the song.",42
+MULDER,I'm not following.,3
+CLYDE BRUCKMAN,There's... the Big Bopper was not supposed to be on the plane with Buddy Holly. He won the seat from somebody else by flipping a coin for it.,28
+MULDER,I'm still not following.,4
+CLYDE BRUCKMAN,"Imagine all the things that had to occur, not only in his life, but in everybody else's, to arrange it so on that particular night, the Big Bopper would be in a position to live or die depending on a flipping coin. I became so obsessed with that idea that I gradually became capable of seeing the specifics of everybody's death.",61
+SCULLY,"Well, Mister Bruckman, I'm not one who readily believes in that kind of thing and if I was, I still wouldn't believe that story.",24
+CLYDE BRUCKMAN,"I know it sounds crazy, but I swear it's true. I was a bigger fan of the Big Bopper than Buddy Holly.",22
+SCULLY,Where's the body?,3
+MULDER,"Yeah, Mister Bruckman, I don't understand how you can know that this is the exact area, but you can't pinpoint the exact spot.",23
+CLYDE BRUCKMAN,I guess I can't see the forest for the trees.,10
+MULDER,"Okay, now. I'm glad I could bring a little smile into your life, Mister Bruckman.",15
+CLYDE BRUCKMAN,"I'm not smiling, I'm wincing.",5
+CLYDE BRUCKMAN,What's this?,2
+MULDER,The only evidence recovered from Claude Dukenfield's body. That fiber may have come from something the killer was wearing at the time of the crime.,25
+CLYDE BRUCKMAN,Don't you have crime labs that analyze these things for you?,11
+SCULLY,"Yes, yes, we do.",4
+MULDER,But it'll take them time to provide any information. A similar fiber was found on one of the earlier victims and we're still waiting for the lab to determine it's source. You'd be saving us a great deal of work.,40
+CLYDE BRUCKMAN,"Look, I've got my own work to do. I'm not a crime fighter by trade.",15
+MULDER,Mister Bruckman... I can't speak for my partner but I'm desperate... for some insurance.,14
+CLYDE BRUCKMAN,"General Mutual has some very comprehensive coverage... No... I, I can't tell you where this is from, but, but... the killer's going to kill more people before you catch him.",30
+SCULLY,Can you see him physically yet?,6
+CLYDE BRUCKMAN,"No, no, just more insight into his character, which I know you hate. He thinks he's psychic.",17
+MULDER,Is he?,2
+CLYDE BRUCKMAN,"I hope not. I've seen some of the things he's ""seen.""",11
+MULDER,Like what? What does he see?,6
+MULDER IN VISION,Hey!,1
+CLYDE BRUCKMAN,You. He sees you. Trying to catch him.,8
+MULDER,Where does this take place?,5
+CLYDE BRUCKMAN,"In a kitchen. You're looking around for someone. He's behind you now, but you don't know it and he's stalking towards you and... and... Oh, God!",26
+SCULLY,What? What do you see?,5
+CLYDE BRUCKMAN,He's got a knife. It's got blood on it.,9
+MULDER,"Well, why don't I see him, what am I doing?",10
+CLYDE BRUCKMAN,You're looking down. You stepped in a pie that's fallen to the floor. The killer comes up to you and... Coconut cream.,22
+MULDER,What?,1
+CLYDE BRUCKMAN,"The pie... eh, coconut cream or, or is it lemon merengue? I don't know, it's... not sure, it's, it's hazy.",20
+MULDER,"Whatever, please continue.",3
+CLYDE BRUCKMAN,"As you're looking down, he comes up with the knife and... Banana cream! Definitely banana cream.",16
+MULDER,"All right, I'm looking down at this banana cream pie and then what...",13
+CLYDE BRUCKMAN,He sees himself coming up to you from behind...,9
+MULDER,"And? And, what does he see?",6
+CLYDE BRUCKMAN,Oh... Nothing. They're visions of a madman.,7
+MULDER,You got all that from this?,6
+CLYDE BRUCKMAN,How am I supposed to get anything from this tiny little thing? This came in the mail today.,18
+SCULLY,Who's it from?,3
+CLYDE BRUCKMAN,The killer!,2
+MULDER,"""To whom it may concern. Like our lives, this is a mere formality to let you know I know that you know. Can't wait till our first meeting when I kill you. Not before you explain some things to me. First on the list, why in the world did I send you this letter? Sincerely, you know who. P.S., say 'hi' to the F.B.I. agents.""",65
+CLYDE BRUCKMAN,Hi.,1
+SCULLY,"He must've been at the crime scenes, seeing you with us.",11
+MULDER,"No, no, this letter is postmarked the day before Mister Bruckman joined our investigation. You're going to have to come with us, Mister Bruckman. We're got to get you out of here.",32
+CLYDE BRUCKMAN,"Look... I'll be dead before you catch this guy, no matter what you do.",14
+TAROT DEALER,"You've come to me because you're searching for someone. But don't worry, this person will find you. It's a relative or a close friend.",24
+PUPPET,"Actually, a guy I'm going to kill.",7
+TAROT DEALER,"Ah, yes, it's clearer now. You seek answers from a special man who possesses a special wisdom.",17
+CLYDE BRUCKMAN,"This is real cream. Not the phony stuff. I know the difference. And the chocolate, very rich. Look at these cute little doilies they put everything on. You sure you don't want to join me? So what are you doing?",40
+SCULLY,Studying background checks. This is what detective work is really like. We can't come up with suspects by having visions.,20
+CLYDE BRUCKMAN,Jealous?,1
+TAROT DEALER,You're very confused right now. Nothing seems to make sense to you. You don't know why you do the things that you do. But your confusion is soon to come to an abrupt end with the arrival of a woman. A blonde or a brunette. Maybe a redhead.,48
+SCULLY,It's something you haven't explained. Can you see your own end?,11
+CLYDE BRUCKMAN,"I see our end. We end up in bed together. I'm, I'm, I'm sorry. I shouldn't have said that, I, I, I don't mean to offend you or scare you, but, uh, not here, not this bed. I, I just mean I, I see us quite clearly in bed together. You're holding me hand, uh... very tenderly and then... you're looking at me with such compassion and I feel... tears are streaming down my face. I feel so grateful. It's just a... very special moment neither of us will ever forget.",91
+SCULLY,Mister Bruckman... there are hits and there are misses. And then there are misses.,14
+CLYDE BRUCKMAN,I just call 'em as I see 'em.,8
+PUPPET,"Wow, I'm really impressed. I've been to a lot of fortune tellers, but, by far, you're the best.",18
+TAROT DEALER,There's still one more card left.,6
+PUPPET,This card's not meant for me. It's yours.,8
+SCULLY,"So, Ahab mistakes the prophecy and as a result, dies. A similar fate happens to MacBeth.",16
+CLYDE BRUCKMAN,"Still, you're not the least bit curious?",7
+SCULLY,That must be Mulder. Time for the midnight shift. All right. So how do I die?,16
+CLYDE BRUCKMAN,You don't.,2
+MULDER,"Get this, Scully. The lab analysis from the first bit of fiber that was found just came back. It's lace.",20
+SCULLY,Chantilly lace?,2
+MULDER,You know what I like.,5
+SCULLY,"Mulder, it's not likely that the killer was wearing anything made out of chantilly lace at the time of the murders.",21
+MULDER,"But what are the odds of the Big Bopper, ""Chantilly lace...""",11
+SCULLY,It's a coincidence.,3
+MULDER,"If coincidences are just coincidences, why do they feel so contrived?",11
+SCULLY,"That's one to pose to the psychic philosopher. Good night, Mulder.",11
+MULDER,Am I keeping you awake?,5
+CLYDE BRUCKMAN,I'm waiting for you to ask me another one of those psychic ability questions.,14
+MULDER,"Well, I've had dreams in my life where I had a vision and then later on, I've seen that vision in reality and then... and as a psychic, have you ever had prophetic dreams like that?",36
+CLYDE BRUCKMAN,"I have only one dream. I dream it ever night. You're not one of those people who turns everything into a sexual symbol, are you?",25
+MULDER,"No, no, I'm not a Freudian, no.",7
+CLYDE BRUCKMAN,"I'm lying naked in a field of red tulips. I'm not concerned with where I am or how I got there. I'm at peace and it's then that I realize I'm dead. My body begins to turn a greenish-white with spots of purple. Next, the insects arrive. The inevitable follows, putridity and liquescence. Before I know it, I'm nothing but bones. When I start fading to dust, I lose whatever care I still might have had about where my clothes are and as I begin to feel myself slipping away towards I know not what... I wake up. Well, good night.",101
+SCULLY,"Mulder, there's... are you okay?",5
+MULDER,"Oh, yeah. I just didn't sleep well. What's up?",9
+SCULLY,Havez is going to stay with Bruckman while we go over to a tarot card reader around the corner. There's been another murder.,23
+MULDER,"I'm beginning to lose patience with our psychic, Scully. What good are his prophecies if they're not preventive?",18
+SCULLY,"Actually, I'm starting to feel more sympathetic towards him.",9
+MULDER,"So, you're convinced he's a psychic now?",7
+SCULLY,"Well, no, not really.",4
+PUPPET,"Sorry, ma'am.",2
+SCULLY,"But I am convinced that by thinking he can see the future, he's taken all the joy out of his life.",21
+HAVEZ,So then the priest says to the rabbi...,8
+CLYDE BRUCKMAN,"""I had it set for quail.""",6
+HAVEZ,"Yeah! Hey, I thought you said you hadn't heard that one before.",12
+CLYDE BRUCKMAN,I hadn't.,2
+HAVEZ,"Hey... is it true that you can see how people are going to die? I mean, can you see how I'm going to die? Lung cancer? Thank God. Hey, I got to go visit your restroom for a second. Don't open that door for anybody.",45
+CLYDE BRUCKMAN,"Oh, God. Was that not enough of a tip?",9
+PUPPET,"They brought you right to me, right to where I work.",11
+CLYDE BRUCKMAN,What are the chances of that happening?,7
+PUPPET,They're astronomical! It's beyond believability.,5
+CLYDE BRUCKMAN,"But not impossibility. I mean, after all, here we are.",10
+PUPPET,"It's funny how things work out sometimes, isn't it?",9
+CLYDE BRUCKMAN,I'll say.,2
+PUPPET,So there's something I've been wanting to ask you for some time now. You've seen the things I do in the past as well as in the future.,28
+CLYDE BRUCKMAN,They're terrible things.,3
+PUPPET,"I know they are. So, tell me, please, why have I done them?",13
+CLYDE BRUCKMAN,"Don't you understand yet, son? Don't you get it? You do the things you do because you're a homicidal maniac.",20
+PUPPET,"That... that does explain a lot, doesn't it? It's all starting to make sense now.",15
+CLYDE BRUCKMAN,No. You don't kill me now.,6
+PUPPET,I don't? Why not?,4
+CLYDE BRUCKMAN,How should I know?,4
+HAVEZ,No!,1
+MULDER,"Now, we've either got a copycat killer or our guy's getting extremely lackadaisical.",13
+CLINE,"Not only did he leave the body, but he didn't even bother to remove the eyes.",16
+MAN OUTSIDE,What happened?,2
+MULDER,"If my Miss Manners serves me right, that protrusion from his left cornea is a salad fork.",17
+CLINE,Something tells me we're going to get prints off it.,10
+SCULLY,"Mulder, I found another strand of that silk.",8
+MULDER,"Ah, we've got more than that this time, Scully. We've got fingerprints, probably a footprint even.",16
+CLINE,"Yeah, this is more like it. No more psychics and their vague visions and predictions. Hell, we don't even need our own hunches. This case is just now about good old-fashioned forensic police work.",34
+SCULLY,"It's the bellhop. He's the killer, the bellhop at the hotel!",11
+CLINE,How the hell does she know that?,7
+MULDER,Woman's intuition.,2
+SCULLY,Havez? Mister Bruckman?,3
+MULDER,Hey!,1
+SCULLY,Drop it!,2
+PUPPET,Hey... that's not the way it's supposed to happen.,9
+MULDER,How'd you know where to find us?,7
+SCULLY,I didn't. I got on the service elevator by mistake.,10
+MULDER,Thank heaven for happenstance.,4
+SCULLY,"You know, none of Bruckman's prophecy came true. The killer didn't get to him first, but he did kill Havez.",20
+MULDER,Then Bruckman is all right?,5
+SCULLY,"Actually, I don't know. I couldn't find him.",8
+MULDER,"Well, then where is he?",5
+MULDER,"""Miss Scully.""",2
+SCULLY,"""My neighbor, Mrs. Lowe, passed away last night. Please see that the remains of her remains are taken care of. Would you like a dog? He's paper-trained and well-behaved, regardless of his actions last night, which you can't really blame him for.""",42
+OLIVER HARDY ON TV,"Well, here's another nice mess you've gotten me into.",9
+STAN LAUREL ON TV,"Well, I couldn't help it.",5
+OLIVER HARDY ON TV,Come on. Let's get back to Peoria where we belong.,10
+YAPPI ON TV,"Do you want to know the future? Do you want to know what lies ahead? Then call me, the Stupendous Yappi. For years, I have entertained audiences with my psychic abilities. I have been consulted by Hollywood stars, police departments... even presidents. Now, I can be your personal psychic consultant. Do you want to know if you will get that promotion? Do you want to know if your marriage will be successful? Do you want to know where you will meet your one true love? Then call me at 1-900-555-Yapp. Remember, the future is close at hand and so is your phone. So to hear tomorrow's secrets today, just pick it up. I know you will. I can see your future.",121

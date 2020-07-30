@@ -1,0 +1,202 @@
+speaker,line,words
+SUPERVISOR,"Hey, Ed. You okay?",4
+EDWARD FUNSCH,There's blood.,2
+SUPERVISOR,"It's only a paper cut. Um, listen, Ed. I need to talk to you. There you go. Ed, uh... this is never easy. Ed, everybody down here sure likes you a lot, Funsch. And I know it's tough 'cause you're new to this area. Ed, I'm sorry, but I'm going to have to let you go. I mean, your work is first-rate, and like I said, you're a good guy. But you know the story. Cutbacks and seniority and... you're low man on the pole.",85
+EDWARD FUNSCH,Could I work part-time?,4
+SUPERVISOR,"The guys took up a collection today. It's a hundred bucks. Look, why don't you stay on till the end of the week?",23
+MESSAGE,"Kill. ""Robin Hull 326 Simpson Street Spring Valley, NY 10977"" The read-out says ""10977."" ""Jan Kobylka 2355 Mathers Ave. Pittsburgh, PA 15214"" The read-out says ""15214."") Kill. Kill 'em. Kill 'em all.",32
+(10,"20 A.M. The elevator is crammed with various businessmen and women. One man has a nagging cough. Starting at eleven, the elevator goes down to seven when there is a ring and the door opens.)",35
+WOMAN #1,Is there room in there for me?,7
+MAN,"Oh, I think we can make some.",7
+WOMAN #1,Thank you.,2
+WOMAN #2,Excuse me.,2
+MESSAGE,No air. Can't breathe. Kill 'em all. Kill 'em.,9
+SPENCER,"Hey, Ralph, how you doing?",5
+RALPH,All right.,2
+SPENCER,"Thanks for coming on such short notice. I realize the F.B.I.'s Behavioral Science Unit normally profiles murder suspects that are still at large, and it must be odd being asked to profile our suspects, all of whom are dead. I am relieved the Bureau answered our request and sent you. Because in all honesty, Agent Mulder... whatever's going on here is way over our heads. The suspect's body is out on the sidewalk. We're holding the security guard who shot him. The witnesses in the elevator are down at the hospital. You can talk to them whenever you're ready. I've asked all the businesses in the building to close for the day. We've done our best to preserve the area for you. We've thoroughly photographed the scene. The area has been sketched, but we haven't dusted for prints... yet. We wanted to wait for you before we collected further evidence.",150
+MULDER,Was this damaged during the incident?,6
+SPENCER,I'll find out.,3
+MULDER,May I see the suspect?,5
+SPENCER,Things like this aren't supposed to happen here.,8
+MULDER,A forty-two year old real estate agent murders four strangers with his bare hands? That's not supposed to happen anywhere.,20
+SPENCER,"No. Since colonial times, there's only been three murders in this area. In the last six months, seven people have killed twenty-two. Per capita, that's higher than the combined homicide rate of Detroit, D.C. and Los Angeles. This town is not any of those places. In Franklin, you'll never have to pull off the road to make way for a celebrity driving with a gun to his head.",68
+MULDER,"In each incident, the suspect was killed?",7
+SPENCER,Suicide by cop. Each incident occurred in a public place. The suspect went crazy and refused to desist when ordered. Officers used deadly force in order to save lives.,29
+MULDER,Were autopsies conducted on the suspects for substance abuse?,9
+SPENCER,"Agent Mulder, this town is mainly made up of apple and cherry growers. These folks don't drink much. They certainly don't do drugs. Coroner's tests were negative. I played softball with this guy over Labor Day. He was one of those nice guys... couldn't play and didn't bitch about being stuck in right field.",54
+MULDER,What's wrong with right field?,5
+SPENCER,Always the first one to shake hands at the end of the game. Didn't matter whether they won or lost.,20
+MULDER,Got to have an arm to play right field.,9
+SPENCER,"Bought a round of beers afterwards, even though he didn't drink.",11
+MULDER,I played right field. Let's have this analyzed by the bureau's lab.,12
+SPENCER,What the hell could bring anyone to do this?,9
+MOTHER,"Baby, you're bleeding. Tilt your head back. I told you to leave it alone, okay? Now, don't touch it or it'll bleed again. Tilt your head back.",27
+MESSAGE,Security guard. Take his gun. Kill 'em all.,8
+SECURITY GUARD,"Hey! Hey, what the hell's wrong with you?",8
+MULDER,Perpetrators of mass murders are divided into two classifications... the spree killer and the serial. The sudden violent outburst in a public locale and the suspect's disregard for anonymity or survival define the Franklin incidents as spree killings.,38
+SCULLY,I was wondering when you'd get to that.,8
+MULDER,"I find no evidence of this to be the case. The single, connecting trace evidence to the killings is the destruction of an electronic device at the crime scene. A pager, a fax machine, a cellular phone, a gas pump digital display. In all honesty, Scully, I've never had a more difficult time developing a profile. There is no way to know who will be a killer... or who will be killed.",72
+MCROBERTS,Hello? Hello?,2
+MECHANIC,You're late.,2
+MCROBERTS,"I'm sorry. I called earlier. A deadline came up at work. If it's ready, I'll just pay you and... get out of here.",23
+MECHANIC,How did you manage to break that anyhow?,8
+MCROBERTS,"Oh, it's a long story. Did you fix it?",9
+MECHANIC,It's fixed.,2
+MCROBERTS,What do I owe you?,5
+MECHANIC,"I'll tell you. In fixing that, I found some other problems. Serious problems, Mrs. McRoberts. Come back here, I'll show you.",21
+MCROBERTS,I'm sorry. My husband's waiting for me. I have to go.,11
+MECHANIC,"Okay, but you ain't going to go very far unless you get this fixed. Come here. This is a diagnostic test of your engine. You're supposed to have an output of a hundred and sixty-eight horses at sixty-two hundred R.P.M.s. You're nowhere near that. Come over here. Next to me. I want you to take a look at this. Well, first of all, you're leaking oil like crazy. Your throw rods are chattering, valves need adjustment.",76
+MESSAGE,Liar.,1
+MECHANIC,"And over here, you've got a couple of engine mounts that should be replaced.",14
+MESSAGE,He's a liar.,3
+MECHANIC,"There's some arching off your coil wire... to tell you the truth, I think we should replace all the ignition wires.",21
+MESSAGE,He'll rape you. He'll kill you. Kill him first.,9
+MECHANIC,"If you don't believe me, take a look here.",9
+LARRY WINTER,"Agent Mulder? Larry Winter, county supervisor.",6
+MULDER,"Uh, pardon my rubber.",4
+LARRY WINTER,Can you tell me if... this murder is more of the same?,12
+SPENCER,They don't seem to be connected.,6
+LARRY WINTER,"Well, should I be relieved or more scared? I mean, is this the start of copycat killers?",17
+SPENCER,"No, Larry, it's not a copy of the other homicides. This wasn't committed in a public area. The suspect fled, covering his tracks. And the killer appears not to have had a premeditated weapon.",34
+MULDER,They are connected.,3
+MULDER,Mrs. McRoberts?,2
+MCROBERTS,Yes?,1
+MULDER,"This is Sheriff Spencer, and I'm Agent Fox Mulder with the Federal Bureau of Investigation. May we come in?",19
+MCROBERTS,I'm late for work.,4
+MULDER,You can blame me. Been having some car trouble?,9
+MCROBERTS,That's my husband's department.,4
+MULDER,May I speak with him?,5
+MCROBERTS,He just took the car to Pittsburgh for a business meeting. Is it okay if I have my breakfast?,19
+MULDER,It's the day's most important meal.,6
+MESSAGE,He knows.,2
+MULDER,"Um... this invoice? It was, uh, signed by you. Did you pick up the car last night?",17
+MESSAGE,Kill 'em both.,3
+MCROBERTS,Yes. her food down on the counter.),7
+MULDER,Can you describe to me exactly how the dashboard read-out was damaged? Mrs. McRoberts?,14
+MCROBERTS,I did it. I broke it.,6
+MULDER,Why? Mrs. McRoberts? Did you see something in the read-out? Mrs. McRoberts? I can help. Mrs. McRoberts?,17
+SPENCER,Stop!,1
+MULDER,No!,1
+SCULLY,"Several anomalies were discovered in post-mortem analysis that were undetected in previous autopsies. Levels of adrenaline are known to be high in cases of violent death, twice as much as in victims of natural death. This subject's levels were two-hundred times normal. The adrenal gland displayed extensive adrenal hemorrhage, yet not from disease, but rather from wear. Other physiological evidence present indicated intense phobia. Analysis of the vitreous humor extracted from the eyeball......indicated the presence of high concentration of an undetermined chemical compound. This compound, at it's base, is similar to the substance analyzed earlier on a perpetrator's finger. Although further qualitative analysis must be performed, it is my opinion that this chemical, when reacting with adrenaline and other compounds secreted during phobic episodes, creates a substance to lysergic acid diethylamide... L.S.D.",132
+EDWARD FUNSCH,Pardon me. I'd like to apply for a job.,9
+CLERK,Sorry. They're not accepting applications at this time.,8
+WOMAN,Sir? May we ask you to sign up for the blood drive? Sir? Are you all right? Sir?,18
+MESSAGE,Behind you. Do it!,4
+FROHIKE,Hmmm...,1
+BYERS,"In our April edition of ""The Lone Gunmen,"" we ran an article on the C.I.A.'s new CCDTH-twenty-one thirty-eight fiber-optic-lens micro-video camera.",21
+LANGLY,Small enough to be placed on the back of a fly.,11
+MULDER,Imagine being one of those flies on the wall of the Oval Office.,13
+FROHIKE,"Been there, done that.",4
+BYERS,"That is a Eurasian cluster fly. They infest vegetation like, uh, apples or cherries and can inflict a great deal of damage to crops.",24
+LANGLY,This one's probably been irradiated to control propagation.,8
+BYERS,"Or agents of competing South American agricultural corporations posing as Franklin city employees, are releasing fertile flies to destroy the crops.",21
+FROHIKE,Nope. This bug's been nuked.,5
+MULDER,"It was a fine effort, though. Have you ever come across this chemical compound?",14
+LANGLY,"L.S.D.M. Obviously, you haven't read our August edition of ""T.L.G.""",10
+MULDER,"Oh, I'm sorry, boys. It arrived the same day as my subscription to ""Celebrity Skin.""",15
+BYERS,Come over here.,3
+FROHIKE,"So, Mulder, where's your little partner?",6
+MULDER,She wouldn't come. She's afraid of her love for you.,10
+FROHIKE,She's tasty.,2
+MULDER,"You know, Frohike, it's men like you that give perversion a bad name.",13
+BYERS,"Here... toxic pesticides. The chemical you have in that report is called ""lysergic dimethrin."" It's an unreleased experimental synthetic botanical insecticide. It attempts to act as a natural pheromone.",29
+LANGLY,"L.S.D.M. is sprayed on the plant, which invokes a fear response in the pest. You know, ""get out of here, there's danger."" The insect reacts and leaves the plant.",29
+MULDER,Why won't they release it? Is it possible it affects humans in the same way?,15
+BYERS,Possible? Let me show you something.,6
+LANGLY,This is actual newsreel footage taken in the 50's. They're spraying D.D.T... a chemical the government did release and determine to be safe.,23
+BYERS,Thirty years later......they found out that women exposed to it had higher rates of breast cancer. They convinced local officials it was even safe to spray on children. It took a decade of bureaucratic and industry heel-dragging before it was banned.,41
+LANGLY,"Different chemicals, same stunts.",4
+BYERS,They just learned how not to be so obvious.,9
+MULDER,"Hey, Frohike, can I borrow those?",6
+FROHIKE,If I can have Scully's phone number.,7
+LARRY WINTER,Stealth helicopters? Experimental pesticides responsible for violent behavior?,8
+MULDER,"I saw the chopper from two different locations. Look at my skin, feel my hair. The insecticide is still on me.",21
+LARRY WINTER,"I checked up on you. You have a penchant for... ""Spooky"" evidence.",12
+MULDER,Don't start with that tired crap. Don't start diverting blame.,10
+LARRY WINTER,Hang on a second here...,5
+MULDER,"Look, if you're the one responsible for the illegal spraying, then the sooner you take responsibility, the sooner people will stop dying. The killers all resided near heavily sprayed areas.",30
+LARRY WINTER,"You don't live here, Mulder. I live here. I have my heart in this town. I have three children. I'm not going to dump poison on them.",27
+MULDER,"Yeah, well, if it's so safe, why was it done in secret?",12
+LARRY WINTER,What kind of a crusade are you on?,8
+SPENCER,Answer the question. Are we spraying?,6
+LARRY WINTER,"This county lives on money generated from its crops. The irradiated flies were not effective. The delays to get approval to spray would have caused millions in crop damage. Look at the hell they raised in California over malathion. Meanwhile, people's lives were being ruined by a... a damn bug.",50
+SPENCER,Ruined? Twenty-three people are dead.,5
+LARRY WINTER,There is no proof whatsoever of the spray caused violent behavior. It was proven to me to be safe.,19
+MULDER,By who? Who proved it to you?,7
+SCULLY,"I'm sorry, Mulder, he's right. I'd love to tell you that I flew three-hundred miles in the middle of the night to perform tests that prove that you're about to become the next Charles Manson... but I find little physiological evidence that L.S.D.M. has toxically affected you... even after massive ingestion.",51
+MULDER,"Scully, your own autopsy reported the killer had chemical anomalies.",10
+SCULLY,"Yes, but you are proof that it wasn't from exposure to L.S.D.M.",12
+SPENCER,"May I see that chart, Agent Scully?",7
+SCULLY,"Sure. These are normal, right here......subjected to successive L.S.D.M. sprays...",10
+MULDER,Scully. Are you familiar with subliminal messages?,7
+SCULLY,You mean like... sex and ice cubes in liquor in ice cube ads? That's paranoia.,15
+MULDER,"No, it's a fact that some department stores use subliminal messages in their ambient music to deter shoplifting. And the Russians have been using advanced electroensephelographic techniques to control behavior.",30
+SCULLY,And how is this connected with the spraying?,8
+MULDER,Electronic devices were destroyed by every perpetrator.,7
+SCULLY,I'm still waiting.,3
+MULDER,The insecticide L.S.D.M. is known to invoke a fear response in cluster flies. What if the chemical causes the same reaction in humans? All the perpetrators were phobic. Taber was claustrophobic. McRoberts' husband stated she had a paranoia about rape. The insecticide heightened their already existing phobia to an unbearable level. Then the electronic devices relayed messages that told them specifically what to do with their fear in order to alleviate it. The messages were relayed purposely.,77
+SCULLY,By who?,2
+MULDER,"Yeah, he's probably one of those people that thinks Elvis is dead.",12
+SCULLY,"Mulder, I was wrong. Exposure to the insecticide does induce paranoia.",11
+MULDER,I think this area is being subjected to a controlled experiment.,11
+SCULLY,Controlled by who? By the government? By a corporation? By Reticulans?,11
+MULDER,"They've done it before. D.D.T. in the 50's, Agent Orange, germ warfare on unsuspecting neighborhoods.",15
+SCULLY,"Yes, but why, Mulder? Why would they intentionally create a populace that destroys itself?",14
+MULDER,"Fear. It's the oldest tool of power. If you're distracted by fear of those around you, it keeps you from seeing the actions of those above.",26
+SPENCER,I just had a talk with Mister Winter. I have persuaded him to a compromise. He's agreed to stop the spraying immediately and to blood testing extensively the people exposed to the spray area.,34
+MULDER,But?,1
+SPENCER,But... the official explanation of the testing cannot be linked to the side-effects of L.S.D.M.,15
+WOMAN ON TV,"Franklin and Fanengo counties are participating in an important nationwide study on cholesterol. Volunteers will be coming to your door, or you may report at your convenience to Franklin Community General. The procedure is very simple and painless. Just a little prick on the fingertip and your participation is complete. And appreciated. So remember, cholesterol screening can save your life. So when those volunteers come to your door, answer readily, or you may report at your convenience to Franklin Community General. Thank you.",83
+MESSAGE,Blood. Blood. Kill.,3
+SPENCER,"And your test results on the blood samples were double-checked? Are you sure? Uh-huh. Last area just reported in. Okay, these are the sectors that have tested negative. This is a list of people who, for one reason or another, haven't checked out. There's about twenty-five.",46
+MULDER,Only seven more to go.,5
+SCULLY,This is odd.,3
+MULDER,Frustrated Jehovah's witness?,3
+SCULLY,Door's unlocked.,2
+SCULLY,Here it is.,3
+MULDER,"Edward Funsch, age fifty-two. No diploma, no vehicle or driver's license, navy radio man, wife died ten years ago. No kids. No known family, just been laid-off. Medical history?",29
+SCULLY,"Nothing. I mean, he hasn't seen a doctor in decades.",10
+MULDER,When was the blood tester here?,6
+SPENCER,About ten-thirty this morning.,4
+MULDER,Ten-thirty? The blood test. I know what he's afraid of... and I know where he's going.,16
+EDWARD FUNSCH,"Hey, wait! Stop! Stop! Stop! Hey!",6
+BUS DRIVER,"All right, all right, hold on a second.",8
+EDWARD FUNSCH,Funsch.,1
+MESSAGE,They're waiting. Get off.,4
+EDWARD FUNSCH,Pardon me.,2
+BUS DRIVER,Wait for the next stop.,5
+EDWARD FUNSCH,Please! I'm on the wrong bus.,6
+BUS DRIVER,Wait for the next stop.,5
+EDWARD FUNSCH,"Open the door! Open the door! God, open the door, damn it!",12
+MAN ON WALKIE-TALKIE,"Uh, C-one, this is X-ray-four. Negative on that North-South line.",10
+SPENCER,"Copy that. If he's on it, it's going to be this line.",12
+MULDER,Here it comes.,3
+SCULLY,Get the uniforms out of sight.,6
+MULDER,Have you seen this man?,5
+BUS DRIVER,"Yeah, I picked him off. Drove four feet, then he went apewire.",12
+MULDER,Where'd you let him out?,5
+BUS DRIVER,Near the college.,3
+SCULLY,We'll have to wait him out.,6
+MULDER,I don't think he's waiting.,5
+MESSAGE,Up.,1
+MULDER,"Scully, anything?",2
+SCULLY,Nothing.,1
+SPENCER,Get down! Get down!,4
+MULDER,Get down! Get down! Get down!,6
+SPENCER,Please remain calm! Stay away from the building!,8
+EDWARD FUNSCH,"I've seen that all and I've seen that and I don't want to see that again, baby.",17
+SPENCER,"All units, forthwith, Franklin College. Shots fired. Send emergency vehicles.",10
+MULDER,Put it down! Put it down!,6
+EDWARD FUNSCH,Don't kill me.,3
+MULDER,"Then put it down, Ed.",5
+EDWARD FUNSCH,I can't. They won't let me.,6
+MULDER,"I know they won't, Ed. I know they won't let you.",11
+EDWARD FUNSCH,"Then... you make me put it down, then. You do it.",11
+MULDER,"If you don't put it down, I'm going to have to shoot you. Or you're going to have to shoot me. There's going to be blood... everywhere.",27
+EDWARD FUNSCH,They'll kill me.,3
+MULDER,It's all right.,3
+SPENCER,Agent Scully will examine him at the hospital. You can call her there.,13
+MULDER,I want unrestricted access to him for questioning.,8
+SPENCER,Mulder... you know more about what happened to him than he does.,12
+MESSAGE,All done. Bye-bye.,3
+SCULLY,"Scully. Hello? Mulder, is that you? Mulder, where are you? Mulder? Mulder, where are you?",15

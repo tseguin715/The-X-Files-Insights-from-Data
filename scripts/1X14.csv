@@ -1,0 +1,392 @@
+speaker,line,words
+SCULLY,"Relax, they’ll be here.",4
+WILLIS,Bank’s going to close in five minutes.,7
+SCULLY,Sure it wasn’t a bogus tip?,6
+WILLIS,"No. It’s real. I’ve been on this long enough. I know the difference. Besides, I can feel it. I can feel them. I’m inside their heads.",26
+SCULLY,Just as long as you keep yours.,7
+WILLIS,"Message received, Agent Scully, loud and clear. Position five. It’s Agent Willis. Do you copy?",15
+(SAME TIME,"Outside the bank in a car, DUPRE and LULA, hard and rough looking, 30’s. LULA is in driver’s seat. DUPRE loads gun. LULA watches the bank.)",26
+DUPRE,"What, are you nervous?",4
+LULA,Nope. I just don’t want our luck to run out.,10
+DUPRE,"Baby, you are my luck. No matter what happens, whenever I look up at the stars I know you’re going to be looking up at the same ones.",28
+LULA,"The same ones, baby.",4
+DUPRE,You make every day like New Year’s Eve.,8
+DUPRE,Get down! Get down on the ground! I want everyone on the ground now! NOW! Get down! You too --- on the floor! On the floor! I’ll execute every one of you!,31
+DUPRE,Put the money in the bag now! Move! Shut up and do it!,13
+WILLIS,"Dupre! Drop the gun! FBI! Drop the gun, NOW!",9
+DOCTOR,"I need more saline in here, stat.",7
+NURSE,"Up to 360, now.",4
+INTERN,"11 minutes, 55 seconds. Clear.",5
+SCULLY,"Come on, Jack.",3
+INTERN,He’s been flatlined for over twelve minutes.,7
+DOCTOR,Another amp of EPI and we’ll go again at 360. Clear.,11
+NURSE,Still no pulse.,3
+DOCTOR,We’ve done all we can. I’m sorry.,7
+INTERN,You want me to pronounce?,5
+SCULLY,No. You can’t give up on him.,7
+DOCTOR,It’s been over 13 minutes. He’s dead.,7
+SCULLY,Go up to 400.,4
+DOCTOR,We lost him. Let him go.,6
+SCULLY,"I’m a doctor. Go up to 400, or I’ll do it myself.",12
+DOCTOR,Clear.,1
+SCULLY,Give him another amp of EPI intracardial and go up to 400 again. Do it.,15
+DOCTOR,Clear.,1
+SCULLY,"Again. Come on, Jack.",4
+DOCTOR,Clear.,1
+DOCTOR,"We got a rhythm. Don’t ask me how, but he’s back. BP’s 80 over 50 and climbing. 90 over 50 …",21
+SCULLY,Any word from Willis?,4
+MULDER,Still missing. He hasn't been home or checked in with the office. I heard something on the way down about a mutilation?,22
+SCULLY,Yeah. Three fingers on Dupre's left hand were severed by surgical shears. We lifted prints. They're Willis’.,17
+MULDER,You said he was chasing this guy for almost a year?,11
+SCULLY,"Yeah, he lived the case. It was all he thought about, talked about.",13
+MULDER,What are you thinking?,4
+SCULLY,That maybe this is some kind of post-trauma psychosis. Like the way soldiers sometimes mutilate the body of a dead enemy.,21
+MULDER,That still doesn't explain why he would just vanish. Dupre's partner-- who was she? Lula Phillips.,16
+SCULLY,They met while she was serving a ten year sentence for manslaughter at the Women's Correctional Facility of Maryland.,19
+MULDER,He was a prison guard.,5
+SCULLY,Until the warden found out about their secret. According to Lula's cell mate they carried on quite a torrid romance.,20
+MULDER,"It says here she was released on May 2, 1993.",10
+SCULLY,One week before the first robbery at Annapolis Savings and Loan. The 65-year-old female teller was pistol-whipped. Died from a massive subdural hemorrhage all because she didn’t put the money in the bag fast enough.,35
+MULDER,Lovely couple.,2
+SCULLY,"Well, apparently they took turns --- one pulling a job while the other one drove getaway. Between the two of them, they’ve killed seven people and gotten away with close to $100,000.",31
+MULDER,That’s a lot of money now that she doesn’t have to split it two ways.,15
+SCULLY,"Well, we’re putting her face out there --- local newspapers, America’s Most Wanted. Am I boring you?",16
+MULDER,They were married.,3
+SCULLY,Yeah. Last May in Atlantic City. So what?,8
+MULDER,I don’t think this was a simple necrophiliac mutilation. Willis sliced and diced those fingers to get at the wedding ring.,21
+WILLIS,"Anybody here? Lula? Baby, baby. baby. Damn.",7
+SCULLY,It's a left thumbprint.,4
+MULDER,You can see by these two bifurcations here that whoever held that cleaver was using his left hand.,18
+SCULLY,"What do you mean, ""whoever""? It was Willis.",8
+MULDER,Willis is right-handed. I checked his pistol grip at the armory. But all the bank surveillance tapes show that Dupre is left-handed.,22
+SCULLY,I'm not sure where you're going.,6
+MULDER,How long did Willis flatline before you revived him?,9
+SCULLY,Just over 13 minutes.,4
+MULDER,"This is the EKG strip that recorded his cardiac activity at the time. Now, *in your medical opinion,* what does that look like?",23
+SCULLY,"It could be anything – an instrument malfunction, electrical overload.",10
+MULDER,But what does it *look* like?,6
+SCULLY,Two heartbeats.,2
+MULDER,"Now, you say Dupre and Willis went into cardiac arrest at the exact same time, right?",16
+SCULLY,Right.,1
+MULDER,"Which means for minutes, both men were technically dead.",9
+SCULLY,"Technically, but we resuscitated Willis.",5
+MULDER,You resuscitated his body.,4
+SCULLY,Mulder.,1
+MULDER,"Two men died in that crash room, Scully. One man came back. The question is … which one?",18
+PROF. VARNES,"What can you tell me about near-death experiences, Agent Scully?",10
+SCULLY,"The usual stuff – the tunnel, the light, people rising up and viewing their own bodies.",16
+PROF. VARNES,"And as a scientist, how do you account for the phenomenon?",11
+SCULLY,"Some sort of disassociative, hallucinatory activity.",6
+PROF. VARNES,"Did you know that half of all adults who have had a near-death experience can not wear a watch? The increased electrical activity in their bodies renders the watches on their wrists inoperable. Now, I know this sounds kooky, but as any biologist will tell you, when cells die and genetic material begins to unfold, a tremendous charge of energy is released.",62
+MULDER,Dr. Varnes believes this burst of energy is responsible for the transformational nature of the experience.,16
+PROF. VARNES,People do return from the event profoundly changed.,8
+SCULLY,Changed how?,2
+PROF. VARNES,"Personality shifts, perceived psychic abilities, increased zest for life.",9
+MULDER,What about the negative consequences?,5
+PROF. VARNES,"Well, they’re rare, but apparently, in the process of dying there is a window of time during which the body is vulnerable.",22
+SCULLY,I don’t understand.,3
+PROF. VARNES,"Well, there was a pilot in my support group who died in a commuter plane crash along with his three passengers. This was a few years ago. He recalls floating up in a brilliant aura of light and then feeling an overwhelming need to return to his body. He was revived in the ambulance on the way to the hospital --- the only survivor. It was soon after that that the visions started. Visions of making love to his wife but in ways and places that weren’t in his memory. Now, it turns out that one of the dead passengers on the plane was having an affair with his wife. The dead passenger’s memory, his consciousness had survived through the pilot.",120
+SCULLY,What happened?,2
+PROF. VARNES,"Well, the pilot became increasingly disoriented – a schizophrenic, his doctor claims – until one day he strangled his wife with an extension cord.",24
+MULDER,That’s a nice story.,4
+SCULLY,nan,1
+SCULLY,I don’t discount the near-death experience because it can be explained empirically by stimulation of the temporal lobe.,18
+MULDER,"I sense a big ""but"" coming.",6
+SCULLY,"It’s my still best guess Jack’s disappearance can be explained in psychological, not supernatural, terms.",15
+MULDER,For instance?,2
+SCULLY,"The stress of the case, the trauma of being shot….. Jack’s personality.",12
+MULDER,How well do you know him?,6
+SCULLY,We dated … for almost a year. He was my instructor at the academy.,14
+MULDER,The plot thickens.,3
+SCULLY,"We even had the same birthday. We used to celebrate in some dive in Statford that had a slanting pool table. But it was always so hard for Jack to relax. It was impossible for him really. He was always so intense, so relentlessly determined.",45
+MULDER,Do you believe he’s predisposed to this type of psychotic episode?,11
+SCULLY,I believe it’s a long way from saying Jack had a near-death experience to saying his body’s been inhabited by Warren Dupre. A long way.,25
+TOMMY,What the hell?,3
+WILLIS,"You’re such a creature of habit, Tommy.",7
+TOMMY,Who the hell are you?,5
+WILLIS,Get out of bed.,4
+TOMMY,I ain’t got no clothes on.,6
+WILLIS,Get out of bed. I don’t want to shoot you lying down.,12
+TOMMY,"Who are you, the rent man? ‘Cause I’m all paid up. I swear, I’m not kidding you. Come on, you can go ask Cosmo.",24
+WILLIS,Shut up. Where is she?,5
+TOMMY,Where’s who?,2
+WILLIS,Your sister.,2
+TOMMY,Lula? I don’t know. I was waiting to see her on the news. What I tell you? Check it out.,20
+TOMMY,"The sound’s busted. Looks like they’ll find her before you do, pal.",12
+WILLIS,"Is that what you think? That’s not what I think. I miss her, Tommy. I miss her so bad. That’s why I came back.",24
+TOMMY,Do I know you from somewhere?,6
+WILLIS,"Everything I see, I see her.",6
+TOMMY,"Jesus, man, you’re bleeding.",4
+WILLIS,Even ugliness is beautiful because of her.,7
+TOMMY,"Okay, what are you doing?",5
+WILLIS,"You set us up, Tommy. You sold us out to the FBI.",12
+TOMMY,Dupre?,1
+AGENT BRUSKIN,"Neighbors heard a gunshot, but nobody bothered to check it out. The patrol guys responded this morning to an anonymous 911 and found him here, except the rats found him first. The victim’s name was Thomas Phillips.",37
+SCULLY,That’s Lula’s brother.,3
+AGENT BRUSKIN,"Well, there’s not a lot of family resemblance left between the rats and the .45 he took in the face. Oh, I hate this nicotine stuff.",26
+SCULLY,What’s his story?,3
+AGENT BRUSKIN,"He’s single. He’s lived here alone for the past seven months. A few priors, small stuff, mostly – B and E, narcotics possession. Nothing like his big sister.",28
+MULDER,Was the television turned on when they found him?,9
+AGENT BRUSKIN,No. Why?,2
+MULDER,"I don’t think Tommy was much a reader since he doesn’t seem to have owned any books and from the position of the body, I’d say maybe he was watching the tube when he was shot.",36
+OFFICER DANIELS,Print kit’s right over there. Knock yourself out.,8
+WILLIS,"Out of my way, Ace.",5
+OFFICER DANIELS,"Regulations state to gain access to a crime scene, you got to show me some ID.",16
+MULDER,Looks like you were right.,5
+SCULLY,Excuse me. Jack…,3
+SCULLY,Is there a problem here?,5
+WILLIS,"No, I just don’t have any ID. And would you tell this gentleman who I am?",16
+SCULLY,"It’s all right, Officer. This is Agent Jack Willis. He’s with the Violent Crimes Section of the Washington Bureau. Come on. Let’s talk out here.",25
+OFFICER DANIELS,I was just doing my job.,6
+SCULLY,"For God’s sake, Willis, what happened? Half the Bureau’s been looking for you. Where have you been?",17
+WILLIS,I don’t know. I just … wasn’t myself. I just kinda woke up out in the street.,17
+SCULLY,I’m taking you back to the hospital. You’re in no shape to be ---,13
+WILLIS,"No, no, no way! I’m staying right here.",8
+SCULLY,You’re not ready to be here.,6
+WILLIS,Who says?,2
+SCULLY,Jack. You’re recovering from a major trauma. It’s a miracle you’re even able to walk around.,16
+WILLIS,"Look. This is Tommy Phillip’s place, right?",7
+SCULLY,Jack …,2
+WILLIS,Let me just ask you something. Was he killed with a .45?,12
+SCULLY,As a matter of fact he was.,7
+WILLIS,He was. That’s Lula’s weapon of choice. I know these people. I’ve been after them for a long time. We’re halfway there.,22
+SCULLY,You did open the book on this one.,8
+WILLIS,Yeah. And I’m gonna be there when it’s closed.,9
+SCULLY,All right. But as a colleague and as a friend I’m recommending you undergo a full medical evaluation --- physical and psychological.,21
+WILLIS,"All right, fair enough.",4
+MULDER,"Jack, good to see you back among the living.",9
+WILLIS,It’s good to be back.,5
+AGENT BRUSKIN,Jack.,1
+WILLIS,So what do we got here?,6
+AGENT BRUSKIN,Mulder here found a print on the TV – a partial oblique – and it’s not the victim’s.,18
+WILLIS,"Good work, Agent Mulder. I’m impressed.",6
+MULDER,That’s fancy shooting.,3
+WILLIS,"Yeah, well, I got to get recertified before they give me my weapon back.",14
+MULDER,"Well, by the looks of it, I wouldn’t worry about recertification.",11
+WILLIS,Is there anything else you wanted?,6
+MULDER,"Yeah. It’s, uh, Scully’s birthday and I was wondering if you’d sign that for her.",15
+WILLIS,Sure. Be glad to. I’m always glad to celebrate the good times.,12
+WILLIS,There you go.,3
+MULDER,"Happy Birthday, Scully.",3
+SCULLY,You’re two months early.,4
+MULDER,It’s from Willis. I thought you two had the same birthday.,11
+SCULLY,We do.,2
+MULDER,"Well, that’s news to him. I asked him to sign it. And he signed it with his left hand.",19
+SCULLY,You mean you tested him.,5
+MULDER,Yeah. After I found out that the evidence from the Phillips murder is missing.,14
+SCULLY,What evidence?,2
+MULDER,The print we lifted. Our best lead is gone. Someone stole it before the lab had a chance to take a look at it.,24
+SCULLY,And you think Willis is responsible?,6
+MULDER,I’m not sure Willis is Willis. Can you at least accept the possibility that during his near-death experience some kind of psychic transference occurred?,24
+SCULLY,"Can’t you accept the possibility that this isn’t an X-File? Aside from the expected level of post-trauma stress, Jack passed both of his evaluations --- physical and psychological. Anyway, just because someone forgets a birthday doesn’t mean that he’s been possessed. When I was studying for my medical boards, I forgot my birthday too.",53
+MULDER,Did you forget how to sign your name? This is a copy of the automobile requisition form Willis filed the day before he was shot. Compare the signatures.,28
+SCULLY,"Like I said, Mulder, stress, all right? We both know it can significantly affect someone’s cursive standard. I’m afraid this doesn’t prove a thing.",24
+WILLIS,Agent Willis here.,3
+SCULLY,Jack. Where are you going?,5
+WILLIS,We got a break. A landlord in Boyle Heights thinks he’s got our girl.,14
+SCULLY,Hotline?,1
+WILLIS,Yeah. Saw her picture in the post office. Here’s the address.,11
+SCULLY,"Jack, can I ask you something?",6
+WILLIS,"Yeah, sure.",2
+SCULLY,The Phillips murder. The print Mulder lifted off the television --- it’s missing.,12
+WILLIS,And?,1
+SCULLY,And … you were carrying the evidence back.,8
+WILLIS,"Are you implying something, Agent Scully? I don’t know anything about any missing print. Now, I’m ten minutes from closing the biggest case in my career. Are you coming?",29
+WILLIS,What’s that apartment number again?,5
+SCULLY,Number 202.,2
+WILLIS,"Oh, yeah. What’s this guy’s name?",6
+SCULLY,Multrevich.,1
+WILLIS,Multrevich?,1
+WILLIS,Mr. Multrevich? I’m from the FBI. Jack Willis. We spoke on the phone.,13
+MULTREVICH,"Oh, yeah.",2
+WILLIS,Have you ever seen this lady?,6
+MULTREVICH,"Yeah. 207. Two days ago. First and last month, cash.",10
+SCULLY,Where’s 207?,2
+MULTREVICH,"Down the hallway, around the corner.",6
+SCULLY,"All right, Mr. Multrevich, we want you to go back inside your apartment and stay away from the windows.",19
+SCULLY,"Where’s our back up? You said you called them, right?",10
+WILLIS,"Yeah, they should have been here ten minutes ago. She may be running down a fire escape, or something.",19
+SCULLY,I’m going to call in again.,6
+WILLIS,"Look. Hey, that’s her.",4
+WILLIS,Where is she? Where did she go?,7
+SCULLY,I’ll check back here.,4
+SCULLY,Face down! Face down! Hands behind your back. Now!,9
+SCULLY,"She’s all yours, Jack.",4
+WILLIS,"Yeah, like a dog on a leash.",7
+SCULLY,I already cuffed her.,4
+WILLIS,"They’re for you, Scully. Put them on.",7
+SCULLY,"What’s going on, Jack?",4
+WILLIS,"Put them on, or I’ll blow you in half.",9
+SCULLY,Jack …,2
+WILLIS,Shut up! Put them on.,5
+WILLIS,"Come on, baby. Come on, get up, baby. I want to look at you. Your face is all dirty.",19
+LULA,Keep your stinking hands off me.,6
+WILLIS,"Baby, you ain’t going to believe where I been.",9
+WILLIS,"Sure it’s crazy. You don’t think I know it’s crazy? This isn’t my face, these aren’t my hands, but it’s me in here. And I know you, I know everything about you, baby. Come on, ask me something. Your birthday’s April 7th. Your favorite color is red. Come on. Come on, ask me something else. Come on, ask me.",59
+LULA,"Okay. Okay, what did we do after we got married?",10
+WILLIS,Right after?,2
+LULA,After that.,2
+WILLIS,"Well, we went down to the beach. I took out my buck knife and I sliced open my palm and then I slit open your palm … and we let the blood drip down in the water.",37
+LULA,Then what did you say to me?,7
+WILLIS,"I said, ""This is so we can be married in all the oceans of the world."" And then I made you a solemn oath … to never take this ring off my finger. Ever. I mean to keep that promise.",40
+LULA,This is … this is just too weird. I can’t believe it’s really you.,14
+WILLIS,"Don’t worry, baby. It won’t make any difference in the dark.",11
+AGENT BRUSKIN,"Thank you sir, we’ll be in touch.",7
+MULTREVICH,When do I get my reward?,6
+AGENT BRUSKIN,We’ll call you.,3
+AGENT BRUSKIN,Now *I’m* worried. 12 hours with no word. I don’t get it. Why’s their car still sitting out front? Why didn’t Willis call for backup?,25
+MULDER,Because it wasn’t Willis who answered the hot line.,9
+AGENT BRUSKIN,What are you talking about? You heard the recording. It was Willis’ voice.,13
+MULDER,"Forget it, Bruskin.",3
+AGENT BRUSKIN,"Plus which, the manager just ID’d him and Scully.",9
+MULDER,"I said forget it, Bruskin.",5
+AGENT BRUSKIN,"This isn’t one of your X-File theories, is it?",9
+MULDER,It doesn’t matter what I think. We’re still after the same thing. Mulder.,13
+VOICE,FBI Centrex Operator. Please hold.,5
+MULDER,Yeah.,1
+WILLIS,"Guess who, Ace?",3
+MULDER,Willis?,1
+WILLIS,"That depends on who you ask, don’t it?",8
+MULDER,Where’s Scully?,2
+WILLIS,You’re the FBI. You figure it out.,7
+MULDER,Let me talk to her.,5
+WILLIS,Yeah. Sure.,2
+SCULLY,Mulder?,1
+MULDER,"Dana, are you okay?",4
+SCULLY,Don’t ---,1
+MULDER,Dana?,1
+WILLIS,Okay. That’s it. Good-bye.,4
+SCULLY,"It’s not going to work, Jack.",6
+WILLIS,You don’t think so?,4
+SCULLY,"Bureau policy prohibits negotiating with kidnappers. But you already know that, don’t you, Jack?",14
+WILLIS,Stop calling me that!,4
+SCULLY,"Your name is Jack Willis. You were born February 23, 1957. You live at 51 Stanhope ---",16
+WILLIS,"My name is Warren James Dupre. And I was born in Klamath Falls, Oregon in the Year of the Rat.",20
+SCULLY,"We spent a weekend up at Pine Barrens. You taught me how to fish through the ice. It was your parents’ cabin. Jack, try to remember. We drove up in a snowstorm. Come on, Jack.",35
+WILLIS,Don’t think I didn’t see what you did. I was like a little slip of paper up there on that hospital ceiling. I saw everything.,25
+SCULLY,What did you see?,4
+WILLIS,You left me to die on that table while you tried to save your friend!,15
+SCULLY,You *are* my friend.,4
+WILLIS,"Too bad he was gone already. I watched him go. I just saw him slip away down that long, black tunnel.",21
+SCULLY,No. We brought you back.,5
+WILLIS,You shot me dead! And then you let me die.,10
+SCULLY,"No. You won’t kill me, Jack.",6
+WILLIS,You call me that one more time I’ll make you stone-cold.,11
+LULA,"Easy, baby, easy. Not yet. Remember, she’s our ticket.",9
+WILLIS,Got any more of this soda?,6
+LULA,You just drank the last of it.,7
+SCULLY,Soda. How much of that have you had?,8
+WILLIS,What’s it to you?,4
+SCULLY,Jack Willis is diabetic. Which means you’re diabetic. Too much sugar in the system could lead to hyperglycemia.,18
+LULA,Maybe that’s why your stomach’s hurting so bad.,8
+SCULLY,Abdominal pain is the first sign of impending diabetic coma. You need insulin.,13
+WILLIS,"I feel myself getting into their heads and I'm scared by what I'm feeling. The intoxicating freedom that comes from disconnecting action and consequence. Theirs is a world where nothing matters but their own needs, their own impossible appetites and while the pleasure they derive from acts of violence is clearly sexual, it also speaks to what Warden Jackson called their operatic devotion to each other. It's a love affair I almost envy.",73
+MULDER,Katensville PD just reported a drugstore was broken into right here on the corner of Old Forge Road and Madison and I’m betting that Scully is somewhere within this five mile radius.,32
+AGENT BRUSKIN,Am I missing something?,4
+MULDER,200 units of NPH insulin were taken with a box of syringes. Willis is diabetic.,15
+AGENT BRUSKIN,Get me a census report. Let’s see how many households we’re talking about.,13
+WILLIS,"Quick,. quick, quick. My legs are starting to go numb.",10
+SCULLY,Hold on.,2
+WILLIS,What the hell …?,4
+LULA,Drop the needle.,3
+SCULLY,"Without this medicine, he dies.",5
+LULA,"Yes, so you said. Now, put it down … unless you want me to put you down with it.",19
+WILLIS,"What the hell are you doing, Lula? I need that medicine.",11
+LULA,"You still haven’t figured it out, have you?",8
+WILLIS,Figured what out?,3
+LULA,It wasn’t my brother who set you up.,8
+WILLIS,You?,1
+LULA,"Yeah, me. How do you think I got away so clean, huh? The minute you stepped into that bank I was out of there. I got the money, and I got rid of you. At least I thought I did.",40
+PHONE AGENT,Tactical. This is it.,4
+MULDER,Mulder.,1
+LULA,Listen carefully.,2
+MULDER,Where’s Willis?,2
+LULA,"Oh, he's lying around here somewhere.",6
+MULDER,Let me talk to Scully.,5
+LULA,Not this time.,3
+MULDER,We don’t deal unless we know Scully is alive.,9
+LULA,"She’s alive. She’s not happy, but she’s alive.",8
+MULDER,"You listen to me --- you lay one hand on Scully, and so help me, God ----",15
+LULA,"If I were you, I’d stop talking and start passing around the collection hat ‘cause if you ever want to see Scully again it’s going to cost you a million dollars. Have it by this time tomorrow. I'll tell you when and where.",43
+PHONE AGENT,We got it. It’s a 202 number.,7
+AGENT BRUSKIN,Great. Get the address.,4
+MULDER,Forget it. It’s Scully’s cellular number. They’re using her phone. We can’t trace them.,14
+LULA,"She’s not happy, but she’s alive. If I were you, I'd stop talking and start passing around the collection hat.",20
+TECH,"That last part, right?",4
+MULDER,"Yeah, but can you squelch the voice even more this time?",11
+TECH,Yep. Done.,2
+LULA,"If I were you, I'd stop talking and start passing around the collection hat.",14
+TECH,Yep. Yeah. There’s something there. Definitely something at the high end. Let me throw on an extra Z -14 filter and isolate everything over half a decibel.,27
+LULA,"If I were you, I'd stop talking and start passing around the collection hat.",14
+MULDER,There. That engine sound.,4
+TECH,Let’s clean it up some more.,6
+LULA,"If I were you, I'd stop talking and start passing around the collection hat.",14
+MULDER,Is that a small plane?,5
+TECH,"Taking off, by the sound of it. Give me a couple more minutes. We’ll guesstimate the altitude within a couple hundred feet.",22
+MULDER,Great!,1
+AGENT BRUSKIN,"All right, people, settle down and grab a seat. Mulder says he’s got something.",14
+AGENT WESTIN,What? An alien virus or new information on the Kennedy assassination?,11
+AGENT BRUSKIN,"Hey, Mulder’s all right. You should pay attention. You might learn something from the man.",15
+MULDER,"Okay, from our last phone contact we’ve identified what sounds like light aircraft taking off. Now, Washington County Regional Airport happens to fall within our area, just south of the state line. Since takeoffs are north to south it’s a fair bet that our target area lies along this flight path. For those of you who remember ninth-grade math that gives us an area of just over three square miles to cover --- roughly 1000 households. With 100 law enforcement officials at our disposal at about 30 households per man per hour we should be able to canvass the entire area in about three hours. Agent Bruskin will grid the target area and divide it among the teams.",117
+MULDER,"And for those of you ---who don’t know already this one’s important to me. So, uh, let’s do it right. Thanks.",21
+AGENT BRUSKIN,"Let me see Steinburg, Calder, and Westin.",7
+WILLIS,Scully?,1
+SCULLY,Hmn? Huh?,2
+WILLIS,Was there snow?,3
+SCULLY,"Yes, Jack. There was lots of snow.",7
+WILLIS,I can’t …,3
+SCULLY,It was December. It was the weekend after Thanksgiving.,9
+WILLIS,I remember ---- a red stove.,5
+SCULLY,Yeah. That’s right. There was a wood-burning stove right in the middle of the room.,15
+WILLIS,Cold.,1
+SCULLY,Yeah.,1
+WILLIS,So cold. I remember I had to wrap you in a blanket when the wood ran out.,17
+SCULLY,Yeah.,1
+SCULLY,"No! Jack, don’t close your eyes. Come on, keep talking. Jack, keep talking. Come on.",15
+DUPRE,Get down on the floor! Get over there!,8
+WILLIS,I’m gonna execute every one of you!,7
+SCULLY,No. No.,2
+DUPRE,Shut up and do it!,5
+LULA,Just a second. Who is it?,6
+BIBLE SALESMAN,"This is Brother T. Could I speak with you for just one moment, please?",14
+LULA,What do you want?,4
+BIBLE SALESMAN,"Just a few minutes of your time, ma’am. Beautiful day, isn’t it? I wonder if I can interest you in the Word of the Lord --- leather bound in black or red your choice.",33
+LULA,Go away.,2
+BIBLE COP,This is one-four. Target sighted.,5
+LULA,"Well, I guess it’s time to make that call.",9
+SCULLY,He’s dead. It’s all on you now. He’s dead because of you.,12
+LULA,Well … guess it’s over. Whoever you are.,8
+WILLIS,Don’t move.,2
+SCULLY,Jack!,1
+WILLIS,Shut up!,2
+LULA,I love you. Don’t you know? You’re why I came back.,11
+AGENT WESTIN,This is Westin. They battened down the hatches. There’s no clear shot from this side. What about you guys?,19
+MULDER,Ditto. Hold your positions. Keep radios at two.,8
+MULDER,How do we look?,4
+AGENT BRUSKIN,Backup’s in but we still don’t know what’s going on in there.,12
+MULDER,We will soon enough.,4
+LULA,"I kept a bottle of medicine in the other room. I’ll go get it. What do you say, huh? I’ll get it for you. Look, look, look. I love you. I love you, baby.",34
+WILLIS,No.,1
+LULA,"Listen, listen, listen. We still have her. We can get away with this.",13
+WILLIS,"I don’t think so, baby. Not this time.",8
+SCULLY,"Jack, put the gun down.",5
+WILLIS,You remember that --- light that I talked about? It’s beautiful. There’s nothing to be afraid of.,16
+SCULLY,No!,1
+AGENT BRUSKIN,"All right, FBI! FBI!",4
+SCULLY,Jack!,1
+MULDER,FB ----,1
+MULDER,"Scully, are you okay?",4
+SCULLY,Jack!?,1
+MULDER,Hi. I got this from the morgue along with the rest of his personal effects. I thought you might want it.,21
+SCULLY,"""Happy 35th, Love D."" I got it for him three years ago.",12
+MULDER,Next of kin?,3
+SCULLY,Uh .. no. Jack was an only child. Both his parents died when he was in college. There’s a kid over in Parklawn. Jack’s been his Big Brother so I’m going to go and see him tomorrow. What am I going to tell him?,43
+MULDER,The official story.,3
+SCULLY,Which is?,2
+MULDER,Fugitive Lula Phillips died yesterday in a shoot-out with federal agents which also resulted in the death of Special Agent Jack Willis – killed in the line of duty.,29
+SCULLY,What am I supposed to tell myself?,7
+MULDER,Good night.,2
+SCULLY,It’s not working. It stopped. At 6:47.,7
+MULDER,The exact time that Jack went into cardiac arrest at the hospital.,12
+SCULLY,What does that mean?,4
+MULDER,It means … It means whatever you want it to mean. Good night.,13

@@ -1,0 +1,381 @@
+speaker,line,words
+DRIVER,Mr. Simon? Are you ready?,5
+MAN,Yeah.,1
+GUARD,"Excuse me, Warden. It's 5:00, sir.",6
+WARDEN,How's Neech?,2
+GUARD,He's still in with his wife.,6
+WARDEN,"No, I mean how is he? How's he doing?",9
+GUARD,"Well, he won't eat his meal and he won't see the chaplain. Told him to get the hell out.",19
+WARDEN,What about the hired man?,5
+GUARD,He's traveling.,2
+WARDEN,All right. Let's get Neech prepped.,6
+GUARD,"Yes, sir.",2
+WARDEN,"If God can't save his sorry ass, neither can I.",10
+ROQUE,"Time's up, Neech! 2,000 volts, man. You ain't never coming back, you freak.",13
+DANIELLE MANLEY,"It's just like I've always told you. I swear on my life, Neech.",13
+GUARD,Time to go.,3
+DANIELLE MANLEY,I ain't ever going to love another man. You hear me? I won't. I won't betray our love - ever.,19
+GUARD,"Time, Neech. Time to go.",5
+DANIELLE MANLEY,"That phone call's gonna come, and the governor is gonna come through.",12
+NEECH MANLEY,Got to go now.,4
+WARDEN,We've got a hood if you want it. It's your option.,11
+NEECH MANLEY,No.,1
+WARDEN,"Is there anything you want to say, Neech? Last words?",10
+NEECH MANLEY,"Yeah. I've been here 11 years, 56 days and now you're gonna murder me. The Lord says thou shall be merciful and just. I know no mercy. Allah says the spirit shall rise again and be reborn into this life...",40
+WARDEN,"You should begin, Father.",4
+NEECH MANLEY,... The soul shall be recast born unto new flesh...,9
+FATHER,"""The Lord is my shepherd...""",5
+NEECH MANLEY,"... I will return to avenge all the petty tyranny and the cruelty I have suffered. I will be recast, reincarnated, reunion of spirit and flesh.",25
+NEECH MANLEY,"... Mark my words. Five men will die. Five men will go down! This will be my justice! This will be my law! This will be my capital punishment, and no stay of execution will be granted...",36
+NEECH MANLEY,"... for there is no prejudice, no evidence to be admitted... no lawyer...",12
+WARDEN,Fry him.,2
+NEECH MANLEY,... who did not perform his job. These men will die righteous deaths!,12
+MULDER,"Napoleon ""Neech"" Manley. He was convicted in 1984 for double murder in the holdup of a Florida liquor store. The actual gunman was killed in the pursuit. Manley was driving the getaway car and got sentenced to death.",38
+SCULLY,He was put to death in the electric chair three days ago.,12
+MULDER,"Yeah, he'd been to the chair twice before but the governor had granted him last-minute stays.",16
+SCULLY,Third time's a charm. What's your interest in this?,9
+MULDER,"Well, Manley was interesting. He was well-read, charismatic. He became a writer, a kind of prison philosopher. A week before his execution, word went through the prison that Neech said he was gonna be reincarnated. He was gonna come back from the dead.",43
+SCULLY,"Well, reincarnation has always been popular on death row for obvious reasons.",12
+MULDER,"Apparently, this was more than just a dying man's hope against hope.",12
+SCULLY,What do you mean?,4
+MULDER,Manley didn't just claim that he was gonna come back but that he was gonna take vengeance on five men who had mistreated him.,24
+MULDER,"Yesterday, a death row guard was found dead inside the cell that Manley had occupied those 11 years. His death cannot be explained.",23
+SCULLY,Has a cause of death been determined?,7
+WARDEN,"Suffocation, near as we can tell. Somebody must have snuffed him with a pillow.",14
+MULDER,Any idea how one of your guards could get murdered in an empty cell like this?,16
+WARDEN,"No. It's not supposed to happen, not with all the precautions that we're taking.",14
+SCULLY,I see the guards here wear panic devices. Was the victim's activated?,12
+WARDEN,No. Apparently he never touched it.,6
+MULDER,"According to our reports, there were threats this might happen.",10
+WARDEN,"There's always threats of violence in here. Prison's nothing but a police state, basically.",14
+MULDER,Do you give any credence to Neech Manley's claims that he was gonna come back and take revenge?,18
+WARDEN,"Neech Manley... a smart man, very smart man. In fact, if he'd stayed outside I would have figured him for a Nobel Prize. But he made a mistake and paid for it with his life. Now, you take a man of that intelligence, you put him inside for 10 or 11 years - you're gonna have to pay for it.",59
+SCULLY,What do you mean?,4
+WARDEN,"Well, there's nothing but bitterness and resentment in here seven days a week, 24 hours a day, 365 days a year. It gets honed to a real fine point.",29
+MULDER,So you're saying that Manley planned this and is carrying it out with the help of someone else.,18
+WARDEN,"Elaborate as Shakespeare. Now, if you want to see the victim's body...",12
+FOURNIER,Visitors coming through. Woman on the block.,7
+WARDEN,We're holding the corpse until the state pathologist comes down this afternoon and conducts the official autopsy. That information should help us solve the murder.,25
+MULDER,Did Manley have many friends among the prisoners?,8
+WARDEN,"A man has to have friends in prison to keep an eye on his enemies. Mostly, people were just afraid of him.",22
+SCULLY,Warden?,1
+WARDEN,What is it?,3
+SCULLY,The body. I think you should take a look. I suggest you get it into refrigeration or you're not gonna have anything left to autopsy.,25
+WARDEN,"Oh, God.",2
+MULDER,I've been told you believe Neech Manley's claims.,8
+SPERANZA,"It's not a matter of how or if he's coming back. The question is, when... is he coming back again?",20
+MULDER,"What are you saying, Speranza? You believe Manley killed that guard?",11
+SPERANZA,Well how else would you explain it?,7
+MULDER,A prisoner waits for an opportunity...,6
+SPERANZA,"Hey, look around. We ain't got but an opportunity to itchy-scratchy outside our cells.",14
+MULDER,"Yeah, but you've got prisoners on work detail. Trustees - a man slips away.",13
+SPERANZA,"Oh, this is ""Q"" block, death row. Don't nobody come in and out here without a guard watching and lately, you got double that.",24
+MULDER,Why?,1
+SPERANZA,'Cause everybody's afraid of what they say can't be true. Neech is back.,13
+MULDER,Reincarnated.,1
+SPERANZA,"Well, he would have called it ""transmigration of the soul.""",10
+MULDER,Into what form?,3
+SPERANZA,"You, me, this mattress - I don't know. He didn't specify, but he's back. I can feel it. The man was electric, you know what I'm saying? Pure energy.",28
+SCULLY,Would it be possible to see the cell where the guard was murdered?,13
+FORNIER,I'll open it up for you.,6
+MULDER,Any idea how he did it?,6
+SPERANZA,"Like I said, the man...",5
+FORNIER,Nothing's been touched. It's pretty much the way Neech left it.,11
+SCULLY,Did you know Neech Manley?,5
+FORNIER,"Oh, yeah. I knew him.",5
+SCULLY,What was he like?,4
+FORNIER,"Neech? Neech was so full of b.s., he couldn't stand it.",11
+SCULLY,How is that?,3
+FORNIER,"He actually started to believe that crap he'd been preaching all those years, as if knowing all them religions made him some kind of god.",25
+SCULLY,Who do you think killed the guard?,7
+FORNIER,"I don't know who killed him, but I damn well know who didn't kill him.",15
+SCULLY,Are you afraid at all?,5
+FORNIER,Me? I just keep my ass covered and my eyes peeled. Same as always.,14
+INMATE,"Fornier! Hey, down here!",4
+FORNIER,I'm gonna check back on your partner.,7
+FORNIER,Everything okay in there?,4
+MULDER,"Yeah, fine.",2
+PARMELLY,"Shh! I'm not gonna hurt you. I only want to talk to you, okay? I know who he's going to kill. There's a list. One of the cons has it. A man named Roque.",34
+SCULLY,Who are you?,3
+PARMELLY,My name's Parmelly. I want to help you.,8
+FORNIER,Agent Scully?,2
+SCULLY,I was just looking around.,5
+FORNIER,Not a place for a woman to be doing that alone.,11
+SCULLY,Mulder. I'm ready to go now.,6
+MULDER,Okay. I'll be right there.,5
+SCULLY,Guard!,1
+MULDER,"What's wrong, Scully?",3
+SCULLY,I'm just ready to get out of here.,8
+GUARD,"I want every paint brush and putty knife to be accounted for, understand? Come on, gentlemen, move it.",18
+INMATE,It's the guard. It's Fornier.,5
+GUARD,Come on you guys. Break it up. Get back. I said get back.,13
+PATHOLOGIST,I guess they haven't recovered the body yet so it's going to be difficult to establish an exact cause of death.,21
+SCULLY,What did your preliminary exam turn up?,7
+PATHOLOGIST,"Well, it looks like the head was severed just below the jawline with repeated stabbing blows from a putty knife. There were no other indications of trauma to the head.",30
+SCULLY,"From the eyewitness reports, there were already fly larvae infesting the flesh. That seems unusual considering the short time-of-death window.",20
+PATHOLOGIST,"Not altogether. Here, let me show you this. Lucilia cuprina - better known as the green bottle fly. They can lay their eggs within a minute after death occurs, and they breed more rapidly in a hot, humid environment.",38
+SCULLY,In the anaerobic environment inside the paint can?,8
+PATHOLOGIST,"On my autopsy on the first victim, the lungs were absolutely alive with infestation.",14
+SCULLY,Hmmm. What was determined to be the cause of that death?,11
+PATHOLOGIST,"Best I can figure, given the lack of indicators, he was suffocated to death. Either that... or he drowned.",19
+GUARD,"You've got a visitor, Roque.",5
+MULDER,I hear you have a list.,6
+ROQUE,I prefer not to talk about it here. Not on the block.,12
+MULDER,Guard?,1
+SPERANZA,"You's a dead man, Roque! You hear me?! I'm gonna peel that head like an onion! I'm gonna to break you off a big chunk! You hear me?! He ain't gonna tell you nothing but a bunch of lies! You talk, punk, I will make you my Maytag! He's alive!",50
+MULDER,How did you come by this list you claim to have?,11
+ROQUE,I heard Neech on the bars one night telling Speranza.,10
+MULDER,How many names are on the list?,7
+ROQUE,Five. Just like Neech said.,5
+MULDER,So you knew those two guards were gonna be murdered?,10
+ROQUE,"I knew they were on the list, yeah.",8
+MULDER,Who do you think killed them?,6
+ROQUE,I don't know. I just know who's on the list.,10
+MULDER,"You want to make some kind of deal, huh?",9
+ROQUE,That's right. I want a transfer out of this hole.,10
+MULDER,Why? Are you on the list?,6
+ROQUE,I ain't saying nothing. Not until I get my deal.,10
+MULDER,"Well, what if they don't give you what you want?",10
+ROQUE,Then they're gonna to see the other three die.,9
+WARDEN,I can't do it. I can't make that deal.,9
+MULDER,You don't have the authority?,5
+WARDEN,"No, it's not that. If I make that deal I might as well go into the deal-making business. Every con with half a brain would come up with a scheme like that.",32
+SCULLY,"Well, what if it saves three lives? Isn't that a deal worth making?",13
+WARDEN,"Look, my job is about controlling anarchy. I don't run this prison, I just patrol it. Basically, it's war in here. We have freedom. They don't. Anything these men want, somehow it finds its way in here. They want another prisoner dead somebody's gonna find a way to put a shiv in.",52
+SCULLY,These aren't prisoners. These are guards you've got being murdered.,10
+WARDEN,"Yes, and if I back down now, all I'll be doing is sending a message about the benefits of killing prison guards. There's a conspiracy at work here. I don't know who's behind it. But I am gonna crack it. That's my job.",43
+WARDEN,What the hell? Guard! Guard! Get in here.,8
+SCULLY,"I guess you'll be able to finish up that autopsy now, Scully.",12
+SCULLY,He had quite a library.,5
+MULDER,Yeah.,1
+SCULLY,Looks like Neech Manley knew his Bible.,7
+MULDER,"Listen to this. ""I come in return to the beginning of the end to begin again the journey of souls... the godhead universal for whom there is no death only life eternal.""",32
+SCULLY,What's that from?,3
+MULDER,"Neech Manley, 1994. This stuff goes on for hundreds of pages. There's references to the Hindu Atman, Prarabdha, the Rosicrucians, Zoroastrianism. The man was obsessed with reincarnation.",27
+SCULLY,Being obsessed with it doesn't mean you can do it.,10
+MULDER,Unless he knew something we don't.,6
+SCULLY,Like what? The secret password?,5
+MULDER,"Every major world religion encompasses the idea of life after death. That means millions, even billions of people believe in some kind of transmigration or rebirth of the soul.",29
+SCULLY,"I'm sorry, Mulder, that's not what I learned in catechism.",10
+MULDER,"Well, even Christianity teaches about the resurrection and ascendancy of the heavenly body.",13
+SCULLY,Do you honestly believe that Neech Manley came back from the dead to kill those two men?,17
+MULDER,Is there another competing theory?,5
+SCULLY,"A very good one, and one much more believable.",9
+MULDER,"That this is a complex scheme, that the headless man planted behind the warden's desk is the work of a conspiracy of inmates.",23
+SCULLY,Or guards.,2
+MULDER,"Yeah, but imagine if it were true, Scully. Imagine if you could come back and take out five people who had caused you to suffer. Who would they be?",29
+SCULLY,I only get five?,4
+MULDER,"I remembered your birthday this year, didn't I, Scully? Well, here's somebody we haven't talked to yet. She should know better than anybody else.",24
+MULDER,Mrs. Manley?,2
+DANIELLE MANLEY,Yes?,1
+MULDER,We're from the FBI. We'd like to ask you a few questions about your husband.,15
+DANIELLE MANLEY,"I had this dream... had it many times. That they put Neech in that chair and they flipped the switch, but that he wouldn't die. They couldn't kill him. He's a powerful man. Very powerful man.",36
+MULDER,Did he ever share his thoughts about dying with you?,10
+DANIELLE MANLEY,Neech wasn't afraid to die.,5
+SCULLY,Because of his beliefs?,4
+DANIELLE MANLEY,"Sometimes... see, I only got to have personal visiting days right before the execution dates. There was three in the last 11 years. But sometimes... I could feel the power of his beliefs right through that visiting glass.",38
+MULDER,"You think he's come back, don't you?",7
+DANIELLE MANLEY,You know... I think that if anyone could... it'd be Neech.,11
+GUARD,"Get up, Roque. Putting on the chains.",7
+ROQUE,"Hey, man... for what?",4
+GUARD,The warden wants to talk to you.,7
+GUARD,Other way.,2
+ROQUE,Where are we going?,4
+GUARD,This way.,2
+ROQUE,"Let go of my arm, I'm going! What you want with me, anyway? Stop pushing!",15
+WARDEN,"Hey, Roque. I want to talk to you about this list.",11
+ROQUE,I ain't saying nothing.,4
+WARDEN,"Come on, Roque, you got a big mouth. What are you shutting up now for? Huh?",16
+WARDEN,"Who's on the list? Am I on the list, Roque? Am I on that list?! Is my name on that list?!",21
+ROQUE,"You're number five. How's it feel to be on death row, Warden?",12
+SCULLY,Did you catch her body language?,6
+MULDER,"She was nervous, or scared.",5
+SCULLY,Of what? That her husband's gonna keep his word?,9
+MULDER,A lot could have happened in her life in those 11 years Neech was in prison. A lot probably did.,20
+SCULLY,You mean she thinks she's on the list?,8
+MULDER,"I don't know, but I've been thinking a lot about that list, Scully.",13
+SCULLY,Scully. We're on our way. That was the warden. There's been another death.,13
+MULDER,Who?,1
+SCULLY,Roque. They found him beaten to death in the showers on death row.,13
+PARMELLY,Gotta go now.,3
+DANIELLE MANLEY,God. You scare me when you do that.,8
+PARMELLY,Why? You think it's him?,5
+DANIELLE MANLEY,Wh-where are you going?,4
+PARMELLY,I'm going to work.,4
+DANIELLE MANLEY,"Parm, I'm scared. You feel me? I'm shaking like a little kitten.",12
+PARMELLY,Hey. Now what are you scared of?,7
+DANIELLE MANLEY,"What if somebody finds out? I-I mean, what if...",9
+PARMELLY,"Will you stop your worrying? Everything's gonna be all right. Hmm? He ain't coming back, Danielle. He ain't.",18
+SCULLY,Who found the body?,4
+WARDEN,One of my guards.,4
+MULDER,No one heard anything?,4
+WARDEN,"Nobody who should have. I'm ordering a lockdown of this facility until the situation is brought back under control. As far as I'm concerned, anyone who had contact with Neech Manley is a suspect.",34
+MULDER,Warden?,1
+PARMELLY,I warned you. That's three.,5
+MULDER,Warden? Why Roque?,3
+WARDEN,Neech hated Roque. They pretty near tried to kill each other once.,12
+MULDER,"Well then, why the other victims?",6
+WARDEN,Neech probably hated them too.,5
+MULDER,Did Neech have a history with the guards who died?,10
+WARDEN,"Neech had a small behavioral problem, about a year, a year and a half ago. Fornier and the other men had to, uh, discipline him.",25
+MULDER,How badly was he beaten?,5
+WARDEN,He took his licks.,4
+MULDER,"So there's a pattern here, a logic. All these men had a violent history with Neech. They all caused him to suffer physical pain.",24
+WARDEN,What are you getting at?,5
+MULDER,"A lockdown may not solve your problem, warden.",8
+WARDEN,Sure as hell'll put a lid on it.,8
+MULDER,"If it's a conspiracy among the inmates, but how many inmates could have put that body in your office? How many could have gotten access?",25
+WARDEN,You're saying the guards are involved?,6
+MULDER,"I'm saying that Roque may not be victim number three. Now, I need a name from you. I need the name of Neech's executioner.",24
+WARDEN,It's confidential.,2
+MULDER,How many men know it?,5
+WARDEN,"Three men, including me. We place an ad, pay him in cash. There's no written record.",16
+MULDER,"Well, his life may be in danger.",7
+WARDEN,There is no chance...,4
+MULDER,"Well look at it this way, warden. If I'm right, it'll reduce your list of suspects to four.",18
+WARDEN,I said three men knew that name.,7
+MULDER,I'm counting Neech Manley.,4
+MULDER,Mr. Simon? Perry Simon? Couple of days' worth of mail.,10
+SCULLY,Mulder.,1
+MULDER,What is it?,3
+SCULLY,"Oh, God.",2
+SPERANZA,"I told you, didn't I?",5
+MULDER,"You told me everything but what I need to know. Who else is on that list, John?",17
+SPERANZA,I can't tell you that.,5
+MULDER,"How's he doing it, John?",5
+SPERANZA,I really can't tell you.,5
+MULDER,And you're just gonna let those men die?,8
+SPERANZA,Ain't my call!,3
+MULDER,"Well, they're going to pin it on somebody! They're gonna pin it on you...",14
+SPERANZA,They're gonna what? What are they going to do to me?,11
+MULDER,"Put you in solitary, one hour a week outside your cell, no contact with anyone. They say it can break a man.",22
+SPERANZA,"I can't tell you, man.",5
+MULDER,You're afraid of Neech?,4
+SPERANZA,I saw him.,3
+MULDER,You saw Neech.,3
+SPERANZA,"Standing outside my cell, big as life.",7
+MULDER,"Tell me who else is on the list, John. Who's next?",11
+SPERANZA,"I can't tell you who's on the list. But I can tell you, Roque wasn't on it.",17
+MULDER,Roque's not on it?,4
+SCULLY,"Mulder, can I have a minute?",6
+SCULLY,I've just been going over Neech's phone calls over the last two months. Over 30 of them were made to a man named Danny Charez - twice as many as to his own wife.,33
+MULDER,And?,1
+SCULLY,Charez has been here three times to see Speranza since the first murder. He could be working with him on the outside.,22
+CHAREZ,"Look, I've got nothing to hide.",6
+SCULLY,"Okay then, what's your business with John Speranza?",8
+CHAREZ,I was trying to get Speranza a deal.,8
+SCULLY,What kind of deal?,4
+CHAREZ,Retrial maybe. Reopen the case. I got some connections with the government.,12
+MULDER,What kind of connections?,4
+CHAREZ,"I used to be an attorney. Actually, I represented Neech Manley.",11
+SCULLY,You were Neech Manley's defense lawyer?,6
+CHAREZ,I was 26. I was court-appointed. I had no business on a death penalty case.,15
+MULDER,Why help Speranza now?,4
+CHAREZ,I heard about Neech's death list. Word gets around. And I know he blames me for him getting fried so I figured I got to try something.,27
+MULDER,You think Speranza's got some sway with Neech?,8
+CHAREZ,"I'm just trying to save my ass. I've been to the Governor, Speranza, Neech's wife...",15
+SCULLY,Why Neech's wife?,3
+CHAREZ,"Maybe she's got some mojo with him too. I don't know. Anyway, I got run out of there by her crazy boyfriend.",22
+SCULLY,She has a boyfriend?,4
+CHAREZ,Works at the prison. Waving a freakin' gun in my face.,11
+WARDEN,"Hello, John.",2
+SPERANZA,What do you want?,4
+WARDEN,"Oh, no, sit down, sit. I'm here to do you good.",11
+SPERANZA,What you talking about?,4
+WARDEN,"I want to be your advocate. I'm gonna get them to look at your case again, pull a few strings in Tallahassee.",22
+SPERANZA,And what do you want from me?,7
+WARDEN,"Just call off the dogs. That's all. What do you say? Scratch my back, I'll scratch yours.",17
+SPERANZA,All right.,2
+WARDEN,I'll have somebody from the Governor's office down here to see you by this weekend.,15
+DANIELLE MANLEY,Where have you been?,4
+PARMELLY,Out.,1
+DANIELLE MANLEY,"Out. What do you mean, out?",6
+PARMELLY,What's with you?,3
+DANIELLE MANLEY,You see who's sitting outside watching this house? You see that car out there? You know who that is? Huh? The stupid FBI. They came here tonight asking about you.,30
+PARMELLY,About me?,2
+DANIELLE MANLEY,Said they saw you waving a gun in some lawyer's face in my front yard.,15
+PARMELLY,That's crazy!,2
+DANIELLE MANLEY,"I thought you said nobody knew about us. Now lookit, just lookit.",12
+SCULLY,A woman gets lonely... sometimes she can't wait around for a man to be reincarnated. I think we should notify the warden.,22
+WARDEN,Is that the man?,4
+SCULLY,That's him. Parmelly.,3
+WARDEN,"Yeah, give me, uh, Vincent Parmelly's work sheet for the last week, will you please? Thank you. Now, you say you saw him with Neech's wife?",26
+SCULLY,Yes. I hadn't reported it but that same guard also cornered me and made an overture for prisoner Roque.,19
+WARDEN,He's tied in with Roque?,5
+SCULLY,"Well, does it make sense to you that Parmelly is Neech's assassin?",12
+WARDEN,I don't know Parmelly that well. He's a transfer in from out of state. He's only been here six months.,20
+SCULLY,"Well, according to an attorney we spoke to, he had brandished a gun at the residence.",16
+WARDEN,What attorney?,2
+SCULLY,A man named Charez. You know him?,7
+WARDEN,Everybody knows Danny Charez. He was found dead earlier this evening at his apartment.,14
+MULDER,Murdered?,1
+WARDEN,"Suffocated to death, or so it seems.",7
+SCULLY,"Well, he could be the fifth victim.",7
+WARDEN,I think somebody ought to go out and arrest Vincent Parmelly.,11
+DANIELLE MANLEY,"Oh, my God. No...",4
+DANIELLE MANLEY,Neech?,1
+PARMELLY,What the hell you doing?,5
+DANIELLE MANLEY,He's here.,2
+PARMELLY,What are you talking about?,5
+DANIELLE MANLEY,Neech - I saw him.,4
+PARMELLY,"Somebody's here, but it ain't Neech.",6
+PARMELLY,They're coming here.,3
+DANIELLE MANLEY,"It's you, isn't it?",4
+PARMELLY,What?,1
+DANIELLE MANLEY,You're him.,2
+PARMELLY,"You're crazy, baby.",3
+PARMELLY,"Put that gun away, Danielle. That's the police out there.",10
+MULDER,This is Agent Mulder. Please open the door.,8
+DANIELLE MANLEY,I should have known. I should have opened my eyes.,10
+MULDER,"Mrs. Manley, we're federal agents. Open the door.",8
+DANIELLE MANLEY,The way you touched me...,5
+MULDER,Danielle?,1
+DANIELLE MANLEY,... and the sound of your voice.,6
+PARMELLY,"Point that gun away, Danielle. I'm telling you - they're gonna put you away just like your old man.",18
+DANIELLE MANLEY,Don't you come near me.,5
+PARMELLY,You're seeing ghosts.,3
+MULDER,"Mrs. Manley, open the door.",5
+SCULLY,"She's got a gun on Parmelly. Center room, facing away.",10
+MULDER,On a count...,3
+MULDER,Drop your weapon!,3
+SCULLY,Put it down! Put it down!,6
+MULDER,"Drop your weapon, Danielle. Let's get a paramedic in here.",10
+DANIELLE MANLEY,It was him. He came back.,6
+MULDER,Forget it.,2
+DANIELLE MANLEY,I swear it was him. It was Neech.,8
+GUARD,"No, go this...",3
+SPERANZA,What you talking about?,4
+GUARD,We're going this way. Somebody wants to talk to you.,10
+SPERANZA,What kind of crap is this? Who wants to talk to me?,12
+SPERANZA,"Well, the warden's office is that way.",7
+GUARD,We're going down here.,4
+SPERANZA,Uh-uh. No.,2
+GUARD,Why not.,2
+SPERANZA,"Man, this is bull! I ain't going for it! What the hell is this, man? Why do you want to talk to me in the shower for anyway, huh? What the...",31
+WARDEN,John. Hear about your friend Parmelly tonight?,7
+SPERANZA,He's not my friend.,4
+WARDEN,"Oh, he's not your friend. Well, it doesn't matter any more anyway, does it, huh?",15
+SPERANZA,You promised me a deal.,5
+WARDEN,"Yeah, well, that was when there was a deal to be made.",12
+WARDEN,"Who else was in on it, John?",7
+SPERANZA,I can tell you.,4
+WARDEN,Tell me what?,3
+SPERANZA,I can tell you what I know.,7
+WARDEN,"Well, tell me what you know.",6
+SPERANZA,Neech's list... got one man left to die.,8
+INMATES' VOICES,"What's going on up there? Something's going on. Hey, leave him alone!",12
+SCULLY,Why are we stopping?,4
+MULDER,"You know, it just doesn't make sense.",7
+SCULLY,What?,1
+MULDER,Laying it all on Parmelly.,5
+SCULLY,I thought we already went through this.,7
+MULDER,It doesn't bother you that he was only on duty for one of the guards' murders or that he wasn't among the three men that knew the name of Neech's executioner?,31
+SCULLY,Then he was working with someone. They just haven't found out who.,12
+MULDER,"Well, why would he come to you and try to get you the list?",14
+SCULLY,To use fear as leverage for Roque's deal with the warden.,11
+MULDER,"But Neech hated Roque. If Parmelly was working with Neech, he wouldn't have done that, would he?",17
+SCULLY,"I don't know. Maybe Parmelly wasn't sticking with the original plan. I'm sure this shacking up with Neech's wife wasn't part of it either, or maybe Neech's wife killing Parmelly was part of the plan from the beginning so that he'd take the truth to the grave with him.",49
+MULDER,I just don't see the motives. Do you? I don't think Parmelly killed anybody.,14
+SCULLY,"Well then, who did? Neech Manley?",6
+MULDER,Speranza and Neech's wife both said they saw him.,9
+SCULLY,"It's over, Mulder. Let's just go home.",7

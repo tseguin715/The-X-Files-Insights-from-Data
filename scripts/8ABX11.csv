@@ -1,0 +1,247 @@
+speaker,line,words
+PAUL HANGEMUHL,Marie!,1
+MARIE HANGEMUHL,No! Please!,2
+FLASHBACK SCULLY,Mulder was dying... it's all right here. For a year he was going to doctors.,15
+FLASHBACK SCULLY,There's a clear record of his decline.,7
+FLASHBACK DOGGETT,How well did you really know him? How far would Mulder go?,12
+FLASHBACK SCULLY,How far would he go for what?,7
+FLASHBACK DOGGETT,The truth... his truth.,4
+FLASHBACK DOGGETT,Whatever you and I may differ on...,7
+FLASHBACK DOGGETT,"I'll find him, Agent Scully.",5
+SHERIFF KURT FREY,You must be Special Agent Doggett. I'm Sheriff Frey. Just call me Kurt.,13
+DOGGETT,"I appreciate the help, Kurt.",5
+SHERIFF KURT FREY,Shame to have you drive all the way up here on a Saturday. Hate to say you're wasting your time.,20
+DOGGETT,Not if you confirm what you told me before.,9
+SHERIFF KURT FREY,"Yes, sir. Agent Mulder was here, all right... last spring.",10
+DOGGETT,"You said on the phone Agent Mulder was investigating a missing woman, Marie Hangemuhl.",14
+SHERIFF KURT FREY,"Well, she wasn't exactly missing. He wasn't exactly investigating, either.",10
+DOGGETT,I'm not following you.,4
+SHERIFF KURT FREY,It was a false report. Marie never even left the house. The only reason Agent Mulder found out about it was because Marie's sister got all excited about nothing. There. See for yourself.,33
+SHERIFF KURT FREY,"Say, I've got some hot coffee and a danish here if you're interested.",13
+DOGGETT,"No, thanks.",2
+SHERIFF KURT FREY,"You know, if you don't mind me asking, Agent Doggett, what's your interest? I mean, I was actually surprised that one FBI agent gave this case a thought.",28
+DOGGETT,It's not so much the case as it is the agent. Agent Mulder disappeared last May.,16
+SHERIFF KURT FREY,Sorry to hear that. I still don't see what that has to do with us.,15
+DOGGETT,Did Agent Mulder have a personal connection here-- something that might not be in your report?,16
+SHERIFF KURT FREY,"No, I don't think he'd ever been to Squamash before, as far as I know.",15
+DOGGETT,I have cell phone records showing that Agent Mulder came back here the week before he disappeared.,17
+SHERIFF KURT FREY,What for?,2
+DOGGETT,That's what I want to know. It's my job to find him.,12
+PAUL HANGEMUHL,Kurt?,1
+SHERIFF KURT FREY,"Paul, this is Agent Doggett from the FBI. He'd like to ask you and Marie some questions.",17
+PAUL HANGEMUHL,"Marie, can you come out here a minute?",8
+PAUL HANGEMUHL,This is an FBI agent. He wants to ask us a few questions. What's this all about?,17
+DOGGETT,"A colleague of mine, Fox Mulder, questioned you last spring.",10
+PAUL HANGEMUHL,"Come on, Kurt. This again? Look, this was a personal matter that's been blown way out of proportion.",18
+SHERIFF KURT FREY,"He's not investigating you, Paul. He's investigating Agent Mulder.",9
+DOGGETT,If you could tell me what you and Agent Mulder talked about… MULDER is talking to PAUL HANGEMUHL and MARIE HANGEMUHL. MULDER presses his fingers against the bridge of his nose as he asks the question. He looks as if he is in pain.),44
+MULDER,"You told your sister you were going to disappear, Mrs. Hangemuhl. Tonight.",12
+PAUL HANGEMUHL,"I told you already. We had a fight, she was going to leave, not disappear.",15
+MULDER,I'm talking to your wife.,5
+MULDER,Mrs. Hangemuhl.,2
+MARIE HANGEMUHL,It's what he said. My sister lives out of state. I was going to go... I didn't want her to worry.,21
+MULDER,"You told your sister a story, a story you were afraid of?",12
+PAUL HANGEMUHL,This is crazy. There is no crime here!,8
+MULDER,"I don't think you were going anywhere tonight, Mrs. Hangemuhl. I think someone or something was coming here. And I think maybe it still is.",25
+PAUL HANGEMUHL,We had a fight. We patched things up and that was the end of it.,15
+DOGGETT,"The Sheriff's report says that Agent Mulder spoke to you on Saturday, May 6th.",14
+MARIE HANGEMUHL,"Yeah, I-I guess so.",4
+DOGGETT,Did you see Agent Mulder again that night?,8
+PAUL HANGEMUHL,"No, he never came back.",5
+DOGGETT,"According to his cell phone records, he did. To this area, anyway.",12
+DOGGETT,What's that there? Is that a dialysis machine?,8
+PAUL HANGEMUHL,My wife suffers from end-stage renal failure. She's a very sick woman.,12
+PAUL HANGEMUHL,Anything else?,2
+DOGGETT,One thing. This someone or something Agent Mulder said might be coming?,12
+MARIE HANGEMUHL,"I just told my sister I was afraid of the stories. That's all, I didn't mean...",16
+PAUL HANGEMUHL,"Let me ask you something, Agent Doggett. Was this Mulder guy sick? Sick in the head, I mean? Is that why you're checking into this?",25
+DOGGETT,"What stories, Mr. Hangemuhl?",4
+PAUL HANGEMUHL,An Indian folk legend about a creature who lives out in the woods.,13
+PAUL HANGEMUHL,"I've heard these stories since I was a kid. So your colleague twisted it into a theory that she was going to disappear, all right 'cause this creature was coming to eat her.",33
+DOGGETT,Eat her?,2
+PAUL HANGEMUHL,Alive.,1
+SHERIFF KURT FREY,"Like I said, Agent Doggett, I hate to waste your Saturday.",11
+DOGGETT,"The Hangemuhls own a gun, Kurt?",6
+SHERIFF KURT FREY,"No, I don't think so. Why?",6
+DOGGETT,I saw three holes plastered over in their living room wall.,11
+SHERIFF KURT FREY,Gunshots?,1
+DOGGETT,Possibly.,1
+SHERIFF KURT FREY,You want to go back and ask 'em?,8
+DOGGETT,No.,1
+PAUL HANGEMUHL,"Kurt, they told me you were out here. I just can't believe it. Is it true?",16
+SHERIFF KURT FREY,That's what I'm here to find out.,7
+DOGGETT,"Were you aware Mulder carried a second weapon, a Walther PPK?",11
+SKINNER,"Yeah, in an ankle holster.",5
+DOGGETT,I found it hidden under his sink. The clip was three rounds shy.,13
+SKINNER,What's this about?,3
+DOGGETT,Three shots were fired in a house where Mulder investigated a case last May. He never filed a report on the case or the discharge of his weapon. Do you know any reason why?,34
+SKINNER,"If Mulder did these things, he would've reported them.",9
+DOGGETT,"Mulder submitted case reports, all right but they indicate he was here in Washington on days his cell phone records prove he was in Pennsylvania.",25
+SKINNER,Are you calling Mulder a liar?,6
+DOGGETT,This is the muzzle of Mulder's pistol. You see that there?,11
+SKINNER,It's blowback.,2
+DOGGETT,Macrospatter of dried blood in a semi-circular pattern. Which indicates Mulder fired close-range at something or someone.,17
+SKINNER,I've heard enough.,3
+DOGGETT,Where are you going?,4
+SKINNER,"It's where you're going, Agent Doggett. You're trying to build a case that what? Mulder killed a man and then made himself disappear? That's not what happened. I told you before, he was abducted. I saw it!",37
+DOGGETT,Agent Mulder signed falsified case reports.,6
+SKINNER,"Oh, come on, John, this isn't about Mulder, it's about you! Your career. You give the FBI a narrative for Mulder's disappearance, you're off the X-Files and back on the fast-track to the directorship.",34
+DOGGETT,I'm just trying to find the truth.,7
+SKINNER,You want the truth? Then ask Agent Scully!,8
+DOGGETT,I can't do that.,4
+SKINNER,Why not?,2
+DOGGETT,"Because she... she signed those case reports, too.",8
+SKINNER,"You take that story to OPR, the accusation alone could cost Scully her job.",14
+DOGGETT,I'm not taking it to OPR. I'm taking it to you.,11
+DOG OWNER,Hold back.,2
+SHERIFF KURT FREY,We're giving you two minutes to bring it outside! Then we're coming in to get it!,16
+SHERIFF KURT FREY,Where is it?,3
+BLONDE RUSTIC WOMAN,It's dead. You know that. Dead and buried.,8
+SHERIFF KURT FREY,It's here. We've come for it.,6
+PAUL HANGEMUHL,You lied to us!,4
+BLONDE RUSTIC WOMAN,"Please, don't! Don't do this! Don't do this to him!",10
+DOGGETT,Sheriff Frey.,2
+SHERIFF KURT FREY,Back again?,2
+DOGGETT,This is Assistant Director Skinner. We drove up when we couldn't reach you on the phone.,16
+SHERIFF KURT FREY,"Yeah, sorry about that. I went hunting and turned off my radio. So. You find something?",16
+DOGGETT,You might say that.,4
+SKINNER,"You filed this death certificate at the county seat, Sheriff. We're hoping you might be able to tell us something about it.",22
+SHERIFF KURT FREY,"Yeah. Yeah, last spring. An unidentified transient. Local woman found the body in the woods.",15
+SKINNER,You got no suspects? No motive?,6
+SHERIFF KURT FREY,"No, why?",2
+DOGGETT,"You get a lot of shootings around here? That why you failed to mention this one, Kurt?",17
+SHERIFF KURT FREY,What are you insinuating?,4
+DOGGETT,"The body was found dumped outside this woman's cabin on Sunday, May 7-- the morning after Mulder saw the Hangemuhls.",20
+SHERIFF KURT FREY,"Okay, so I didn't make the connection. So what?",9
+DOGGETT,Three rounds were missing from Mulder's weapon.,7
+SHERIFF KURT FREY,"So Mulder came back to town to kill this man and now the Hangemuhls are lying about it. Maybe I am, too.",22
+DOGGETT,Pretty much.,2
+SHERIFF KURT FREY,This theory is even nuttier than the one Agent Mulder came to town with. Where's the evidence?,17
+DOGGETT,Where's the body buried?,4
+SKINNER,"You're on pretty shaky ground here, Agent Doggett.",8
+DOGGETT,Something happened here that night.,5
+SKINNER,But you're forgetting one thing-- Fox Mulder wouldn't do this.,10
+DOGGETT,"Look, somebody shot this man. Somebody fired Mulder's weapon and Mulder was here that night.",15
+SKINNER,And you trying to prove that Mulder's a murderer is going to help you find him?,16
+DOGGETT,Maybe he's not. I'm not saying that he did this. Not yet. But he was here for a reason and then he disappeared.,23
+SKINNER,"Why would these people, people he'd never met before try to cover it up?",14
+DOGGETT,"That's the question, yeah.",4
+SKINNER,Earth is fresh.,3
+DOGGETT,Sheriff must've dug it up this afternoon after I left.,10
+SKINNER,What would he want with the body?,7
+DOGGETT,I don't know that he found it.,7
+DOGGETT,Looks like there's another way out.,6
+SKINNER,Are you telling me the man inside that casket did this?,11
+DOGGETT,Looks pretty deep. A man doesn't get shot three times and then tunnel out of his own grave.,18
+SKINNER,"The Sheriff said this transient was unidentified, right?",8
+DOGGETT,That's right.,2
+SKINNER,Then why'd somebody leave these on top of his grave?,10
+SHERIFF KURT FREY,We've got to move fast.,5
+PAUL HANGEMUHL,She's not ready yet.,4
+SHERIFF KURT FREY,Then she better get ready.,5
+MARIE HANGEMUHL,I can't do this.,4
+PAUL HANGEMUHL,You've got to do this. We don't have another choice.,10
+SHERIFF KURT FREY,Paul?,1
+SHERIFF KURT FREY,Marie.,1
+PAUL HANGEMUHL,I'll be waiting for you.,5
+MARIE HANGEMUHL,No!,1
+PAUL HANGEMUHL,"Our father, who art in heaven... hallowed be thy name...",10
+PAUL HANGEMUHL,What is it now?,4
+DOGGETT,Mind if we come in?,5
+PAUL HANGEMUHL,What do you think you're doing?,6
+DOGGETT,"Looking for the Sheriff. He was here, wasn't he?",9
+PAUL HANGEMUHL,"Look, I've had a long day and I want to go to bed, so if you don't mind...",18
+DOGGETT,"Agent Mulder came back here that night and shot a man in this room. You know why, and so does your wife.",22
+PAUL HANGEMUHL,"I want you guys out of my house, now. Hey, did you hear me?!",14
+SKINNER,"Mr. Hangemuhl, we'd like to speak with your wife. Where is she?",12
+DOGGETT,"Where is she, Mr. Hangemuhl?",5
+DOGGETT,Something happened here and I'm going to figure out what it is.,12
+SKINNER,Agent Doggett.,2
+DOGGETT,"Looks like you missed a spot, Mr. Hangemuhl.",8
+SKINNER,Agent Doggett.,2
+DOGGETT,Hangemuhl says his wife must've coughed up the blood. He insists he didn't harm her.,15
+SKINNER,Of course he says that.,5
+DOGGETT,Maybe he didn't.,3
+SKINNER,What are you talking about?,5
+DOGGETT,"You said it before, Mulder wouldn't do this-- shoot a man in cold blood. Unless he was trying to protect Mrs. Hangemuhl.",22
+SKINNER,From who?,2
+DOGGETT,From the man that's supposed to be buried in that coffin.,11
+SKINNER,The county police found something you ought to look at.,10
+SKINNER,Mr. Hangemuhl must've just used water to clean this.,9
+SKINNER,Thank you. Otherwise... we might not have found it.,9
+SKINNER,Look familiar?,2
+BYERS,"We learned what we could. This is somewhat short notice, of course.",12
+FROHIKE,And a little outside our area of expertise.,8
+LANGLY,Plus the fact we were sleeping.,6
+DOGGETT,"You wearing pants, Langly?",4
+LANGLY,Uh...yeah.,1
+SKINNER,We don't have much time. What did you find?,9
+FROHIKE,"Thought you'd never ask, big guy.",6
+BYERS,The pattern you described to us is most likely a medicine wheel. It's a symbol for healing usually associated with North American shaman.,23
+FROHIKE,"Now, the circle represents the continuum between life and death. The journey is separated by two roads, one for happiness, one for sorrow.",23
+BYERS,"Lakota Indians teach that all these elements-- life, death, sorrow, happiness-- are all one. But it takes an enlightened mind to see it.",23
+DOGGETT,"Why paint it on a door, or mark it on a grave?",12
+LANGLY,"Well-- that's the part that takes some conjecture there, Agent Dogbird.",11
+BYERS,We don't know what Mulder was doing out there.,9
+FROHIKE,But legends date back hundreds of years of a sin-catcher shaman also known as a soul eater.,17
+DOGGETT,A soul eater?,3
+LANGLY,They minister to the sick-- legend has it they consume their illnesses.,12
+BYERS,The symbol might be placed on a grave as a sign of respect. Or on a door as a summons.,20
+SKINNER,A summons for what?,4
+BYERS,"To indicate a sick person lives there, someone in need of the creature's healing gift.",15
+DOGGETT,"Thanks for your help, boys.",5
+LANGLY,"Yeah, you're welcome.",3
+DOGGETT,Marie Hangemuhl suffered from a kidney disease.,7
+SKINNER,Agent Doggett?,2
+DOGGETT,That wasn't a transient buried in that grave.,8
+DOGGETT,"Sorry to disturb you at this hour, ma'am. I'm Agent Doggett with the FBI. May I come in?",18
+DOGGETT,The Sheriff's report last May said you found a body in the woods out here.,15
+DOGGETT,"Look, the people of this town are keeping a secret about that body-- about who it is. There was an FBI agent who came here because he believed that it was some kind of a ""soul eater.""",37
+BLONDE RUSTIC WOMAN,Maybe it is.,3
+DOGGETT,"You believe it, too. You put those stones on top of his grave.",13
+BLONDE RUSTIC WOMAN,The things you're asking about-- they've been this way for hundreds of years. You can't change them.,17
+DOGGETT,A colleague of mine came here to try and kill this thing last spring. I believe he was trying to protect a woman named Marie Hangemuhl. I need your help.,30
+BLONDE RUSTIC WOMAN,You've got it all backward.,5
+DOGGETT,I'm going to get you out of here.,8
+SKINNER,Agent Doggett. How is she?,5
+DOGGETT,"She feels fine, you believe that? The doctor says Mrs. Hangemuhl's kidneys have spontaneously healed. She's a healthy woman.",19
+DOGGETT,Explain that.,2
+SKINNER,You're going to have to explain it. The Sheriff's waiting to take your statement.,14
+DOGGETT,The Sheriff knows. He's known all along. So's her husband.,10
+SKINNER,Known what?,2
+DOGGETT,That this soul eater took her to cure her. I thought Mulder shot this man to protect Marie Hangemuhl. But it wasn't her he was trying to protect.,28
+SKINNER,Where are you going?,4
+DOGGETT,Something happened here. It just wasn't what we thought.,9
+BLONDE RUSTIC WOMAN,To understand what this thing is you have to understand what it can do-- its gift. People hate it because they need it. It looks the way it does because of their sickness.,33
+DOGGETT,You care for this man.,5
+BLONDE RUSTIC WOMAN,Someone always has.,3
+DOGGETT,Because you believe it? That it can cure people's sickness?,10
+BLONDE RUSTIC WOMAN,Not cure. Consume.,3
+DOGGETT,Mulder came to see you last year. Not to save Marie Hangemuhl. To save himself.,15
+DOGGETT,"Mulder was dying, but he kept it a secret. He had an undiagnosed brain disease. He was a sick man, desperate to find a cure.",25
+BLONDE RUSTIC WOMAN,They all are.,3
+DOGGETT,Mulder didn't do it.,4
+BLONDE RUSTIC WOMAN,Agent Mulder saw how it suffered. He saw it in its eyes. I knew what needed to be done. I just couldn't bring myself to do it.,27
+DOGGETT,Mulder killed it.,3
+BLONDE RUSTIC WOMAN,He couldn't bear to add to its pain.,8
+DOGGETT,So he came back here that night to take its pain away.,12
+BLONDE RUSTIC WOMAN,"They buried it. It wanted to die. It still does, but it can't. All these months I've kept it here in secret. But now that they know it's back it'll keep suffering.",32
+DOGGETT,"Sheriff, as a federal officer I'm asking you and your men to get out of my way.",17
+SHERIFF KURT FREY,"You can't take it, Agent Doggett. It belongs to us.",10
+DOGGETT,This is a man. He doesn't belong to anybody.,9
+SHERIFF KURT FREY,We have sick people. Sick people who need what it has. We're taking it. You're free to go.,18
+DOGGETT,"No, sir. I'm driving this man out of here.",9
+MAN,Sheriff.,1
+SHERIFF KURT FREY,It'll come back. It always does.,6
+BLONDE RUSTIC WOMAN,All these years we didn't know what it could do. It took your death. You freed it.,17
+DOGGETT,"A.D. Skinner, you're here late.",5
+SKINNER,So are you.,3
+DOGGETT,I wanted to finish my case report before Agent Scully comes in tomorrow morning.,14
+SKINNER,Have you?,2
+DOGGETT,I don't even know where to begin or how to explain it. Only thing I do know is is I'm no closer to finding Mulder now than when I started this thing.,32
+SKINNER,"You got inside of his head, Agent Doggett. You understood why Mulder did something I wouldn't have thought him capable of doing. You want some free advice? Don't write that report. You turn that in you open up a world of trouble for Agent Scully. And yourself.",47
+DOGGETT,"She didn't know anything about this, sir. Of that I'm certain.",11
+[CARRIK,Good boy! Already learning to protect Scully.],7
+SKINNER,How many months will be lost proving that? How much damage done to her good name? And Mulder's? And to yours? For what?,23
+DOGGETT,The truth.,2
+SKINNER,"You and I both know what happened out there, Agent Doggett. No one else needs to.",16

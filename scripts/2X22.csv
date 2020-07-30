@@ -1,0 +1,316 @@
+speaker,line,words
+ROBERT TORRENCE,"Get away! Shoo! Get away, shoo! R.B.P. field base, come in. Field base, come in, please. This is Doctor Robert Torrence with the biodiversity project... requesting immediate evacuation from Sector Z-one-five. This is a medical emergency. Please respond. I repeat... Doctor Robert Torrence... biodiversity project. Immediate evacuation from Sector Z-one-five.",50
+MAN #1,Espera momento.,2
+WINSTON,"Hey, Bobby? You got some mail.",6
+BOBBY TORRENCE,"Don't waste my time, Winston, both of us know I ain't got nobody.",13
+WINSTON,Could be those baptists from Annandale. I hear they been sending fruitcake.,12
+BOBBY TORRENCE,"Hey, Winston! You think this is funny? What kind of crap you trying to pull here? Get this thing out of my crib! Winston! Winston! Winston!",26
+OSBOURNE,When was he exposed?,4
+SIMON AUERBACH,Eighteen hours ago.,3
+OSBOURNE,I've never heard of anything incubating so quickly.,8
+BOBBY TORRENCE,Where's the prison doc? I want to see the prison doc...,11
+SIMON AUERBACH,"We're specialists, Mister Torrence.",4
+BOBBY TORRENCE,What's wrong with me?,4
+OSBOURNE,Five centimeters. They appear fairly uniform.,6
+SIMON AUERBACH,Basal temperature?,2
+OSBOURNE,One-o-three point five. Oxygen saturation... eighty-one percent.,7
+BOBBY TORRENCE,"Sssss, what's wrong with me?",5
+SIMON AUERBACH,"Try and relax, Mister Torrence. We're here to help you.",10
+WINSTON,Put the sheets in the cart. Make sure you get all them pillows too. I'll be back in five minutes.,20
+PAUL,We'll be here. See that? He couldn't clear out of here fast enough.,13
+STEVE,The whole cell block's empty.,5
+PAUL,"Yeah, McGuire says they're full up at the infirmary. Bringing in more beds.",13
+STEVE,"Yeah, well... there's probably something going around.",7
+PAUL,Maybe.,1
+STEVE,Why? Do you know something?,5
+PAUL,I know the sheets ain't going to the laundry. McGuire says they're going to some kind of incinerator.,18
+STEVE,But the laundry pick-up's still happening?,6
+SCULLY,"According to my briefing, the prisoners escaped by hiding in a laundry cart.",13
+MULDER,I don't think the guards are watching enough prison movies.,10
+SCULLY,And they're both serving life terms. Murder convictions.,8
+GUARD,Everybody's here.,2
+MULDER,I thought this was about escaped prisoners.,7
+SCULLY,It is.,2
+MULDER,Then who are the men in the funny suits?,9
+SCULLY,I don't know. Looks like some kind of de-con situation.,10
+TAPIA,F.B.I. run out of crooked politicians to sting?,8
+MULDER,Excuse me?,2
+TAPIA,"Mulder and, uh, Scully?",4
+SCULLY,That's right. We have orders to work with the federal marshals on this manhunt.,14
+TAPIA,Either of you two ever run an escaped convict operation?,10
+MULDER,No.,1
+TAPIA,"Well, then you'd be a real big help if you just try to stay out of the way.",18
+MULDER,"Oh, we'd be happy to as soon as we can talk to someone in charge.",15
+TAPIA,I'm in charge here.,4
+MULDER,Apparently not or you'd know why our involvement was requested.,10
+SCULLY,We don't know why we've been sent here. Maybe if we talked to the warden or someone...,17
+TAPIA,"Well, no one's here. The prison's been taken over by the national guard. They closed off most of the facility.",20
+SCULLY,Why?,1
+TAPIA,"I don't know why. The federal marshal's business isn't in here, it's out there, trying to catch those two convicts.",20
+MULDER,"Where did this case originate, Scully?",6
+SCULLY,It came out of Skinner's office.,6
+MULDER,Did he say why he gave it to us?,9
+SCULLY,"No, why?",2
+MULDER,"Well, this isn't the type of thing the F.B.I. normally gets called in on. I got a feeling we're not being told the entire story here.",26
+SCULLY,"I've got the same feeling, Mulder.",6
+MULDER,Do you think you could get in there and find out what's going on?,14
+SCULLY,I can try. Where are you going?,7
+MULDER,To see if I can get in the way.,9
+MAN,"Hey, you girls go with Mom. See you in a few minutes.",12
+WOMAN,"Robert? Robert? Robert! Robert! Robert, hey!",6
+OSBOURNE,"I'm sorry, this is a restricted area.",7
+SCULLY,Who are you?,3
+OSBOURNE,Doctor Osbourne.,2
+SCULLY,Are you the prison doctor?,5
+OSBOURNE,No.,1
+SCULLY,Who do you work for?,5
+OSBOURNE,The C.D.C.,2
+SCULLY,"You work for the Centers for Disease Control? What are you doing here? Sir! I'm a medical doctor. I want to know what's going on here. Sir, if you don't let me in, a lot of people in Washington are going to find out that you're conducting a secret quarantine in here.",52
+OSBOURNE,I'm under strict orders.,4
+SCULLY,So am I.,3
+OSBOURNE,All I can tell you is that there is a flu-like illness spreading among some of the prisoners.,18
+SCULLY,How many people are infected?,5
+OSBOURNE,Fourteen men so far.,4
+SCULLY,Any deaths?,2
+OSBOURNE,Ten of the fourteen.,4
+SCULLY,What are the chances the men who escaped are infected?,10
+MULDER,Mulder.,1
+SCULLY,"Mulder, it's me. I'm starting to get a picture of what's going on here.",14
+MULDER,What did you find?,4
+SCULLY,There seems to be some kind of......deadly contagion sweeping the lockdown population.,12
+MULDER,Deadly? How deadly?,3
+SCULLY,"Well, from what I've seen so far, thirty-six hours after infection, deadly.",12
+MULDER,"Well, is there a chance any of the escaped men were infected?",12
+SCULLY,The exact nature of this thing......or how it is spread is unclear. So is their exposure to it and any danger they might pose.,24
+MULDER,I'd say these guys are a danger in any event. Call me as soon as you know anything.,18
+SIMON AUERBACH,"I don't care who you are or what your business is, I want you out of here right now.",19
+SCULLY,Not until I get some answers.,6
+SIMON AUERBACH,You're in violation of federal statutes.,6
+SCULLY,"I'm a federal agent, sir.",5
+SIMON AUERBACH,Who were you on the phone to?,7
+SCULLY,"To my partner, who needs to know if the men he's pursuing are infected.",14
+SIMON AUERBACH,That information is unavailable.,4
+SCULLY,"Well, then I want to see charts and I want access to the infirmary.",14
+SIMON AUERBACH,You see what I let you see.,7
+ELIZABETH,Hello?,1
+PAUL,"I'm free, baby.",3
+ELIZABETH,Paul?,1
+PAUL,"Listen, I'm gonna...",3
+ELIZABETH,Where are you?,3
+PAUL,I'm coming home.,3
+ELIZABETH,What are you talking about?,5
+PAUL,I'm coming to get you.,5
+ELIZABETH,What? What?,2
+ANGELO GARZA,"Yo! Anybody in here? Hello? Hey, man... you okay? You look messed up!",13
+OSBOURNE,You can't be down here!,5
+SCULLY,I need to know what these men are dying from. You said this was some kind of flu-like illness. What are these?,22
+OSBOURNE,Please! Please! These bodies should not be exposed.,8
+SCULLY,"Do all of the victims have these boils? You're burning the bodies, why? Doctor Osbourne, wait!",16
+MAN,Freeze! Hands in the air! Freeze! Freeze! Clear.,8
+MULDER,We've got a man down! He's alive. The attendant's name is Angelo Garza. He took a nice crack to the head but he's talking.,24
+TAPIA,"Yeah, well, he's lucky they didn't kill him.",8
+MULDER,"Kid's got a lot of hair, probably absorbed the blow. He found one of the men in pain on the bathroom floor with a large boil on his face. There's a contagion at the prison, these men could be infected.",40
+TAPIA,"Get on the horn, see what anybody knows about that. All right, they took the kid's keys, they got in the safe. They got money, the kid's car, possibly a firearm and they got a big head start.",38
+MULDER,Any idea where they're headed?,5
+TAPIA,There are twenty-three possible roads and thoroughfares.,7
+MULDER,"Either of these guys got a girlfriend, you know?",9
+TAPIA,"I wish I could tell you but those records are locked up in the prison. Unless we can access them, this is Smokey and the Bandit.",26
+MULDER,"Well, if they had girlfriends, they'd probably try to call them. You think of that?",15
+OPERATOR,"Bell Atlantic Operator, how may I help you?",8
+MULDER,I'm a federal agent assisting in a manhunt for two escaped prisoners. My badge number is J-T-T-o-four-seven-one-o-one-one-one-one. I need to know the last call made from this booth.,28
+OPERATOR,"All right, sir...",3
+MULDER,"Can you repeat that, please? All right, thank you.",9
+TAPIA,"What's going on here? Hey, what are you guys doing here? What the hell is going on here? Who authorized this? Hey!",22
+MULDER,"What's going on here, what's going on?",7
+ANGELO GARZA,Where are they taking me? Help!,6
+MULDER,Who are you?,3
+TAPIA,Hey! Did you order this?,5
+MULDER,No!,1
+TAPIA,Then who the hell did?,5
+MULDER,"I don't know, but there was a call made from that phone booth about two hours bago. I got an address and phone number from Dinwittie County. ""925 August St. 555-6936"")",31
+ELIZABETH,"Wait here, sweetie. Be right back. I thought you were B.S.ing me!",12
+PAUL,"I'm gone, sweet thing! They ain't never taking me back.",10
+ELIZABETH,I ain't going to let them.,6
+BOY,Mommy! Mommy!,2
+ELIZABETH,"I'm coming, sweetie! Daddy's home. Come on.",7
+PAUL,I got somebody with me.,5
+ELIZABETH,What? What's wrong with him?,5
+PAUL,I don't know. He's out of it.,7
+ELIZABETH,"Oh, hell, he's burning up.",5
+PAUL,We got to get him in the house.,8
+SCULLY,"Yes, I'm trying to trace the origin of a package that was sent to Robert Torrence at the Cumberland State Correctional Facilit in Virginia. Y, yeah. The packaging number is D-D-P-one-one-two-one-four-eight. Sure, I'll hold. Yeah. The package was sent from Wichita, Kansas? Did you record the name of the sender? Could you check that again, please? Thank you.",58
+MULDER,Yeah.,1
+SCULLY,What do you know about Pinck Pharmaceuticals?,7
+MULDER,"Uh, it's one of, if not the biggest manufacturer of drugs in America. Why?",14
+SCULLY,They sent a package to a prisoner here who may have been the first victim of the contagion.,18
+MULDER,Any idea what was in the package?,7
+SCULLY,"No, it's empty.",3
+MULDER,"Scully, from the description we got, one of the prisoners had a large, purple-ish inflammation on his face.",18
+SCULLY,"That sounds like what I'm finding on all the victims in here. Do you know what that means, Mulder?",19
+MULDER,"Yeah, it could spread. I, I, I need to know more about it. How it's transmitted.",16
+SCULLY,I'm on it.,3
+STEVE,Got to go. Got to keep moving.,7
+ELIZABETH,"Paul... Paul, he's awake. Paul, come here.",7
+STEVE,"You got to help me. I, I'm, I'm burning up here. Please, I'm...",13
+ELIZABETH,Ahh! Paul! Ahh! Oh! Paul! Paul! Paul!,7
+MULDER,We've got one dead prisoner in the bedroom. The other one's gone.,12
+OSBOURNE,Come with me.,3
+SCULLY,Why? What's going on?,4
+OSBOURNE,Just come with me.,4
+SCULLY,What the hell is going on?,6
+OSBOURNE,I've been infected and they're not letting me out. The entire prison's been quarantined.,14
+SCULLY,"By who, the C.D.C.?",4
+OSBOURNE,The C.D.C. has nothing to do with this. It's the company. They're behind everything.,14
+SCULLY,Pinck Pharmaceuticals. You work for Pinck Pharmaceuticals? How did this happen?,11
+OSBOURNE,"We finance exploration of new species from the rain forest with potential drug applications. Three months ago, a field entomologist disappeared in Costa Rica.",24
+SCULLY,Disappeared how?,2
+OSBOURNE,We're not sure. He just sent us some samples of an insect.,12
+SCULLY,Like this? I found this buried in one of the dead prisoners.,12
+OSBOURNE,Faciphaga Emasculata. We were interested in it because of the dilating enzyme it secretes.,14
+SCULLY,Is this what caused the outbreak?,6
+OSBOURNE,"No, no, not precisely. The F. Emasculata is a parasitoid, a bug that carries a parasite. In this case, a deadly parasite that attacks the immune system. The pustules are part of the natural reproductive cycle. They're full of the larvae that you see there in the scope.",48
+SCULLY,So the contagion only spreads when the pustules erupt and the larvae that are expelled burrow into the new host.,20
+OSBOURNE,Agent Scully... you were there when the pustule erupted on me... which means you may also be infected.,18
+SKINNER,Come in.,2
+MULDER,"Thank you for seeing me at this late hour, sir.",10
+SKINNER,"What is it, Agent Mulder?",5
+MULDER,"This case we've been assigned, I believe we've been misled, possibly decieved.",12
+SKINNER,Decieved? By whom?,3
+MULDER,Whoever originated the case.,4
+CSM,"What is the accusation, Agent Mulder?",6
+MULDER,That Agent Scully and I were sent on this manhunt without knowledge of the existence or nature of a contagion.,20
+CSM,What is the exact nature of the contagion?,8
+MULDER,It's deadly. It kills within thirty-six hours. One escaped convict was infected. He's dead now. The other man may be infected and he's on the loose.,26
+CSM,"Does anyone know how it's communicated, whether it's a virus or bacteria?",12
+MULDER,"No, we just know that over a dozen men have died from it and it appears to be highly contagious.",20
+CSM,"Then you don't know much, Agent Mulder.",7
+MULDER,Why weren't we told the truth?,6
+CSM,We didn't know the truth. What we knew would only have slowed you down.,14
+MULDER,But innocent people could be infected! What you knew could have prevented that.,13
+CSM,"How? In 1988, there was an outbreak of hemmoragic fever in Sacramento, California. The truth would have caused panic. Panic would have cost lives. We controlled the disease by controlling the information.",32
+MULDER,You can't protect the public by lying to them.,9
+CSM,It's done every day.,4
+MULDER,I won't be a party to it. How about you?,10
+CSM,"You're a party to it already. How many people are being infected while you stand here, not doing your job? Ten? Twenty? What's the truth, Agent Mulder?",27
+MULDER,Mulder.,1
+SCULLY,"Mulder, they're enforcing a full quarantine.",6
+MULDER,What?,1
+SCULLY,One of the epidimiologists who claimed to be with the C.D.C. told me that this was no accident. Pinck Pharmaceuticals is here trying to clean it up quietly......and the government would have to know about it.,36
+MULDER,Do you have proof of that?,6
+SCULLY,Why else would the national guard be here? They're protecting Pinck Pharmacuetical.,12
+MULDER,"Okay, listen, Scully. I need to know how this happened. I want you to start documenting everything you can get your hands on. People have to know about the cover-up.",30
+SCULLY,The public?,2
+MULDER,It's a public health crisis.,5
+SCULLY,"Mulder, we can't leak this, not until we know more. The fugitive that you're looking for... He might not even be infected.",22
+MULDER,"Yeah, but what if he is?",6
+SCULLY,"If this gets out......prematurely, the panic is going to spread faster than the contagion. Mulder, we can't let this be known.",21
+MULDER,What if someone dies because we witheld what we knew?,10
+SCULLY,"What if someone dies because we didn't? There'll be a time for the truth, Mulder, but this isn't it.",19
+MULDER,"Are you okay in there, Scully?",6
+SCULLY,"Yeah. I'm okay. All I want you to worry about is capturing that fugitive. Take care of yourself, Mulder.",19
+OSBOURNE,"If you're not infected, you should leave immediately.",8
+SCULLY,And if I am?,4
+OSBOURNE,"The parasite is undetectable in the bloodstream. This is the only way to test whether or not you've been infected. These uninfected insects act as incubators. Now, the insect's bite won't infect you. The contagion can only be contracted through exposure to the larvae.",44
+SCULLY,How long will this take?,5
+OSBOURNE,Thirty minutes... and another two hours before the parasite reproduces enough for us to see it.,16
+MULDER,"Elizabeth? My name is Fox Mulder, I'm with the F.B.I. Where did Paul go, Elizabeth?",15
+ELIZABETH,I don't know.,3
+MULDER,I think you do know. And I think you know why you're in here. How are you feeling?,18
+ELIZABETH,I'm fine.,2
+MULDER,Steve felt fine too. Didn't take long for that to change.,11
+ELIZABETH,You're just trying to scare me.,6
+MULDER,"You should be scared. If I were you, I'd be scared.",11
+ELIZABETH,You're lying!,2
+MULDER,"No, Paul is the one who is lying and if he's infected, a lot of people are going to die.",20
+ELIZABETH,"If that's true, how come it's not on TV? How come they're not telling everybody?",15
+MULDER,That's not my decision.,4
+ELIZABETH,"Well, whose decision is it? You knew about it and you didn't say anything! Why should I tell the truth if you won't?",23
+MULDER,"Elizabeth, Paul is out there somewhere. I have to find him. Now, you can help me... or not. He's on a ten o'clock bus to Toronto, she was supposed to be with him.",33
+TAPIA,"That bus depot's over a half-hour from here, even doing ninety. Get on that phone with the local P.D., I want every man they've got!",25
+MULDER,"No! No, they don't know what they're dealing with. If he's infected, he could spread it. What we need know is control.",22
+WOMAN,"Toronto, one way?",3
+PAUL,Yes.,1
+OSBOURNE,"Now, once we harvest the blood from the insect...",9
+SCULLY,What?,1
+OSBOURNE,The toxins... they're moving into my brain just like it did on the prisoners. I don't have much longer. I need you to help me.,25
+SCULLY,What do you want me to do?,7
+OSBOURNE,Go on. You have to complete the test.,8
+SCULLY,Why did you confide in me?,6
+OSBOURNE,It's not a secret I feel like taking to the grave. People have a right to know the danger we've put them in. If your test comes back negative... you have to tell them.,34
+SCULLY,How can I prove it?,5
+OSBOURNE,I don't know. But if you don't... it'll just happen again. Don't believe for a second... that this is an isolated incident.,22
+ANNOUNCER,"Attention please, bus number nine...",5
+MOTHER,Will you wait a second?,5
+BOY,I don't want to miss the bus.,7
+MOTHER,"You see that? They're still loading the luggage, you're not missing anything. You have enough time to give your mother a kiss goodbye.",23
+BOY,Hey!,1
+PAUL,What's the time?,3
+BOY,Twenty to ten.,3
+SCULLY,What are you doing?,4
+SIMON AUERBACH,This material has been confiscated and will be destroyed according to standard C.D.C. procedure.,14
+SCULLY,You don't work for the C.D.C. Where's Doctor Osbourne? He told me what happened here.,15
+SIMON AUERBACH,What happened here was unavoidable.,5
+SCULLY,"Well, we'll leave that up to others to decide.",9
+SIMON AUERBACH,Doctor Osbourne is dead. No one in this room will corroborate your story. Just be glad this thing's under control.,20
+MULDER,He's here. He bought a ticket to Toronto.,8
+TAPIA,Son of a bitch.,4
+MULDER,And he's infected.,3
+MULDER,Mulder.,1
+SCULLY,Mulder... I think everything here is under control.,8
+MULDER,"You okay, Scully?",3
+SCULLY,Yeah. Have you found the second prisoner?,7
+MULDER,"Yeah, he's headed to Toronto.",5
+SCULLY,"He's alive? Mulder, listen to me. Everything here has been destroyed. Any evidence whatsoever of a cover-up has been incinerated. That prisoner is the last man who can possibly connect the conspirators.",32
+MULDER,But he's infected. He's going to die.,7
+SCULLY,"If you want the truth, Mulder, he's going to have to make a statement.",14
+MULDER,Hold your men back.,4
+TAPIA,What?,1
+MULDER,I'm getting on the bus.,5
+TAPIA,We've got the situation controlled. That bus isn't going anywhere.,10
+MULDER,"There are other passangers on board. The prisoner sees a uniform, he could panic. He panics and innocent people die.",20
+TAPIA,What do you want to do?,6
+MULDER,"I get on the bus, I take the seat directly behind the prisoner, I put my gun to his head, I make an announcement to clear the bus.",28
+BUS DRIVER,"Thank you. Can you take your seat, sir?",8
+MULDER,There's supposed to be a man on the bus.,9
+BUS DRIVER,"Sir, I've got a schedule to keep. Now, please, take your seat or I'm going to have to ask you to get off.",23
+MULDER,Take the key out of the ignition and turn around slowly.,11
+BUS DRIVER,What is this?,3
+MULDER,I'm with the F.B.I. I need to know if this man has boarded the bus.,15
+BUS DRIVER,Yeah. That's him. Right back there.,6
+MULDER,Federal agent! Drop your weapon!,5
+TAPIA,"Plan A has gone to hell. Get ready to move, people.",11
+MULDER,Let the boy go!,4
+PAUL,Move the damn bus!,4
+MULDER,"You got over two dozen U.S. marshalls out there, Paul. How far you gonna get?",15
+PAUL,"I'm dying, ain't I?",4
+MULDER,"The question is, how many people are you going to take with you?",13
+PAUL,What is this thing?,4
+MULDER,You were infected in prison.,5
+PAUL,It's what Bobby Torrence had.,5
+MULDER,And your girlfriend Elizabeth and possibly your son. How many more people do you want to expose?,17
+PAUL,"It came from that package in Bobby's cell, didn't it?",10
+MULDER,You saw a package?,4
+PAUL,What the hell was it?,5
+MULDER,"All right, everybody, off the bus. Just keep going. Just go. Keep moving! All right, come on out. It's okay. Come on out, just slide out. I'm here for you. That's it. All right. All right, Paul, what was in that package? What was in that package? A pharmaceutical company was using you as a guinea pig! If you tell me what was in that package, I'll make sure they don't get away with it! Come on, Paul, you remember. Tell me!",82
+PAUL,It... it...,2
+MAN #1,Get out of there!,4
+MAN #2,Keep your distance!,3
+MAN #1,"You have to get off, let's go! Get off!",9
+MULDER,"Robert Torrence was patient zero, the first prisoner to contract the disease. Just before being admitted to the infirmary, he received a package from Pinck Pharmaceuticals. They orchestrated this entire thing to circumvent years of F.D.A. trials in order to get their drug on the market.",46
+SKINNER,"Why are you telling me this, Agent Mulder?",8
+MULDER,Because I wanted you to hear it from me before you read it in the papers.,16
+SKINNER,I'd seriously reconsider bringing this to the media if that's your intention.,12
+MULDER,The public has a right to know so it doesn't happen again.,12
+SKINNER,"And you're going to prove this elaborate conspiracy with a, an empty package and a dead insect? Leave it alone, Agent Mulder. The epidemic was contained.",26
+MULDER,"Eighteen people are dead, and if you're helping them cover the truth behind those deaths, then you're just as guilty as they are.",23
+SKINNER,"You really have no idea who you're dealing with, do you?",11
+MULDER,I thought I was dealing with you.,7
+SCULLY,"We can't prove a thing, Mulder. They've made sure of it.",11
+MULDER,What are you talking about?,5
+SCULLY,"The Costa Rican government just faxed me the report on the missing scientist. His name is Robert Torrence, the same as our prisoner. It was their failsafe in case it ever came to this so they could blame it on a simple postal error. A mistake.",46
+MULDER,"That's why we were given this assignment, right? They knew all along... so that even if we succeeded in finding the truth, we'd be discredited as part of it. Am I right? Am I right?!",35
+SKINNER,"You never had a chance, Agent Mulder. For every step you take, they're three steps ahead.",16
+MULDER,"Well, what about you, where do you stand?",8
+SKINNER,I stand right on the line that you keep crossing.,10
+SCULLY,"Come on, let's go.",4
+SKINNER,Agent Mulder. I'm saying this as a friend. Watch your back. This is just the beginning.,16

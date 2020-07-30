@@ -1,0 +1,255 @@
+speaker,line,words
+RUSSIAN ENGINEER,nan,1
+DMITRI,nan,1
+RUSSIAN ENGINEER,nan,1
+DMITRI,nan,1
+RUSSIAN ENGINEER,nan,1
+MAN #1,Dave says he would set it up in the Carsell's village.,11
+MAN #2,"Yeah, well, Dave's a stand-up guy. If he's putting it together, you'd be a fool to pass it up.",19
+MAN #1,"Yeah, yeah, I hear you. I just...",7
+MAN #2,You just what?,3
+MAN #1,"When you want to take a dip, you got to test the water. You just don't want to get wet.",20
+MAN #2,"No, man. Dippage is sacred.",5
+BRISENTINE,Agent Mulder?,2
+MULDER,Yeah.,1
+BRISENTINE,You're being relieved from your current assignment. Agent Bozoff will take over. You've got a flight to catch in forty-five minutes.,21
+MULDER,Where am I going?,4
+BRISENTINE,"Murder case. Newark, New Jersey.",5
+MULDER,Treat yourself.,2
+BRISENTINE,You're flying out of National. Your contact in Newark is Detective Norman.,12
+MULDER,How did I draw the assignment?,6
+BRISENTINE,Assistant Director Skinner made the request.,6
+MULDER,Skinner requested me?,3
+MULDER,"Mulder, F.B.I.",2
+NORMAN,My forensics team's just wrapping up. We left the body where we found it. Kenny! This is one case I'm going to be happy to turn over to you guys. Watch yourself.,32
+MULDER,"Yeah, wouldn't want to step in anything.",7
+NORMAN,They say it cuts the smell if you don't breathe through your mouth.,13
+MULDER,They lied. Who found the body?,6
+NORMAN,Sanitation worker. Looks like it's been here a while.,9
+MULDER,Any I.D.?,2
+NORMAN,No. Not much to go on either. Front side of the body is pretty much eaten away. Would you like us to turn him over for you?,27
+MULDER,"No, I'll take your word on that.",7
+NORMAN,"Hey, Agent Mulder. What would you like us to do with the body?",13
+MULDER,"Wrap it up and send it to the F.B.I., care of Assistant Director Skinner.",14
+SECRETARY,"Yes, sir.",2
+SKINNER,Thank you.,2
+MULDER,I need to speak to him.,6
+SECRETARY,"I'm sorry, Mister Skinner's unavailable. Would you like to take a seat?",12
+MULDER,Will you tell him that I'm here and I need to speak with him? Now.,15
+SECRETARY,"Certainly. Excuse me, Mister Skinner. I'm very sorry to interrupt, but Agent Mulder is demanding to see you.",18
+SKINNER,"Is there a problem, Agent Mulder?",6
+MULDER,"Yeah, there is.",3
+SKINNER,Then make an appointment.,4
+MULDER,"It's kind of hard to make an appointment when you're up to your ass in raw sewage, being jerked around from one meaningless assignment to another.",26
+SKINNER,Excuse me?,2
+MULDER,"What's my next punishment, scrubbing the bathroom floors with a toothbrush?",11
+SKINNER,"You're way out of line, Agent Mulder.",7
+MULDER,So I gathered.,3
+SKINNER,"Fine. Come into my office, Agent Mulder, please. Agent Mulder, would you please inform the room as to why you regard your homicide case in New Jersey as meaningless?",29
+MULDER,"It seemed to me like a simple drugland body dump, not the type of case the F.B.I. normally wastes it's time and manpower on.",24
+SKINNER,"Certainly, Agent Mulder, given your recent history here, you're not one to judge what is or is not a waste of the bureau's time or manpower.",26
+MULDER,"Sir, my work on the X-Files...",6
+SKINNER,"The X-Files have been closed, Agent Mulder. You will carry out your new assignments and investigate them to the best of your ability. Is that not clear?",27
+MULDER,Yeah.,1
+SKINNER,And I'll be anticipating your field reports on your current homicide case. Thank you.,14
+SCULLY,Is this seat taken?,4
+MULDER,"No. But I should warn you, I'm experiencing violent impulses.",10
+SCULLY,"Well, I'm armed, so I'll take my chances. I hear you really endeared yourself to Assistant Director Skinner today.",19
+MULDER,"You know, sometimes, it just gets really hard to smile through it when they ask you to bend down and grab your ankles. You know?",25
+SCULLY,It's not exactly as if you've ever tried to fit into the program.,13
+MULDER,"No. No, I've been thinking a lot about that lately. I've been thinking about leaving.",15
+SCULLY,The bureau? What would you do?,6
+MULDER,Pursue my work in the paranormal somehow.,7
+SCULLY,"Y, you could request a transfer to Quantico. Come back to the Behavioral Science Unit.",15
+MULDER,"They don't want us working together, Scully... and right now, that's the only reason I can think of to stay.",20
+SCULLY,"Wh, what about this case you're working on?",8
+MULDER,It's a zero.,3
+SCULLY,Where's the body?,3
+MULDER,"They transferred it to our forensics lab. Look, Scully, I know what you're trying to do.",16
+SCULLY,Maybe I can request to do the autopsy.,8
+MULDER,It's an exercise. Skinner is just rubbing my nose in this one. There's nothing to it.,16
+SCULLY,"There's a dead body, isn't there?",6
+SCULLY,"Examination and autopsy of John Doe number one-zero-one-three-five-six. Case number D-P-one-one-two-one-four-eight. Special Agent Fox Mulder, field investigator. Body is an adult male, with advanced tissue decomposition, weighing a hundred and sixty-five pounds in extremis, sixty-nine inches in length. Intact skin is mottled and discolored, due to submergence in and exposure to a highly bacterial environment. Cause and time of death unknown. Possible identifying mark on right forearm. Body cavities appear normal. Interior organs intact. Consistent in rate of decomposition. Removing the rib cage. Condition of heart and lungs are good. No sign of thrombi, natural degenerate diseases, indicate victim was probably a young adult. The liver shows some nodular hardening, consistent with incipient alcoholism. Oh, God!",116
+WORKMAN #2,Put it away.,3
+WORKMAN #1,Got it. I'm going to need a big piece of thirty gauge and some bailing wire.,16
+WORKMAN #2,I got to go back up top for the screen.,10
+WORKMAN #1,Hey! Help!,2
+WORKMAN #2,"Craig! Craig! Craig! Craig! Hey, Craig! Hold on! Craig! Craig! Hold on, man! Hold on! Oh, my God! Hold on! Hold on! Oh my God. I'm going to get help!",30
+ZENZOLA,I'm going to give you a tetanus booster just as a precaution.,12
+WORKMAN #1,I'd be happy if you'd just give me something to get this taste out of my mouth.,17
+ZENZOLA,"Oh, yeah? Let me take a look. ""Aaaah."" Any trouble swallowing?",11
+WORKMAN #1,Uh-uh.,1
+ZENZOLA,It'll go away. Agent Mulder?,5
+MULDER,Yeah.,1
+ZENZOLA,New York P.D. referred me to you. I was surprised to hear the F.B.I. was involved. Is there something here I should know?,23
+MULDER,"I don't know, maybe you can tell me.",8
+ZENZOLA,The patient is a sanitation worker. He claims he was attacked by something down in the sewer this morning.,19
+MULDER,Attacked? By what?,3
+ZENZOLA,"We've been unable to determine. Initially, I thought it was just a disability claim... but he appears to be telling the truth.",22
+MULDER,What's his condition?,3
+ZENZOLA,He's in satisfactory health. I've given him a heavy course of antibiotics... and we're checking for hepatitis. He does have a strange wound on his back.,26
+MULDER,What kind of wound?,4
+ZENZOLA,"Uh, it could be some kind of bacterial infection. Frankly, I can't say I've ever seen anything like it. This is Agent Mulder of the F.B.I.",26
+MULDER,Any idea what attacked you?,5
+WORKMAN #1,"Yeah, I've been thinking it might have been a python.",10
+MULDER,A python?,2
+WORKMAN #1,"Yeah, or a boa constrictor. Somebody probably flushed a pet snake down the toilet. I found an alligator in the sewer a couple of years ago. It was stronger than hell, I'll tell you that, clamped onto me like a vise.",41
+ZENZOLA,It almost looks like a bite.,6
+MULDER,"Oh, excuse me. Mulder.",4
+SCULLY,"Mulder, it's me. I need to see you, I've got something here I think you should know about.",18
+MULDER,What is it?,3
+SCULLY,"Some kind of parasite near John Doe. I'm having it looked at, but I should know more by the time you get down here.",24
+MULDER,"Well, I'm up in Jersey. I should be taking the shuttle down in about an hour.",16
+WORKMAN #1,When can I get out of here? I'd just like to go home.,13
+MULDER,"Oh, excuse me, sorry. Scully, this is a bad time for me to talk.",14
+X,Mister Mulder.,2
+MULDER,Yeah.,1
+X,I think you should know... you have a friend at the F.B.I.,12
+MULDER,Who is this?,3
+ZENZOLA,Agent Mulder?,2
+MULDER,Yeah?,1
+ZENZOLA,"If you don't have any more questions, I'm going to release this man.",13
+MULDER,"Okay, go ahead.",3
+SCULLY,"Close the door. It's called Turbellaria, or it's commonly known as a fluke or flatworm.",15
+MULDER,This was living inside the body?,6
+SCULLY,"Apparently, it had attached itself to the bile duct and was feeding off the liver.",15
+MULDER,Lovely.,1
+SCULLY,"Believe it or not, something like forty million people are infected worldwide.",12
+MULDER,"This isn't where you tell me some terrible story about sushi, is it?",13
+SCULLY,"Well, maybe you'd rather hear what you can catch from a nice, rare steak.",14
+MULDER,"So, what, the murder weapon was a top sirloin?",9
+SCULLY,Flukes are endemic in unsanitary conditions. It's more likely that the victim contracted it down inside the sewer.,18
+MULDER,Before or after he died?,5
+SCULLY,"I don't know. According to my sources, it's unlikely that a single parasite could have killed him. He was a young man. But the weird thing is, there's no other discernible cause of death.",34
+MULDER,How do these parasites attach themselves?,6
+SCULLY,They have what's called a scolex... it's a sucker-like mouth with four hooking spikes.,14
+MULDER,Anything like this?,3
+SCULLY,Where'd you get that?,4
+MULDER,Something attacked a workman in a New Jersey sewer this morning.,11
+SCULLY,And you're asking me if this is from a fluke?,10
+MULDER,Could it be?,3
+SCULLY,"M, Mulder, the scolex is a tiny little organ. This is a huge bite mark.",15
+MULDER,How big can these things get?,6
+SCULLY,"Mulder, I... I'm sorry. It felt like old times there for a second. Flatworms are what are known as obligate endoparasites. They live inside the host, entering the body through the ingestion of larvae or eggs. They are not creatures that go around attacking people.",45
+MULDER,"Well, that's good. I didn't want to have to tell Skinner that his murder suspect was a giant, blood-sucking worm.",20
+SCULLY,No.,1
+MULDER,"Well, at the very least, this will be interesting to the Newark Department of Sanitation. Look, Scully, I don't know who you shared our conversation with the other night, but I'd prefer if you didn't try to launch a campaign for me.",42
+SCULLY,Excuse me?,2
+MULDER,I don't know who you talked to...,7
+SCULLY,I didn't talk to anybody.,5
+MULDER,"Well, somebody called me and told me I had a friend at the F.B.I.",14
+SCULLY,"Look, Mulder, I... I don't know what to say, but I, I, I wouldn't betray a confidence.",17
+FOREMAN,"City runs on several different systems... some new, some built around the turn of the century. Almost as old as Charlie here. Isn't that right, Charlie?",26
+CHARLIE,"Oh, yes, sir.",3
+MULDER,What part of the sewer was I in?,8
+FOREMAN,"That'd be one of the older sections, big eight-foot tunnels.",10
+MULDER,They look more like a catacomb than a sewer line.,10
+FOREMAN,"Yup, all the new sections are concrete pipe, not much of it bigger than twenty-four inches.",16
+MULDER,And all the sewage comes through this plant?,8
+FOREMAN,Five-hundred-and-sixty thousand people a day call my office on the porcelain telephone.,12
+MULDER,Have you ever seen one of these?,7
+FOREMAN,"Looks like a big, old worm.",6
+MULDER,It's called a fluke. It came from the body they pulled out of the sewer.,15
+FOREMAN,"Wouldn't surprise me. No telling what's been breeding down there in the last hundred years. Ray here. Yeah. Charlie, slow down.",21
+CHARLIE,I'm backflushing the system. It's in there.,7
+MULDER,What is it?,3
+CHARLIE,I don't know. It just swam right past me. There it is.,12
+SCULLY,"The turbellarian flatworms are free-living carnivorous scavengers, usually less than three centimeters in length, found in fresh and sea water. They are hermaphroditic with complex reproductive systems, capable of internal fertilization. Many species require more than one host to complete a life cycle. Although the shape of the wound on the sanitation worker suggest scolex attachment, the sheer size of the wound precludes involvement of the common flukeworm. Scully.",69
+MULDER,"Scully, it's me. You know that fluke you caught?",9
+SCULLY,Yeah.,1
+MULDER,It must have been the runt of the litter.,9
+SCULLY,I don't see it.,4
+MULDER,"There it is. Tucked away in the far corner, behind the pipes.",12
+SCULLY,Oh my God.,3
+MULDER,"I don't know if you can see it from here, but it has no sex organs. It's genderless.",18
+SCULLY,"Platyhelminthis are often hermaphroditic. Mulder, this is amazing. It's vestigial features appear to be parasitic, but it has primate physiology. Where the hell did it come from?",27
+MULDER,"I don't know, but it looks like I'm going to have to tell Skinner that his suspect is a giant, blood-sucking worm after all. The only thing we're missing is the identity of the body in the sewer.",38
+SCULLY,"He was a Russian. An engineer on a cargo freighter. He had a tattoo on his forearm. I didn't make the connection until I detected that that was the name ""Dmitri"" spelled in Cyrillic lettering.",35
+MULDER,How did you make the connection at all?,8
+SCULLY,"Somebody shoved this under my door. I guess you really do have a friend in the F.B.I. And, Mulder... when you see Skinner to hand in your field report, I know that it's your decision, but I hope that you know that I'd consider it more than a professional loss if you decided to leave.",55
+SKINNER,"Everything looks in order. Is something wrong, Agent Mulder?",9
+MULDER,"Well, that's just an unexpected response, considering the bizarre nature of the case... and of the suspect.",17
+SKINNER,The strangeness of the criminal and the crime are not lost on me. I had my reaction to them this morning in my conversation with the federal prosecutor's office about how to process the suspect. This meeting... is to evaluate your work.,42
+MULDER,There's no way you'll prosecute this.,6
+SKINNER,The justice department has asked that the suspect be transferred to an institution for a full psychiatric evaluation.,18
+MULDER,This is not a man. It's a monster. You can't put it in an institution.,15
+SKINNER,"Then what do you do with it, Agent Mulder, put it in a zoo? It killed two people.",18
+MULDER,Two?,1
+SKINNER,The sanitation worker who was attacked was found dead in his home as a result of his injuries.,18
+MULDER,"You know, you had a pair of agents that could have handled a case like this. Agent Scully and I might have been able to save that man's life, but you shut us down.",34
+SKINNER,"I know. This should have been an X-File. We all take our orders from someone, Agent Mulder. That'll be all.",20
+MAN,It's secure.,2
+WOMAN,"Charlie twenty-one, Charlie twenty-one, what's your E.T.A.? Unit twenty, no further assist needed. They have the suspect in custody from the, uh...",22
+FEDERAL MARSHALL,"This is vehicle forty-nine forty, requesting immediate back-up and assistance.",10
+WOMAN,"Roger forty-nine forty, roger forty-nine forty.",6
+LAKE BETTY PARK; 5,27 am,2
+LAKE BETTY PARK; 6,37 am,2
+MULDER,What do you got?,4
+NORMAN,"Well, we got a dead Marshall and an escaped prisoner. Other than that, we got bubkis. We got a police line in a two-mile radius.",25
+MULDER,"Watch all the storm drains, any access to the sewer system. It's going to try to get back underground. Mulder.",20
+X,"Mister Mulder, I will make this brief. Success in your current assignment is imperative.",14
+MULDER,Who am I speaking to?,5
+X,"Are you hearing me, Mister Mulder?",6
+MULDER,Yes. Why is it imperative?,5
+X,Reinstatement of the X-Files must be undeniable.,7
+MAN,"K-nine, unit six-four, copy?",4
+NORMAN,"Six-four, copy.",2
+MAN,"Yeah, we're at a campsite approximately a quarter-mile from your position. Dogs tracked a scent to a chemical toilet here. Thought he might be hiding inside, but it's empty.",29
+MULDER,The tanker.,2
+NORMAN,"Hold on, six-four. What?",4
+MULDER,What if he's on the tanker truck?,7
+NEWARK COUNTY; SEWAGE PROCESSING PLANT; 8,15 am,2
+FOREMAN,Company that owns the truck you're looking for doesn't keep detailed service records. They had about five trucks out in that area this morning. Three of them have already deposited their loads.,32
+MULDER,So he could have already been here and gone?,9
+FOREMAN,"If he hasn't, he will be.",6
+MULDER,And every tanker dumps it's load here?,7
+FOREMAN,It's a state law.,4
+MULDER,Everything is processed through this plant?,6
+FOREMAN,Yup.,1
+MULDER,Then what happens to it?,5
+FOREMAN,Empties through an outlet pipe about five miles out to sea.,11
+MULDER,Could this thing have escaped through that outlet pipe?,9
+FOREMAN,Doubtful. The system's full of enough filters and screens that nothing much bigger than your little finger's going to get through. If it's here... it's going to be trapped here.,30
+MULDER,Guess all we can do is wait. Mulder.,8
+SCULLY,"It's me, where are you?",5
+MULDER,I'm at the treatment plant. I was playing a hunch it might have gotten back into the system.,18
+SCULLY,How?,1
+MULDER,"Forget it, it's stupid.",4
+SCULLY,"Well, you're not going to like what I have to tell you?",12
+MULDER,Why not?,2
+SCULLY,"It hadn't occurred to me, but I think that the fluke in the corpse might have been an incubating larva. This... creature, or whatever it is... Is transmitting it's eggs or larvae through it's bite.",35
+MULDER,You mean it's trying to reproduce?,6
+SCULLY,It's looking for hosts. It attacks because the victims' bodies provide generative nourishment. Mulder...,14
+MULDER,Yeah...,1
+SCULLY,If it finds a new host...,6
+MULDER,"I know, Scully. It could multiply.",6
+FOREMAN,Agent Mulder! Linesman spotting something down in a section of pipe!,11
+MULDER,Where?,1
+FOREMAN,Here.,1
+MULDER,That's near where we found the first body.,8
+FOREMAN,"Right, except this is an old overflow system that dumps into the harbor during heavy rainfall.",16
+MULDER,That must be where it got into the system. It's working it's way back out to sea. Mmm...,18
+FOREMAN,"That's the overflow pipe. It leads to another vault like this one, then it goes three-quarters of a mile to the sea.",22
+MULDER,Let's see if we can get that gate closed.,9
+FOREMAN,It's rusted in position! See if I can get some leverage here.,12
+MULDER,Hey!,1
+FOREMAN,"Aw, damn it!",3
+MULDER,You all right?,3
+FOREMAN,"Yeah, I lost my... ah! Help! Help!",7
+MULDER,Give me your hand!,4
+FOREMAN,Get me out of here! Get me out of here! Grab it!,12
+MULDER,We need some help down here! Hey! I'll get you out of here! Hold on! Hold on! You all right? You all right?,23
+SCULLY,Is this seat taken?,4
+MULDER,"No. But I should warn you, I may reek a bit out of the sewer.",15
+SCULLY,I'll take my chances. You talked to Skinner yesterday.,9
+MULDER,"Success in our work is imperative, Scully. Reinstatement of the X-Files must be undeniable.",14
+SCULLY,That came from Skinner?,4
+MULDER,No. We have a friend in the F.B.I.,8
+SCULLY,"I thought you might be interested in the lab results on the biology of the fluke larva. Dissection and analysis indicates reproductive and physiological cross-traiting, resulting in a sort quasi-vertebrate human.",31
+MULDER,Human?,1
+SCULLY,"Yes, but still capable of spontaneous regeneration, like any fluke or flatworm.",12
+MULDER,How does that happen?,4
+SCULLY,"Radiation. Abnormal cell fusion. The suppression of natural genetic processes. Mulder, nature didn't make this thing. We did.",18
+MULDER,I know these. These are from Chernobyl.,7
+SCULLY,That creature came off of a decommissioned Russian freighter that was used in the disposal of salvage material from the meltdown. It was born in a... in a primordial soup of radioactive sewage.,33
+MULDER,"You know, they say three species disappear off the planet every day. You wonder how many new ones are being created.",21

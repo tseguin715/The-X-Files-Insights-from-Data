@@ -1,0 +1,298 @@
+speaker,line,words
+JANE BRODY,"Cover for me in case dork-face comes back around, will you?",11
+MISSY,Where you going?,3
+JANE BRODY,I need a cigarette.,4
+MISSY,You had one 15 minutes ago.,6
+JANE BRODY,45 minutes.,2
+MISSY,Why don't you get yourself one of those patches or that gum?,12
+JANE BRODY,What do you think I'm chewing?,6
+MISSY,Then maybe you should just quit. Ever think of that?,10
+JANE BRODY,"Look. Just cover for me, OK? Tell her I've got a stomach bug or something.",15
+MISSY,"Jane! Come on, you're gonna get in trouble! Jane?",9
+MISSY,"Hey, Jane...",2
+"AUDREY COUNTY MORGUE, 12",22 AM,2
+"POLICE FORENSIC LAB, DESMOND, VIRGINIA, 2",35 AM,2
+OFFICER ROBBINS,"Brodie, Jane L. Yeah, we've got the pathologist's work, but the, uh, techs haven't been over the crime scene yet.",20
+SKINNER,Let me see what you've got.,6
+OFFICER ROBBINS,Your name?,2
+SKINNER,Special Agent Fox Mulder.,4
+OFFICER ROBBINS,"Working the late shift, Agent Mulder?",6
+SKINNER,Yeah. Somebody's got to.,4
+OFFICER ROBBINS,You need to sign that.,5
+SKINNER,I'm all set here.,4
+OFFICER ROBBINS,Finished?,1
+SKINNER,Yeah. Thanks.,2
+OFFICER ROBBINS,No problem.,2
+DETECTIVE THOMAS,Agent Mulder! I'm glad I caught you.,7
+SKINNER,Who are you?,3
+DETECTIVE THOMAS,"Detective Thomas. Ray Thomas. I'm the one who contacted you, who e-mailed the pictures to your office. I ran into Officer Robbins. He said you'd come down here to take a look at some of the forensic evidence.",38
+SKINNER,"Yeah, that's right.",3
+DETECTIVE THOMAS,"So... does that mean you think you found something here, something worth looking into?",14
+SKINNER,I'm afraid not.,3
+DETECTIVE THOMAS,No?,1
+SKINNER,I didn't find anything to recommend my further involvement in this case.,12
+DETECTIVE THOMAS,"What about the woman? How do you explain what happened to her? She walks into a bathroom, a minute later, she turns up... You saw the pictures!",27
+SKINNER,I saw them.,3
+DETECTIVE THOMAS,"I was told you were part of something called the X-Files, you'd look into stuff like this. So if there's really nothing to this, why come all the way down here in the middle of the night?",37
+SKINNER,"I'm just doing my job, Detective, same as you.",9
+MULDER,"Oh, you are home.",4
+SKINNER,"Yeah, what are you doing here?",6
+MULDER,I was trying to reach you. I think your phone's off the hook.,13
+SKINNER,"Uh, I needed some sleep.",5
+MULDER,Is that why you're taking the garbage out at 4 in the morning?,13
+SKINNER,"What do you want, Agent Mulder?",6
+MULDER,I want some answers.,4
+SKINNER,Concerning?,1
+MULDER,"The unexplained death of a postal worker that somebody is apparently going to great lengths to keep unexplained. These photos were sent to me by a detective who thought I might have a fresh take on the case, but when I went to retrieve them from my e-mail, somebody had hollowed out the files.",54
+SKINNER,Then where'd you get them?,5
+MULDER,From his partner.,3
+SKINNER,When?,1
+MULDER,After he finished questioning me about the detective's death.,9
+SKINNER,"What, what are you talking about?",6
+MULDER,"He was killed, shot in the head execution-style. His body was found near the precinct two hours ago... possibly by the same person who forged my name to gain access to evidence from the forensics lab.",36
+SKINNER,What do you want from me?,6
+MULDER,"Well, I'd like your help on this, sir.",8
+SKINNER,What about Agent Scully?,4
+MULDER,Agent Scully is in the hospital.,6
+SKINNER,Has something happened that I should know about?,8
+MULDER,"She's undergoing some imaging tests. Her, uh, her oncologist was concerned about some microscopy results that, uh, her tumor may be metastasizing. Anyway, I, I'd like you to take a look at those photos, please.",35
+SKINNER,"Yeah, I will, first thing in the morning.",8
+MULDER,"Want me to, uh, dump this on my way out?",10
+SKINNER,"No, I got it.",4
+MULDER,All right.,2
+SKINNER,"Was it you? Did you pull the trigger, or did you have him do it for you?",17
+CIGARETTE SMOKING MAN (CSM),I'm not here to answer your questions.,7
+SKINNER,You murdered him! You killed an officer of the law!,10
+CSM,"I suggest you keep your voice down, Mr. Skinner, unless you want your neighbors to know the hours and the company you keep.",23
+SKINNER,I won't be a party to murder.,7
+CSM,"I wouldn't get too comfortable on your moral high ground, Mr. Skinner. This only happened because you left your job unfinished.",21
+SKINNER,I handled him just like I've handled everything else you've asked me to do. I followed your instructions.,18
+CSM,You failed to neutralize a potentially compromising situation.,8
+SKINNER,You didn't have to kill him. He didn't have to die.,11
+CSM,You're in no position to question the terms of our arrangement.,11
+SKINNER,Then we have no arrangement.,5
+CSM,"You'll find it's not that easy to walk away from, Mr. Skinner.",12
+SKINNER,No?,1
+CSM,"A man digs a hole, he risks falling into it.",10
+SKINNER,Skinner.,1
+MULDER,"Her body's gone, sir.",4
+SKINNER,What are you talking about?,5
+MULDER,"The postal worker in the photos that I gave you. Her body was stolen from the morgue last night, along with any other evidence that might explain how or why she died.",32
+SKINNER,"Slow down, Agent Mulder.",4
+MULDER,"I'm sorry, but I can't. I'm playing catch-up here, and I'm already two steps behind. The man who impersonated me at the forensics lab last night, apparently he replaced a blood sample.",32
+SKINNER,How do you know?,4
+MULDER,"I had them run a test. The blood sample in the police forensics lab is B-positive, as is the postal worker's, but she suffered from a mild form of anemia characterized by a folic acid deficiency. The blood sample at the police forensics lab has a normal folate serum level.",50
+SKINNER,Are there any suspects?,4
+MULDER,"No, but I do have a place to start. The gun that killed Detective Thomas - ballistics has identified it as a Sig-Sauer P228. I'm having ballistics run comps on all weapons registered to federal agents and, uh, local officers.",39
+MULDER,Sir?,1
+SKINNER,Let me know what they find.,6
+MULDER,I will.,2
+CSM,Yes.,1
+SKINNER,You can't do this!,4
+CSM,"You sound agitated, Mr. Skinner.",5
+SKINNER,Was it my gun?,4
+CSM,Your gun?,2
+SKINNER,Used to kill the detective?,5
+CSM,"Well, if it was, I'd think you'd want to report it to the police immediately.",15
+SKINNER,"Oh, don't think that I won't.",6
+CSM,"Then why are you calling me? Perhaps because you realize that you'd be admitting to the obstruction of justice, criminal conspiracy, and destruction of evidence? The consequences could be very serious for you, even in the unlikely event that you were able to persuade the authorities that you didn't kill the detective.",52
+SKINNER,What did you have me cover up?,7
+CSM,"I think the less you know the better, under the circumstances.",11
+SKINNER,I need to know what that man died for.,9
+CSM,"He died for you, Mr. Skinner. He died so you could have what you wanted - a cure for Agent Scully. Isn't that what you want?",25
+SKINNER,"Agent Scully is in the hospital. If you can do anything for her, I want it done now.",18
+CSM,I'm fully aware of Agent Scully's progress.,7
+SKINNER,"If anything happens to her, I will expose you. I'll turn state's evidence. I don't care what happens to me.",20
+CSM,"Agent Scully stands to live a long and healthy life. I would hope the same for you, Mr. Skinner.",19
+SUPERVISOR,"Police said we could put the bathroom back in service. But the truth is, no one wants to use it. Not after what happened yesterday. You mind my asking what you're looking for?",33
+SKINNER,I need a hammer.,4
+"ELSINORE, MARYLAND, 1",15 PM,2
+DR. VALEDESPINO,Is there any reason you're not running this through the FBI lab?,12
+SKINNER,"Uh, this evidence is classified. We've had some controversy over security at the Bureau. I'd appreciate your discretion.",18
+DR. VALEDESPINO,"Oh, certainly.",2
+SKINNER,Can you tell what kind of bees made that?,9
+DR. VALEDESPINO,"Uh, it's hard to tell with just the comb, but I might be able to give you an answer.",19
+SKINNER,"If I told you there was a chance that the bees that made that could be lethal, would that be helpful?",21
+DR. VALEDESPINO,"Any kind of bee can be lethal, provided you get stung by enough of them. Even Africanized honey bees, the so-called killer bees, basically have the same venom as the European honey bee. It's just that they tend to attack in swarms. Ah, we may be in luck.",48
+SKINNER,What is it?,3
+DR. VALEDESPINO,"Royal jelly, a highly nutritious secretion of the honey bees' pharyngeal gland. It's fed to the very young larvae in the colony. Here, see for yourself.",26
+SKINNER,Is that gonna hatch?,4
+DR. VALEDESPINO,"Once they pupate, I should be able to give you some definitive answers.",13
+SKINNER,"The minute you learn something, I'd appreciate a call.",9
+DR. VALEDESPINO,Is this related to that other case? If you don't mind me asking...,13
+SKINNER,What other case?,3
+DR. VALEDESPINO,I got a call from another agent about six months ago asking me all about killer bees.,17
+SKINNER,Who was it?,3
+DR. VALEDESPINO,"Uh, the name was Fox Mulder. I wonder if there's any connection?",12
+SKINNER,No.,1
+DR. VALEDESPINO,"Anyway, I'll call you.",4
+MULDER,Sir? You looking for me?,5
+SKINNER,"Uh, I was just writing you a note. Where've you been?",11
+MULDER,First Nations Bank of Virginia.,5
+SKINNER,What am I looking at?,5
+MULDER,"The bank is adjacent to the police headquarters where the detective was killed. Their parking lot surveillance camera caught this image. That man there - that's Detective Thomas. This man in the baseball hat - he was identified by the officer on duty at the forensics lab as ""Agent Mulder"".",48
+SKINNER,Can you get a usable image of this?,8
+MULDER,I'm gonna hand deliver it to Special Photo right now. What did you want to talk to me about? You were writing me a note.,25
+SKINNER,"I was, uh, I was just checking on your progress.",10
+SKINNER,Miss Covarrubias? This is Walter Skinner. I'm an Assistant Director here at the FBI.,14
+MARITA COVARRUBIAS,Yes?,1
+SKINNER,I was hoping you could help me. I understand Agent Fox Mulder has been in contact with you about a project.,21
+MARITA COVARRUBIAS,A project?,2
+SKINNER,A Canadian agricultural project involving bees and bee husbandry.,9
+MARITA COVARRUBIAS,"Yes, but, I wasn't able to give him any information.",10
+SKINNER,Why was that?,3
+MARITA COVARRUBIAS,The project he cited turned up no viable evidence.,9
+SKINNER,Evidence of what?,3
+MARITA COVARRUBIAS,Bee hives... or bee husbandry.,5
+SKINNER,What if I told you I had access to that evidence?,11
+MARITA COVARRUBIAS,You have access to these bees?,6
+SKINNER,"I may, soon. Very soon.",5
+SKINNER,Agent Mulder?,2
+MULDER,Thanks for getting down here so quickly.,7
+SKINNER,What is it?,3
+MULDER,A break. Maybe even a lead.,6
+MULDER,I wanted you to get a look at this body before somebody tried to steal it. See these pocks and blisters? They're the same as we saw in the photo of the deceased postal worker.,35
+SKINNER,Symptoms of what?,3
+MULDER,Smallpox. The first reported case in over seven years.,9
+SKINNER,Smallpox?,1
+MULDER,"According to the coroner, an especially virulent strain caused by a mutated variola virus.",14
+SKINNER,"Caused how? I mean, how could this man contract a disease that doesn't even exist any more?",17
+MULDER,From these.,2
+SKINNER,What are they?,3
+MULDER,"Bee stingers and venom sacs recovered subcutaneously from the victim's face, arm and neck.",14
+SKINNER,You're saying this man was stung by bees carrying smallpox?,10
+MULDER,He was a forensic entomologist. I consulted with him several months ago about a similar fatality.,16
+SKINNER,Then you've seen this before?,5
+MULDER,"Yeah, but I've never had any hard evidence. Not until now. I think that's what somebody's gone to great lengths to try to prevent.",24
+SKINNER,Why?,1
+MULDER,I can only guess. But I think that somebody is trying to engineer a method of delivery... for a disease that has killed more people throughout history than any other contagion known to humankind. If you want me to suggest an appropriate response...,43
+SKINNER,Can they be stopped?,4
+MULDER,"How can we stop them? We don't even know who these people are, and we won't until we know the identity of that shooter.",24
+SKINNER,How close are you?,4
+MULDER,"Hopefully, very. I've got one of the photo techs pulling an all-nighter on that surveillance video so he can show me something this morning. I told him that you'd authorize the overtime.",32
+SKINNER,Of course.,2
+MULDER,I'm gonna go over there right now.,7
+SKINNER,Tell me what you find.,5
+SKINNER,Missy Nagata? My name is Walter Skinner.,7
+MISSY,"I was just getting up. They only give us a 10-minute break, and my supervisor's pretty strict.",17
+SKINNER,"I need to talk to you, Misty. About your co-worker.",10
+MISSY,"If this is about what happened to Jane, I already told the police everything I know.",16
+SKINNER,Everything?,1
+MISSY,I don't want to lose my job.,7
+SKINNER,You're not going to lose anything. I'm asking you to cooperate in a criminal investigation.,15
+MISSY,Jane? What do you mean?,5
+SKINNER,Jane's death may not have been an accident.,8
+MISSY,What? She was my best friend.,6
+SKINNER,I'm sorry.,2
+MISSY,"We worked it out so that our vacations overlapped. We were going to Palm Beach. Both of us were trying to lose weight so we could buy new bathing suits. The men who came here - they said if I talked to anyone, I'd lose my job.",46
+SKINNER,Did these men say who they were?,7
+MISSY,"No, and I didn't ask. They just wanted the package.",10
+SKINNER,What package?,2
+MISSY,Damaged packages are routed here for inspection before they get reshipped.,11
+SKINNER,The place where the damaged packages are kept - how close is it to the restroom where you found Jane?,19
+MISSY,It's just the next door down the hall. They've got a storage room.,13
+SKINNER,The damaged package that they wanted - do you remember where it would be sent?,14
+MISSY,"No, not off-hand.",3
+SKINNER,Is there any way of finding out?,7
+MISSY,I can look up the tracking number.,7
+SKINNER,"That would be a big help to me, Misty. And maybe to Jane.",13
+PHOTO TECH,"We went through every inch of that tape to find the best angle for identification purposes. Now remember it was videotape, shot at a distance under extreme low light.",29
+MULDER,So this is the best you can do?,8
+PHOTO TECH,"It's better than I thought it would be, believe me. I tried every trick that...",15
+MULDER,I'm not trying to be difficult. It's just this is very important to me. I need to be sure.,19
+MULDER,I need you to print out a hardcopy of that for me.,12
+CSM,This is the last remaining specimen. The bees from the scientist's house - it's been contained and destroyed.,17
+1ST ELDER,And the body?,3
+CSM,It also has been sanitized.,5
+1ST ELDER,How did this happen?,4
+CSM,It's been taken care of. The details are unimportant.,9
+1ST ELDER,Details are everything. Much more important than your vague assurances.,10
+CSM,"Well, you'll have to trust my assurance that any other breaches have been handled.",14
+1ST ELDER,Handled by whom?,3
+CSM,I have a man in place. A man with no other choice but to succeed.,15
+1ST ELDER,What assurance can you give us that he can be trusted?,11
+2ND ELDER,We can't risk even the slightest exposure.,7
+CSM,He has nothing to expose... except his own duplicity.,9
+1ST ELDER,Should we assume that the trial run is proceeding as planned?,11
+CSM,It's already begun.,3
+DAVID,"Hey, it's my turn!",4
+BILLY,"No, it isn't! Ow. Ow.",5
+DAVID,Ms. Kemper! Billy got stung by a bee!,8
+YOUNG GIRL,Ms. Kemper!,2
+MS. KEMPER,Everyone get inside! Everyone inside! Move it! Move it! Come on!,11
+MS. KEMPER,"Oh, my God! David!",4
+MS. KEMPER,Quick! Run!,2
+SKINNER,Dr. Linzer? My name's Walter Skinner. The administration office informed me you were overseeing the treatment of these children.,19
+DR. LINZER,Yes.,1
+SKINNER,I think you'll want to hear me out.,8
+DR. LINZER,I'm right in the middle of it.,7
+SKINNER,You've been treating these children for bee stings. You've misdiagnosed them.,11
+DR. LINZER,Then what should I be treating them for?,8
+SKINNER,Smallpox.,1
+DR. LINZER,Is this a joke?,4
+SKINNER,Every child in this town who hasn't already been infected needs to be vaccinated immediately.,15
+DR. LINZER,We don't vaccinate kids against smallpox any more because there is no smallpox.,13
+SKINNER,Run whatever tests you need if you don't believe me.,10
+DR. LINZER,"I don't need to run any tests. Smallpox has an 8-day incubation period, and these kids were stung just a few hours ago. How do you reconcile that?",28
+SKINNER,I can't.,2
+DR. LINZER,"Let me know when you come up with an answer. In the meantime, I've got things to do.",18
+SKINNER,Doctor...,1
+MARITA COVARRUBIAS,Mr. Skinner?,2
+SKINNER,How do you know who I am?,7
+MARITA COVARRUBIAS,Because you contacted me. I'm Marita Covarrubias.,7
+SKINNER,What are you doing here?,5
+MARITA COVARRUBIAS,Your call about those bees prompted me to make some inquiries.,11
+SKINNER,Into what?,2
+MARITA COVARRUBIAS,"Seven packages that were sent from Canada to a PO box in Peyson, South Carolina. I came here to find out what was in those packages.",26
+SKINNER,You're a little late to do anything about it.,9
+MARITA COVARRUBIAS,"So are you, apparently. What brought you here? You came to me for information, Mr. Skinner, but you still haven't told me what you know about this. My office has to answer to the Secretary General of the United Nations. This is a very serious matter. I need to know what's going on.",53
+SKINNER,I think it's some kind of experiment.,7
+MARITA COVARRUBIAS,An experiment?,2
+SKINNER,Using bees as carriers.,4
+MARITA COVARRUBIAS,That's what was in those packages?... Have you told Agent Mulder this?,12
+SKINNER,Not yet.,2
+MARITA COVARRUBIAS,Why not?,2
+SKINNER,I can't.,2
+MARITA COVARRUBIAS,"Why? Are you involved in this, Mr. Skinner.",8
+SKINNER,"I didn't... No, I'm not involved.",6
+MARITA COVARRUBIAS,"Then what are you doing here? What aren't you telling me, Mr. Skinner?",13
+SKINNER,Nothing.,1
+MARITA COVARRUBIAS,"If you know who's behind this, you have to come forward, Mr. Skinner. No one else can.",17
+"CRYSTAL CITY, VIRGINIA, 11",02 PM,2
+MULDER,Put the gun down and move away from the desk.,10
+SKINNER,I was just calling...,4
+MULDER,I said put the gun down!,6
+SKINNER,You don't understand.,3
+MULDER,No. I do now.,4
+SKINNER,No you don't.,3
+MULDER,Is that the gun you used to shoot the detective?,10
+SKINNER,No.,1
+MULDER,How's it feel to shoot an innocent man in the head?,11
+SKINNER,I didn't kill that man!,5
+MULDER,"You're a liar! You've been working with the Smoking Man all along. You knew when he had my father killed, and you knew when they took Scully.",27
+SKINNER,Listen to me!,3
+MULDER,I've heard enough of you.,5
+SKINNER,He set me up! He stole my gun and then he put it back! Which means the police are probably on their way right now.,25
+MULDER,I don't believe you.,4
+SKINNER,"Look at my desk drawer, Agent Mulder. Look at it! Why would I force my own lock? If I lied to you... I have lied to you, and I won't make excuses for those lies, but there's a reason that I did what I did - one that I think you're in a unique position to understand. I advised you against a certain course of action some time ago... concerning Agent Scully. I didn't follow my own advice.",77
+MULDER,Give me the gun.,4
+MULDER,How soon will you be able to determine if that's the weapon that killed Detective Thomas?,16
+BALLISTICS TECH,As long as it takes me to put one of these slugs under the scope and run a comp.,19
+BALLISTICS TECH,"Now, this is the slug that we recovered from the detective's body. See this stria here and here? They're rifling patterns imprinted from the barrel of the same gun.",29
+MULDER,So this is definitely the murder weapon?,7
+BALLISTICS TECH,If I were called to testify I'd say without a doubt. So where'd you find it?,16
+MULDER,In a sewer grate...... around the corner from the crime scene. Sometimes you get lucky.,15
+BALLISTICS TECH,"Sometimes you don't, right?",4
+MULDER,What do you mean?,4
+BALLISTICS TECH,"The serial number - it's been filed clean off. Well, unless forensics pulled a print, this gun is virtually untraceable.",19
+SKINNER,Leave it off. I'm starting to get used to the dark.,11
+CSM,Is this part of our deal?,6
+SKINNER,We never had a deal.,5
+CSM,No?,1
+SKINNER,"Agent Scully is dying, and you haven't done a damn thing about it. You think that's funny?",17
+CSM,"I'm just enjoying the irony, Mr. Skinner. Only yesterday, you said you wouldn't be a party to murder and now here you are. Yours isn't the first gun I've had pointed in my face, Mr. Skinner. I'm not afraid to die. But if you kill me now, you'll also kill Agent Scully.",52
+SKINNER,You have no intention of saving her. You never did.,10
+CSM,"Are you certain? I saved her life once before, when I had her returned to Agent Mulder. I may save her life again. But you'll never know if you pull the trigger, will you? Now, unless you intend to kill me, I'd like to answer my phone.",47
+CSM,Yes... He was just here. He threatened to kill me. I'm sure Mulder will be contacting you. He'll want to know if Skinner's seen all there is to see.,29
+MARITA COVARRUBIAS,I'll tell him what you want me to tell him.,10
+CSM,Tell him what he wants to hear.,7

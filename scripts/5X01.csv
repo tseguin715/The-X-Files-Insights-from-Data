@@ -1,0 +1,337 @@
+speaker,line,words
+COP 1,"Yeah, how're ya doing?",4
+GUY IN CAR,Quite a little party. What do you know?,8
+COP 1,Reports that there were shots fired. The door looks like it's been jimmied. The alarm wasn't tripped.,17
+GUY IN CAR,You see anybody come out?,5
+COP 1,"Not a soul. Whoever it is, he's still in there. COP 1 motions for his men to go into the building. In the building, they walk up the stairwell with their flashlights on. One by one, covering each other, they enter a warehouse room filled with crates, dark.",48
+COP 2,"Lieutenant, over here. COP 1 turns with his gun at ready and looks at the ground. Blood.",17
+COP 2,Look here. Looks like someone got hit.,7
+COP 1,So where'd he go? Stay low and keep looking. They slowly search again. COP 1 hears groaning. He turns and sees a large piece of cardboard leaning against a crate. The moaning is coming from underneath. He slowly walks toward it. He talks into the headset communication.,47
+COP 1,Davis! Gonzalez!,2
+DAVIS AND GONZALEZ,Yeah. They join him. He slowly lifts the cardboard. A naked man. He's groaning with his arm over his face. It's Mulder.,22
+MULDER,They're here....,2
+COP 1,Are you all right?,4
+MULDER,They're here...,2
+COP 1,Who's here? He motions for the two to check it out. We follow one of them as he moves to another section and lifts a wooden slat door. Three figures pop up and run away.,35
+COP 2,"Hey, stop. Police! One of the men falls and the other two stop by him with their arms raised. It's Frohike on the floor, Langly and Byers!",27
+LANGLY,Don't shoot!,2
+FROHIKE,We didn't do it.,4
+COP 2,Didn't do what?,3
+BYERS,Whatever.,1
+COP 2,Face down on the floor! They slowly kneel down as the other MP comes with his gun pointed at them. They go stomach to the floor.,26
+COP 2,Get down! Get down! All right. Cuff 'em. Spread 'em. The cops frisk them as they hear the shouting again.,20
+MULDER,THEY'RE HERE! THEY'RE HERE!,4
+LANGLY,"We're screwed. Thank you so much for getting me involved in this, DOO-hickey.",13
+FROHIKE,"Frohike, you hippie jerk.",4
+LANGLY,DOO-hickey! Frohike stands with his finger pointed. Langly stands and towers over him.,13
+FROHIKE,"Ya know, with that long blonde hair, you'll be the first one in here that gets traded for cigarettes. I'm gonna be laughing my ass off.",26
+LANGLY,Oh yeah? Ya wanna cha-cha.,5
+FROHIKE,"Anytime, any place. Byers turns.",5
+BYERS,Both of you relax!,4
+LANGLY,"Shut up, ya narc!",4
+FROHIKE,It's your fault we're here.,5
+GUARD,"You, you with the suit. You're first. Byers turns, scared.",10
+MUNCH,"Detective Munch, Baltimore Homicide.",4
+BYERS,Did they find her?,4
+MUNCH,"And a good evening to you. Sorry, no sign of your mystery lady.",13
+BYERS,"She is real, the FBI agent saw her.",8
+MUNCH,"Yeah well, Special Agent .. Mulder? Is currently being held under five-point restraints and jabbering like a monkey. And the FBI's not talking either. So, what I'm looking at here is a warehouse break-in with nothing stolen, a shoot-out but no guns, lots of blood but no bodies. And an FBI agent who likes to take off all his clothes and talk about space aliens. Fill me in. From the top, start with your name and birth date.",77
+BYERS,"John Fitzgerald Byers, 11/22/63.",4
+MUNCH,Seriously.,1
+BYERS,"I was named after JFK. Before the assassination, my parents were going to call me Bertram.",16
+MUNCH,Lucky you. Occupation?,3
+BYERS,I work for the government... for the moment.,8
+MUNCH,What do you do for the government?,7
+BYERS,I'm a public affairs officer for the Federal Communications Commission. It was in that capacity that I was attending the Computer and Electronics Show at the Baltimore Convention Center.,29
+BYERS' VOICE OVER,Just this morning. We at the FCC enjoy forging positive ties with the American public. It's our way of saying 'Communication is just another word for sharing'. He lifts a glass jar full of buttons to two hippies walking past. <Rumor has it they are writers on the show>.,49
+BYERS,"Hi, guys. Like a button?",5
+HIPPIES,"Up yours, narc.",3
+BYERS' VOICE OVER,"Of course some people don't see it like that. They walk right on by. In the distance, he sees a blonde woman wearing sunglasses walking toward him. It's slow motion as she gets closer. Byers is awestruck.",37
+BYERS' VOICE OVER,"At any rate, that was where I first saw her. She gets to the booth, lowers her glasses, flashes her eyes at Byers.",23
+BYERS,Would you like a... a button? She walks on.,9
+BYERS' VOICE OVER,I'm still not sure why I did what I did. It was so unlike me. There was just something about her. Byers goes behind the curtain to a man at a computer playing Dig Dug. <It's Ken Hawryliw playing Ken Hawryliw! He works for the show> Byers bends to him.,50
+BYERS,"Ken, I'm going to take a short break, okay?",9
+KEN,"Yeah, all right.",3
+FROHIKE,Hello pretty lady! He kicks into his salesman mode.,9
+FROHIKE,"Picture this, crystal-clear television, 33 channels worth with no monthly cable bill.",12
+SUSANNE,Excuse me?,2
+FROHIKE,"Now! Now I know what you're thinking. Melvin? Are you out of your mind? No cable bill? That's exactly what I'm saying, and I'm talking premium channels here too. You got your HBO, you got your Cinemax, you got your Showtime. All courtesy of this modestly priced marvel designed and built by the Frohike Electronics Corporation. He pulls out what looks like a VCR/TV splitter. Langly comes up from behind a dividing curtain to his own booth.",77
+LANGLY,There's a name that inspires consumer confidence.,7
+FROHIKE,"Shut up, punk! Where were we? Langly pulls the curtain away, we see his booth and name, Langly Vision.",19
+LANGLY,"Hey lady, if you want to watch Matlock with Andy Griffith all blue and squiggly, go right ahead and buy from this guy. But, if you want quality bootleg cable, you talk to me.",34
+FROHIKE,"If you want a converter that'll short out and burn your house down, definitely talk to this guy.",18
+LANGLY,It was a one time fluke. I heat cinque every mother board.,12
+FROHIKE,"Yeah, well what about coax laws? Use the RG6U or the 52 All Mar GH?",15
+LANGLY,"Trick question. They continue their discussion as Susanne walks on, Byers following. Susanne turns a corner and bumps into Byers. Her purse falls to the floor.",26
+BYERS,Sorry. He bends to help her pick up the belongings of her purse. He picks up a picture of a little girl.,22
+BYERS,She's very cute.,3
+SUSANNE,Yeah. She is. Thank you.,5
+BYERS,Wait! She turns.,3
+BYERS,"Um, ah... You just look like you could use some help. TABLE Susanne and Byers are talking over coffee.",19
+SUSANNE,So my daughter turned 3 years old last week. Last Tuesday was her birthday. I hope he remembered that... She softly cries.,22
+BYERS,Her... her father... took her from you?,7
+SUSANNE,My former boyfriend. He kidnaped her. Byers is surprised.,9
+SUSANNE,It's a long story. Basically I got involved with a man who turned out to be a complete psychotic.,19
+BYERS,Yeah?,1
+SUSANNE,We were only together a few months... I was attracted to him because he was dark and mysterious. And then he just kept getting darker and more mysterious. I got pregnant and he left. She sniffs back a sob.,39
+SUSANNE,And then he suddenly came back and took her about 6 months ago.,13
+BYERS,That's terrible. Did you call the police?,7
+SUSANNE,Of course. The police and private investigators. They were surprisingly unhelpful.,11
+BYERS,That's unbelievable.,2
+SUSANNE,Yeah... well. At least I managed to get a couple of leads. I was told he was in the Baltimore area. So here I am.,25
+BYERS,"Well, that's a start...",4
+SUSANNE,Yeah... Except that he now knows that I'm looking for him. And the closer I get the more dangerous he becomes.,21
+BYERS,Are you... worried he might... harm your daughter?,8
+SUSANNE,"Let's just say I want to find her, not him. She hands him a piece of paper with the words ""Arpanet/Whtcorp/"" written on it.",24
+SUSANNE,This is the only other lead I've got. That's why I'm here today. This has something to do with computers. Doesn't it? The internet?,24
+BYERS,"Actually, the Orpanet. It's a government network created by the Defense Advanced Research Projects Agency... You can access it through the internet.",22
+SUSANNE,Somehow this means something to my ex-boyfriend. I was hoping it was a means to finding my daughter. Long pause as Byers decides if he's going to get involved.,29
+BYERS,If you want... Bingo!,4
+BYERS,I could go online... try to find out for you.,10
+SUSANNE,"Would you? That... I would really, really appreciate that.",9
+BYERS,"Um, by the way, my name's John. Susanne sees a packet of Holly brand sugar on the table.",18
+SUSANNE,Holly. She smiles.,3
+SUSANNE,Nice to meet you.,4
+BYERS,Holly. He smiles.,3
+BYERS,Just like the sugar.,4
+SUSANNE,Yeah... just like the sugar.,5
+BYERS,Funny...,1
+BYERS,"Ken, can you take a short break? Ken loses the game and shrugs.",13
+KEN,Whatever... Ken gets up and leaves. Byers sits in the chair.,11
+BYERS,Ok... let's see. He logs onto the net.,8
+BYERS,So your ex-boyfriend is into computers?,6
+SUSANNE,I don't really know. I knew very little about him. Except that he's psychotic.,14
+BYERS,Somehow this kicked us into the Defense Data Network. He looks at the screen. Need ID.,16
+BYERS,"I'm sorry, I think this is the end of the line.",11
+SUSANNE,Isn't there something you could... how do you say it? Hack into? Byers is shocked!,15
+BYERS,"Hack into? No! I... I mean, technically, yes. I probably could. But this belongs to the Department of Defense. This is a secured site. I mean I work for the FCC. This is the kind of thing we're trying to stop.",41
+SUSANNE,"Thank you, John. I appreciate your time. She starts to leave.",11
+BYERS,Wait... He stops and thinks.,5
+BYERS,You didn't see this. He punches on the keyboard. They're in.,11
+SUSANNE,What did you do?,4
+BYERS,"Oh, government system. I know a couple of logon tricks with VMS Version 5... Never mind. He punches some more keys.",21
+SUSANNE,Can you look up Susanne Modeski? That's my daughter.,9
+BYERS,I'll try. There's just no way of telling... A strange screen comes up.,13
+SUSANNE,What is that?,3
+BYERS,It's an encrypted file. Why would your three year old have an encrypted file with the Secret Defense Department Data Base?,21
+SUSANNE,Can you decode it?,4
+BYERS,I'd need some help.,4
+SUSANNE,"Can you print it out for me? She walks to the printer as Byers punches more keys. After it prints and she tears it off, she looks through a gap in the curtain.",33
+SUSANNE,My God!,2
+BYERS,What? Byers and Susanne gather at the curtain gap.,9
+SUSANNE,My ex-boyfriend is out there.,5
+BYERS,The psychotic?,2
+SUSANNE,He must have tracked me here. He's looking for me. Damn it! There he is.,15
+FROHIKE,You look like a gentleman who could appreciate 33 channels crystal-clear television.,12
+MULDER,"No thanks, handsome. Mulder keeps walking.",6
+FROHIKE,"Oh, a man of distinction... Punk ass.",7
+BYERS' VOICE OVER,It was at this point we enlisted the help of one Melvin Frohike... computer hacker. Susanne and Byers go to Frohike's booth.,22
+FROHIKE,Hello pretty lady... Yeah. What's with the narc?,8
+BYERS,I continued to tell him the entire story. I hoped he could assist me in deciphering the encrypted file.,19
+BYERS' VOICE OVER,It was at this point however that Mr. Frohike raised an interesting question.,13
+FROHIKE,"I don't understand, why don't you just kick this guy's ass?",11
+BYERS,What?,1
+SUSANNE,"No. I just want these pages decoded, can you do that?",11
+FROHIKE,"Sure, baby, my kung fu is the best, but it could take hours, I say cut to the chase. If pretty boy out there can tell us where your daughter is, we just need to go beat it out of him.",41
+SUSANNE,Bad idea. He's very dangerous.,5
+FROHIKE,"Lady, I'm dangerous. All right, so, we just won't. For all we know he's got the girl here somewhere.",19
+BYERS,"Holly, it makes sense.",4
+SUSANNE,No! Just stay away from him.,6
+FROHIKE,"We'll stay back a ways. Just wait for us here. Come on! Frohike and Byers leave. Susanne is worried. Not about them getting beat up, but rather they'd find out the truth. LATER They hide from Mulder but Byers watches him from a distance. Frohike has a virtual reality helmet on.",51
+FROHIKE,What's he doing?,3
+BYERS,Talking to somebody. Frohike lifts the face plate and looks at Mulder.,12
+FROHIKE,This dude doesn't look so tough. Mulder turns and walks toward them. Frohike flips the face plate down.,18
+FROHIKE,"Act casual. BOOTH As they walk on, a voice from a booth booms out at the people milling around.",19
+VOICE,Alien presence is among us... They're here.,7
+MULDER,"So, fellas... You looking for somebody?",6
+BYERS,Just um.... the bathroom.,4
+MULDER,"I don't think it's down here. Hey, you with the FCC?",11
+FROHIKE,What's it to you?,4
+MULDER,"I think we share the same credit union. Special Agent Fox Mulder I'm with the... a... Federal Bureau of Investigation. I was hoping maybe you could help me. I'm... m... looking for a girl. I was wondering if you've seen her. He shows them a picture of 'Holly'. Byers' eyes go wide. Frohike, ever the smoothy, is surprised but doesn't show it.",62
+FROHIKE,Sorry.,1
+BYERS,What did she do?,4
+MULDER,"What's it to you? Thanks, guys. All right? A loud cell phone rings. Mulder takes this humongous old time cell phone out of his pocket and answers it.",28
+MULDER,"Yeah, Mulder... Oh hey, Reggie... What's up? Frohike and Byers walk away.",12
+FROHIKE,What the hell was that all about?,7
+BYERS,He's with the FBI?,4
+FROHIKE,"Hey, where'd she go? Byers' Dig-Dug buddy is dragged away by the MP's.",13
+KEN,Just take your hands away from me.,7
+KEN,Come on.,2
+BYERS,Ken?,1
+KEN,All I did was play Dig Dug. I didn't hack into anybody's computer. Seriously guys. I have like a circulatory problem. I have a tendency to...,26
+BYERS,Wait!... It was me.,4
+FROHIKE,What are you doing?,4
+BYERS,*I* hacked into their computer. Frohike pulls him aside.,9
+FROHIKE,"So you're gonna turn yourself in, are you crazy? A hacker never turns himself in!",15
+BYERS,I am not a *hacker*.,5
+FROHIKE,"Listen, we got FBI agents running around, military police. Whatever the hell is going on around here, it's big. And your lady friend is somehow at the center of it all.",31
+BYERS,She needs my help. How can we learn what's going on?,11
+FROHIKE,"The FBI are looking for her, hack into the FBI mainframe. I know just the guy who can do it.",20
+BYERS,You are talking about a pre-meditated crime against the United States government.,12
+FROHIKE,"Hey, your second one today. Welcome to the dark side.",10
+LANGLY,"Okay ladies, who's down for fifty?... Fifty bucks... Anyone?... Fifty bucks... Oh man, my diaper-wearing granny would bet fifty!... Come on!... There's no game here.",25
+MAN,"Alright, fifty.",2
+LANGLY,"Elron the Druid bets fifty. Cash only, Elron, I don't take no personal checks from the Bank of Middle Earth. Langly takes dice and begins to rattle them in his hands.",31
+LANGLY,"Come on natural 20, Daddy needs a new sword of wounding. The door opens letting light flood into the room, Frohike and Byers are standing there, Langly jumps up and rushes to the door.",34
+LANGLY,What's the big idea bringing the narc in here?,9
+FROHIKE,Me and the narc have a proposition for you.,9
+LANGLY,What proposition?,2
+FROHIKE,The coolest hack in the world.,6
+ANOTHER MAN,Lord Manhammer...,2
+LANGLY,Say it.... Say it.,4
+FROHIKE,Your kung fu is the best. Langly grins.,8
+LANGLY,Here... make yourself useful. He hands the plug to Byers.,10
+BYERS,What does this do?,4
+FROHIKE,Besides over heat? Burn the hotel down?,7
+LANGLY,It's a lube line shunt. Anyone who tries to trace will get passed around by CMT. It call forwarding software. My personal invention. He clicks onto the computer.,28
+BYERS,"Oh, I'm going to get fired... I'm going to go to jail... I deserve to go to jail.",18
+FROHIKE,Shut up already. What do you need me to do?,10
+LANGLY,Just watch and learn. He clicks around and a screen pops up.,12
+LANGLY,Bingo. Government hack is a snap. Last week I got into the Maryland DMV. Changed my endorsement so I can handicap park. Pause.,23
+LANGLY,I got tinnitus. What now?,5
+FROHIKE,Look up the FBI agent. What'd he say his name was?,11
+BYERS,Mulder. Langly types in. Screen pops up with generic information on Agent Fox Mulder with a picture of him.,19
+LANGLY,That your boy?,3
+FROHIKE,Fox William Mulder. Born 10-13-1961. Degree in psychology from Oxford University. Top of his class at Quantico. Commendations up the ying yang. Currently attached to the Violent Crimes Unit. Single. Nothing in here about him being a psycho or having a daughter.,42
+BYERS,"Try under active cases, Holly Modeski. Langly enters the information.",10
+LANGLY,Nada. No case file.,4
+BYERS,"Try the daughter, Susanne Modeski. Langly enters and a file turns up with 'Holly's' picture.",15
+BYERS,She's Susanne Modeski?,3
+FROHIKE,"Employee at the Army Advanced Weapon Facility at White Stone, NM.",11
+BYERS,Whtcorp....,1
+LANGLY,"Oh, man. Look at this... Says here she blew up one of their labs, killed four people. Including the MP who tried to stop her at the gate.",28
+FROHIKE,Subject Modeski is considered unstable and delusional. Intellectually brilliant yet prone to confabulation and fits of violent behavior.,18
+LANGLY,Psychotic and profoundly paranoid.,4
+FROHIKE,Armed and extremely dangerous. Do not approach. Call immediately for back up. The door knob turns. The men gasp. The door opens. It's Susanne. She enters and locks the door behind her.,32
+SUSANNE,You're reading about me. Pause. She looks at Byers.,9
+SUSANNE,"My name is Susanne Modeski not Holly. I'm... I was an organic chemist for the Advanced Weapons Facility... But I never blew up any lab and I certainly never killed anybody. All I did was try to quit. Not have a job, just quit.",44
+BYERS,What about your daughter?,4
+SUSANNE,I don't have one. I'm sorry...,6
+BYERS,The photo?,2
+SUSANNE,"It came with the wallet. You wouldn't have believed the truth, obviously and I desperately needed you to help.",19
+BYERS,"With what, exactly?",3
+SUSANNE,To get this. She holds the print out.,8
+SUSANNE,I still need it deciphered. This has in it everything I need to expose the United States government's plot against it's own people. One I unwittingly helped to form by developing the Ergotimene histamine gas.,35
+LANGLY,Ergotomine...,1
+SUSANNE,EH for short. It's an aerosolized gas which in small doses caused anxiety paranoia in it's subject.,17
+FROHIKE,Paranoia. Got ya.,3
+SUSANNE,"Secret forces within the government plan to test this gas on the American people right here in Baltimore! The Lone Gunmen all look at each other, figuring she's flipped her lid.",31
+SUSANNE,"I am not making this up. Don't you get it, nobody is safe! Look what they did to JFK!",19
+BYERS,What did they do to JFK?,6
+SUSANNE,"Dallas? 1963? Hello?! They want to control every aspect of our lives, from the cradle to the grave. They practically do already. She starts pulling open the drawers next to the hotel beds as the boys exchange looks, and finally pulls out a Bible.",44
+SUSANNE,"Hotel Bible, who do you think put this here?",9
+LANGLY,The government?,2
+SUSANNE,"One in every hotel room in America, it's the perfect vessel for electronic surveillance. No one ever questions its presence.",20
+FROHIKE,"Now, I'm sorry, you're telling me that the US government, the same government that gave us Amtrak...",17
+LANGLY,Not to mention the Susan B. Anthony dollar.,8
+FROHIKE,"... is behind some of the darkest, most far-reaching conspiracies on the planet?! That's just crazy!",15
+LANGLY,"I mean, like, this guy works for the government.",9
+SUSANNE,"I'll prove it to you, just help me decipher this. As she picks up the file, her gun falls to the floor, startling the boys.",25
+SUSANNE,What do you say guys?,5
+BYERS' VOICE OVER,"Of course, at that point, we didn't feel like we had much choice.",13
+FROHIKE,"Langly, what's taking so long?",5
+LANGLY,I should be up any second.,6
+FROHIKE,"Oh, yeah. Here we go. He types.",7
+FROHIKE,Thank God for super computers. is a blow to the program but not a fatal one. The time table remains unchanged. First EBO will occur in the Baltimore-Washington area within one week's time.,33
+LANGLY,What's an EBO?,3
+SUSANNE,Engineered Biological Operation. Toxic organic agents used on humans. team has been processed and plausible denial constructed.,17
+SUSANNE,Which is another way of saying that they murdered my research associates and placed the blame on me. Now do you understand? She looks at the screen again.,28
+SUSANNE,Wait. Here it is. EH product is presently warehoused at 204 Falls Point Road. Lot number A900 awaiting EBO. This is it...,22
+BYERS,"""Subject Modeski currently monitored around the clock. Covert electronics installed per Dr. Michael Killborn 11-6-88."" Who's Dr. Michael Killborn?",19
+SUSANNE,My dentist. Excuse me. She takes a pair of pliers and goes into the bathroom.,15
+BYERS,What do you think?,4
+LANGLY,That... thing about her dentist... BATHROOM Byers opens the door and cautiously looks inside.,14
+BYERS,"Dr. Modeski? He goes into the room. Susanne is standing at the sink with blood all over, and a tooth in the pliers.",23
+BYERS,Get in here! He rushes to her and Langly and Frohike appear at the door.,15
+BYERS,My God!,2
+SUSANNE,Look at it... Look at it!,6
+FROHIKE,Am I seeing what I think I'm seeing? We see a bug in the filling of the tooth.,18
+BYERS,What was the address of that warehouse?,7
+MUNCH,Where's the tooth?,3
+BYERS,We flushed it. We were afraid it would give away our location. Munch just looks at him.,17
+BYERS,So... we broke into the warehouse.,6
+LANGLY,Here it is! There's a carton with a large sign reading A9000.,12
+LANGLY,"A9000, right? Susanne cuts the carton open. She takes out a small box the carton is full of.",18
+BYERS,Asthma medicine...,2
+SUSANNE,This is how they plan on distributing the gas. It's asthma inhalers. This is their random test! Now I've got proof.,21
+MULDER'S VOICE,Stay where you are. They turn and see Mulder walking toward them with his gun pointed at them.,18
+MULDER,"Federal agent. Susanne Modeski, you are under arrest for the murders of four people at White Stone Army Base.",19
+BYERS,She didn't do it!,4
+FROHIKE,She's innocent.,2
+LANGLY,Yeah.,1
+MULDER,You three are under arrest also. Susanne starts to move away.,11
+MULDER,"Ma'am, stay where you are.",5
+BYERS,Just listen... There's more going on here than meets the eye.,11
+MULDER,"You three get on the ground now! Ma'am, stop moving. I'm not going to ask you again. The men get on the floor. Determined footsteps are coming in the building. Two men walk up to them.",36
+MAN,"Susanne Modeski, please come with us.",6
+MULDER,"Federal agent, identify yourself.",4
+MAN,"Ma'am, come with us.",4
+MULDER,"Step forward and identify yourselves, NOW! Shots ring out, Mulder dives for cover. The Gunmen run behind some other boxes across the room. The inhaler carton is riddled with bullet holes. Mulder lies on the ground by it. The chemical that spills out of the carton gets on Mulder, who starts moaning and wreathing around on the floor. He takes his shirt off. The man walks up to Mulder and is about to shoot him. Susanne shoots the guy first. Mulder is in a daze. Lone gunmen come out from behind the boxes.",93
+BYERS,"Susanne! Behind them, a large garage door opens and light filters into the room. MPs walk in with detectors of some sort. Another man walks in and ahead of the cops. He walks past the Gunmen with another man. It's X. He stops at Mulder.",45
+X,Sanitize it. Mulder hallucinates. The clean up men are aliens. Their voices are distorted.,14
+MULDER,They're here. The man shot by Susanne is put into a body bag.,13
+MAN,"I'm alive! They zip him up anyway. He keeps screaming ""I'm alive!"" from inside the bag.",16
+BYERS,Who are you people?! A crate mover is driven in.,10
+FROHIKE,Whoa! They move out of its way. The boxes are taped up. The floor is vacuumed and cleaned. X supervises.,20
+BYERS,What authority do you have to do this?,8
+LANGLY,"Shut up, Byers! X glares at them and walks over to Mulder lying on the floor.",16
+CLEAN-UP GUY,Bag him? X leans over Mulder.,6
+X,No one touches this man.,5
+BYERS,Excuse me.,2
+LANGLY,Byers...,1
+BYERS,Sir! X looks at him and walks over.,8
+BYERS,"Why are you doing this? You people framed Susanne Modeski, you plan to test that chemical on an unwitting public. Why? For what possible reason?",25
+FROHIKE,"Byers, shut up!",3
+BYERS,Who gives you the authority?,5
+X,"No bags. The boys are forced to their knees, hands in the air, X checks the gun and walks behind them. He points his gun at Byers' head, pulls the trigger and... click. The gun was empty.",37
+X,Behave yourselves. He begins to walks away.,7
+BYERS,"That's it? Just trying to intimidate us, to scare us so we'll keep quiet?",14
+FROHIKE,"Byers, I swear to God, I'll shoot you myself.",9
+BYERS,"It's all true what Susanne said about you people, isn't it? About John F. Kennedy? Dallas?",16
+X,I heard it was a lone gunman. X walks out as the door shuts and distant cop sirens are heard.,20
+BYERS' VOICE OVER,That was the last we saw of him.,8
+BYERS,"Almost immediately, the police got there. We panicked and hid. You know the rest.",14
+MUNCH,"Do I look like Geraldo to you? Don't lie to me like I'm Geraldo, I'm *not* Geraldo!",17
+LANGLY,"Oh man, not all a bad dream. I am in hell. He sits up.",14
+FROHIKE,Women...,1
+LANGLY,Ain't it the truth.,4
+BYERS,"What do you mean, women?",5
+LANGLY,You know exactly what he means. Your molar pulling girlfriend pulled us in and left us swinging in the breeze. Byers looks at Frohike.,24
+BYERS,Is that what you meant?,5
+FROHIKE,"Look... she is hot. But you've got to admit, we're here because of her.",14
+BYERS,"I'm here because I wanted to know the truth. I assumed that was the same for you. Susanne opened my eyes to it. She doesn't owe me anything. It there was some way I could... help her still, I'd do it in a second.",44
+MUNCH,"Apparently Agent Mulder came to and verified your warehouse story, or at least what little he seems to recall of it. Three cheers for the FBI, you guys are free to go. Come on, let's go. Here's a tip, aluminum foil makes a lovely hat and it blocks out the government's mind control rays. Keep you guys out of trouble.",60
+COP,One green nylon wallet containing 38 dollars in cash. Langly takes it. The cop puts a whatever the hell this is on the desk.,24
+COP,One... whatever the hell this is. Munch looks at it. It's I think a splitter. He takes it. Another cop comes in.,22
+OTHER COP,Detective? Munch turns.,3
+OTHER COP,We got a stolen car that turned up at the train station. It's the one that the FBI agent was driving. Munch nods and leaves with the other cop.,29
+BYERS,Susanne must have taken Mulder's car last night. She left it at the train station.,15
+LANGLY,So?,1
+BYERS,So maybe we can catch up with her.,8
+FROHIKE,Where? She took a train.,5
+BYERS,She's too smart for that. You see... she... she just meant to throw them off.,15
+LANGLY,She said she wanted to go public.,7
+FROHIKE,The Baltimore Guardian is only a couple of blocks down from the train station.,14
+BYERS,Susanne! Langly and Frohike knock a guy down on the sidewalk and help him get up.,16
+FROHIKE,You okay?,2
+SUSANNE,They didn't believe my story. Not a word of it. Who in their right mind would?,16
+FROHIKE,What are you going to do now?,7
+SUSANNE,Try other newspapers... TV stations... Not give up. Keep trying to find people who will listen. People like you... I appreciate what you did for me. All three of you.,30
+BYERS,We still want to help. Susanne touches his cheek. They kiss.,11
+SUSANNE,You already have. A pay phone rings next to them.,10
+LANGLY,Guys...,1
+SUSANNE,"No matter how paranoid you are, you're not paranoid enough. Tell the truth. Reach as many people as you can with it. That's your weapon. She walks away. At the end of the block, a black car comes around the corner and stops. Another car stops at the end, blocking her path. She runs back and men from the first car get her.",63
+BYERS,Susanne! She is put into the first car and they drive off in slow motion. The back smoked glass window is closed but the gunmen see X clearly.,28
+FROHIKE,Ya feeling better?,3
+MULDER,"Yeah I am, thank you, I just... mmm... I have these weird ideas in my head that I can't seem to shake.",22
+FROHIKE,What kind of ideas?,4
+MULDER,Weird ones.,2
+LANGLY,Ya gonna bust us?,4
+MULDER,"I'm not sure yet, I just spoke with my ASAC and he tells me that Dr. Susanne Modeski is no longer wanted by the FBI. She's still missing, but the case has suddenly closed. What I need from you guys is to tell me what the hell happened last night.",50
+BYERS,You want the truth?,4
+MULDER,"Yeah, I want the truth.",5
+BYERS,"You might want to sit down, this is gonna take a while. They all sit down.",16
+BYERS,The truth is... none of us is safe. Secret elements within the United States government seek to surveil us and control our lives.,23
+MULDER,What?!,1
+LANGLY,Tell him about the hotel room Bibles.,7
+BYERS,"Yeah, I'm coming to that. Okay, it all started with Susanne Modeski...",12

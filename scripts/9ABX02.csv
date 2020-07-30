@@ -1,0 +1,286 @@
+speaker,line,words
+CAPTAIN,I have an urgent communication to deliver to Dr. Nordlinger.,10
+NAVY SEAL,I can deliver the communication.,5
+CAPTAIN,I was asked to confirm and verify he received the communiqué and report back...,14
+NAVY SEAL,That's not proper procedure.,4
+CAPTAIN,Report back Dr. Nordlinger's acknowledgement of the communiqué.,8
+DR. NORDLINGER,What's going on here?,4
+NAVY SEAL,There's some confusion as to the proper procedure Dr. Nordlinger.,10
+CAPTAIN,I have a communication for you.,6
+DR. NORDLINGER,Communication acknowledged and confirmed Captain. We're returning to base.,9
+CAPTAIN,Bamford?,1
+PETTY OFFICER BAMFORD,Captain?,1
+CAPTAIN,Prepare to transmit to Operations Command.,6
+PETTY OFFICER BAMFORD,Transmit what sir?,3
+PETTY OFFICER BAMFORD,"Sir, what is the communication?",5
+CAPTAIN,We're coming in.,3
+[TAGLINE,NOTHING IMPORTANT HAPPENED TODAY],4
+CHRIS CARTER,Previously on The X-Files...,4
+DOGGETT,"The deceased's name is Carl Wormus, Deputy Adminstrator for the EPA",11
+DOGGETT,Somebody put his obituary under our noses.,7
+KERSH,Have you found any incriminating evidence on me yet?,9
+FOLLMER,I heard that you and John Doggett were tight.,9
+REYES,"Whatever you may think of him Brad, he's not a fool.",11
+SCULLY,Who is she?,3
+REYES,I've never seen her before this morning. Now I've seen her twice,12
+DOGGETT,"Knowle Rohrer, told me that your pregnancy was part of a Government cloning experiment to create a Super Soldier.",19
+SCULLY,My baby is fine.,4
+REYES,"I know what you're afraid of, that there's something wrong with your baby.",13
+DOGGETT,There's tons of files on Chloramine.,6
+SKINNER,Grab the files and go.,5
+FOLLMER,Agent Doggett?,2
+FOLLMER,DOGGETT!,1
+REYES,Sorry I'm late.,3
+FOLLMER,Have a seat Agent Reyes.,5
+FOLLMER,"Agent Reyes. I thought we might have a little chat. Mr. Skinner here, has been helping me put together the pieces of your X-Files investigation.",25
+REYES,Can we cut the crap Brad?,6
+FOLLMER,I don't know. Can we? there's a lot of crap to cut through.,13
+SKINNER,Agent Reyes. You probably want to zip it and try to cooperate.,12
+FOLLMER,"Like it or not, I'm charged with the task of bringing you in.",13
+REYES,Bringing us in? for what?,5
+FOLLMER,2 unauthorized autopsies. Breaking and entering a state water facility. Wilful misuse of your positions.,15
+REYES,I don't want to go into any of this without my partner here.,13
+FOLLMER,"Your partner. Your so called partner, who's running this circus, is right now nowhere to be found.",17
+REYES,What are you doing Brad?,5
+FOLLMER,Giving you and Mr. Skinner an opportunity to put a nice spin on this mess that Doggett's making,18
+SKINNER,"Agent Reyes. If you're not going to zip it, at least recognise that he's trying to help you",18
+REYES,We were given a tip we believes lead us to a larger conspiracy.,13
+FOLLMER,Conspiracy? Involving the FBI?,4
+REYES,John Doggett and I are running a legitimate investigation into the FBI. Neither one of us feels...,17
+FOLLMER,"Agent Reyes, I'm trying to help you keep your job. But that's not going to happen if you insist on chasing shadows, chasing conspiracies.",24
+REYES,How do you know there isn't one?,7
+FOLLMER,"You're taking on the entire FBI here, Monica. This witch hunt, isn't going to expose, anything, but you, unless you distance yourself from John Doggett.",25
+FOLLMER,What are you doing?,4
+REYES,"I'm distancing myself Brad, from you, from your political games. You just want to get John Doggett.",17
+FOLLMER,You're making a big mistake here.,6
+REYES,"Yeah, I seem to make one every single time I walk in your door.",14
+SHANNON MCMAHON,"Lie back John, it's OK.",5
+DOGGETT,What the hell's this?,4
+SHANNON MCMAHON,"It's Shannon, Shannon McMahon. We were together in Bravo Company, USMC. You tried to contact me.",16
+DOGGETT,What the hell are you doing here now?,8
+SHANNON MCMAHON,Your lungs are full of water.,6
+DOGGETT,You pulled me under.,4
+SHANNON MCMAHON,I did what I had to.,6
+DOGGETT,"You held me down, I remember.",6
+SHANNON MCMAHON,"They would have caught you, they would have figured it out - what you've started to figure out.",17
+DOGGETT,What are you?,3
+SHANNON MCMAHON,"You know what I am. I'm the product of 50 years of military science, the program your old friend Knowle Rohrer told you about. I'm a bio-engineered combat unit. I have no weaknesses - I don't sleep, I can breathe under water. That's how I saved your life John.",48
+DOGGETT,How do you know what I know. What Knowle Rohrer told me?,12
+SHANNON MCMAHON,"Knowle Rohrer and I were drafted right out of Bravo Company together. We were... Adam and Eve, the program's first. There are many more now.",25
+DOGGETT,Knowle Rohrer is dead.,4
+SHANNON MCMAHON,They can't kill us. We can't be killed. Knowle Rohrer and I are alike in almost every way. The difference is I hate what I am.,26
+DOGGETT,Why are you here telling me this?,7
+SHANNON MCMAHON,"The program's expanding in ways no-one ever dreamed of. I need your help to stop it, John.",17
+DOGGETT,You need my help? What can I do?,8
+SHANNON MCMAHON,Expose the deaths of those two men I killed. What they were doing.,13
+DOGGETT,What were they doing?,4
+SHANNON MCMAHON,Preparing the water supply.,4
+DOGGETT,Preparing it for what?,4
+PETTY OFFICER BAMFORD,What are you doing Captain? Where are you going? We're under strict orders not to leave the ship.,18
+CAPTAIN,Look at us. They've got us tied up in a civilian dock in Baltimore. Why? I think they may be on to us.,23
+YOUNG OFFICER,You're only drawing suspicion if they're not. You can't leave this ship.,12
+CAPTAIN,We can't risk waiting. We can't risk not making contact now. I'll be back.,14
+SKINNER,Hi. Sorry about the hour.,5
+SCULLY,I've just put him down.,5
+SKINNER,I couldn't talk on the phone.,6
+SCULLY,What is it?,3
+SKINNER,I was told to leave this alone. You and Mulder asked me to leave it be. To let Mulder disappear. We were concerned for the safety of the baby and for Mulder. Why am I risking that now? Why are you? Why are you getting mixed up with Doggett's investigation?,50
+SCULLY,"Something happened, with my baby.",5
+SKINNER,What?,1
+SCULLY,"I can't explain it. It's er, it's unexplainable, it's, um, not normal.",12
+SKINNER,"Whatever it is, I think you've made a terrible mistake. Letting Doggett pull you into this. He's hell bent. And Agent Reyes is following right in his tracks.",28
+SCULLY,I need answers. I need to know. I can't just sit around wondering...,13
+SKINNER,"If you can't tell me, tell Mulder. Tell him what happened.",11
+SCULLY,Mulder can't know. He can't be brought back into this. He can't be brought back into the FBI. It's just too dangerous for him right now.,26
+SKINNER,It's too dangerous for everyone.,5
+AUTOMATED VOICE,"The EPA employee you are trying to reach - Carl Wormus - is not available. If you want to leave a voicemail, stay on the line.",24
+CAPTAIN,Something's wrong. Very wrong. VOICE Sir?,6
+CAPTAIN,What is this?,3
+KNOWLE ROHRER,"Chief Petty Officer Bamford has been released from his post, Sir. I'm your new second in command.",17
+SCULLY,Hello?,1
+REYES,"Dana, I'm sorry if I woke you. It's Monica Reyes. Dana, there's something I think you really need to be aware of. Something you need to hear. Something I'm not sure I believe.",33
+SCULLY,I'm listening,2
+REYES,It's not me you need to hear it from...,9
+DOGGETT,"Agent Scully, we may have same answers for you, about your baby.",12
+REYES,"Dana, this is Shannon McMahon.",5
+SHANNON MCMAHON,Hi.,1
+SCULLY,Let's start with the water.,5
+SHANNON MCMAHON,"Well, you're a scientist, you'll appreciate the science involved. A new additive is being put in the water supply. It's called chloramine, it's not news, well let me say that it's been reported but no-one's asking questions yet.",38
+SCULLY,And what should they be asking?,6
+SHANNON MCMAHON,"If you want to deliver something to everyone's home in America, what better way than through what's what's most taken for granted, water.",23
+SCULLY,"Look, I've had my fair share of outrageous conspiracy theories okay, so cut the mystery crap and get to the science.",21
+SCULLY,"Chloramine is just a substitute for chlorine, you can drink it and it's harmless.",14
+SHANNON MCMAHON,Unless someone were to quietly go and change its molecular make-up.,11
+SCULLY,Who? And how?,3
+SHANNON MCMAHON,I think you'd be more interested in why.,8
+SCULLY,"Alright then, why?",3
+SHANNON MCMAHON,To prime a population to breed a generation of Super Soldiers.,11
+SCULLY,By adding something to our water?,6
+SHANNON MCMAHON,Something which promotes the mutation of offspring. And fertilisation. And pregnancy.,11
+SCULLY,What you're saying is absurd.,5
+SHANNON MCMAHON,"Is it? It's no more absurd than I am. I am a first generation prototype. Now they're seven stages advanced in the stages of science that created me, to the point where now they have successfully given birth to a Super Soldier from a mutated egg.",46
+SCULLY,Huh How can we trust any of this? Or you? What you say you are...,15
+SHANNON MCMAHON,We all have a standard mutation...,6
+CAPTAIN,What are you looking at?,5
+KNOWLE ROHRER,Ship's logs.,2
+CAPTAIN,Those logs are classified.,4
+KNOWLE ROHRER,I'm second in command. I'm supposed to know the ship Sir. In case something should happen to you.,18
+KNOWLE ROHRER,"What is the greater mission of this ship, if I may ask? Sir?",13
+CAPTAIN,I don't ask. We don't ask.,6
+CAPTAIN,What's going on?,3
+REYES,It doesn't make any sense.,5
+DOGGETT,"Yeah, only it doesn't look like there's any harm in it either does it?",14
+REYES,She drowned that man from the EPA. She's drowned 2 men.,11
+DOGGETT,She says they were part of the program - two guys working to spike the water of the state of Maryland's water supply.,22
+REYES,"So she killed them as a way of contacting you, you believe that?",13
+DOGGETT,"You saw that thing on her back. You said you saw it before. I think we're on to something here Monica, it's freaky, it's mindblowing. You gotta admit that, come on.",31
+REYES,"I'm not doubting what she is, only what she says she's doing.",12
+DOGGETT,What did you find?,4
+SCULLY,"Nothing, nothing more than a small deformity of the spine. Physically, she seems absolutely normal, as normal as you or I.",21
+DOGGETT,I don't believe this.,4
+SCULLY,What don't you believe Agent Doggett? I just examined her.,10
+DOGGETT,"That I'm standing here with both of you telling me that you don't see what's right in front us. She's the key to everything in this case, right to the FBI.",31
+SCULLY,"Well for your sake, I hope so, but I hope not for mine.",13
+DOGGETT,John Doggett.,2
+SKINNER,"Agent Doggett, I really don't want to be making this call, I really don't, I've been forced to.",18
+DOGGETT,What are you talking about?,5
+DOGGETT,You want to turf me now? You want to take my badge and gun?,14
+KERSH,"Agent Doggett, you can't just burst in here.",8
+DOGGETT,"How's it going to look Deputy Director, you suspending me right before I nail you up against a wall as a co-conspirator.",22
+FOLLMER,"Glad you could drop in, Mr. Doggett Assistant Director Follmer.",10
+DOGGETT,You're Brad Follmer.,3
+FOLLMER,"I was just explaining to the Deputy Director the reasons why you are being suspended, but I think your actions here speak for themselves.",24
+DOGGETT,"I see what this is, this is just a little bureaucratic paint job.",13
+KERSH,I'd watch your mouth John.,5
+FOLLMER,"What this is, is a testament to your gross subordination and reckless disregard for the FBI.",16
+DOGGETT,You wanna start hearing what's coming of your wishy-washy mouth.,10
+FOLLMER,"Paranoia must go with the job. You're starting to sound just like Fox Mulder, Mr. Doggett.",16
+DOGGETT,"Now don't you Mr. Doggett me. I don't answer to you, I answer to AD Skinner.",16
+FOLLMER,"The job suspension stands, Mr. Doggett.",6
+DOGGETT,Try and stop me.,4
+FROHIKE,You just never know who's gonna come a knockin' do ya?,11
+REYES,How'd you get in here?,5
+LANGLY,"Through the front door with the big happy dude, how'd you get in?",13
+REYES,Through a security checkpoint.,4
+FROHIKE,Kid's stuff!,2
+REYES,What are you doing here?,5
+FROHIKE,"You sent us packing on this investigation of yours, only we had a small funding fiasco. LANGLY They cut our internet service.",22
+REYES,Don't tell me you breached FBI security just to log on?,11
+BYERS,I think you want to see this.,7
+LANGLY,Arghhh!,1
+LANGLY,Not this!,2
+FROHIKE,This is what we meant to show you. We are live in the EPA phone system. The numbers in red are calls to deputy administrator *after* he drowned.,28
+REYES,Who'd be calling him at work after the front page news that he's dead?,14
+LANGLY,Someone who doesn't know it.,5
+BYERS,Whoever it is is calling him again as we speak. Langly! Hook up a patch cord! Hurry!,17
+LANGLY,Pick up the phone!,4
+FROHIKE,C-Carl Wormus -,2
+CAPTAIN,They're trying to reach you. They ordered us to port. One of my men is dead.,16
+FROHIKE,"R-right W-what's it you need from us, er, me, on this end?",12
+CAPTAIN,Just what we talked about. Call the FBI.,8
+FROHIKE,Right.,1
+CAPTAIN,You've gotta get to the FBI.,6
+CAPTAIN,Tell them about the lab they've got on board. About the horrors and the inhumanity. To expose these people for what they really are.,24
+REYES,I need to talk to you.,6
+FOLLMER,I have an appointment.,4
+REYES,Don't do this to me Brad.,6
+FOLLMER,Give me 2 minutes.,4
+FOLLMER,"Here you are again Monica, walking through my door.",9
+REYES,I need your help.,4
+FOLLMER,I tried to help you before.,6
+REYES,I'm asking you again.,4
+FOLLMER,"OK, I'm listening.",3
+REYES,"There's a woman working at the department of justice, Shannon McMahon. I need her case files.",16
+FOLLMER,You say that like it's something I can just do. It's not.,12
+REYES,It's important to me.,4
+FOLLMER,Important to you and to Agent Doggett in other words?,10
+REYES,"You're on the wrong side of the tracks on this one, trust me.",13
+FOLLMER,Explained to me by Mr. Doggett himself in the Deputy Directors office today.,13
+REYES,Would you listen to me. Peoples lives are in danger here. He's been set up. We're being set up.,19
+FOLLMER,By who? The Justice Department?,5
+REYES,"That's why I need those files. I'd ask you to do this for me, but he's a good man.",19
+FOLLMER,He believe he's in the right?,6
+REYES,"And you, you always are?",5
+REYES,Where's Shannon McMahon?,3
+DOGGETT,She's in my house. Why? What's this about?,8
+REYES,"She's lying to you, she's not who you think.",9
+DOGGETT,Where you getting this?,4
+REYES,"Everywhere I look. She works for the Department of Justice, did you know that? I got a peak at her case files. Those two men she killed, they'd contacted her at the DOJ as whistleblowers.",35
+DOGGETT,She said they conspired with the Government. They were part of the program -,13
+REYES,They were killed because they wanted to expose the program.,10
+DOGGETT,Then why's she lying? Why come to me?,8
+REYES,"Because there's one man she still can't pinpoint, and she wants you to lead her to him.",17
+DOGGETT,How? I wouldn't even know who the hell you're talking about.,11
+REYES,He's the Captain of a Navy ship that spends 12 months of the year at sea. He had been in guarded contact with both dead men about a secret lab on that ship.,33
+DOGGETT,"Right now Shannon McMahon is the only sure thing we have in this investigation. If we cut out on her and go to this ship of yours, we risk coming out with both hands empty.",35
+SCULLY,"If this is true about this ship and this lab, there may be answers there I can't risk not knowing.",20
+VOICE ON INTERCOM,"Dr. Nordlinger, a message for you Sir.",7
+CAPTAIN,I want every hard drive. All the data you've got on this butcher shop you're running here.,17
+DOGGETT,Where's this Captain supposed to be?,6
+REYES,We're supposed to meet him in a phone booth at 1:00 AM. It's 10 to...,15
+SCULLY,Somebody's already there.,3
+DOGGETT,Is he tall or medium?,5
+REYES,"I don't know, it wasnt clear.",6
+SCULLY,Sees us,2
+DOGGETT,Hold up there!,3
+DOGGETT,I said hold up there.,5
+DOGGETT,This ain't no Captain...,4
+SCULLY,Who is it?,3
+DOGGETT,Knowle Rohrer. Run! now!,4
+DOGGETT,Freeze FBI.,2
+SHANNON MCMAHON,You didn't trust me.,4
+DOGGETT,You see anybody?,3
+REYES,Nobody.,1
+SCULLY,This can't be right.,4
+REYES,What happened to the Captain?,5
+SCULLY,I think we found the Captain.,6
+DOGGETT,They're scuttling the ship AGENT SCULLY! AGENT REYES!,8
+REYES,This must be it.,4
+DOGGETT,MONICA! DANA!,2
+CUT BACK TO,nan,1
+DOGGETT,AGENT SCULLY! AGENT REYES!,4
+REYES,In here -,2
+DOGGETT,"Move out, we gotta get outta here.",7
+REYES,You see what this is?,5
+DOGGETT,"Agent Scully we've got to go. The ship's gonna blow, Agent Scully.",12
+SCULLY,They're manipulating ova. Female eggs for transplantation.,7
+CUT BACK TO,nan,1
+SCULLY,Look at these names. These are test subjects.,8
+DOGGETT,"Grab them Monica, we've got less than a minute to get out of here.",14
+SCULLY,Just give me a second.,5
+DOGGETT,WE GOT NO TIME!,4
+SCULLY,"No let go, let me do this. I have to see if I'm here. My name, my baby's name -",19
+CUT BACK TO,nan,1
+DOGGETT,You want to see your baby again? We got no time Dana. We'll find another way.,16
+CUT BACK TO,nan,1
+CUT BACK TO,nan,1
+DOGGETT,Deputy Director?,2
+KERSH,My sources tell me you've wrapped up your investigation John.,10
+DOGGETT,"I have my report ready Sir, yes.",7
+KERSH,How do I come out?,5
+KERSH,"Super Soldiers, a Navy ship, a woman at the Department Of Justice who drowned two men, all disappeared now, but which constitute a conspiracy like a cancer in the US Government. Not a mention of my name John?",38
+DOGGETT,"No Sir, I found nothing on you, nothing damning I can honestly include in my report, let me say. And cause I got nothing to lose, let me say that I know that your hands are dirty on this thing Sir, filthy.",42
+KERSH,That's why you're here? Take a last wild push before the bell.,12
+DOGGETT,"There's one thing I can't figure, and then I'll be on my way. Is why you slipped that obituary under my door?",22
+KERSH,You think I did that?,5
+DOGGETT,"Over and over in my mind, it had to be you. You're the only one that had a reason.",19
+KERSH,What's my reason?,3
+DOGGETT,You tell me. Are you looking to get me fired or get me killed?,14
+KERSH,You ever hear of King George the Third?,8
+DOGGETT,You answer my question!,4
+KERSH,He was King of England when America declared Independence in 1776. King George the Third kept,16
+DOGGETT,What the hell has that got to do with me?,10
+KERSH,"Revolutions start, things that change the world forever, and even Kings can miss them if they're not paying attention.",19
+DOGGETT,"Are you saying that you left that obituary to help me? To help me find the things that I found? Nah, why would I believe that you'd help me?",29
+KERSH,Agent Mulder believed me.,4
+DOGGETT,Mulder? What the hell are you talking about? Mulder's long gone.,11
+KERSH,Say I told Mulder that he would be killed if he stayed. The same people who threatened to kill me if I didn't go along. Would you believe that John?,30
+DOGGETT,"No. Mulder wouldn't hear it, not from you, not from anybody.",11
+KERSH,I said I *told* him to go. I didn't say I persuaded him.,13
+DOGGETT,Oh my God. It was Scully. Scully made him go. That's it isn't it?,14
+FOLLMER,You want the basement? I heard you got a stay of execution. Congratulations.,13
+DOGGETT,I'm sure you mean that.,5
+FOLLMER,"No, I'm sure not. The Deputy Director has you just where he wants you. Don't get me wrong, I'm a friend to The X Files. Kind of a comfort having you down there, Mr. Doggett.",35
+REYES,Hi,1
+DOGGETT,"Just so long as you know where to reach us, Mr. Follmer.",12
+SCULLY,"Everything's going to be okay. Go back to sleep. In loving memory of Chad Keller October 8,1971 - September 11, 2001",20

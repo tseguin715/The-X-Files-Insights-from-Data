@@ -1,0 +1,355 @@
+speaker,line,words
+THERAPIST,"Keep going. Keep going. That's the way. Don't stop now. Oh, come on, keep pushing. No pain, no gain. I want five more steps and you're done. Uh-huh... four... three... good... and... super.",33
+PIERO,Hit it.,2
+THERAPIST,"Nice and easy. You're really coming along, Bobby. I'm very pleased with your improvement.",14
+PIERO,"Back off. Keep your fingers on your pepper spray, just like I told you.",14
+THERAPIST,"Mr. Piero, is all this really necessary?",7
+PIERO,"Yes, ma'am. I'd say it is.",6
+CHUCK,"So, what's this guy's story?",5
+PIERO,Cop killer. Regular people killer. General all-around waste of skin.,10
+CHUCK,"So what are you scared of? Guy's a freaking vegetable, I mean, what's he going to do... run over you with his big plastic wheel?",25
+PIERO,"I'll tell you what. You want to last here more than a week, you don't ever underestimate this man. Never trust him, never let your guard down around him. Never. Capeesh?",31
+CHUCK,Comprendo.,1
+CHUCK,"What's up, Modell?",3
+PIERO,"Hey, Chuck?",2
+PIERO,"What the hell happened, Chuck? Where's Modell?",7
+CHUCK,He had to go.,4
+SKINNER,"The orderly's being questioned, but judging by his mental state he's not gonna be much help to us, so there's very little we know for sure at this point. What we do know is that the last confirmed bed check was there have been no further sightings or contact.",49
+FIRST MARSHALL,How did this man make his way out of the building?,11
+SKINNER,"Every indication is he simply walked out the front door. Due to the... unique... nature of this investigation, the FBI will head the manhunt. The Marshall Service will lend their much-welcomed expertise and will coordinate all their efforts with myself or my two designated SAC's - agents Mulder and Scully. They apprehended the subject the first time around. Agent Mulder...",59
+MULDER,"The subject's name is Robert Patrick Modell. He's a serial killer responsible for at least 17 murders. Specifically, he targets law enforcement. In 1996, he caused the deaths of an FBI agent and a Loudoun County sheriff's deputy. It was all a game to him. He was looking for, in his words, ""a worthy adversary"".",55
+SCULLY,"To win makes him feel important. He likes to think of himself as a ronan - a warrior without a master, adhering to the budo, the Japanese way of war. In truth, he's a highly intelligent sociopath who has no fear of dying. In keeping with his game archetype, he likes to leave clues. This is why we expect to be contacted by him, hopefully sooner rather than later.",68
+MULDER,We fully expect him to pick up exactly where he left off.,12
+SECOND MARSHALL,What did you mean before when you said he just walked out the building?,14
+MULDER,"Modell refers to himself as ""pusher"". Technically speaking, all of his victims' wounds were self-inflicted. This man has a unique ability to force his will upon others - to push his victims into hurting or killing themselves.",36
+SECOND MARSHALL,Say what?,2
+MULDER,"OK, look, this is all you need to know. Do not trust this man, do not talk to him, do not engage him in conversation, even if he is unarmed. Approach him only with extraordinary caution, and then only with adequate backup.",42
+FIRST MARSHALL,So what's adequate backup?,4
+MULDER,Adequate backup? Every cop you can lay your hands on.,10
+SKINNER,Line up for your assignment.,5
+MULDER,What's Modell's condition?,3
+SCULLY,Extremely weakened. The doctors here say that he can barely even walk.,12
+MULDER,Oh yeah?,2
+SCULLY,"Yeah, Mulder, I'm amazed he's even alive... the condition that we last saw him in, comatose with a bullet in the head.",22
+MULDER,How did he recover?,4
+SCULLY,"Well, apparently one day about six months ago, he simply woke up. It's unusual, but it's not unheard of.",19
+MULDER,What about his brain tumor that was supposed to be killing him?,12
+SCULLY,It still is.,3
+MULDER,Is there anybody on staff here we can talk to?,10
+SCULLY,He has a physical therapist. Mulder... what if Modell plans to pick up where he left off? Where does that leave you? You were his prime target. Should you even be heading this investigation?,34
+MULDER,As opposed to what? What's your point?,7
+SCULLY,That it's exactly what he wants. That once again you're playing his game.,13
+TODD,Can I help you?,4
+MODELL,Hi.,1
+MODELL,You're not scared of snakes?,5
+TODD,What?,1
+MODELL,Looks like a timber rattler.,5
+MODELL,"Hold on tight to the neck, now. Don't let it bite you. Don't drop it. You drop it, it'll get you. Todd? Do you think I can get some service now?",31
+TODD,Yeah.,1
+MODELL,Go into the back and put the snake down.,9
+NEWSCASTER,"... certainly, Paul. This was the scene here at Lorton Penitentiary less than one hour ago. Agents of the Federal Bureau of Investigation along with the US Marshall Service and representatives of local law enforcement met to assemble a multi-agency task force...",41
+THERAPIST,"He couldn't have been faking it completely, that's all I can say. The gunshot wound did a hell of a lot of damage. You're the officer that shot him.",29
+SCULLY,It says here that Modell had a visitor yesterday afternoon.,10
+MULDER,Who?,1
+SCULLY,It's marked LSC.,3
+THERAPIST,Little Sisters of Charity. They try to visit all the hospitalized inmates.,12
+MULDER,Did Modell ever get any other visitors besides the Little Sisters of Charity?,13
+THERAPIST,Not that I know of. He didn't have much in the way of family. He was raised in foster homes mostly.,21
+MULDER,Sounds like you got to know him pretty well.,9
+THERAPIST,He never gave me any grief. He worked hard at getting better. I'd talk to him sometimes.,17
+MULDER,About what?,2
+THERAPIST,"Small talk, nothing important. He'd ask how I was.",9
+MULDER,He's a very considerate man.,5
+THERAPIST,I don't doubt for a second Robert Modell belongs in prison. But I never had any problem with him personally.,20
+AGENT,Agents! It's Modell.,3
+SKINNER,He's asking for you. We're running a trace right now. We just need thirty seconds.,15
+SCULLY,Mulder?,1
+MULDER,Yeah.,1
+MODELL,Two words - it's alive.,4
+MULDER,"I don't feel like playing your game right now, Modell.",10
+MODELL,"Touchy. Look, Mulder, there's something I need you to hear.",10
+MULDER,"Tell it to me in person, Modell.",7
+MODELL,"No. Seriously, listen to me.",5
+MULDER,"No, you listen to me. Either you come back here on your own or I drag your sorry ass back on the bumper of my car.",26
+SCULLY,Time?,1
+TRACE AGENT,4 seconds.,2
+MODELL,When did you turn into Clint Eastwood?,7
+SCULLY,Don't let him rope you in.,6
+MODELL,Now stop talking like a tough guy and pay attention. I know you're tracing this call. I don't care. I have something...,22
+SCULLY,"Mulder, hang up the phone.",5
+MODELL,"... that I need you to hear. Mulder, are you going to...",11
+TRACE AGENT,We got it. < the Sport's Hut in Occoquan >,8
+SCULLY,There's nothing back there.,4
+SKINNER,How far could he get?,5
+MULDER,Outside!,1
+SKINNER,Where is he? Where's Modell?,5
+TODD,He had to go.,4
+MULDER,I'm going to take a wild stab here and guess this is a clue.,14
+SCULLY,Appears as if he died from ingesting paint. I imagine that he did all of this and then drank what was left.,22
+SKINNER,See what you can make of it. Modell?,8
+SCULLY,Cerulean blue.,2
+SKINNER,What the hell's the point in all of this?,9
+SCULLY,Maybe his choice of victim. This is Nathan Bowman with the Loudoun County attorney's office. He's the prosecutor that tried Modell in 1996.,23
+SKINNER,So you think it's simple revenge?,6
+FEMALE AGENT,Sir? It's not a manifesto. It's the same single idiogram over and over.,13
+SKINNER,Which is what?,3
+FEMALE AGENT,"Well, the hand it's in is pretty sloppy, but I think it's supposed to be ""kitsunegari"" - ""fox hunt"".",18
+SCULLY,Fox Mulder.,2
+MULDER,"That's a little on the nose, don't you think?",9
+MULDER,Was Nathan Bowman married?,4
+SCULLY,Yep.,1
+SKINNER,What are you thinking?,4
+MULDER,"Linda. Bet that's his wife, huh?",6
+RECEPTIONIST,NovaMax Realty.,2
+MULDER,"Hi, Linda?",2
+RECEPTIONIST,I'm sorry. Mrs. Bowman has left the office to meet a client. May I take a message?,17
+MULDER,Do you know the name of the client that Mrs. Bowman went to see?,14
+RECEPTIONIST,"It's, uh, Mr. Fox Mulder.",5
+SCULLY,It's him.,2
+SKINNER,Location. Find out where he's at.,6
+MULDER,"Do you know where Mrs. Bowman went to meet Fox Mulder, a location?",13
+RECEPTIONIST,"I know it's a commercial property in Falls Church, uh, can you hold on please?",15
+MULDER,Yeah.,1
+SKINNER,Give me the Falls Church PD.,6
+SECOND OFFICER,Unit 6 at 214 Channel Avenue. Signs of forced entry. We're gonna check it out.,15
+DISPATCHER,"Exercise extreme caution, 6. Backup is in route.",8
+MODELL,"Hello. Officer? I'm over here. That's right. No, not that way. Not that way either, but you're getting warmer. Dead ahead. Straight in front. Buddy, I'm straight in front of you. What do you want me to do, draw you a map? Keep coming. Almost there.",46
+FIRST OFFICER,"Put it down! Put the gun down! Put it down! Now! On the floor! Face down! Do it! Marty, I got him! Get up here!",25
+SKINNER,"Federal Agent! Officer, where are you?",6
+FIRST OFFICER,"Upstairs! Sir, I got him!",5
+FIRST OFFICER,I got him.,3
+SECOND OFFICER,He's gone crazy! Get him the hell away from me!,10
+AGENT,Give me your gun. Just give me your gun.,9
+SKINNER,He was here. He did come for the woman.,9
+SCULLY,Why Bowman's wife? What would he want with her?,9
+UNIDENTIFIED OFFICER,"Hey, we got a visitor.",5
+MULDER,Linda Bowman? Fox Mulder.,4
+LINDA BOWMAN,"Hi. Uh, you're my 12:15?",5
+LINDA BOWMAN,"The appointment was made this morning, through my secretary. All I know was I was supposed to meet a Mr. Mulder here. He didn't leave a number, and I couldn't call him to tell him that I was running late. Why would someone do this to Nathan?",47
+SCULLY,Mrs. Bowman? Did your husband ever discuss his work as a prosecutor with you?,14
+LINDA BOWMAN,Sometimes.,1
+SCULLY,Did he ever mention the name Robert Patrick Modell?,9
+LINDA BOWMAN,Pusher? That was Nathan's biggest case. Why?,7
+SKINNER,"Can you think of any reason why this man, Modell, would take an interest in you.",16
+LINDA BOWMAN,What do you mean?,4
+SKINNER,We believe he murdered your husband. It also appears that he's the man that made the appointment to see you today.,21
+LINDA BOWMAN,"No. No, no, he's in prison.",6
+MULDER,Not since 6:00 this morning.,5
+LINDA BOWMAN,Oh God.,2
+SKINNER,"You're safe with us, Mrs. Bowman. If you'll come with me, we'll place you in protective custody.",17
+SKINNER,Find him.,2
+SCULLY,"Yes, sir.",2
+SCULLY,Mulder?,1
+MULDER,Why didn't Modell just kill those two cops? What was to stop him?,13
+SCULLY,"Well, hopefully, he wasn't capable.",5
+MULDER,As in too tired?,4
+SCULLY,"Well, we've seen that before.",5
+MULDER,Maybe. I don't know. Something's just not making sense. Can I borrow your radio?,14
+MARSHALL,"Yes, sir.",2
+MODELL,"Gracias, amigo.",2
+MODELL,What took you so long?,5
+MULDER,"Scully, I got him. Come quick.",6
+SCULLY,"Where are you, Mulder?",4
+MODELL,Hold on.,2
+MULDER,"North side of Channel, second floor. Some kind of company, some engineering company.",13
+MODELL,"Hold on, hold on, we need to talk.",8
+MULDER,"Shut up, Modell.",3
+MODELL,"Mulder, listen.",2
+MULDER,I said shut up.,4
+MODELL,There's something I need you to...,6
+MULDER,"Shut up or I will shoot you, you son of a bitch.",12
+MODELL,Mulder.,1
+MULDER,"I will shoot you, shut up.",6
+MODELL,"You're going to listen to me. You're going to listen to me, Mulder.",13
+MULDER,I will shoot you.,4
+MODELL,Listen. Mulder...,2
+SCULLY,"Mulder, what happened? Where's Modell?",5
+MULDER,He had to go.,4
+SCULLY,About 10 minutes ago. He can't have gotten far. Anything?,10
+MARSHALL,No sign.,2
+SCULLY,"Yes, Agent Mulder's fine. Yes, sir.",6
+SCULLY,How are you feeling?,4
+MULDER,"Well, aside from the utter grinding humiliation that comes from knowing I let our suspect go, pretty good.",18
+SCULLY,"It could have happened to anyone, Mulder.",7
+MULDER,"No, actually it couldn't have. I didn't find Modell. He sought me out. He wanted me to hear his message.",20
+SCULLY,Which was what?,3
+MULDER,"""Don't play the game.""",4
+SCULLY,Whose game? His?,3
+MULDER,I don't think so. I'm not even sure he's playing a game.,12
+SCULLY,What are you talking about? Of course he is. You said yourself that he was gonna pick up where he left off.,22
+MULDER,"Then why didn't he kill the cops? Or the prison guards? Or, hell, while we're at it, why didn't he kill me? Why didn't he make me eat a bullet out of my own gun? He could have.",38
+SCULLY,He killed Nathan Bowman.,4
+MULDER,"Yeah, he was definitely there, but that doesn't prove that he did it.",13
+SCULLY,"Mulder, this man's affected you. He's influenced your thinking.",9
+MULDER,It's not like that.,4
+SCULLY,A man is made to drink a gallon of cerulean blue paint. Kitsunegari - fox hunt. You're saying now that's not Modell?,21
+MULDER,"Modell is involved. He's related to it somehow, but not the way you think.",14
+SCULLY,That's your opinion?,3
+MULDER,"Yeah, that's my opinion.",4
+SCULLY,How can you be sure it's your own?,8
+MULDER,What do we still agree on here? That Modell was pursuing Linda Bowman? I'd like to know why.,18
+LINDA BOWMAN,"I'm sorry, I don't know if I can tell you much more than I already have.",16
+MULDER,We appreciate your help.,4
+LINDA BOWMAN,"I know Nathan was very proud of having prosecuted the case. He said this man, Modell, was extremely clever and dangerous, and that he was a menace to society, and Nathan mentioned that an FBI agent had ultimately shot him. Was that you?",43
+MULDER,Yes.,1
+LINDA BOWMAN,He said you crippled him and put him in a wheelchair. Nathan said it was too bad that you just didn't kill him. That would have saved the taxpayers the cost of a trial.,34
+SCULLY,Your husband talked with you a lot about it.,9
+LINDA BOWMAN,"Well, as I said, he was proud. I guess he felt that, that it was his brush with greatness.",19
+SCULLY,Is it possible that he could have mentioned you to Robert Modell?,12
+LINDA BOWMAN,"No, no, I sincerely doubt it. You see, Nathan and I, we were only married two months.",17
+MULDER,How long did you know him?,6
+LINDA BOWMAN,"Well...... it was two months and two days. Well, why wait when it's true love? You never know how long you have.",22
+MULDER,"No, you don't.",3
+LINDA BOWMAN,It's not like Nathan was implusive or flighty. I don't want to paint him as that.,16
+MULDER,He was true blue. Thank you.,6
+MULDER,She killed Nathan Bowman.,4
+SCULLY,What?,1
+MULDER,Modell was there but for some other reason. She killed her husband.,12
+SKINNER,"Agent Mulder, what...",3
+MULDER,"Wait a minute, just hear me out. Her husband's brush with greatness, she doesn't want to paint him as being impulsive. Who the hell talks like that?",27
+SCULLY,You tell me.,3
+MULDER,"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.",33
+SKINNER,Modell told you.,3
+MULDER,Has she asked how her husband was murdered? Has she shown any interest in the details? An escaped serial killer is supposedly stalking her. Does she seem particularly fearful to you?,31
+SKINNER,"The woman's in shock, Agent Mulder. She's not herself. And I might add, neither are you.",16
+MULDER,"You heard it in there, Scully.",6
+SCULLY,"Mulder, no. I'm sorry. You said it yourself, you said ""don't listen to Modell, don't trust him"". But you've done both.",21
+MULDER,But what if she can do what Modell does?,9
+SKINNER,I think you should go home.,6
+MULDER,You think I should go home?,6
+SKINNER,You're suspended until such time I'm confident your judgement is sound. Give me your weapon.,15
+MULDER,Who are you afraid I'm gonna point it at?,9
+SCULLY,"Mulder, I think you should do what he says.",9
+LINDA BOWMAN,Excuse me. Would it be possible for me to get something to drink? Water?,14
+SKINNER,"Uh, yes ma'am, I'll have somebody come right in.",9
+MULDER,I'll prove it.,3
+SKINNER,Agent Mulder?,2
+MULDER,Go fetch her some water!,5
+THERAPIST,I really don't know the man that well. I'm sorry you got the impression that I do.,17
+MULDER,"No, just anything at all that you might recall. Did he ever talk about his past? You know, mention anybody special, a woman, something like that.",26
+THERAPIST,No.,1
+MULDER,Anything remarkable he ever said that you can remember.,9
+THERAPIST,I guess one time someone else said something about him that struck me as unusual.,15
+MULDER,Yeah? What was that?,4
+THERAPIST,"It was one of the nuns who visits from Little Sisters of Charity. She, uh, she once referred to him as a ""conquered warrior"". I thought that was kind of weird.",31
+MULDER,Was this the same nun that visited him the day before he escaped?,13
+THERAPIST,"Yeah, the same one that always visits.",7
+MULDER,How many times did she visit him?,7
+THERAPIST,"Maybe three, four.",3
+MULDER,"Would you take a look at something for me? Is that the woman, is that the nun?",17
+THERAPIST,"Hang on, I'm blind as a bat.",7
+THERAPIST,Therapy room.,2
+MULDER,Here... glasses.,2
+THERAPIST,"Uh, uh-huh, yeah. Yeah, absolutely. It's empty.",7
+MULDER,Where did you leave them?,5
+THERAPIST,"Uh, uh-huh. Uh-huh, OK.",4
+THERAPIST,"Oh yeah, he's here.",4
+MULDER,No!,1
+MULDER,I need help in here!,5
+MULDER,Help!,1
+MARSHALL,You got him?,3
+MODELL,Go home.,2
+MARSHALL,What?,1
+MODELL,Go home.,2
+SCULLY,Scully.,1
+MULDER,"Hey, Scully, it's me.",4
+SCULLY,Where are you?,3
+MULDER,I'm at the prison.,4
+SCULLY,"Mulder, you were told to lay off.",7
+MULDER,"It's a little late for that now. Modell's therapist just electrocuted herself right in front of me, and she was on the phone when she did it.",27
+SCULLY,It was Modell.,3
+MULDER,It was Linda Bowman.,4
+SCULLY,Mulder...,1
+MULDER,The therapist would have identified her and verified that she visited Modell in the prison.,15
+SCULLY,Would have? You don't know that.,6
+MULDER,"Listen, Scully, just trace the call and cut off any access that woman has to a phone. I'm heading back there right now.",23
+SCULLY,"Mulder, I'm not at the safe house.",7
+MULDER,You're not?,2
+SCULLY,"We're at the Chain Bridge Mall, investigating a suicide.",9
+MULDER,Why isn't anybody picking up at the safe house switchboard?,10
+SCULLY,Back in the trucks...,4
+SKINNER,"On the floor, Modell!",4
+MODELL,"Hey, it's Mel Cooley.",4
+SKINNER,"On your face, do it now!",6
+SKINNER,I said now!,3
+MODELL,I have a gun.,4
+SCULLY,Did he try to speak to you?,7
+SKINNER,He said we got our man.,6
+MULDER,What happened?,2
+SKINNER,"You were told to go home, Agent Mulder.",8
+MULDER,What happened?,2
+SKINNER,"He had a gun. I saw it clearly, it was a revolver.",12
+MULDER,He pointed a gun at you?,6
+SCULLY,We haven't found the gun yet.,6
+MULDER,He said to you that he had a gun.,9
+SKINNER,"Yes, and he did. Excuse me.",6
+MULDER,Modell was unarmed. He purposely drew Skinner's fire.,8
+SCULLY,For what possible reason?,4
+MULDER,To protect someone.,3
+SCULLY,Linda Bowman?,2
+MULDER,To take the fall for her.,6
+SCULLY,"That's one hell of a plan, Mulder. A serial killer makes us believe that he's guilty, in turn diverting the suspicion away from the real estate lady. Well, he had me going.",32
+MULDER,Where is she?,3
+SCULLY,"They've taken her home. There is no reason to keep her in protective custody, Mulder. It is over.",18
+MULDER,"No, it's not.",3
+SCULLY,Where are you going?,4
+MULDER,"If Modell makes it through surgery, I want to be the first person that he talks to.",17
+SCULLY,"Mulder, talking to him has already done you enough harm.",10
+MULDER,"OK, look, you do me a favor, Scully. You give me a call when you think I've come to my senses, all right?",23
+"""NURSE""",Sir? I'm going to need to change the patient's bandages.,10
+MULDER,"Call me if he wakes up, please.",7
+LINDA BOWMAN,"Yes, sir.",2
+LINDA BOWMAN,Bobby? Why did you do it? I didn't ask you to come after me.,14
+MODELL,Don't... don't make a mistake.,5
+LINDA BOWMAN,"I'm not. After what they've done, do you think I'd let them get away with this? I'm gonna finish what you started.",22
+MODELL,No. Stop now. Stop...,4
+LINDA BOWMAN,"Bobby... Bobby, you're not in any pain. You feel wonderful. You've never felt better. Your heart is slowing. It's tired. It's too worn out to keep beating. Let it rest.",30
+LINDA BOWMAN,It slows... it slows... it stops.,6
+NURSE,"I've got the lidocaine, doctor.",5
+DOCTOR,Never mind. Put him down as 7:38.,7
+NURSE,"Yes, doctor.",2
+DOCTOR,I'm sorry.,2
+"""SCULLY""",Mulder?,1
+MULDER,"Scully, what are you doing here?",6
+"""SCULLY""","You were right about her, Mulder.",6
+MULDER,Scully.,1
+"""SCULLY""",She's making me do this.,5
+MULDER,Where is she?,3
+"""SCULLY""","She's here. Mulder, make her stop. I can't help myself.",10
+MULDER,Linda Bowman!,2
+"""SCULLY""",Mulder make her stop.,4
+MULDER,Show yourself!,2
+"""SCULLY""",Mulder.,1
+MULDER,No! No!,2
+MULDER,I'm gonna kill you!,4
+"""LINDA BOWMAN""","Don't listen to her, Mulder.",5
+MULDER,What?,1
+"""LINDA BOWMAN""",It's me. You were right about her. Linda Bowman is pushing you.,12
+MULDER,What the hell are you talking about?,7
+"""LINDA BOWMAN""","I'm Scully. Linda's right behind you, she's telling you I'm her.",11
+MULDER,You killed her!,3
+"""LINDA BOWMAN""","Mulder, I'm Scully. I'm not dead. She wants you to shoot me. She knows you'll never forgive yourself.",18
+MULDER,Shut up!,2
+"""LINDA BOWMAN""",Listen to me!,3
+MULDER,Shut up!,2
+"""LINDA BOWMAN""","Your mother is Tina, your sister is Samantha!",8
+MULDER,Shut up!,2
+"""LINDA BOWMAN""",Modell warned you. Don't play her game.,7
+SCULLY,Mulder...,1
+LINDA BOWMAN,You think you can hold me?,6
+SCULLY,"Yes, we'd like an ambulance to 214 Channel Avenue.",9
+SKINNER,Linda Bowman.,2
+SCULLY,"She has an advanced temporal lobe tumor, just like Modell's. It seems to run in the family.",17
+SKINNER,She and Modell are related?,5
+SCULLY,Fraternal twins.,2
+SKINNER,He meant to protect his sister.,6
+SCULLY,"Apparently, she only found out about his existence six months ago. They were separated when they were two weeks ago, raised apart. Her ""fox hunt""... I'm guessing that she wanted revenge for what she feels we did to her brother.",40
+SKINNER,Anything you want to add to that?,7
+MULDER,I think that covers it.,5
+SKINNER,"Mulder, a moment, please.",4
+SKINNER,I just want to say you did a good job.,10
+MULDER,How's that?,2
+SKINNER,Nobody could have figured this out but you. You knew it was Linda Bowman and not Modell. You were way ahead of me.,23
+MULDER,I almost killed my partner.,5
+SKINNER,"Mulder, despite that, you prevailed. You won her game.",9
+MULDER,Then how come I feel like I lost?,8

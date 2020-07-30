@@ -1,0 +1,278 @@
+speaker,line,words
+MUNTZ,"A lot of consideration...yeah a lot...don't think you're not expendable, no...he never once said I was doing a good job...all my hard work...nobody ever stuck up for me...they were all treated special Nobody moves! Everybody stays! Shut up! I said shut up! Now you listen to me...everyone listen to me...ok the children can go Everybody else, nobody move...I said nobody else move",62
+SMITH,Please don't harm anyone.,4
+MUNTZ,"Stay away, or I'll shoot.",5
+SMITH,You're frightening these people.,4
+MUNTZ,I'll do it! Hey! I will do it.,8
+SMITH,They've done nothing to you.,5
+MUNTZ,Oh you don't know.,4
+SMITH,Give me the gun.,4
+MUNTZ,I am not a loser.,5
+SMITH,No you're not.,3
+MUNTZ,They made me do it. They made me.,8
+SMITH,But you're not going to do it. You're gonna show them. You're gonna show them.,15
+MUNTZ,No! I'm gonna die,4
+SMITH,Nobody's going to die.,4
+SCULLY,Where are the wounded?,4
+PARAMEDIC,What?,1
+SCULLY,"I'm FBI, where are the people who were shot?",9
+PARAMEDIC,"Everybody's inside, but you're not gonna find anybody who's wounded.",10
+MULDER,You're the 1st medic on the scene?,7
+PARAMEDIC,Yes sir.,2
+MULDER,Can you tell me what happened?,6
+PARAMEDIC,"Well it doesn't make any sense. We got a call, there had been a shooting, at least one man was down, but when we got here there wasn't a damn thing to do.",33
+SCULLY,"Excuse me, I'm Special Agent Scully, FBI. I wanna talk to somebody who can tell me what happened.",18
+DETECTIVE,Well I can tell you what I saw but I don't think there's a man here who can tell you what happened.,22
+SCULLY,What did you see?,4
+DETECTIVE,"Maybe you should talk to this man, he was one of the one shot.",14
+SCULLY,You were shot?,3
+MAN,"Right here, right in the stomach. I felt the bullet enter me, and the next thing I remembered was being on the floor, my legs and arms were numb and I could taste blood in my throat then I see the man's face.",43
+SCULLY,What man?,2
+MAN,The same guy who tried to talk the gun guy out of hurting anyone.,14
+SCULLY,What did he do?,4
+MAN,"He touched me, and he said I was gonna be ok. And then all of the sudden, I could feel my legs and arms again.",25
+MUNTZ,Who are you?,3
+MULDER,"My name is Fox Mulder, I'm an FBI Agent. I understand you've been read your rights will you talk to me Mr Muntz? Can you tell me what happened?",29
+MUNTZ,God.. spared my life today. He took pity on my soul and he washed away my sins.,17
+MULDER,How do you mean?,4
+MUNTZ,"He reached down and he healed me with his hand. A man, a holy man. All I can think is.. it must have been the good Lord himself",28
+MULDER,Talked to him?,3
+SCULLY,Who?,1
+MULDER,"The shooter described a man, a man who reached down and healed with the palm of his hand.",18
+SCULLY,He's gone.,2
+MULDER,They let him leave the scene?,6
+SCULLY,"Well nobody let him leave, he was in custody, and they were talking to him and then somehow he just disappeared.",21
+MULDER,He's vanished?,2
+SCULLY,Without a trace.,3
+CSM,It struck me as I was sitting here.,8
+MRS. MULDER,What?,1
+CSM,Everything changes but the sea.,5
+MRS. MULDER,What do you want from me?,6
+CSM,I thought we might at least allow ourselves to reminisce.,10
+MRS. MULDER,I have nothing to say to you.,7
+CSM,"Really? We used to have so much to say to each other, so many good times at the Mulder's summer place . Your kids.. young and energetic. I remember water-skiing down there with Bill. He was a good water-skier your husband, not as good as I was but then that could be said about so many things... couldn't it?",58
+MRS. MULDER,I've repressed it all.,4
+CSM,"Well, I find that hard to believe, particularly since I came here today to ask you to remember something. Something I'm gonna have to ask you to try very hard to recollect.",32
+DETECTIVE,"He gave a name as Jeremiah Smith, of Suitland, Virginia, he gave a PO box that turned out to be phony, he had no driver's license.",26
+MULDER,All the cars in the parking lot have been accounted for?,11
+DETECTIVE,Which means he must have walked from somewhere nearby. We've got a canvass out.,14
+SCULLY,And you talked to him personally?,6
+DETECTIVE,"Yeah, damnedest thing, and I swear this is how it happened, I looked down to my notebook to write something, I look up, the guy's not standing there anymore. It's like he just disappeared.",34
+MULDER,Mulder.,1
+WOMAN'S VOICE,"Agent Mulder, this is Assistant Director Skinner's office, would you hold for a moment?",14
+MULDER,Yeah.,1
+SKINNER,"Agent Mulder, we've just received a call here that might cause you some alarm.",14
+MULDER,What is it?,3
+SKINNER,"Your mother has been admitted in a hospital in serious condition, a small coastal town on Rhode Island called.. Quono..",20
+MULDER,Quonochautaug? I'm on my way.,5
+SCULLY,"The nurse said she had a stroke. They don't know yet the nature of severity, but the doctor's on his way down.",22
+MULDER,She's cold.,2
+SCULLY,"Mulder I don't wanna jump to conclusions. I don't want you to think the worst, people recover from those situations all the time.",23
+MULDER,Mom..,1
+NURSE,"She hasn't been able to speak, she's been in and out of consciousness.",13
+MULDER,How did she get here?,5
+NURSE,"A 911 came in, the paramedics from Shelter Harbor found her on the floor of the house.",17
+MULDER,"Mom. Hi. It's ok, everything's gonna be ok. What what is it? What do you want?",16
+SCULLY,I think she wants something to write on.,8
+MULDER,Palm?,1
+SCULLY,"She's had what's called a subarachnoid hemorrhage, but they're very hopeful because the circulation was restored so quickly. She's gonna be under constant supervision at the Best Care up in Providence. It could be a lot worse.",37
+MULDER,Thanks.,1
+SCULLY,Are you ok?,3
+MULDER,Yeah. I'm.. I just can't help thinking there's a correlation.,10
+SCULLY,Correlation?,1
+MULDER,A connection to the shooting at the fast food restaurant.,10
+SCULLY,"I'm sorry, I.. I don't understand.",6
+MULDER,"My mother wrote the word palm, that's what the man who healed the victim, that's what he used, the palm of his hand. You..you think it's a leap?",28
+SCULLY,"Mulder, there's no deep mystery here. Your mother is at the.. the right age for something like this to happen.",20
+MULDER,Why the word palm?,4
+SCULLY,"Well there could be several reasons huh..but to be honest, I don't think it means anything, her brain and her thought processes have been.. have been radically changed by what's happened. It could have very well affected her center of speech, her language.",43
+MULDER,"But you can't explain it exactly, nor can it be explained how the wounded were miraculously healed or how the man who healed them just vanished into the air, can it?",31
+SCULLY,"I'm sure it can, and will be Mulder, I'm gonna drive you to the nearest motel, it's been a very long day.",22
+MULDER,I'm gonna go back to D.C..,6
+SCULLY,To do what?,3
+MULDER,I wanna find out who this miracle man is.,9
+MULDER,This is everything shot by the 1st news crews at the scene. Outtakes and unedited footage.,16
+SCULLY,Did they get anything on the man on question?,9
+MULDER,"Yes it's supposed to be about 8:22 There, that must be him.",12
+SCULLY,Whoa what happened there?,4
+MULDER,Hey he's gone.Where did he go? You see that?,9
+SCULLY,Yeah..,1
+MULDER,"Looks like he's gone but there's..somebody else in his place, wearing the same clothes.",14
+SCULLY,Could that be another detective?,5
+MULDER,Why don't you find out ?,5
+SCULLY,Where are you going?,4
+MULDER,"If I told you, you'd never let me go.",9
+SCULLY,Mulder you haven't slept in almost 24 hours.,8
+MULDER,Call me if you find anything .,6
+X,He was here with her.,5
+MULDER,What?,1
+X,"With your mother, the Cancer Man.",6
+MULDER,What are you talking about?,5
+X,Maybe I can bring you up to speed Agent Mulder,10
+MULDER,Did you take this?,4
+X,"They had quite an argument, as you might gather from the snapshots. You seemed surprised. I'm sure you were aware they knew each other or what brought them here together?",30
+MULDER,I don't know. Did he hurt her?,7
+X,"No, no she collapsed after he left. I dare say if I hadn't been there to make the call, she might not have survived.",24
+MULDER,What did they argue about?,5
+X,"I don't know, I was forced to keep a discreet distance.",11
+MULDER,You must have some idea or else you wouldn't have followed them here.,13
+X,"He wants something from her, something she may have kept in this house unless you know another reason they would have chosen to meet here.",25
+MULDER,"On the day my parents divorced, my mother vowed never to set foot in the summer house again, I know my mother, she kept her word.",26
+X,"It could be something very old, certainly, something very important.",10
+MULDER,I have no idea what that could be.,8
+X,No idea at all?,4
+MULDER,No.,1
+SCULLY,Sir? Excuse me but..,4
+SMITH,Yes?,1
+SCULLY,Are you Jeremiah Smith?,4
+SMITH,"Yes, I'm afraid there's been some mistake, I saw my photo on the news saying I fled a scene of a crime, I'm here to turn myself in.",28
+SCULLY,"Huh, would you come with me sir.",7
+SMITH,"From the moment I stepped from the crowd and asked the man to put down his gun, it seemed like .. a dream, as if I was out of my body.",30
+SCULLY,"There were reports, somewhat fantastic reports about what happened next.",10
+SMITH,"I know, I saw the news reports. I'll have to say that I don't remember any of it, nothing.",19
+DETECTIVE,"You gave me a wrong address sir, then you left the crime scene during the interview",16
+SMITH,"I don't remember that, I'm sorry.",6
+SKINNER,"What *do* you remember, Mr Smith?",6
+SMITH,"I remember showing up for work at the next day, being at my desk. That's my 1st recollection.",18
+SKINNER,At the Social Security Administration?,5
+SCULLY,"You haven't done anything wrong, sir",6
+SMITH,May I go?,3
+SKINNER,"Yes, but until this matter is resolved completely, I'll ask you to notify us if you'll be outta town for any reasons",22
+SKINNER,Agent Scully?,2
+CSM,This becomes a responsibility. The thing I am now called upon to put right and put down. Certainly you expected nothing less.,22
+SMITH,I'm not ashamed of my actions.,6
+CSM,Ashamed? You're not allowed the luxury of human weakness in penitence. You're not allowed to put your indulgences ahead of the greater purpose.,23
+SMITH,I no longer believe in the greater purpose.,8
+CSM,Then your fate is just.,5
+SMITH,"My justice is not for you to mete out. You may have reasons, you have no right, you have no means.",21
+CSM,You presume to dictate duty to *me*? Have you any idea what the cost of your action is? What their affect might be? Who are you to give them hope?,30
+SMITH,What do you give them?,5
+CSM,"We give them happiness, and they give us authority.",9
+SMITH,The authority to take away their freedom in the guise of democracy.,12
+CSM,"Men can never be free, because they're weak, corrupt, worthless and restless. The people believe in authority, they've grown tired of waiting for miracle or mystery. Science is their religion, no greater explanation exists for them. They must never believe any differently if the project is to go forward.",49
+SMITH,At what cost to them?,5
+CSM,"The question is irrelevant, and the outcome inevitable, the date is set. SMITH",13
+SMITH,"By whom this time, and by what tool?",8
+CSM,By those who possess the tool of your destruction.,9
+SKINNER,Excuse me?,2
+MULDER,"I want the smoking man smoked out, I want him exposed as the murdering son of a bitch that he is.",21
+SCULLY,Where have you been?,4
+MULDER,"To our summer house, he was there with my mother. He's the reason for what happened to her.",18
+SKINNER,Where did you get these?,5
+MULDER,"It *doesn't* matter where I got those, the only thing that matters is that *that* man is called to answer, now I want his name!",25
+SKINNER,I don't know his name.,5
+MULDER,You know how to get it.,6
+SKINNER,These men don't have names.,5
+MULDER,Well then you tell me how to find him.,9
+SKINNER,"Agent Mulder, there was a time when I might have been able to tell you, but that time is passed.",20
+MULDER,He knows about the man who disappeared from the restaurant shooting.,11
+SCULLY,What are you talking about?,5
+MULDER,He's trying to kill him.,5
+SCULLY,"Mulder he just came in yesterday, he just turned himself in.",11
+MULDER,What?,1
+SCULLY,He.. he gave a statement.,5
+MULDER,Where is he now?,4
+SCULLY,He works for the social security administration.,7
+MULDER,Mr Smith?,2
+SMITH,Hello.,1
+MULDER,I'm with the FBI. I'd like you to come with me,11
+SMITH,For what? I told you everything I know. I thought they said you'd call if there was anything.,18
+MULDER,"I'm sure you don't want to cause a scene at work, sir.",12
+SMITH,No of course not I'll come along.,7
+SMITH,Where are you taking me? Can you tell me where you're taking me?,13
+MULDER,We'll have plenty of time to talk sir.,8
+MULDER,You see him?,3
+SCULLY,No I lost him.,4
+CSM,It's only a matter of time now.,7
+SMITH,"You put me in a cage, within a cage, why are you so afraid of me?",16
+CSM,I'm not.,2
+SMITH,"Yes you are, you *live* in your fear, that's your whole life.",12
+CSM,You don't know anything about me.,6
+SMITH,I know everything about you. You think the miracles I perform.. are the extent of my power.,17
+CSM,"You think you're god. You're a drone, a cataloger, chattel!",10
+SMITH,What you're afraid of is.. *they'll* believe I'm God.,9
+CSM,"It doesn't matter, most of them have ceased to believe in God.",12
+SMITH,Why?,1
+CSM,Because God presents them with no miracles to earn their faith.,11
+SMITH,"You think when men ceases to believe in miracles, he rejects God?",12
+CSM,Of course.,2
+SMITH,You rule over them in God's name.,7
+CSM,They don't believe in him but they still fear him. They're afraid not to because they're afraid of freedom.,19
+SMITH,And you give them happiness.,5
+CSM,"We appease their conscience, anyone who can appease a man's conscience can take his freedom away from him. their conscience, you kill 'em but you can't kill em all. You can't kill their love, which is what makes them who they are, makes them better than us, better than you.",50
+CSM,"You talk, I'm not one of you.",7
+SMITH,"No. All you want is to be part of it, is to be one of the commandants, when the process begins. But you are wrong.",25
+CSM,"Oh, am I?",3
+SMITH,"Yes, you are dying of lung cancer.",7
+CSM,It's a lie.,3
+SMITH,You think it's a lie?,5
+CSM,You wanna save your life.,5
+SMITH,And you?,2
+DOCTOR,"We have been helpful but there was susbstancial blood loss during the stroke event, which has put a lot of pressure on the brain.",24
+MULDER,Will she regain consciousness?,4
+DOCTOR,"I know it's hard, but she may not. I can be paged if you need me.",16
+MULDER,Thank you.,2
+MULDER,"You wanna smoke that, or do you wanna smoke on this?",11
+CSM,Are you giving me a choice?,6
+MULDER,"I should shoot you right here, but they probably would be able to save you.",15
+CSM,"Do it, do it Agent Mulder.",6
+MULDER,Or maybe shoot a bullet through your brain so you'd be bedridden on a bed for the rest of your life.,21
+CSM,How is she?,3
+MULDER,What do you care?,4
+CSM,"I've known your mother since before you were born, Fox.",10
+MULDER,I don't care.,3
+CSM,I've gone to see her recently.,6
+MULDER,And I know what you are looking for.,8
+CSM,I wasn't looking for anything. It's what she was looking for actually. She contacted me.,15
+MULDER,Liar!,1
+CSM,"I had information, possibly..on the whereabouts of your sister.",9
+MULDER,Where is she? Where is she?,6
+CSM,It seems the..the man who has the information has disappeared.,10
+MULDER,I have what you want.,5
+CSM,"There's nothing I want Agent Mulder, except to see how your mother's doing.",13
+MULDER,Yes.,1
+X,Give it to me.,4
+MULDER,I can't do that.,4
+X,It's of no value to you.,6
+MULDER,And to you?,3
+X,"When the time comes, when the truth is finally determined, its value will soar.",14
+MULDER,Why?,1
+X,I think you know why Agent Mulder.,7
+MULDER,"It's a weapon, isn't it? Used to pierce the back of a neck. It's the only way we can kill them.",21
+X,A simple gunshot won't do.,5
+MULDER,Why do you want it ?,5
+X,"They will kill you for it Agent Mulder, that's a fact. They'll stop at nothing for it, nothing. If they have to martyr you at risk of turning your work into a crusade.",33
+MULDER,"Let me get clear on something here, what we're talking about is colonization. The date is set, isn't it?",19
+X,Give me the weapon Agent Mulder.,6
+MULDER,"No. X punches mulder and they get into a fist fight, pretty nasty, Mulder bleeds, they finally both reach for their guns and are holding each other at gun point]",30
+MULDER,You shoot me and you'll never find it.,8
+X,I oughtta shoot you anyway after everything I've given you.,10
+MULDER,"I'm walking, away.",3
+X,"You're a dead man Agent Mulder. One way, or the other.",11
+SCULLY,Who is it?,3
+SMITH,"Jeremiah Smith. Please let me in. SCULLY I want you to put your hands up where I can see them. Ok, I want you to keep your hands up, I'm gonna unlock the door. I want you to count to 5, come in, close the door and lock it behind you.",51
+SCULLY,Keep your hands up please.,5
+SMITH,"I have important information for you, something your partner has been seeking. It concerns an elaborate plan, a project, and his sister.",22
+SCULLY,Why didn't you tell me before?,6
+SMITH,"I've never spoken to you before, the man you spoke to was an impostor, he was sent here to kill me.",21
+SCULLY,Who are you?,3
+SMITH,I'll explain everything.,3
+SCULLY,Yeah.,1
+MULDER,Scully it's me.,3
+SCULLY,Mulder where are you?,4
+MULDER,"I've been up with my mother, listen to me.",9
+SCULLY,"Mulder listen to me, there's somebody here, somebody you need to talk to.",13
+MULDER,Who?,1
+SCULLY,Jeremiah Smith.,2
+MULDER,"Alright Scully, you gotta get out of your apartment, they're gonna be looking for him, I want you to meet me.",21
+SCULLY,Where?,1
+MULDER,"Off the I-95, uh Bond Mill Road.",7
+MULDER,"Scully! Scully move away from him, come stand behind me.",10
+SMITH,"I've come to you at great risk, I mean you no harm. I have a long and complicated story to tell you.",22
+SCULLY,"Mulder, he knows about your sister.",6
+MULDER,How do I know you're for real?,7
+SMITH,"I was at that restaurant, I healed those people.",9
+SCULLY,But how?,2
+SMITH,I can explain everything to you.,6
+MULDER,First I want you to come somewhere with me. I want you to come with me to see my mother.,20
+SMITH,He's here to kill me.,5

@@ -1,0 +1,307 @@
+speaker,line,words
+JOE CUTRONA,Three.,1
+GREY-HAIRED PLAYER,Give me two.,3
+BALD PLAYER,Two.,1
+HENRY WEEMS,"Can I have five cards, please?",6
+DEALER,"Five? What, are you serious? Four is the limit. Let's see your ace.",13
+JOE CUTRONA,If Mr. Weems wants five... give him five.,8
+DEALER,Dealer takes two.,3
+JOE CUTRONA,Four.,1
+GREY-HAIRED PLAYER,Nah-uh.,1
+HENRY WEEMS,How much is that?,4
+DEALER,Four grand keeps you in. You and your five shiny new cards.,12
+HENRY WEEMS,"There's $4,000... and four more.",5
+JOE CUTRONA,Let's make this interesting. I'm raising you 15 large.,9
+HENRY WEEMS,I wouldn't do that. This is all I need.,9
+JOE CUTRONA,You're going to need Depends after you see this hand.,10
+HENRY WEEMS,Now we show each other our cards?,7
+JOE CUTRONA,Four kings.,2
+HENRY WEEMS,"That's a straight flush, right?",5
+HENRY WEEMS,Beginner's luck.,2
+JOE CUTRONA,What the hell do you think you're doing?,8
+HENRY WEEMS,Going home.,2
+JOE CUTRONA,"No, no. Not so fast. We expect a chance to win some of our money back.",16
+HENRY WEEMS,"Guys, there's over $100,000 here.",5
+JOE CUTRONA,"You're damn right there's over $100,000 there.",7
+HENRY WEEMS,"$100,000 is all I need. Sorry. I had fun, though. Where can I cash out?",15
+HENRY WEEMS,"Guys, I think we're going up instead of down. .",9
+HENRY WEEMS,"Guys... Guys, this is not what I meant by ""cashing out""! Hey! Hey!",13
+MULDER,Hello.,1
+SCULLY,"Hey, Mulder, it's me. What now?",6
+MULDER,Are you in Chicago?,4
+SCULLY,"Yes, I'm in Chicago. I'm on the northeast corner of 7th and Hunter just like you asked. Only you're not here. So where are you?",25
+MULDER,"Oh, around.",2
+SCULLY,Yeah.,1
+MULDER,"Hey, nice outfit.",3
+SCULLY,Hey. What's down there?,4
+MULDER,Before you check out down there check out up there. Top two floors are leased to one Jimmy Cutrona whose name you might be familiar with.,26
+SCULLY,"Organized crime. The Bureau's been trying to build a racketeering case against him for the past few years. Gambling, extortion, murder.",21
+MULDER,Which is why last night there were two agents parked across the street in surveillance. They witnessed a man being thrown from Cutrona's,23
+ROOF AT 10,"40 p.m. This man fell for 30 floors, plus the distance down this shaft, because these doors just happened to be open-- straight through, nothing but net.",27
+SCULLY,Ouch.,1
+MULDER,"I'm guessing that's what he said. After, he got up, climbed out of here and scampered off into the night.",20
+SCULLY,"Mulder, you keep saying ""this man."" Who is this man?",10
+MULDER,"No idea. He got away. The agents gave chase, but no clear description.",13
+SCULLY,Was this basement thoroughly searched?,5
+MULDER,"No. Technically, falling 300 feet and surviving isn't a crime.",10
+SCULLY,And your theory is?,4
+MULDER,"What if this man had some kind of special capability? Some kind of genetic predisposition towards rapid healing, or tissue regeneration?",21
+SCULLY,"So, basically, what if we were looking for Wile E. Coyote? You're saying that he is invulnerable, right?",18
+SCULLY,"You know in 1998, there was a British soldier who plummeted 4,500 feet when his parachute failed and he walked away with a broken rib.",25
+MULDER,What's your point?,3
+SCULLY,"My point is that if there's a wind gust, or a sudden updraft and, plus, if he landed in exactly the right way, I mean, I don't know. Maybe he just got lucky.",33
+MULDER,"What if he got really, really lucky? That's your big scientific explanation, Scully? I mean, how many thousands of variables would have to convene in just the right mixture for that theory to hold water?",35
+SCULLY,I don't know.,3
+MULDER,"Well, thousands.",2
+SCULLY,Mulder?,1
+MULDER,Yeah?,1
+SCULLY,"Look at this. If this cart were on the platform when he hit, that would explain the condition of these wheels. And what if this whole thing had just enough give to save his life?",35
+MULDER,We'd have to find him to ask.,7
+SCULLY,"Yeah, we have to find him.",6
+MULDER,Looks like maybe we've found part of him already.,9
+SCULLY,"I think you're taking a flier here, Mulder. There's got to be at least 600 people with prosthetic eyes in the greater Chicago area.",24
+MULDER,"Yeah, but only this one Henry Weems made an appointment this morning to get a new one.",17
+SCULLY,Maybe he can't see his way to the door.,9
+MULDER,"Come on, Scully. I'm feeling lucky.",6
+MAGGIE LUPONE,Can you help me? It's an emergency.,7
+SCULLY,"Ma'am, we're not plumbers.",4
+MAGGIE LUPONE,"I didn't say you were. I just want the damn water turned off so that I can go to work. Look, you've got to be stronger than me, right? Valve's under the sink.",33
+MULDER,Your building super-- Henry Weems-- he isn't around?,8
+MAGGIE LUPONE,Mr. Dependable? Might as well wait for Jimmy Hoffa to show up.,12
+RICHIE LUPONE,You're turning it the wrong way.,6
+MAGGIE LUPONE,"Hey, Richie sweetheart, back in bed.",6
+RICHIE LUPONE,"But, Mom...",2
+MAGGIE LUPONE,"""Buts"" are for sitting and I want yours back in bed.",11
+MAGGIE LUPONE,He's right. Clockwise.,3
+MULDER,I know that. Clockwise.,4
+SCULLY,"You okay, Mulder?",3
+MULDER,"Yeah, it's all right. My ass broke the fall. Guess who I found. Henry Weems, I presume?",17
+HENRY WEEMS,"Next time, leave the plumbing to a professional.",8
+MULDER,"Oh, uh... Oh, uh... You want to try this on for size, Cinderella?",13
+SCULLY,"Mr. Weems, why were you hiding in a vacant apartment?",10
+HENRY WEEMS,Not hiding-- avoiding.,3
+SCULLY,Avoiding whom?,2
+HENRY WEEMS,You people. Now that you found me let's just get it over with. No way am I testifying against Jimmy Cutrona.,21
+SCULLY,"Last night, Cutrona had you thrown off the roof of 1107 Hunter Avenue-- is that correct?",16
+HENRY WEEMS,"You didn't hear it from me. I'm not letting you people move me to Muncie, Indiana, to milk cows.",19
+MULDER,"More to the point, you survived a, uh... 300-foot fall essentially un... harmed.",13
+HENRY WEEMS,I don't know. Maybe... The wind was just right and I landed on a bunch of towels-- no biggie.,19
+SCULLY,You got lucky?,3
+HENRY WEEMS,"Yeah, I guess, except... you should look at my... bruise.",10
+MULDER,: Oh...,1
+HENRY WEEMS,"Plus, I didn't get to keep my poker winnings.",9
+SCULLY,So that's what you were doing there last night-- playing poker?,11
+HENRY WEEMS,"Cutrona thought I was cheating. I wasn't. But like I said, you didn't hear it from me.",17
+MULDER,"Must have been a high-stakes game, I imagine. Did you win a lot of money?",15
+HENRY WEEMS,I don't know... A little.,5
+MULDER,What is that? Did you make it?,7
+HENRY WEEMS,Uh-huh. It's sort of a hobby.,6
+MULDER,Mm-hmm. Mind if I...?,4
+MULDER,Ah... That's craftsmanship. What does it mean?,7
+HENRY WEEMS,"What do you mean ""what does it mean?""",8
+MULDER,"Yeah, what's-what's...",2
+HENRY WEEMS,It doesn't mean anything. I just sort of... I don't know.,11
+MULDER,It's cause and effect.,4
+HENRY WEEMS,"So, are-are we done here?",5
+SCULLY,"Mr. Weems, can I ask you to reconsider testifying against Cutrona?",11
+HENRY WEEMS,"Nope. No way, Jose.",4
+SCULLY,"Well, it would be in your best interest. He's tried to kill you once and he will undoubtedly do it again.",21
+MULDER,"Yeah, we can protect you.",5
+HENRY WEEMS,I'll take my chances.,4
+SCULLY,"So, here's the plan, as I see it: we inform the Chicago field office about Weems, leaving it to them to secure his testimony, you change your clothes...",28
+SCULLY,... we fly back to D.C. by sunset and all is right with the world.,14
+MULDER,"Come on, Scully, you're going to dump this case just as it's getting interesting.",14
+SCULLY,"""Interesting,"" Mulder was when we were looking for Wile E. Coyote. Come on, Mulder, this guy just got lucky. There's no X-File here.",23
+MULDER,Maybe his luck is the X-File.,6
+SCULLY,Stairs.,1
+MULDER,Oh... Car keys. Must have lost them when I fell.,10
+MULDER,"So, you get many of these?",6
+SCULLY,"So, uh, we've searched the entire building and there's no sign of Henry Weems. I'm guessing that he's on the run.",21
+MULDER,"Our dead man's name is Angelo Bellini a.k.a. ""Angie the Animal."" He's an enforcer for the Cutrona family and I don't think his visit was friendly.",26
+SCULLY,You think that Weems could have killed him in self-defense?,10
+MULDER,"Skinny guy with no depth perception against a man nicknamed ""The Animal""? I don't think so. You and I both know Weems didn't kill anybody. Besides, we were just gone for two minutes. This guy doesn't have a scratch on him. I'm thinking it was a heart attack.",48
+SCULLY,"What the hell happened here, Mulder?",6
+MULDER,Cause... and effect.,3
+SCULLY,Meaning...?,1
+MULDER,"Okay, so... watch. So Bellini kicks down the door-- whaa gaa!-- poised to kill Weems, right? And just as he's about to pull the trigger a noise startles him... the buzzer-- when I buzzed to be let back in the apartment. So when he does pull the trigger, his aim is off, right? And he hits the lamp, which falls over and knocks over the ironing board, so as the bullet ricochets Weems dives over the sofa. Now, when Bellini goes for him he trips over the ironing board, bounces off the chair, flips end over end and his shoelace gets caught in the fan-- QED.",106
+MULDER,CAUSE AND EFFECT: seemingly unrelated and unconnected events and occurrences that appear unrelated and random beforehand but which seem to chain-react in Henry Weems' favor.,25
+SCULLY,Dumb luck?,2
+MULDER,"Yeah, he seems to have tapped into it somehow. He-he won big at poker; he-he survived getting thrown off a skyscraper... and now this.",24
+SCULLY,Hang on a second.,4
+MULDER,Okay.,1
+SCULLY,"Hey. Your name's Richie, right?",5
+RICHIE LUPONE,Yeah.,1
+SCULLY,I'm Dana.,2
+RICHIE LUPONE,Hi.,1
+SCULLY,"Why don't we, uh, head back to your room? I'm sure that's what your mom would want.",17
+SCULLY,So I'm guessing you're a sports fan. Which one's your favorite?,11
+RICHIE LUPONE,"Well, it used to be basketball. But now the Bulls suck, so I think maybe baseball.",16
+SCULLY,"I like baseball, too. Did Henry make this for you?",10
+SCULLY,That's pretty neat.,3
+RICHIE LUPONE,Yeah. He made it for me when I was in the hospital. He said... it's 'cause... everything happens for a reason... only just sometimes it's hard for us to see.,30
+SCULLY,You went to the hospital because of your liver?,9
+RICHIE LUPONE,It doesn't work so good. Police looking for Henry?,9
+SCULLY,Yeah. They just want to talk to him. Do you have any idea where he might have gone?,18
+RICHIE LUPONE,"Mm-mm. Since I got sick, he hardly ever goes out.",10
+MULDER,Boy give you any leads?,5
+SCULLY,He knows nothing.,3
+SCULLY,"Mulder, as to your theory...",5
+MULDER,Mm-hmm?,1
+SCULLY,"Why would the world's most supernaturally lucky man work as a building superintendent? I mean, why doesn't he just run down to the Illinois state lottery, enter, and, you know, he'd win automatically?",33
+HENRY WEEMS,"How you feeling, pal?",4
+RICHIE LUPONE,"I'm okay. The police are looking for you, though. How come?",11
+HENRY WEEMS,"Uh... you know-- you do folks a favor, wire the joint for free cable... don't worry about it. You going to be okay by yourself for a while?",28
+RICHIE LUPONE,Where you going?,3
+HENRY WEEMS,Something I got to do I've been putting off. You get some rest.,13
+SCULLY,That's it?... Got nothing else. Okay. Thank you.,8
+MULDER,"Henry Weems has no police record, I assume?",8
+SCULLY,"He has no record of any kind, Mulder. He doesn't earn enough in a year to file tax returns. He has no savings account, no checking account, no insurance. Doesn't even have a video rental card for that matter. He doesn't even have a driver's license. I mean, it's like he's intentionally stayed off the radar. He's retired from the world.",61
+MULDER,"Ever since December, 1989. When a commuter jet crashed into Lake Michigan carrying 21 passengers. There was one survivor.",19
+SCULLY,Henry.,1
+MULDER,"Yeah. That's how he lost his eye. Snowy night, Christmas rush. He'd been bumped from three previous flights before they finally found a seat for him on that fateful plane. Guess what seat number.",34
+SCULLY,13?,1
+MULDER,On flight seven.,3
+SCULLY,"More good luck, you're saying?",5
+MULDER,"Call it good or bad, but maybe that's where it all started. What if a brand-new Henry Weems was plucked from the wreckage? One whose fortunes had been irrevocably, permanently changed? Before 1989, Henry held down a job for nine years at the train yard but after the accident, as you said it's like he just disappeared off the face of the earth. He severed ties with all his friends and moved out to Melrose Park.",76
+SCULLY,"Mulder, there are millions of reasons for that including survivor's guilt. I mean, what doesn't track for me is why Henry Weems would drop off the map just because he suddenly became incredibly lucky.",34
+MULDER,What doesn't track for me is why he's resurfaced after all these years. Why he's suddenly decided to use his luck in this way.,24
+MAURICE THE CLERK,"All right. Take care of yourself, Brother.",7
+CUSTOMER,Later.,1
+HENRY WEEMS,"Hey, what's the lottery up to?",6
+MAURICE THE CLERK,$28 million.,2
+HENRY WEEMS,I don't need that much.,5
+MAURICE THE CLERK,"You don't need that much. How much do you need, uh, Rockefeller?",12
+HENRY WEEMS,More like 100 grand.,4
+MAURICE THE CLERK,Here goes. One dollar.,4
+PUNK,These suck.,2
+NEWSWOMAN ON TV,Police have confirmed that a Melrose Park building superintendent is wanted for questioning in a case some sources term an unusually vicious gangland slaying.,24
+PUNK,You did it! You won 100 grand!,7
+NEWSWOMAN ON TV,... One source close to the case described it as a clear...,11
+HENRY WEEMS,Where do I collect the money?,6
+MAURICE THE CLERK,"They'll mail it to you. $8,200 a month for 12 months. Yeah!",12
+HENRY WEEMS,That's too long.,3
+HENRY WEEMS,"No, please. I wouldn't do that.",6
+PUNK,"Oh, baby. Oh, sweet baby.",5
+MAURICE THE CLERK,Anything in the trash can is store property.,8
+PUNK,"Yeah, right. In your face.",5
+HENRY WEEMS,"No, just throw it away. Something bad is going to happen.",11
+PUNK,"So long, suckers.",3
+PUNK,"I did it! I won! I won the lottery! 100 grand, fools. 100 grand!",14
+PARAMEDIC,"On three... One, two, three.",5
+SCULLY,"So, let me get this straight. This is the man who initially won the money?",15
+MAURICE THE CLERK,Mm-hmm.,1
+SCULLY,And once you and he ascertained that the accident victim was still alive this man fled on foot?,18
+MAURICE THE CLERK,Mm-hmm.,1
+SCULLY,"Afterwards, the man who was hit by the truck handed you the lottery card, and said...",16
+MAURICE THE CLERK,"""Maurice, I want you to have this.""",7
+SCULLY,"Mm-hmm. Thank you, Mr. Albert. I think that will be all.",11
+MAURICE THE CLERK,Thank you.,2
+SCULLY,For such a fortunate man a lot of unfortunate things happen in Henry Weems' wake.,15
+MULDER,Maybe that's part of the package. Can't have one without the other.,12
+SCULLY,"So, Mulder, Henry Weems came here to buy a lottery ticket. Why?",12
+MULDER,"Maybe it's like you said. Why wouldn't the luckiest man in the world enter the lottery? Actually, that's exactly what you said about an hour after you said it.",29
+SCULLY,"Well, he's not in his place and he's not with Richie. You think he hid in there?",17
+MULDER,"He doesn't ""hide,"" he ""avoids.""",5
+SCULLY,"Pretty damn well, I'd say. That thing must go all over the building, Mulder. I'll start with the roof if you want to start with the basement.",27
+HENRY WEEMS,Hey... hey. Watch the rough stuff.,6
+MULDER,Henry Weems... you're a hard man to track down.,9
+HENRY WEEMS,I'm working here.,3
+MULDER,"Oh? You and I are going to have a talk. Just sit right here and don't move, okay?",18
+HENRY WEEMS,Tough guy.,2
+HENRY WEEMS,"Oh, crap. Not again.",4
+NURSE,Let's get him up to OR 40. Coming through.,9
+HENRY WEEMS,Does it hurt?,3
+MULDER,Stings a bit. But I'll live.,6
+MULDER,"Come over here, Henry. I want to try something.",9
+HENRY WEEMS,What's that about?,3
+SCULLY,I haven't a clue.,4
+MULDER,Nine of clubs. You go.,5
+HENRY WEEMS,What for?,2
+MULDER,I think you know.,4
+MULDER,"Uh, you win. Double or nothing.",6
+MULDER,Whoo-hoo! Tough to beat.,4
+MULDER,You win again.,3
+SCULLY,"Mulder, what does that prove?",5
+MULDER,"It proves that if we played this 10,000 times in a row he would win 10,000 times in a row. He's incapable of losing. How does it feel to be the luckiest man in the universe, Henry?",37
+HENRY WEEMS,It's a nightmare. You have no idea.,7
+MULDER,"No, no, I do, 'cause when you get lucky-- really, really lucky-- people around you tend to suffer. Is that right?",21
+HENRY WEEMS,I think it's a balance thing. Something good happens to me and everybody else has to take it in the keister.,21
+MULDER,"So you've stayed close to home mostly, kept a low profile but recently you've been venturing out a little further. You played poker with those mobsters.",26
+HENRY WEEMS,"I figured they could stand the trimming. Bunch of goombah jerks... They got issues, man.",15
+MULDER,You don't mind so much if a few criminals get hurt but then you went and you played the lottery.,20
+HENRY WEEMS,I knew I shouldn't have done that. I needed the money.,11
+MULDER,For what?,2
+SCULLY,"For Richie, right?",3
+HENRY WEEMS,It's the complications from his hepatitis. He's on every donor list they got. But he's got a rare blood type-- B-negative. And he's C-N.... something.,25
+SCULLY,CMV negative. Cytomegalovirus.,3
+HENRY WEEMS,"There's no way they're going to find a donor in time. There's a treatment program in England. 100 grand gets him in. It's experimental, but it's the best chance he's got now. Am I under arrest?",36
+MULDER,No.,1
+SCULLY,"However, you will need protection from Cutrona and his men.",10
+HENRY WEEMS,I'd say they need protection from me.,7
+SCULLY,"I'm sorry, Mulder. That was utterly irresponsible. You're feeding the delusions of a man who has had three attempts made upon his life. You're supposed to be talking him into protective custody, not out of it.",36
+MULDER,I'd agree with you if I thought his life was in danger.,12
+MULDER,"As it is, he's doing a better job on Cutrona's organization than the FBI. I'm wondering if we shouldn't make him an honorary agent.",24
+SCULLY,"Mulder, you're putting an astounding amount of faith in coincidence and luck. Essentially, you're betting a man's life on it. And even if you believe in so-called lucky streaks you have to know they all eventually end.",37
+SCULLY,"Luckiest man in the world? Hell, Mulder, I just beat him.",11
+SCULLY,Mulder?,1
+MULDER,"Come on, Scully.",3
+MULDER,Henry!,1
+MAGGIE LUPONE,You're supposed to be resting.,5
+RICHIE LUPONE,I am resting.,3
+MAGGIE LUPONE,Playing on the floor doesn't count. Don't you ever get tired of this thing?,14
+RICHIE LUPONE,Henry said it's educational.,4
+MAGGIE LUPONE,"Yeah, well, I don't want you believing everything that Henry says.",11
+MAGGIE LUPONE,Did you know the police are looking for him?,9
+RICHIE LUPONE,Henry said it's no big deal.,6
+MAGGIE LUPONE,When did you see...?,4
+RICHIE LUPONE,"Mom, what's wrong?",3
+MULDER,How's he doing?,3
+SCULLY,"Well, he's got a bruised rib and a black eye. It certainly could have been worse. And don't tell me he just got lucky.",24
+MULDER,Far from it. Maybe what you said about streaks is right. It looks like his has just about run its course.,21
+SCULLY,I don't mean to make light of his misfortune but it may have knocked some sense into his head. He's agreed to testify against Cutrona.,25
+JOE CUTRONA,What?,1
+DOMINIC,Our guy from the justice department just called. They're filing a federal warrant this afternoon. This mook Weems...,18
+JOE CUTRONA,This mook Weems was street pizza last I heard from you.,11
+DOMINIC,"He was. I don't know what it is. Maybe he has some special ability. He's impervious or something. Anyway, we can't get to him. They got cops all over the hospital.",31
+JOE CUTRONA,Who says we have to get to him?,8
+RICHIE LUPONE,"I want the toy Henry made me, Mom. Can you please go get it?",14
+MAGGIE LUPONE,"Uh, sure, honey.",3
+PARAMEDIC,We got to go.,4
+MAGGIE LUPONE,"All right, Richie. I will bring it and I will follow you there. I will meet you at the hospital, okay?",21
+RICHIE LUPONE,Mm.,1
+HENRY WEEMS,Did you find her?,4
+SCULLY,No.,1
+HENRY WEEMS,You know Cutrona took her. He did it to keep me from testifying.,13
+MULDER,"And he's who we're focused on but there's no sign of a kidnapping, there's no ransom note.",17
+HENRY WEEMS,He's too smart for that.,5
+MULDER,Which makes it very hard for us to obtain a search warrant.,12
+SCULLY,"We'll get one, though.",4
+HENRY WEEMS,When? Tomorrow? Next week? Could someone sit with him at least?,11
+MULDER,"Hold up, Henry. Henry, what if what I said before wasn't true? That your luck hasn't changed? Maybe all this is happening for a reason.",25
+HENRY WEEMS,So you're saying that Maggie getting taken is a good thing?,11
+MULDER,"No, I'm saying that what looks like it might be bad luck may not be bad luck, but we can't tell yet. We're not in that position. We can't see the forest for the trees.",35
+MULDER,How is he?,3
+SCULLY,Not good. If we don't find a donor in the next few hours...,13
+MULDER,"Scully, what if everybody that becomes involved in Henry Weems' life somehow becomes an integral part of his luck, including you and I?",23
+SCULLY,"Mulder, you're speaking as if we're all trapped in one of those contraptions that he built.",16
+SCULLY,What are you doing?,4
+MULDER,Looking for Maggie Lupone. Luck is the overreaching force in this investigation. I say we roll with it.,18
+MULDER,"Yeah, let's call that a dry run.",7
+SCULLY,Yeah.,1
+DOMINIC,Look who came calling.,4
+HENRY WEEMS,I wanted to tell you personally that there's no hard feelings. I'm not testifying against you. Just let Maggie Lupone go.,21
+JOE CUTRONA,"""Maggie""? I don't know anybody named Maggie. Do you know anybody named Maggie?",13
+HENRY WEEMS,"Fellas, don't jerk me around.",5
+JOE CUTRONA,"Jerk you around? You tried to cheat me out of a hundred large, you kill Angie, you put Sal in the hospital-- I'm jerking you around?",26
+HENRY WEEMS,"I apologize for my choice of words. Please, just let her go. Her kid's really sick. I don't care what happens to me.",23
+JOE CUTRONA,"You'll care. By the time I'm finished, you'll definitely care.",10
+MAGGIE LUPONE,Henry? Richie-- how is he?,5
+JOE CUTRONA,Not that one. Use the small one.,7
+MAGGIE LUPONE,Hey. Henry...,2
+MAGGIE LUPONE,Don't you hurt him you son of a bitch!,9
+JOE CUTRONA,Shut her up.,3
+MAGGIE LUPONE,Henry!,1
+MULDER,What are the odds for Cutrona being a perfect match? A thousand-to-one? A million-to-one?,14
+SCULLY,Maybe higher. Maybe everything does happen for a reason... whether we see it or not.,15
+MULDER,Maybe your luck is changing.,5
+HENRY WEEMS,Maybe.,1

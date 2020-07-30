@@ -1,0 +1,253 @@
+speaker,line,words
+IRAQI PILOT,"Base, this is patrol six. Request I.D. on object 25 miles from my position bearing three-four-one. IRAQI BASE",18
+IRAQI OFFICER,Negative on object. Are your bearings correct? FIGHTER PLANE,9
+IRAQI PILOT,It was there a second ago. IRAQI BASE,8
+IRAQI OFFICER,You’re under attack! You’re under attack! FIGHTER PLANE,8
+IRAQI PILOT,I’m locked on! I got him!,6
+1ST OFFICER,"Oh, man.",2
+2ND OFFICER,This is Southern Crescent to Red Crescent. We’ve got a downed plane at camp perimeter.,15
+RADIO,"This is Red Crescent, that’s a negative, we have nothing in the sky at this time.",16
+2ND OFFICER,"Well, we’ve got something down here. Advise Medivac unit to be on stand-by, we’re going to check it out.",19
+RADIO,Roger.,1
+RADIO,"Medivac One, Medivac One, this is Red Crescent, vector one reports downed aircraft in their area, over.",17
+MAN ON C.B.,"Breaker, breaker, this is Big Flight, anybody out there with me, come back to me, over.",16
+WOMAN ON C.B.,"I read you loud and clear, this is Betty Blue, come on…",12
+RADIO,"From Opryland, it’s the Grand Old Opry on WSM Radio 650. Brought to you by Goody’s Headache Powder. When the night’s been too long and the party’s been too hardy, Goody’s Headache Powder will straighten you right out. And you have my word on that. Good evening…",47
+C.B. MALE CALLER #1,"I saw it, it was cigar-shaped, red and green lights, fast as hell.",13
+C.B. FEMALE CALLER,I seen three of them flying over Chester County.,9
+C.B. MALE CALLER #2,"Right, right, and six troopers were chasing them down 22! Whoa, I see one now! And he’s over the watertower!",20
+C.B. FEMALE CALLER,"I see him too! Red and green lights, just like you said!",12
+SCULLY,"From the trucker’s description, the shape he fired on could conceivably have been a mountain lion.",16
+MULDER,Conceivably.,1
+SCULLY,The National Weather Service last night reported atmospheric conditions in this area that were possibly conducive to lightning.,18
+MULDER,Possibly.,1
+SCULLY,"It is feasible that the truck was struck by lightning, creating the electrical failure.",14
+MULDER,It’s feasible.,2
+SCULLY,"And you know, there’s a marsh over there. The lights the driver saw may have been swamp gas.",18
+MULDER,Swamp gas?,2
+SCULLY,"It’s a natural phenonemon in which phospine and methane rising from decaying organic matter ignite, creating globes of blue flame.",20
+MULDER,Happens to me when I eat Dodger Dogs. How can a dozen witnesses including a squad of police vehicles in three counties become hysterical over swamp gas?,27
+SCULLY,"Mulder, none of that evidence is conclusive.",7
+MULDER,"The only question for me is, why was the truck driver singled out?",13
+SCULLY,"Isn’t it more plausible that an exhausted truck driver became swept up in the hysteria and fired at hallucinations? I mean, after all, the road can play tricks on you.",30
+MULDER,"Yeah, it can play tricks on you. But not like this. I started these stopwatches at the same time.",19
+RANHEIM,I don’t know why they’re holding me. This “firing a weapon on a county road” charge is a lot of house manure. I’m a vet and I know how to handle a gun.,33
+MULDER,"Mr. Ranheim, I’d appreciate it if you could elaborate on the report you filed last night regarding your encounter.",19
+RANHEIM,Like a saucer and green and orange lights.,8
+MULDER,"Last night, you said it was cigar-shaped and black.",9
+RANHEIM,I didn’t ask for this to happen. All I want to do is deliver my shipment of auto parts and forget…,21
+SCULLY,"Pardon me for asking, but how long have you had that cough?",12
+RANHEIM,Why?,1
+SCULLY,"I’m just concerned, you said you were a veteran.",9
+RANHEIM,What’s that got to do with this?,7
+SCULLY,"The cough, the fever, the rash. Those are all symptoms of Gulf War Syndrome.",14
+RANHEIM,I was never in the Gulf War.,7
+MULDER,"Ok. So, how long have you not been yourself?",9
+RANHEIM,Since the thing last night.,5
+RIVERS,"Mr. Ranheim, I’m Police Chief Rivers. Please, forgive the misunderstanding. Your truck’s squared away. You may go.",17
+MULDER,I’d like to examine the truck.,6
+RIVERS,That won’t be necessary.,4
+MULDER,This man has had an alleged close encounter. The truck undoubtedly contains important trace evidence. Sir! If I may…,19
+RIVERS,You’ve gotten all you’re going to get out of this county. We will no longer cooperate in your investigation.,19
+SCULLY,Why?,1
+RIVERS,Just… go away.,3
+MULDER,Not… not here.,3
+MULDER,It’s obvious someone got to the police chief. Ranheim was hiding something.,12
+SCULLY,Ranheim was sick.,3
+MULDER,He only became sick last night.,6
+WOMAN,"Excuse me, can I use your pen?",7
+SCULLY,"Mm-hmm. What are you suggesting, that Gulf War Syndrome is caused by UFOs?",13
+MULDER,UFOs are frequently witnessed by soldiers during wartime.,8
+WOMAN,Thanks.,1
+SCULLY,"Mulder, the only UFOs people are likely to see are secret military aircraft.",13
+MULDER,What if that’s what made the soldiers in Iraq sick? The exhaust or fuel from a classified aircraft or its weapon.,21
+SCULLY,"Well, there is a base in Little Rock. You think that’s what the Air Force was flying that night?",19
+MULDER,"They’d deny it, but it could possibly explain how Ranheim developed his symptoms.",13
+SCULLY,Possibly.,1
+MULDER,I want to talk to some people when we get back to Washington.,13
+SCULLY,"Mulder, the military isn’t going to talk about classified aircraft.",10
+MULDER,"No, these guys are like an extreme government watchdog group. They publish a magazine called “The Lone Gunman.” Some of their information is first-rate; covert actions, classified weapons. Some of their ideas are downright spooky.",35
+LANGLY,"So, check it out, Mulder, today I had breakfast with the guy who shot John F. Kennedy.",17
+MULDER,Is that so?,3
+LANGLY,"Old dude now, but yeah. Says he was dressed as a cop on the grassy knoll.",16
+BYERS,"And, Mulder, listen to this. Vladmir Zhirinovsky, the leader of the Russian Social Democrats? He’s being put into power by the most heinous and evil force of the 20th century.",30
+MULDER,Barney?,1
+BYERS,The C.I.A.,2
+SCULLY,Hmm.,1
+LANGLY,Is this your skeptical partner?,5
+FROHIKE,She’s hot.,2
+BYERS,"You don’t believe that the C.I.A., threatened by a loss of power and funding because of the collapse of the cold war, wouldn’t dream of having the old enemy back?",30
+SCULLY,"I think you give the government too much credit. I mean, the government can’t control the defecit or manage crime…",20
+LANGLY,Lone Gunman.,2
+SCULLY,…what makes you think they could plan and execute such an elaborate conspiracy?,13
+FROHIKE,She is hot.,3
+MULDER,"Settle down, Frohike.",3
+BYERS,"I’m not talking about the bunch of idiots up on the hill trying to bone the capital pages. We’re talking about a dark network, a government within a government, controlling our every move.",33
+SCULLY,How can they do that?,5
+BYERS,How? I’ll show you how. You got a twenty dollar bill?,11
+SCULLY,Hmmm… I’ll check. Um-hmmm.,4
+LANGLY,Uh-huh… yeah…,2
+SCULLY,Hey!,1
+BYERS,"That’s just one method. They use this magnetic strip to track you. Whenever you go through a metal detector at an airport, they know exactly how much you’re carrying.",29
+MULDER,"Hey, Byers, it is a federal crime to deface money.",10
+SCULLY,This strip is an anti-counterfeiting measure.,6
+LANGLY,How come it’s on the inside? Other countries put that strip on the outside.,14
+BYERS,What are they hiding?,4
+MULDER,"O… o… ok, alright. What do you know about the Gulf War Syndrome?",13
+LANGLY,Agent Orange of the 90’s.,5
+BYERS,Artillery shells coated with depleted uranium.,6
+MULDER,Have you heard of any classified planes being flown during the Persian Gulf War?,14
+BYERS,Why would you need to expose a secret plane to an air force that runs to Iran whenever you take to the air?,23
+MULDER,What about UFO activity during that period?,7
+LANGLY,"Yeah, UFOs caused the Gulf War Syndrome, that’s a good one.",11
+BYERS,"That’s why we like you, Mulder, your ideas are weirder than ours.",12
+SCULLY,Those were the most paranoid people I have ever met. I don’t know how you could think that what they say is even remotely plausible.,25
+MULDER,I think it’s remotely plausible that someone might think you’re hot.,11
+SCULLY,Did you see the way they answered the telephone? They probably think that every call that they get is monitored and they’re followed wherever they go. It’s a form of self-delusion. It makes them think that what they’re doing is important enough that somebody would…,45
+MULDER,What’s the matter?,3
+MULDER,Hello?,1
+DEEP THROAT,Pitchers and catchers report for spring training this week.,9
+MULDER,Yeah. What are we doing here?,6
+DEEP THROAT,"Missed your calling, did you, Mr. Mulder? Ah, maybe this year we can catch a game at Camden Yards. Of course, we wouldn’t be able to sit together.",28
+MULDER,That’s too bad. Something tells me you have the connections to get great seats.,14
+DEEP THROAT,Any park in the country.,5
+MULDER,It’s just a tourist.,4
+DEEP THROAT,"In our line, nothing is just what it seems.",9
+MULDER,"What am I onto? We go down to investigate a truck driver’s encounter with a UFO and the next thing, we’re discovering electronic surveillance equipment. Who’s listening to us? Why won’t you tell me? What am I onto?",38
+DEEP THROAT,A dangerous path.,3
+SUBJECT,Response to Request for Inf -- Contact and Other Related I --,10
+SCULLY,"The truck is bogus. And so’s the truck driver, Ranheim. First I checked his manifest. It listed a truck carrying 180 cartons of auto parts weighing 3,100 pounds. Then I checked with three weigh stations along his route and they have it listed at 5,100 pounds. There’s something in that truck, Mulder, and it’s not auto parts. And of course, nobody ever reported him. Furthermore, Ranheim lied about being in the Gulf War. His real name is Frank Druce – and I worked hard to get this one. He was Special Operations Black Beret in Mosul, northern Iraq. Also, he didn’t get sick from the encounter the other night. He’s been to the V.A. hospital for treatment three times this past year.",122
+MULDER,"We had it. We had it and we let it go. Four days ago, an Iraqi pilot shot down an unidentified flying object. The wreckage, and possibly the occupants, were recovered by the army. Ranheim, the truck driver, would be the perfect escort for the wreckage and/or bodies out of Iraq and into a laboratory in the United States. That would explain why the truck weighs so much more than listed. The military has, in the past, transported dangerous materials and weapons across the country. I’m beginning to sound like those guys at “The Lone Gunman,” right?",97
+SCULLY,Where did you obtain this information?,6
+MULDER,Let’s just say it’s a source with a deep background.,10
+SCULLY,I want to know all about him.,7
+MULDER,All I know is that he’s guided us away from harm.,11
+SCULLY,How do you know that? We work for the Federal Bureau of Investigation and we’re being bugged. What does that tell you?,22
+MULDER,That tells me that not everything is as it appears to be.,12
+SCULLY,"Exactly. And for all we know, this “deep background” is the one responsible for the bug.",16
+MULDER,He’s never lied to me. I won’t break that confidence. I trust him.,13
+SCULLY,"Mulder, you’re the only one I trust.",7
+MULDER,Then you’re gonna have to trust me. Did you find out where the truck is now?,16
+SCULLY,Generally. It’s heading west. Towards Colorado.,6
+MULDER,"Ok, we’ve got to try and intercept it and see what’s on board. I’m gonna go get a few things, I’ll meet you back at your place in an hour, okay?",31
+DEEP THROAT,I cut the main breaker.,5
+MULDER,You risked exposure coming here.,5
+DEEP THROAT,"What I have here is too important. The photograph in that envelope was taken by an officer in Fort Benning, Georgia. 17 UFOs were spotted in one hour.",28
+MULDER,Is that where the Iraqi wreckage is being held? Are UFOs monitoring the area?,14
+DEEP THROAT,Nice place you have here.,5
+MULDER,"Wait, wait. I, I just wanted to take this opportunity to thank you. You’ve helped my work so much and never asked for anything in return. I know you’ve put yourself at great risk to do so.",37
+MULDER,"This is the best photographic evidence I have ever seen. When I first saw the Gulf Breeze photos, I knew they were a hoax but this… this is the quality of evidence the government has amassed for decades at the highest classified levels. That business with the truck was just a decoy to keep anyone from looking closely away from Fort Benning where they are keeping the remains of the Iraqi UFO. We have to leave for Georgia immediately, Scully…",80
+SCULLY,"Mulder, this photograph is a fake.",6
+MULDER,What?,1
+SCULLY,Look. This soldier’s shadow is alledgedly created by the lights from the UFO. But it falls in a direction contradictory to the craft’s position.,24
+MULDER,There can be an off-camera light source creating that shadow.,10
+SCULLY,Now look closely at the color of the light reflected in the windshield. Now that reflection should be from the red lights in the UFO but it doesn’t match the color of the ship’s light.,35
+MULDER,There’s probably a degree of tint in the windshield or the gradation could be attributed to atmospheric conditions.,18
+SCULLY,We should have it analyzed.,5
+MULDER,"Why don’t you just admit it, Scully? You’re determined not to believe him.",13
+SCULLY,"Well, maybe you’re too determined to believe him.",8
+MULDER,I am determined to follow a lead that may result in proof of the existence of extraterrestrial biological entities. I need to go.,23
+SCULLY,"Mulder, listen to me.",4
+MULDER,No.,1
+SCULLY,"Please, will you just hear me? I have never met anyone so passionate and dedicated to a belief as you. It’s so intense that sometimes it’s blinding. But there are others who are watching you, who know what I know and whereas I can respect and admire your passion, they will use it against you. Mulder, the truth is out there but so are lies.",65
+MULDER,Thank you.,2
+MULDER,"I had the photo analyzed by the bureau’s computers. Initially, it appears to be legitimate. The film grain matches, the pattern and density, color levels, shading… then I noticed this. It’s the moon, half full. I had the reflection in this window enlarged to 25. There’s the moon again, a quarter full. Not to mention the fact that the window couldn’t even catch the moon’s reflection from that angle. You were right, Scully. It’s a fake. He tried to decieve us. Now we’re alone on this. There’s no one we can trust. They went to a lot of trouble to put us on the wrong track. There’s something here that no one’s supposed to find.",115
+DEEP THROAT,Why didn’t you leave for Fort Benning?,7
+MULDER,The photograph was a fake. At least you’re not insulting me further by feigning appaled surprise.,16
+DEEP THROAT,"On the contrary, I think a compliment is in order. That photo was performed by our very best.",18
+MULDER,I thought you were my ally.,6
+DEEP THROAT,"Oh, I am.",3
+MULDER,"Yeah, imagine if Eisenhower told the rest of the Allies that D-Day would take place in Belgium.",17
+DEEP THROAT,"Mr. Mulder, I place my life in great jeopardy every time we speak. I’ve been a participant in some of the most insidious lies and witness to deeds that no crazed man could imagine. I spent years watching you from my, uh, lofty position to know that you were the one I could trust.",54
+MULDER,Then why did you lie to me?,7
+DEEP THROAT,"I needed to divert you. You and Scully are excellent investigators and your motives are just. However, there are still some secrets that should remain secret – some truths that people are just not ready to know.",37
+MULDER,Who are you to decide that for me?,8
+DEEP THROAT,The world’s reaction to such knowledge would be far too dangerous.,11
+MULDER,"Dangerous. You mean in a sense of outrage like the reaction to the Kennedy assassinations or M.I.A.s or radiation experiments on terminal patients, Watergate, Iran-Contra, Roswell, the Tuskegee experiments, where will it end? Oh, I guess it won’t end as long as… men like you decide what is truth. That transcript you gave me of the Iraqi pilot, that was the truth, wasn’t it?",64
+DEEP THROAT,Hmmmp.,1
+MULDER,Why’d you even bother to show it to me?,9
+DEEP THROAT,"Well, I knew that you were onto the truck so I knew that down the road I would have to steer you away. That I would have to lie to you. And a lie, Mr. Mulder, is most convincingly hidden between two truths. Mulder. When a shark stops swimming, it will die. Don’t stop swimming. I’m not responsible for the electronic surveillance but I do know they can still hear you.",71
+SCULLY,Mulder? Are you home?,4
+MULDER,"Hey, Scully, glad you could drop by.",7
+SCULLY,Mul…,1
+MULDER,"I been thinking about this whole situation, y’know? And I think you’re right. I think we won this one, I think we should just move on.",26
+SCULLY,"I think this time you’re right, Mulder.",7
+MAN,Taxi!,1
+WOMAN,"Here you are, Ms. Scully, your round-trip ticket to Chicago. And your credit card, and the plane departs at Gate 35.",21
+SCULLY,"I’d also like a one-way ticket to Los Angeles with a stop at Las Vegas, and I’ll be paying cash.",20
+MULDER,"Called every weigh station and bureau office west of Colorado. Tied up an airphone for three hours. I don’t speak Japanese, but I think some businessman told me to stick a piece of sushi where the sun don’t shine.",39
+SCULLY,My ear’s numb from being on hold for so many hours.,11
+MULDER,At least we can be sure they didn’t trace our call. I couldn’t find the truck. Did you have any luck?,21
+SCULLY,Yep. It’s heading northwest on I-90.,6
+MULDER,"Y’know, think about it. This truck drove across America. People it passed on the road probably thought it was hauling auto parts or furniture. Y’know, livestock, whatever. Nobody would have suspected it was hauling a craft from another world.",39
+SCULLY,"Here we go. Mulder, we’ve been following this truck for hours. Maybe he knows we’re following him, and he’s taking an evasive route.",23
+MULDER,"Well, if that were the case…",6
+MULDER,You all right?,3
+SCULLY,Yeah.,1
+MULDER,Come on.,2
+SCULLY,Ranheim? Ranheim?,2
+MULDER,Scully?,1
+SCULLY,Oh my God.,3
+MULDER,It was an extraterrestrial biological entity… alive.,7
+SCULLY,Where’d it go?,3
+MULDER,I think we were just witness to a rescue mission.,10
+SCULLY,"God, Mulder, I can’t stop shaking. What we just saw – did it fit the profile?",16
+MULDER,"Are you asking me if it was real? Did we just have a close encounter? No, it was another hoax.",20
+SCULLY,But how could anyone generate such force?,7
+MULDER,"Whatever they used, we probably haven’t heard of it. Sound weapons, stealth helicopters with an ultra-intensity light. It doesn’t matter, there’s no evidence that this was a UFO.",28
+SCULLY,"So they created this elaborate show just to deflect us again. I mean, wouldn’t it have been easier just for them to –",23
+MULDER,"Just to kill us? Yeah, I wondered that myself. Maybe they’re using me against myself like you said before. That I want to believe so badly that I’d just accept the obvious conclusions and walk away.",36
+SCULLY,Now we have nothing to go on. No one to turn to.,12
+MULDER,There’s still one person in all this who hasn’t lied to us. But it’s not quite someone we can turn to.,21
+MULDER,"Leverling and Priest Rapids? East bank of the Columbia River? Did you send a field investigator? And you can substantiate the sighting? Ok, Nick, thanks a lot. I’ve contacted several organizations that have hotlines for UFO reports. Center of UFO Studies in Chicago, MUFON, NICAP… none of them have ever reported a week of such activity. It began in Tennessee where Ranheim was encountered.",64
+SCULLY,The sightings are following the path of the truck.,9
+MULDER,"And after last night’s hoax… look at this. Seven sightings in Mattawa, Washington. That’s 100 miles away.",17
+SCULLY,Aliens?,1
+MULDER,Looks like they want their colleague back.,7
+SCULLY,We’ve driven full circle through Mattawa twice. There’s nothing here.,10
+MULDER,What’s over there?,3
+GUY IN ALIEN SUIT,We have been waiting! Welcome to our home! We are willing to go with you!,15
+MAN,"Ahh-doo-nay-va-so barahghas. That’s an intergalactic space greeting. That means, “hello, space brothers.”",12
+MULDER,Hello.,1
+SCULLY,What’s going on here?,4
+MAN,A UFO party.,3
+MULDER,You’ve seen UFOs?,3
+MAN,The last two nights. They’re drawn to our electric power. They hover over our power plant down there.,18
+GUY IN ALIEN SUIT,Everyone! They are here! Space brothers!,6
+COP,Alright. Back it up.,4
+MULDER,This is it. There’s Ranheim.,5
+SCULLY,This place has got to have the highest level of security.,11
+MULDER,Just the kind of challenge they’re looking for.,8
+SCULLY,Who?,1
+LANGLY,Lone Gunman.,2
+MULDER,It’s Mulder. Turn the tape recorder off.,7
+LANGLY,"Ok, it’s off.",3
+MULDER,Turn it off!,3
+LANGLY,It’s off already.,3
+MULDER,"How would you like to have, on your front page, the first substantiated photo of an extraterrestrial biological entity?",19
+LANGLY,"No way, an E.B.E.? What do we have to do?",10
+MULDER,Just hack me some identification numbers.,6
+MULDER,Braidwood and Stefoff.,3
+MAN,Personal identification number?,3
+MULDER,7-5-9-3.,1
+SCULLY,5-3-1-1.,1
+MAN,"Open the trunk, please. Park in Lot 4.",8
+MULDER,Thanks.,1
+MAN,"Hey, wait! Display these at all times. Proceed.",8
+MULDER,"Langly said he couldn’t get into Level 6, so that’s where we… “LEVEL 6 CLEARANCE AA ACCESS ONLY” They keep walking until they get to a pair of double doors. They stop.)",32
+MULDER,"We have to go back, we have to go through that door.",12
+SCULLY,We’re gonna look suspicious going back.,6
+MULDER,"Well, we’ll have to find another access, then. Come on.",10
+SCULLY,"Mulder, they’re not going to let us.",7
+SECURITY GUARD,"You folks come with me, please?",6
+MULDER,"Yeah, we’re lost, we’re just looking for, we’re trying to…",10
+SECURITY GUARD,Just proceed down the hallway.,5
+MULDER,"Yeah, if you could help us…",6
+SCULLY,"Mulder, stop. We’re agents with the Federal Bureau of Investigation. I’m reaching for my ID. We’re here conducting an investigation.",20
+SECURITY GUARD,"Proceed down the hallway, please. This is Level Two to Level Six. I have a male and a female who have identified themselves…",23
+SCULLY,"Mulder, no!",2
+SECURITY GUARD,"Hey, stop! He took the stairs! Go, go, go!",9
+NO ENTRY UNLESS,1. Accompanied By a Staff Member Of High Voltage Research. Or 2. Written Permission Obtained From Security Level 6” The security guards are close behind.),25
+SECURITY GUARD #2,C’mon guys! Stay armed and loaded! Hold it! I said hold it! Halt!,13
+DEEP THROAT,"Let him go. Let him go! You’ve done well. You’re dismissed. I know how badly, how… very badly you want to look through that window… But it would be pointless. It’s dead. After the Roswell incident in 1947, even at the brink of the Cold War, there was an ultrasecret conference attended by the United States, the Soviet Union, the People’s Republic of China, Britain, both Germanies, France and it was agreed that should any extraterrestrial biological entity survive a crash, the country that held that being would be responsible for it’s extermination. I, uh… have the distinction of being one of three men to have exterminated such a creature. I was with the C.I.A. in Vietnam. A UFO was sighted for five nights over Hanoi. The marines shot hit down and brought it to us. Maybe… it didn’t know what a gun was or perhaps they don’t show emotion but that… innocent and blank expression as I pulled the trigger has haunted me… until I found you. That’s why I come to you, Mr. Mulder, and will continue to come to you to atone for what I’ve done. And maybe sometime, through you, the truth will be known. You’re awfully quiet, Mr. Mulder.",204
+MULDER,I’m wondering which lie to believe.,6

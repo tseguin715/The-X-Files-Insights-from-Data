@@ -1,0 +1,324 @@
+speaker,line,words
+MULDER,"Can you help me? I'm looking for a woman... Excuse me, I'm looking for a Dana Scully who was brought into... Excuse me, I'm looking for a patient, Dana Scully... Is there an admitting nurse here? Look! Can someone help me here?",42
+INTERN,"Look, Sir. You're going to have to calm down.",9
+MULDER,I will calm down when someone gives me a reason to calm down. Now I'm looking for a patient who was admitted to the ER!,25
+INTERN,Dana Scully.,2
+MULDER,Yes.,1
+INTERN,I heard you the first time.,6
+MULDER,"Well, where is she?",4
+INTERN,I have her in the ICU.,6
+MULDER,Where is that?,3
+INTERN,You have to tell me who you are first.,9
+MULDER,Where is she?,3
+SKINNER,Agent Mulder... Where you going?,5
+MULDER,ICU.,1
+SKINNER,You're looking pretty good for a dead man.,8
+MULDER,I'm only half dead.,4
+SKINNER,"You have a lot to answer for, Agent Mulder! You guys hold here.",13
+MULDER,What happened to her?,4
+SKINNER,She went into hypo vilemic shock.,6
+MULDER,Due to what? Do to what?!,6
+SKINNER,She's dying! Let's go.,4
+MULDER,Let go of me.,4
+SKINNER,There's nothing you can do.,5
+MULDER,Get the hell off of me!,6
+SKINNER,Don't do this! Don't!,4
+BLEVINS,"I'm still at a loss here in going forward. This situation developing unexpectantly during a formal inquiry into your reported death, Agent Mulder. The fact of your being here today, very much alive it gives the effect of reshaping this investigation into something all together different. As we're not put upon to verify the identity of this body found in your apartment and the circumstances which led to this.",69
+SENIOR AGENT,Would you care to enlighten us on these circumstances?,9
+MULDER,Are you suggesting that I can?,6
+BLEVINS,"Agent Mulder, we are here informally to give you the chance to help yourself.",14
+MULDER,"Help myself, how?",3
+SENIOR AGENT,By allowing any fact or details which might serve to let us go forward with this inquiry in a more informed manner.,22
+MULDER,"That helps you, how doesn't that help me?",8
+BLEVINS,"Agent Mulder, this is going to quickly become a murder investigation. Criminal charges are going to be made.",18
+SKINNER,We have only one other suspect. But she may no longer be able to testify on her own behalf.,19
+BLEVINS,Agent Scully lied to us. Why?,6
+SENIOR AGENT,"Who's protecting whom, Agent Mulder?",5
+BLEVINS,"Your choice is your own, but your failure to answer these questions will reflect poorly on the record of the formal inquiry.",22
+MULDER,Are we finished then?,4
+SKINNER,"Word of advice from a friend, keep playing it the way you are.",13
+MULDER,"Thanks, buddy.",2
+SKINNER,"Hey, right now, you need a buddy, you need all the help you can get.",15
+MULDER,You should have mentioned that at the hospital when you were hauling my ass off!,15
+SKINNER,"Hey, I saved your ass, Agent Mulder! I've been withholding forensic evidence about the body found on your apartment floor. Until you showed up last night, I was the one keeping your secret, I had no choice but to bring you in. Scully'll verify all that.",46
+MULDER,"That's a good place to lay it, considering her condition.",10
+SKINNER,"You want me to lay it where it belongs, Agent Mulder? Pathology turned up two gunshot wounds to the dead man in your apartment. One fired point-blank through the left temple with a handgun, the second a post-mortem wound to the face to remove the man's identity. Now, I'd be happy to verify the ballistics on that first shot.",59
+MULDER,How can you help me?,5
+SKINNER,Tell me why Scully lied for you.,7
+MULDER,"The disease she has was given to her by somebody connected to the FBI, to a mole working here.",19
+SKINNER,Who?,1
+MULDER,"I failed to find that out, sir.",7
+SKINNER,"You don't want to forget who your friends are, Agent Mulder. To remember who you can trust.",17
+MAN ON TV,"I don't think there are any appropriate limits to human knowledge. As long as science is done openly, and with free will, then I don't think there are any limits.",30
+CHAIRMAN,Senator Kennedy...,2
+KENNEDY,Doctor... you've ah... stated that the ah... cloning humans would be ah... ill considered and technically ah... difficult to accomplish. Can you expand a little bit on what you see as the biggest ah... technical obstacle to human cloning.,39
+CSM,I trust you've heard.,4
+ELDER,Mulder is alive.,3
+CSM,"As I said, he's not to be underestimated.",8
+ELDER,"Yes, as you said. Though I hear he has you to thank in some part for his new freedom.",19
+CSM,"Using a stolen ID, Mulder was able to get inside the Advanced Research Project Facility.",15
+ELDER,And you allowed him to escape.,6
+CSM,Yes.,1
+ELDER,"We're too vulnerable. Our man in the FBI is exposed, what Mulder may have seen could expose our plans.",19
+CSM,"What Mulder's seen only serves us. Serves to ensure our plans. Mulder's in trouble, he needs help, and we can give it to him.",24
+ELDER,In exchange for?,3
+CSM,"His new loyalty. To us. As I've said all along, Mulder's much more valuable to us alive.",17
+ELDER,You can proceed now.,4
+SCULLY,"Mulder, what are you doing here?",6
+MULDER,"I heard you were being moved out of the ICU, that you were feeling better.",15
+SCULLY,"Mulder, somebody's going to see you here.",7
+MULDER,It's okay. I'm officially among the undead.,7
+SCULLY,What happened?,2
+MULDER,I did not come here to talk about that.,9
+SCULLY,"Mulder, don't try and protect me. I need to know.",10
+MULDER,"Well, there's not much to talk about anyway, I'm going to testify to everything I know in front of the FBI assembly. The conspiracy, the men behind it, what I believe is its purpose.",34
+SCULLY,Did you find out who in the FBI is involved?,10
+MULDER,No. But that doesn't matter now.,6
+SCULLY,Yes it does.,3
+MULDER,"Hey, Scully, how about those Yankees, huh?",7
+SCULLY,"Mulder, Skinner has evidence against you. He knows that you killed that man they found in your apartment.",18
+MULDER,"Yeah, Skinner's withholding it.",4
+SCULLY,"Mulder, Skinner's dirty. He's not your friend. I'm almost certain that he's the man inside on this.",17
+MULDER,I don't believe that.,4
+SCULLY,"If you testify, he will use it to ruin you.",10
+MULDER,"No, not Skinner.",3
+SCULLY,"He's been in a position to know everything from the beginning, everything that we've done over the past four years.",20
+MULDER,But if I don't testify now they'll start to bury the truth.,12
+SCULLY,"Well then, you have to lay it on me. You have to tell them that I was the one who killed that man.",23
+MULDER,I can.... I can't do that.,6
+SCULLY,"Yes, you can. Mulder, if I can save you, let me. Let me at least give some meaning to what's happened to me.",23
+MRS SCULLY,Dana?,1
+SCULLY,"Hi, Mom.",2
+MULDER,"Hi, Mrs. Scully.",3
+MRS. SCULLY,I hope I'm not interrupting...,5
+MULDER,"No. I was just on my way out. Hi, I'm Fox Mulder, I don't think we've ever met.",18
+BILL,Bill Scully.,2
+MULDER,I'm sorry about your sister.,5
+BILL,Mr. Mulder?,2
+MULDER,Yeah?,1
+BILL,"I know something about you, about what Dana's been through with you, so let's leave the work away from here, okay? Let her die with dignity.",26
+MULDER,Please tell me you're here with severe chest pains.,9
+CSM,"You should be glad for why I'm here, pay you some respect.",12
+MULDER,Go to hell.,3
+CSM,"For your cleverness, and your resource, what you managed to do for Scully.",13
+MULDER,What are you talking about?,5
+CSM,"Well, breaching the security at the Defense Department Facility. Finding the cure for her disease.",15
+MULDER,What I found was useless.,5
+CSM,"On the contrary, it's essential to her survival. If you like, we could step outside and I might explain myself? I'm here tonight as a friend, Agent Mulder.",28
+MULDER,He promised me it would be in here.,8
+BYERS,I'll be damned. It never occurred to me what the deionized water might be for.,15
+LANGLEY,It was a microchip we were looking for.,8
+FROHIKE,This is a cure for cancer?,6
+MULDER,It may be for Scully's.,5
+BYERS,How?,1
+MULDER,Shortly after she was abducted she discovered a small metallic chip implanted subcutaneously in your neck... It was a short time after she had it removed that she developed cancer.,30
+BYERS,It's unreal.,2
+FROHIKE,Too freakin' amazing!,3
+MULDER,"Watch your language, Frohike, and grab me some tweezers.",9
+BLEVINS,"Mr. Kritschgau, thank you for being here today and for cooperating with this investigation. We hope you can provide information that will allow us to make formal charges for the murder of Defense employee, Scott Ostlehoff. Mr. Kritschgau, we have learned that you were in contact with Agents Mulder and Scully just prior to this man's death.",57
+KRITSCHGAU,That's correct.,2
+BLEVINS,And that you may have given them classified information... What motivated this?,12
+KRITSCHGAU,My knowledge of government involvement in a conspiracy against the American people.,12
+SENIOR AGENT,"Now before... before we go into any specifics on the subject, I'd like to ask you a more pointed question. Do you know who killed Scott Ostlehoff?",27
+KRITSCHGAU,No I don't.,3
+SENIOR AGENT,Do you know of any connection between his death and Agents Mulder or Scully?,14
+KRITSCHGAU,No. I'm aware of one death in connection though... My son who died early this morning.,16
+SENIOR AGENT,"Mr. Kritschgau, you're employed by the Department of Defense. Is that correct?",12
+KRITSCHGAU,Technically. Part of my remuneration has come from another source. A Congressional lobbying firm. Something called 'Roush'.,17
+SKINNER,Roush? You have any idea what that is?,8
+KRITSCHGAU,"No, sir.",2
+BILL,Crazy. This is crazy.,4
+MULDER,Crazy in what sense? In that it might save your sister's life?,12
+BILL,You're not a doctor. You have no place in even suggesting this .. this science fiction...this,15
+MULDER,This is not science fiction.,5
+BILL,You've never heard of it!,5
+MRS SCULLY,Bill... I think there's an obvious... difference of opinion.,9
+BILL,Yeah.,1
+SCULLY,I think... that everybody here has their heart in the right place. But I need it to be my decision.,20
+BILL,Dana...,1
+SCULLY,"I know you're only looking out for me, Bill. But I don't think you have all the facts.",18
+MRS SCULLY,Don't you think you should listen to your doctor?,9
+SCULLY,Yes. I am.,3
+MULDER,Would she have to stop her conventional treatment?,8
+DOCTOR,"To be honest, at this point... the only approach I have left... with her particular cancer is quite unconventional.",19
+SCULLY,I'd like to try this.,5
+BILL,"MULDER: Yes, I do.",4
+BILL,"You see, she's your big defender, but I think the truth is, she just doesn't want to disappoint you.",19
+MULDER,"If it works, I don't care what you think she thinks.",11
+BILL,"You're a real piece of work, you know that, Mr. Mulder.",11
+MULDER,"Why is that, because I don't think the way you think? Because I won't just sit passively back and watch the family tragedy unfold?",24
+BILL,"You're the reason for it. And I've already lost one sister to this quest you're on, now I'm losing another. Has it been worth it? To you, I mean, have you found what you've been looking for?",37
+MULDER,No...,1
+BILL,No. You know how that makes me feel?,8
+MULDER,"In a way, I think I do. I lost someone very close to me. I lost a sister, I lost my father, all because of this thing I'm looking for.",30
+BILL,MULDER: Yeah. Little green aliens.,5
+BILL,You're one sorry son of a bitch. Not a whole lot more to say.,14
+MULDER,One sorry son of a bitch speaking.,7
+CSM,"How's our patient? You did find the chip, didn't you Agent Mulder?",12
+MULDER,Yes.,1
+CSM,I can imagine there must have been a question as to it's medical value.,14
+MULDER,There still is.,3
+CSM,And so I have yet to earn your trust... in spite of my gesture.,14
+MULDER,"You could say that, yeah.",5
+CSM,"Well I have something else to offer you. I've arranged a meeting I think you'll want to attend, Mr. Mulder.",20
+WAITRESS,Tabasco sauce. Cures anything.,4
+MULDER,I'll keep that in mind.,5
+WAITRESS,You know him or something?,5
+MULDER,I think that's my sister. Samantha?,6
+SAMANTHA,I was afraid I'd never see you again. He always told me something had happened to you that night.,19
+MULDER,Who? Who told you that?,5
+SAMANTHA,My father.,2
+SAMANTHA,"I never really knew what happened. I could never put the memories all back together. But, as much as I tried to remember, I tried more to forget.",28
+MULDER,Why?,1
+SAMANTHA,"I was 8 years old, and frightened to death. And they told me that I was an orphan.",18
+MULDER,But you called that man your father?,7
+SAMANTHA,"Some time later, I don't know how long, my foster parents took me to a hotel room and said that I was gonna see my father.",26
+MULDER,But you knew who your father was?,7
+SAMANTHA,"I thought I knew. But, he told me that it had all been a secret, and that he and Mom hadn't told anyone to protect the family.",27
+MULDER,And you believed that.,4
+SAMANTHA,"He was so kind to me, and he was the only one I could remember from before what happened.",19
+MULDER,You don't remember anything about that night?,7
+SAMANTHA,I remember... you... I remember something... men and... and then nothing.,11
+MULDER,"I can help you. You were abducted, Samantha, I can help you to remember.",14
+SAMANTHA,"I don't want to, Fox. I don't.",7
+MULDER,Then why come here at all?,6
+SAMANTHA,"My father told me that he'd found you, you wanted to see me very badly, that you'd been looking for me for a long time. Is that true? I'm so sorry, Fox. And I wish that I'd known how to find you.",42
+MULDER,"What you've been told... I want you to listen to me, okay? What you've been told by that man may not be true.",23
+SAMANTHA,Why do you say that?,5
+MULDER,Because the man that brought you here has known where I've been for a very long time.,17
+SAMANTHA,I don't understand. Why wouldn't he tell me?,8
+MULDER,"I don't know, but I think he's kept a lot of things from you.",14
+SAMANTHA,I don't believe you. He's been a good father to me. He's given me a life and he cared for me when there was no one else.,27
+MULDER,"Then I want you to come with me, come with me to see Mom.",14
+SAMANTHA,Mom is alive?,3
+MULDER,Yes. And I know she'd like to see you very much.,11
+SAMANTHA,I can't.,2
+MULDER,Why not?,2
+SAMANTHA,"It's too much. I didn't want to come here at all, Fox. I was afraid to see you. I have another life now, I have children of my own.",29
+MULDER,"No, please, don't go.",4
+SAMANTHA,I can't stay here right now.,6
+MULDER,"Alright, just tell me how I can find you.",9
+SAMANTHA,I need some time.,4
+MULDER,Just... just tell me where to find you.,8
+SAMANTHA,"Please don't, Fox!",3
+MULDER,"We will do this on your time, just...",8
+SAMANTHA,"Please? Please let me go. I promise you, I'll think about it.",12
+DOCTOR,Doing okay?,2
+SCULLY,Um... either it's my head or I'm a long way from med school but I can't remember what you're injecting me with.,22
+DOCTOR,"Flouro-dioxy-glucose. If you're making any progress, it might show up first in the PET scan.",15
+SCULLY,You're not holding your breath are you?,7
+DOCTOR,"I'm going after your cancer as aggressively as I know how, Dana. If I could just start your immune system... If I could get your cidalitic cells to recognize your tumor as something to attack... Then there's a chance.",39
+SCULLY,"Have you ever witnessed a miracle, Dr. Zuckerman?",8
+DOCTOR,"I don't know that I have. But I have seen people make recoveries. Come back from so far back, I can't explain it.",23
+SCULLY,Isn't that a miracle?,4
+DOCTOR,Maybe there are miracles... But I don't dare call them that.,11
+SCULLY,Thank you.,2
+CSM,My apologies for the rather hasty departure last night.,9
+MULDER,What do you want from me?,6
+CSM,Want from you?,3
+MULDER,"You give me these things, the only things I ever wanted and I can't think of any reason for you to do so.",23
+CSM,"Well that's true, no act is completely selfless. But I've come today not to... not to ask, but to offer. To offer you the truth that you've so desperately sought. About the project, about the men who've conspired to protect it.",41
+MULDER,I know the truth.,4
+CSM,Do you?,2
+MULDER,I spoke to one of your men.,7
+CSM,And you know that he's not a liar.,8
+MULDER,"I've seen enough to know he's not a liar, yeah.",10
+CSM,He's seen but scant pieces of the whole.,8
+MULDER,What more can you show me?,6
+CSM,"This man you spoke to, Michael Kritschgau, he has deceived you with beautiful lies. He's told you that everything you've ever believed about the existence of extraterrestrial life is untrue.",30
+MULDER,What are you saying?,4
+CSM,"As I said, I'm offering you a chance to know the truth.",12
+MULDER,In exchange for what?,4
+CSM,"Quit the FBI, come work for me. I can make your problems go away.",14
+MULDER,No deal.,2
+CSM,After all I've given you?,5
+MULDER,"What have... what have you given me? A claim of a cure for Scully, is she cured? You show me my sister only to take her right back. You've given me nothing!",32
+CSM,"I intend to keep my promises, I just need something from you.",12
+MULDER,"You murdered my father, you killed Scully's sister, and if Scully dies, I will kill you. I don't care whose father you are, I will put you down.",28
+CSM,"Well, you're certainly capable, so I've been told. I understand you have a hearing tomorrow where you'll have to testify to these murderous impulses of yours. When you reconsider, the offer still stands!",33
+MRS SCULLY,Dana? Dr. Zuckerman called. He ah... he said that you wanted to see me?,14
+SCULLY,I'm so sorry... I fight and I fight and I fight... But I'm so stupid.,15
+MRS SCULLY,What? What is it?,4
+SCULLY,"I've come so far in my life on simple faith, and now when I need it the most I just push it away. I mean, why... why do I wear this? Why do I wear this, Mom? I put something that I don't even know or understand under the skin of my neck. I will subject myself to these crazy treatments, and I keep telling myself that I'm doing everything I can, but it's a lie!",76
+MRS SCULLY,"You have not lost your faith, Dana.",7
+SCULLY,But I have. In a way. And when you asked Father McCue to dinner to administer to my faith... I just closed off to him.,25
+MRS SCULLY,What's important now is that you save your energy.,9
+SCULLY,"I'm not getting better, Mom.",5
+MRS SCULLY,You don't know that...,4
+SCULLY,Yeah. The PET scan shows no improvement.,7
+MRS SCULLY,"I know you're afraid... I know your afraid to tell me, but you have to tell someone.",17
+MAN ON TV,I'll make a statement right here. Cloning will continue. The human mind will continue to inquire into this. Human cloning will take place in my lifetime. I think it's right and proper.,32
+ELDER,Turn on your television. Are you watching the hearings? Do you see who's there? He's gathering information. For who? Our colleague was supposed to have fixed the FBI problem. You will fix it now. Do you understand me? Then I will fix it for good.,45
+BLEVINS,"Agent Mulder, will you please take a seat. Something urgently important has come to the fore. As you're set to testify on your own behalf later today, I've received alarming forensic evidence from the man's body found in your apartment. I have here in my hand ballistic data matching your service weapon, Agent Mulder.",54
+MULDER,Where did you get that?,5
+BLEVINS,"I'm not at liberty to say. But unless you can offer up someone else who might have fired the kill shot, everything points to you as this man's murderer. Are you prepared to give testimony about the man who fired the shot?",42
+MULDER,Why am I here?,4
+BLEVINS,"The man worked for the Department of Defense, Agent Mulder.",10
+MULDER,The man was spying on me.,6
+BLEVINS,"Do you know for whom? Agent Scully was prepared to name the man at the FBI who was involved in this plot against you and her. We believe she was about to name Assistant Director Skinner, whom we have learned has been working inside the FBI with a secret agenda.",50
+MULDER,I refuse to believe that.,5
+BLEVINS,We've accumulated some substantial evidence against him.,7
+MULDER,Can you show it to me?,6
+BLEVINS,"Agent Mulder, if you name this man today in your testimony... we can file charges against him. Charges which may very well exonerate you.",24
+MULDER,Name Skinner and save myself?,5
+BLEVINS,That's what I called you here to recommend. As a friend.,11
+MULDER,I'll see you at the hearing.,6
+MULDER,Good morning.,2
+SCULLY,What are you doing here? You have a hearing.,9
+MULDER,"Yeah. I came by last night, but I... I didn't have the heart to wake you.",16
+SCULLY,"Came by for what? Mulder, what is it?",8
+MULDER,"I was lost last night. But as I stood here, I thought I'd found my way. I've been... ah .. I've been offered a deal, a deal that could save my life in a way. And though I'd refused the deal earlier, I left here last night with my mind made up to take it.",54
+SCULLY,A deal with who?,4
+MULDER,"It doesn't matter, I'm not taking the deal, I'm not taking any deal. Not after what happened this morning.",19
+SCULLY,What happened this morning?,4
+MULDER,"Section Chief Blevins directed me to implicate Skinner. To name him as the man inside in the FBI. Who may have deceived us both. And if I name him, they'll protect me.",32
+SCULLY,Are you going to name him?,6
+MULDER,No.,1
+SCULLY,Then they'll prosecute you.,4
+MULDER,"Yeah, they have evidence against me, they know I killed that man.",12
+SCULLY,"Mulder, even with the ballistics evidence, I can still be the shoot...",12
+MULDER,"Scully, I can't let you take the blame. Because of your brother, because of your mother, and because I couldn't live with it. To live the lie, you have to believe it. Like these men who deceive us, who gave you this disease. We all have our faith, and mine is in the truth.",54
+SCULLY,Then why'd you come here if you'd already made up your mind?,12
+MULDER,Because I knew you'd talk me out of it if I was making a mistake.,15
+SCULLY,You'll be in my prayers.,5
+MULDER,"Have the Father say a few Hail Mulders for me, okay?",11
+SENIOR AGENT,He's a no show. I'm going to ask for a bench warrant.,12
+MULDER,Sorry I'm late.,3
+BLEVINS,"Agent Mulder... the assembled members of this review panel first convened to address your reported death. Only to find shortly that this report had been a lie. That you were indeed very much alive... and that the body found in your apartment, believed to be yours was a murder victim. Killed with a weapon issued by the FBI and registered to you.",62
+MULDER,"Respectfully, Sir. I've come here today to set the record straight so that this process you've begun came be completed and the guilty parties can be named.",27
+SKINNER,"Respectfully, Sir. I'd like to ask for a short break.",10
+MULDER,I'm... ready to proceed please sir.,6
+BLEVINS,"Go on, Agent Mulder.",4
+MULDER,"Four years ago, while working on an assignment outside the FBI mainstream, I was paired with Special Agent Dana Scully, who I believed was sent to spy on me. To debunk my investigations into the paranormal. That Agent Scully did not follow these orders is a testament to her integrity as an investigator, a scientist, and a human being. She has paid dearly for this integrity.",66
+BLEVINS,"Agent Mulder, Agent Scully lied straight face to this panel about your death.",13
+MULDER,She did lied because I asked her to. Because I had evidence of a conspiracy. A conspiracy against the American people.,21
+SENIOR AGENT,"We've already heard testimony to these allegations, Agent Mulder.",9
+MULDER,"AND a conspiracy intended to destroy the lives of those who would reveal it's true purpose. To conduct experiments on unwitting victims to further their secret agenda for someone further into the government operating at levels without restraint or responsibility. Without morals or conscience... Men who pretend to honor as they deceive.. The price of this betrayal, the lives and reputations of those deceived. Agent Scully... is now in a hospital bed right now diagnosed with terminal cancer. The victim of these same tests. Conducted without her knowledge or consent. By these same men who are trying to cover their tracks who suborn and persecute the same people they've used in their plot I will now call by name!",119
+SENIOR AGENT,"Agent Mulder, did you or did you not shoot the man found dead in your apartment?",16
+MULDER,I will answer Sir.,4
+SENIOR AGENT,Did you shoot Scott Ostlehoff? Employee of the Department of Defense?,11
+MULDER,"I will answer that question, Sir.",6
+SENIOR AGENT,"Answer the question asked, Agent Mulder!",6
+MULDER,I will answer the question after I name the man!,10
+SENIOR AGENT,AGENT MULDER!,2
+MULDER,I will answer that question after I name the man who's responsible for Agent Scully! The same man who directed that my apartment be surveilled by the DoD. A man I want to see prosecuted for his crimes! Who's sitting in this very room as I speak!,47
+SENIOR AGENT,"Agent Mulder, the Section Chief asked you a question you are going to answer!",14
+MULDER,I can't do that.,4
+SENIOR AGENT,You can and you will!,5
+MULDER,"I can't do that sir, because the Section Chief is the man I'm about to name!",16
+SKINNER,The Smoking Man's dead.,4
+MULDER,How?,1
+SKINNER,Shot through his window. Forensics found it at the scene. We're assuming it's his blood.,15
+MULDER,Assuming?,1
+SKINNER,Well... no body was found but there was too much blood loss for anyone to have survived. This afternoon when you named Blevins... how did you know?,27
+MULDER,I didn't. I just guessed.,5
+SKINNER,"Well, it was a hell of a guess. Blevins had been on payroll for four years to a biotechnology company called Roush, which is somehow connected to all this.",29
+MULDER,"I'm sure whatever connections there were, they're being erased right now.",11
+SKINNER,"They're cleaning up, taking everything away.",6
+MULDER,Not everything. Scully's cancer's gone into remission.,7
+SKINNER,That's unbelievable news.,3
+MULDER,It's the best news I could have ever heard.,9
+SKINNER,What turned it around?,4
+MULDER,I don't know. I don't think we'll ever know.,9
+SKINNER,Can I see her?,4
+MULDER,"Yeah, she's in there with her family right now, but I'm sure she'd love to see you.",17

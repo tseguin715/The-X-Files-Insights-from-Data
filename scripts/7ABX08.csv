@@ -1,0 +1,378 @@
+speaker,line,words
+CARNIVAL WORKER,"Mr. Maleeni... Hey, guy. You ready to rumble?",8
+MALEENI,"If by ""rumble,"" you mean ""perform..."" yes, I am.",9
+CARNIVAL WORKER,"Cool. Uh, you know how they said you get $125 for the day? It's going to be $75 instead. The gate's for crap. But, hey, the show's got to go on, right?",32
+MALEENI,This will be my greatest show ever.,7
+CARNIVAL WORKER,Right on.,2
+MALEENI,"Ladies and gentlemen, damas y caballeros... I aim today not just to entertain, but to educate. To instruct and inform in the venerable and ancient history of my art. Until Johann Nepomuk Hofsinzer called playing cards ""the poetry of magic"" a conjurer's skill was determined entirely by his ability to perform one effect. That effect was known as ""the cups and balls."" The games were known for hundreds if not thousands of years. Perhaps the greatest performer was the Italian, Bartolomeo Bosco.",82
+HECKLER DUDE,Get on with it!,4
+MALEENI,"Bosco's passes with the cups and balls. Wah-day... Chubio... Colerader. Three gone... And yet, three return. Bosco had only one contemporary rival a slightly older Frenchman named Conus, who announced in 1795 that he would make his wife, who was five-foot-seven appear under one of the cups. Practice though I have, I have been unable even to get married.",59
+MALEENI,Conus placed one ball in his pocket. He put the second ball away. Putting the third ball in his hand he made it vanish and that's the mystery of the cups... and the balls.,34
+HECKLER DUDE,"Yo. Can't you do anything that ain't a hundred years old? That ain't old school, that's decrepit.",17
+MALEENI,"Young man, shall I come heckle you on your job? Make sure you count out the requisite number of McNuggets?",20
+HECKLER DUDE,Show me something. Come on... show me something!,8
+MALEENI,"A callow challenge to be met by experience... and skill. To wit, the Egyptian, Dedi, whose most celebrated feat was to reattach a recently-severed head reuniting it with a still-warm body and no harm done. Western history knows three previous attempts at recreating this Noachian feat... each of the three ending in tragedy. This will be the fourth. May I have complete silence, please?",64
+CROWD,Yeah! Senor Maleeni! Woo-hoo!,4
+ANNOUNCER,Let's give it up for the Amazing Maleeni.,8
+CARNIVAL WORKER,"Guy, you rock! That kicked ass! I mean, it looked completely real! How did you do that? Oh, yeah, right-- magic. Oh, hey, your money-- hold up.",27
+CARNIVAL WORKER,"Two, four, 50, 55, 60, 65, 70, 75. You earned it.",11
+CARNIVAL WORKER,Mr. Maleeni?,2
+CARNIVAL WORKER,Mr. Maleeni.,2
+CARNIVAL WORKER,"Oh, God...",2
+MULDER,"Neat trick, huh?",3
+SCULLY,I can think of a neater one. How you convinced me to drop everything and get on the first plane to Los Angeles.,23
+MULDER,"Come on, Scully. This isn't intriguing enough for you? A magician turns his head completely around 360 degrees to the delight of young and old alike after which it plops unceremoniously onto the pier... see the picture?",37
+SCULLY,"Yeah, I saw the picture. And as for this Amazing Maleeni turning his head all the way around,",18
+"LIKE YOU SAID, MULDER",neat trick.,2
+MULDER,But...,1
+SCULLY,But... I'd guess this event was completely removed from the subsequent murder.,12
+MULDER,You think this was a murder?,6
+SCULLY,Don't you?,2
+SCULLY,"Mulder, his head was cut off.",6
+MULDER,"Ah, observe the nearly complete absence of blood. Observe the paucity of fingerprints as evidenced by the LAPD's liberal use of lycopodium powder.",23
+SCULLY,Why are you talking like Tony Randall?,7
+MULDER,Know that the Amazing Maleeni was alive one moment and expired the next. Know also that no one saw his fleeing attacker nor heard the dying man's cries.,28
+SCULLY,"Mulder, I admit that I don't know how it happened but I still say that it was a murder. So what's your theory?",23
+MULDER,A magic trick gone horribly wrong. One that claims the lives of all who attempt it.,16
+MULDER,Can I see that camcorder again? Thank you. A tourist videotaped Maleeni's performance. Look at this.,16
+HECKLER DUDE,"That ain't old school, that's decrepit!",6
+SCULLY,Who's the heckler?,3
+HECKLER DUDE,"Come on, show me something!",5
+MULDER,I don't know.,3
+MULDER,"Neat trick, huh?",3
+SCULLY,"Hang on a second. Let me see this. That heckler was pretty hard to impress wouldn't you say? Look, and then he just takes off in a huff.",28
+MULDER,"What, you think he's a murderer?",6
+SCULLY,"Well, it's worth checking out, don't you think?",8
+MULDER,That'll be a neat trick in itself. You never see his face.,12
+SCULLY,"Ah, but observe. His discarded soda cup. The hand may be quicker than the eye but it still leaves fingerprints.",20
+MULDER,Provided they haven't dumped the trash.,6
+SCULLY,Skeptic.,1
+SCULLY,Mr. LaBonge? We're Agents Mulder and Scully from the FBI.,10
+SCULLY,"Were you at the, uh, Santa Monica Pier yesterday morning?",10
+LABONGE,Yeah.,1
+MULDER,You attended a magic show. The Amazing Maleeni.,8
+LABONGE,"Yeah, he sucks. Why?",4
+SCULLY,"He's dead, under extremely suspicious circumstances.",6
+LABONGE,He still sucks. How'd you find me?,7
+SCULLY,Your fingerprints. You have a criminal record.,7
+MULDER,A conviction for pick pocketing.,5
+LABONGE,"Man, that was performance art. And besides, it's ancient history. What are you saying, you think I killed him?",19
+SCULLY,"Well, you're on videotape heckling the deceased.",7
+MULDER,What did you have against Mr. Maleeni?,7
+LABONGE,"First of all... his name's not Maleeni. That's the name of a real magician, a guy at the turn of the century, Max Malini. Ever hear of him?",28
+SCULLY,No.,1
+LABONGE,"That's too bad; you should have. Anyway, he steals his name, spells it a little differently and he does some tired crap that wouldn't cut it at a kid's birthday party.",31
+MULDER,What about the trick where he turns his head completely around?,11
+LABONGE,Check it out.,3
+LABONGE,No problem. Did you like that?,6
+SCULLY,Yeah.,1
+LABONGE,Watch. Coin in the hand... blows away. Maybe it's a little bit hard for you to see. Let me make that... Bigger for you.,24
+MULDER,"Those are great, but I don't see how they're any different or better than the ones Maleeni did.",18
+LABONGE,Mozart and Salieri. They sound pretty much the same to a layman. But they ain't. You know what I'm saying? It's about... originality. Style. And more than anything else... soul. Because that's what separates the great ones... from the hacks. We can't do this halfway. We're dealing with powerful forces at work here. Energies far beyond our mere... mortal... understanding.,60
+MULDER,Enough to make a magician lose his head?,8
+LABONGE,"Could be. That, and I hear Maleeni racked up some pretty big gambling debts. Who knows who he might've pissed off.",21
+SCULLY,"Well, thank you, Mr. LaBonge. We'll, uh... be in touch.",10
+LABONGE,"Please do. Oh, and agents...",5
+MULDER,Mozart and Salieri. Which one's which?,6
+SCULLY,"Mulder, I think that professional jealousy is as good a motive for murder as any.",15
+MULDER,If it was a murder. I'm not convinced.,8
+SCULLY,If I can get Mr. Maleeni into an autopsy bay hopefully we can put this issue to a rest as soon as possible.,23
+SCULLY,"All right, I'm stumped... and I think I'm supposed to be.",11
+MULDER,What do you think?,4
+SCULLY,"Well, first of all, and sorry to disappoint you but, uh, Mr. Maleeni's head didn't just magically fall off. It was very carefully sawed. Very slow and exacting work probably with a fine-tooth meat saw. And check out this little detail.",41
+SCULLY,"Spirit gum, Mulder. It held the head to the body. Just barely, of course.",14
+MULDER,So he was murdered.,4
+SCULLY,"Well, no. As far as I can tell this man died of advanced coronary disease.",15
+MULDER,Natural causes.,2
+SCULLY,Yeah.,1
+MULDER,"So, basically he died of a heart attack, somebody crept up behind him, sawed his head off and then glued it back on all in the space of 30 seconds. Does that make sense to you?",36
+SCULLY,"No. Which makes it even stranger still because, as far as I can tell this body has been dead for over a month. I see signs of refrigeration.",28
+MULDER,And yet he performed yesterday. What a trouper.,8
+SCULLY,"Well, somebody performed yesterday.",4
+LABONGE,Cissy Alvarez.,2
+ALVEREZ,Who are you?,3
+LABONGE,You don't remember me. Ain't that a bitch. My name's LaBonge. I did time with you about eight years ago. You were in for bank robbery.,26
+ALVEREZ,The name doesn't mean anything. What do you want?,9
+LABONGE,I hear you're a poker player. You won big off a guy who calls himself the Amazing Maleeni. Also goes by the name of Herman Pinchbeck.,26
+ALVEREZ,Pinchbeck?,1
+LABONGE,He's dead.,2
+ALVEREZ,"Yeah, I saw in the paper. Something about his head fell off. What's it to you?",16
+LABONGE,I'm the guy that made his head fall off.,9
+LABONGE,"You took his marker, right? What did he owe you? 15 grand?",12
+ALVEREZ,20.,1
+LABONGE,I don't think he was ever going to pay you back.,11
+ALVEREZ,"You want to cut to the chase? You know, get a little more of your story out before we stomp you to death?",23
+LABONGE,How would you like to get back what you're owed? Times ten.,12
+ALVEREZ,"$200,000. How?",2
+LABONGE,Helping me.,2
+ALVEREZ,Do what?,2
+LABONGE,Magic.,1
+LABONGE,Want to hear more?,4
+MULDER,Excuse me. I'm looking for Mr. Albert Pinchbeck.,8
+FEMALE BANK EMPLOYEE,He's the gentleman right over there. The poor man.,9
+MULDER,"He look familiar to you, Scully?",6
+SCULLY,He certainly does.,3
+MULDER,The plot thickens.,3
+SCULLY,He might try and run.,5
+PINCHBECK,"Come in. Good morning, Mr. And Mrs...?",7
+MULDER,Agents... Mulder and Scully. FBI.,5
+PINCHBECK,"You're not here for a home loan, I take it.",10
+SCULLY,No. We are investigating the death of a magician who called himself the Amazing Maleeni.,15
+PINCHBECK,"Herman Pinchbeck, my twin brother.",5
+SCULLY,"Yes, we know. We checked his next of kin.",9
+MULDER,"What happened to your neck, Mr. Pinchbeck?",7
+PINCHBECK,I was in a car accident.,6
+MULDER,Car accident. So your injured neck has nothing to do with a magic trick you performed at the Santa Monica Pier two days ago? One which involved you turning your head around 360 degrees?,34
+PINCHBECK,No. That wasn't me. I was in a bad car accident in Mexico.,13
+MULDER,"Oh, bad Mexican car accident. In Mexico.",7
+SCULLY,"Do you know magic, Mr. Pinchbeck?",6
+PINCHBECK,"Yes, I do. Back in the '70s, my brother and I performed together.",13
+MULDER,Why did you stop?,4
+PINCHBECK,You never really stop.,4
+MULDER,"Pick a card, any card?",5
+MULDER,Hmm. Very impressive.,3
+PINCHBECK,My brother and I both wanted to do the absolute best magic the world had ever seen. The difference was I knew he'd never get there but he always believed we would. We didn't talk much after I quit the act.,41
+MULDER,"I have a theory, Mr. Pinchbeck and I'm going to tell you how it goes. I think that your brother Herman died of heart disease having never made it as the world's greatest magician and I think that hurt you just as your estrangement from him hurt you. And I think what you did was perform his last act for him-- -- one last act for which he'd always be remembered-- one last act that would end with such a shock, such a denouement as would be forever remembered in the annals of magic. That's what I think.",97
+PINCHBECK,I so wish that were true.,6
+PINCHBECK,It was a very bad car accident in Mexico. MULDER is VERY embarrassed.),13
+MULDER,Oy.,1
+SCULLY,No kidding. What now?,4
+MULDER,A guy's head falls off. It's the greatest trick in the world. Only there's no discernible point to it. What's the reason for doing that in the first place?,29
+SCULLY,"Why do people do magic? To, uh, impress, to delight to gain attention.",13
+MULDER,This one's gained mostly police attention. Maybe that's the point.,10
+SCULLY,"Well, maybe we should consult an expert. Someone who knows magic, who's seen the greatest trick in the world. Maybe he can help us figure that out.",27
+MULDER,Mozart.,1
+SCULLY,Yeah.,1
+LABONGE,"What's in it for me? I mean, let's say I help you out. What do I get in return?",19
+SCULLY,The feeling of pride that comes from performing your civic duty.,11
+MULDER,How about the chance to root through the professional secrets of your least favorite magician?,15
+LABONGE,"Good for a laugh, I guess.",6
+LABONGE,"Man, it's worse than I thought.",6
+LABONGE,"You got to feed those things, you know.",8
+LABONGE,So... Maleeni wasn't murdered?,4
+SCULLY,It would seem not.,4
+LABONGE,So someone impersonated him and his crappy act. It's impressive.,10
+LABONGE,I'd say the twin brother did it but I don't think he's any better a magician than Maleeni was...,19
+MULDER,"There's that, and he's got no legs.",7
+LABONGE,"Yeah. Whatever. Anyway, we're looking for a magician with the same height and build... a good makeup job and the right wig and no one would know the difference.",29
+SCULLY,"Not even you, I guess.",5
+LABONGE,I had a couple of Jell-O shots in me.,9
+MULDER,How did this impersonator switch out the dead body?,9
+LABONGE,"With ease. You're going to kick yourselves when I show you how he did this, it's so simple. 'Cause magic is all about... … misdirection.",25
+LABONGE,Your impersonator simply made sure everyone was looking the other way when he pulled Maleeni's body from its secret hiding place underneath... the floor.,24
+LABONGE,"Man, this guy's good.",4
+SCULLY,Thanks for your expert opinion. I guess we're right back where we started.,13
+MULDER,"Maybe not. You said that, uh, the Amazing Maleeni had some gambling debts?",13
+LABONGE,"Yeah, that's what I heard.",5
+MULDER,"Check this out. It looks like a marker. $20,000. Pinchbeck.",10
+SCULLY,What would this be doing in Maleeni's van?,8
+COURIER GUARD,"Thank you, Mr. Pinchbeck. If you could sign here for me.",11
+PINCHBECK,With pleasure.,2
+PINCHBECK,"Anthony, what kind of gun is that?",7
+ANTHONY THE COURIER GUARD,Glock 17. Nine millimeter.,4
+PINCHBECK,I've been thinking of maybe buying one since my accident.,10
+ANTHONY THE COURIER GUARD,Here-- take a look.,4
+PINCHBECK,"Gosh, it's, uh... it's heavier than I would have thought. Thank you, Anthony... Marvin.",14
+ANTHONY THE COURIER GUARD,"If you ever want I'll take you to the shooting range. Have a good one, Mr. Pinchbeck.",17
+PINCHBECK,"You, too.",2
+PINCHBECK,Hello. May I help you?,5
+ALVAREZ,Damn. You look just like him.,6
+PINCHBECK,I'm sorry?,2
+ALVAREZ,"Your no-good, malapaga brother died owing me money. A lot of money. You're going to make good.",17
+PINCHBECK,"I'm sorry, but my, uh, brother's debts are his own.",10
+ALVAREZ,"I said, you're going to make good, 'cause me and my friends, we know where you live.",17
+MARVIN THE COURIER GUARD,That sound like the rear diff?,6
+ANTHONY THE COURIER GUARD,"Pull over. Stay here and, uh, call it in. I'll check it out.",13
+MARVIN THE COURIER GUARD,"We got a problem with the rear diff. Fourth and main, checking it out...",14
+ANTHONY THE COURIER GUARD,You! In the truck! Get up where I can see you! Hands where I can see them! Up! Hands up!,20
+ANTHONY THE COURIER GUARD,"All right, get out! Mister, get out...",7
+ANTHONY THE COURIER GUARD,I got a guy down back here!,7
+ANTHONY THE COURIER GUARD,It was a guy with tattoos! I shot him four times! I don't understand. He was right here.,18
+SCULLY,"It's your handwriting, is it not? Mr. Alvarez please answer the question.",12
+ALVAREZ,That ain't mine. I don't know where you got that.,10
+MULDER,Interesting. Yours are the only fingerprints on it.,8
+SCULLY,We ran it through the California criminal history database to which you seem to be quite well known.,18
+ALVAREZ,So it's my marker. So Pinchbeck owed me money. It was a friendly game of poker.,16
+MULDER,"Very friendly. $20,000 friendly.",4
+ALVAREZ,Where did you find that?,5
+SCULLY,In Herman Pinchbeck's van. Where were you last Thursday?,9
+ALVAREZ,"Here. All day. Ask them. What is it you think I did to Pinchbeck, huh? What's in it for me? If I kill him, he ain't going to pay me.",30
+MULDER,Why did you play with him in the first place? You knew he was a professional magician.,17
+ALVAREZ,I didn't know what he was... and he sure as hell couldn't play worth a damn.,16
+SCULLY,"Don't leave town, Mr. Alvarez.",5
+MULDER,"Don't you find it odd that the amazing Maleeni's a lousy poker player? I mean, this is a guy who's adept at manipulating cards.",24
+SCULLY,Maybe he wasn't so adept. LaBonge certainly doesn't have a high opinion of his skills.,15
+MULDER,There's another possibility. Behold-- an ordinary household quarter. I'm going to take the quarter from my right hand and place it into my left hand. Where is it?,28
+SCULLY,It's in your right hand.,5
+MULDER,"Oh, no, no, no.",4
+SCULLY,Ah... That's not bad.,4
+MULDER,"Blow your nose, Scully.",4
+SCULLY,Mulder...,1
+MULDER,Blow your nose.,3
+SCULLY,Ah-choo.,1
+MULDER,Ta-da.,1
+SCULLY,Amazing!,1
+MULDER,The great Muldeeni.,3
+SCULLY,And what's the point?,4
+MULDER,It's misdirection. That's the heart of magic. I made you look one direction. The quarter went in the other.,19
+SCULLY,And that's what's happening in this case?,7
+MULDER,I think we're being led around by our noses.,9
+SCULLY,By whom? Maleeni is already dead.,6
+MULDER,"It certainly would appear so, but then again, you thought the quarter was in the right hand.",17
+911 OPERATOR,911.,1
+LABONGE,"Yeah, hello? Yeah, I want to report a man with a gun. H-h- he's threatening to kill somebody.",18
+911 OPERATOR,Please speak up.,3
+LABONGE,"No, I can't speak up. I... No, I can't!",9
+911 OPERATOR,Sir? Hello? Hello?,3
+ALVAREZ,Son of a bitch.,4
+LABONGE,"Hey, partner. Hey, guys.",4
+ALVAREZ,You son of a bitch.,5
+LABONGE,I'm sorry?,2
+ALVAREZ,You tried to frame me. Hijo de tu...,8
+LABONGE,I didn't!,2
+ALVAREZ,"Oh, you didn't, huh?!",4
+LABONGE,We've got a deal!,4
+ALVAREZ,"We got no deal. I'm gonna bleed you, you little bitch.",11
+LABONGE,Back off!,2
+ALVAREZ,You're dead.,2
+COP,Freeze! Drop your weapon!,4
+COP,Hands behind your head! Do it! Bring your head down. Spread your legs.,13
+PINCHBECK,Agents. An unexpected surprise. Good afternoon.,6
+SCULLY,"We'd like to have a word with you, Mr. Pinchbeck.",10
+PINCHBECK,"I'm fairly busy, actually.",4
+MULDER,I'll bet.,2
+PINCHBECK,Hey! W-what...?,2
+MULDER,"Let's take a little spin, shall we?",7
+PINCHBECK,What's this all about?,4
+MULDER,"It's about misdirection, Mr. Pinchbeck... or should I say the Amazing Maleeni?",12
+SCULLY,Mulder?!,1
+MULDER,"It's a trick, Scully. Voila.",5
+PINCHBECK,Had you fooled.,3
+SCULLY,You're Maleeni?,2
+MALEENI/PINCHBECK,Call me Herman.,3
+MALEENI/PINCHBECK,I was afraid for my life. That's why I did what I did. I'm not proud of that... but I owe a lot of money that I can't possibly pay back.,31
+SCULLY,We know. Gambling debts to a man named Alvarez.,9
+MALEENI/PINCHBECK,That tattooed psychopath. I've since heard terrible stories about him-- things he did in prison to fellow inmates.,18
+SCULLY,So why'd you play poker with him?,7
+MALEENI/PINCHBECK,He runs a good game. I gamble to supplement my income. God knows magic barely pays.,16
+SCULLY,"Well, why did you lose? You could have manipulated the cards, right?",12
+MALEENI/PINCHBECK,Cheat? You're asking why I don't cheat at cards?,9
+SCULLY,"Well, you could, right?",4
+MALEENI/PINCHBECK,Of course I could... … but how would I live with myself? Who raised you?,15
+SCULLY,"Well, sir... what does any of this have to do with your twin brother being found decapitated at the Santa Monica Pier?",22
+MALEENI/PINCHBECK,I went to my brother for a loan. Just my luck-- and his.,13
+SCULLY,You found him dead of a heart attack.,8
+MALEENI/PINCHBECK,"His body was still warm. Looking at him lifeless I saw myself-- my own eventual mortality. I saw all the things I meant to accomplish, but didn't. It was an opportunity to vanish-- to become someone else. Like I said, I'm... I'm not proud of what I did.",48
+SCULLY,And so you refrigerated the body...,6
+MALEENI/PINCHBECK,"I needed time to figure out how to pull it all off. Impersonating my brother, I called the bank. Told them I needed a vacation week. A trip to Mexico. Then the bank received word that I'd been in a terrible accident. It gave me plenty of time away from work.",51
+SCULLY,And you posed as an amputee to allay suspicion that you weren't your brother.,14
+MALEENI/PINCHBECK,"That, and I rather enjoyed the sympathy-- especially from the women in our office.",14
+SCULLY,"You, uh, still haven't explained why you left your brother's body at the pier or why you arranged to have his head fall off.",24
+MALEENI/PINCHBECK,"He explained it. He put it so eloquently when we last spoke. It was my final performance. I wanted to go out with such a shock, such a denouement as would forever be remembered in the annals of magic.",39
+MULDER,That was your last performance.,5
+MALEENI/PINCHBECK,What's this for?,3
+MULDER,I still think you've got a few tricks up your sleeve.,11
+BANK OFFICER,My god. We gave you handicapped parking. We built you a ramp.,12
+MULDER,Did he have access to the vaults?,7
+BANK OFFICER,"Well, yes, he has a key to the day gate. Several of us do.",14
+SCULLY,"What are you looking for, Mulder?",6
+MULDER,"Any hint at all as to why Maleeni, here is really impersonating his brother. What about this. Could he have removed the funds electronically?",24
+BANK OFFICER,"Well, he didn't have security clearance for EFTs. Electronic fund transfers.",11
+MULDER,Maybe he got around the security. Can we check the withdrawal records?,12
+BANK OFFICER,It would require your badge number and thumbprint and probably a federal subpoena to boot.,15
+BANK OFFICER,We're extra cautious with the EFTs. You can understand why. There may be an easier way. If I call up a transaction list for this terminal...,26
+BANK OFFICER,"No. No, everything's in order.",5
+SCULLY,"Mulder, it says here something about a robbery attempt yesterday.",10
+BANK OFFICER,"Yeah, that wasn't against us but the armored transport service we deal with. No money was taken, and no suspects were caught.",22
+SCULLY,"Yeah, well, Mr. Pinchbeck was the employee who signed out the truck. He knew the schedule.",16
+MALEENI/PINCHBECK,I had nothing to do with that.,7
+SCULLY,"Maybe, maybe not.",3
+MULDER,We'll hold you till we find out. Make sure you don't pull a vanishing act.,15
+HOLDING CELL OFFICER,Hey.,1
+HOLDING CELL OFFICER,"Paul, I'm putting Mr. Pinchbeck in six.",7
+PAUL THE OTHER CELL OFFICER,Right.,1
+HOLDING CELL OFFICER,Sleep tight.,2
+MALEENI/PINCHBECK,"Wait, don't I get a phone call, sir? Sir?",9
+LABONGE,How'd it go?,3
+MALEENI/PINCHBECK,Swimmingly.,1
+LABONGE,"Abracadabra, man.",2
+BANK OFFICER,"Oh, Deeaammnnn!!!",2
+SCULLY,"Yes... Okay. All right … All right, thank you.",9
+MULDER,Maleeni?,1
+SCULLY,He's still in the city lockup where he's been since we arrested him last night. It certainly doesn't look like he did this. Lots of fingerprints.,26
+MULDER,Yeah. I guarantee you none of them match our thieves. They're too clever to leave clues... except for the ones they want us to find.,25
+BANK OFFICER,Excuse me. May I show you something?,7
+SCULLY,Yeah.,1
+BANK OFFICER,We thought the security camera footage might show the robbers.,10
+SCULLY,Does it?,2
+BANK OFFICER,"No. They all mysteriously went blank from about 3:00 A.M. to 3:20, but that's not what we wanted you to see.",21
+ANTHONY THE COURIER GUARD,This is from two days ago.,6
+SCULLY,Cissy Alvarez. Convicted bank robber.,5
+ANTHONY THE COURIER GUARD,You recognize this man?,4
+MULDER,Yeah. Who is he to you?,6
+ANTHONY THE COURIER GUARD,I know those tattoos. That's the man who tried to rob my truck.,13
+ALVAREZ,"Ah! What the hell, man! What did I do?! You, FBI, what's up? What's up with this, man? Yo, man, you can't just come busting in here, okay? I got civil rights. I'm going to call my lawyer and then we're going to see what's what.",46
+ANOTHER COP,There's nothing back there.,4
+ALVAREZ,"This is harassment, man. This is harassment! Yo, what are they looking for? Come on, man, yo! Somebody talk to me.",21
+COP,Shut up.,2
+ALVAREZ,"You shut up. This ain't right. You got the cuffs on so tight. Yo, will you please tell me what he's looking for?",23
+SCULLY,Well... saving up for a rainy day?,7
+ALVAREZ,"Oh, no, no, no, no. We got framed. This is a frame-up! That was the magician.",16
+MULDER,The magician? Maleeni?,3
+ALVAREZ,"No. Not the dead one, man. That little cabron! LaBonge! LaBonge set me up! Listen to me...",17
+SCULLY,Billy LaBonge.,2
+MULDER,And the Amazing Maleeni. That's a double bill I wouldn't want to miss.,13
+HOLDING CELL OFFICER,"Pinchbeck. You made your bail. You too, LaBonge.",8
+PAUL THE OTHER OFFICER AT THE BUZZER,Okay.,1
+SCULLY,I think releasing these two may be a bit premature.,10
+MULDER,"Give us a minute, will you?",6
+MULDER,"Good morning, gentlemen. Did you sleep well?",7
+MALEENI/PINCHBECK,Agent Mulder. Agent Scully.,4
+MULDER,Bravo. Really.,2
+LABONGE,What do you mean?,4
+SCULLY,Last night the Cradock Marine Bank was robbed of $1.8 million. This morning that entire amount was found in the possession of Mr. Cissy Alvarez.,25
+MALEENI/PINCHBECK,Wow. I told you he was bad news. Bravo to you. That was expeditious police work.,16
+MULDER,"Well, thank you. It was, wasn't it? It's only that Alvarez was so obviously guilty. A convicted bank robber caught red-handed witnessed trying to rob an armored car just two days earlier?",32
+SCULLY,He'll need a good lawyer.,5
+MULDER,"Yeah. Yeah, he's up a creek... Just like you two want him.",12
+MALEENI/PINCHBECK,I don't quite see where you're headed with this.,9
+MULDER,"I have no evidence but I have a theory, Mr. Maleeni and, uh, I'll tell you how it goes. I think that your twin brother, Albert, died of a heart attack at which point you and your young protégé saw a golden opportunity.",43
+MALEENI/PINCHBECK,My protégé? I hate this guy's guts.,7
+SCULLY,That's what you wanted us to think.,7
+MULDER,You wanted revenge against the man who made your life in prison a living hell.,15
+FLASHBACK OF LABONGE TALKING TO ALVAREZ,nan,1
+LABONGE,I did time with you about eight years ago.,9
+MULDER,Alvarez. You and he were in the same cell block eight years ago.,13
+SCULLY,It was a setup from the start. You played poker with him and you made sure that you lost big.,20
+MULDER,"Which gave LaBonge and ""in"" with Alvarez once everybody thought you were dead.",13
+SCULLY,LaBonge planted Alvarez's marker in Maleeni's van and made sure we found it … … and then you used Alvarez's greed in order to ensnare him and then orchestrated the attempted bank robbery in order to implicate him.,38
+MULDER,"Yeah. That was you in the armored car disguised as Alvarez. Somehow, Mr. Pinchbeck got ahold of the guard's gun and switched the clip. Guard didn't know it, but he was firing blanks.",33
+SCULLY,"And then last night the two of you robbed the bank, and planted the money at ALVAREZ's place.",18
+LABONGE,Don't you think we have pretty good alibis?,8
+MULDER,You have great alibis. You have the best alibis in the world which is why I think you two got arrested in the first place.,25
+SCULLY,"With your expertise at sleight of hand, pick pocketing, and escapology I think you were both able to get out of here by pilfering a guard's key.",27
+MULDER,"You could have escaped, stolen the money framed Alvarez and been back here in time for breakfast.",17
+MALEENI/PINCHBECK,"Scrambled eggs and sausage. That would be the world's greatest trick, wouldn't it?",13
+MULDER,One that would be forever remembered in the annals of magic.,11
+LABONGE,What happens to us?,4
+MULDER,To you? You go free... provided the magic is over.,10
+MALEENI/PINCHBECK,"The great ones always know when to leave the stage. Billy, let's get the hell out of here.",18
+MULDER,They are the world's greatest.,5
+SCULLY,We saw through their magic.,5
+MULDER,"Nah, there's more.",3
+MULDER,Behold! The Amazing Maleeni's wallet.,5
+SCULLY,You picked his pocket?,4
+MULDER,No. I pilfered it from the evidence room to prevent them from completing their final act of prestidigitation.,18
+SCULLY,What are you talking about?,5
+MULDER,"I began to wonder, why did they need so elaborate a setup? Why so high profile? Why draw the attention of the FBI in the first place?",27
+SCULLY,We were the last piece of the puzzle.,8
+MULDER,"Yes. Framing Alvarez was just another misdirection. This trick was about EFTs-- electronic funds transfers at the bank. Maleeni, Pinchbeck-- he didn't have security clearance for them so he needed a little federal law enforcement intervention-- specifically, my badge number... … and my thumbprint. With those two items, they could pull off an EFT and steal enough electronically as to make that $1.8 million look like cigar-lighting money. But they can't do it without this. Pick a card, Scully... Any card.",81
+SCULLY,"You know, Mulder, there's still one thing that you haven't explained.",11
+MULDER,What's that?,2
+SCULLY,How the Amazing Maleeni was able to turn his head completely around.,12
+MULDER,I don't know that.,4
+SCULLY,I do. I'll show you. Observe.,6
+MULDER,Gee! Very nice. How'd you do that?,7
+SCULLY,Well... magic.,2
+MULDER,"No. Seriously, Scully, how'd you do it? You know, it's not the same thing. It's different with the head. Come on. Look at this.",24
+MULDER,I'll show you - - -,3

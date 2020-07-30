@@ -1,0 +1,255 @@
+speaker,line,words
+DOGGETT,He's looking right at us. Fifty bucks says it's Lukesh and he knows we're here. Does it look like him to you?,22
+FOLLMER,Let him get to the mailbox.,6
+DOGGETT,It's Lukesh. I don't need him opening his mailbox to prove it.,12
+FOLLMER,"Patience, Agent Doggett.",3
+DOGGETT,"We have an agent alone with a sicko who cutting out women's tongues, a guy known for his vanishing act.",20
+FOLLMER,"We've got the block surrounded. He isn't vanishing anywhere. And your partner volunteered. Now, open the 4-D.",17
+FOLLMER,"Agent Reyes, stand by.",4
+DOGGETT,What the hell is this?,5
+DOGGETT,"Monica, don't.",2
+FOLLMER,Agent Reyes - keep your distance. Don't let him see you following.,11
+DOGGETT,"Monica, where are you?",4
+REYES,In a stairwell. I lost sight of him. I think he might be,13
+REYES,AGHHH!,1
+FOLLMER,"Agent down, back stairwell, get EMS here now!",8
+FOLLMER,Doggett! He's got her gun!,5
+DOGGETT,"Erwin Lukesh! Federal Agent! Turn around, you son of a bitch.",11
+DOGGETT,Back here!,2
+REYES,Hey!,1
+DOGGETT,"So, this is how the uptown crowd lives, huh?",9
+REYES,This is it!,3
+DOGGETT,"So have you got anything really heavy that I can move for you, a dresser, a fridge.",17
+REYES,"No, but thank you, John, you just missed movers.",9
+DOGGETT,You don't say?!,3
+DOGGETT,I brought you a housewarming gift.,6
+REYES,Hot dogs?,2
+DOGGETT,"Polish sausage! It's the best in the city, there is a . You'll be able to walk to it.",18
+REYES,Wow.,1
+DOGGETT,Try one.,2
+REYES,Mmmm. I'm back in Gdansk.,5
+REYES,Let me get some plates.,5
+DOGGETT,Plates? For crying out loud... who eats Polish sausage with plates?,11
+REYES,Hello?,1
+SKINNER,"Agent Reyes, it's AD Skinner.",5
+REYES,"Yes, sir?",2
+SKINNER,"There's no easy way to say this, I'm sorry to do it on the phone.",15
+REYES,What is it?,3
+SKINNER,It's Doggett. He's been found in an alley off Dillon Park. He's been shot.,14
+REYES,"I'm sorry, what did you say?",6
+SKINNER,They're taking him in the Washington Memorial. Agent?,8
+REYES,"Sir, what you're saying is...",5
+SKINNER,Agent Reyes? Agent Reyes?,4
+REYES,Excuse me?,2
+FOLLMER,Monica?,1
+REYES,"Brad? Skinner called you, too?",5
+FOLLMER,"He's staying at the crime scene. I'm sorry. I've been put in charge of this investigation. I promise you, it's my top priority. I will find a person who did this. I just need to find out why your partner was in that alley this morning.",46
+REYES,"He wasn't. He was with me, at my apartment. He was with me when Skinner called me.",17
+FOLLMER,I'm not sure I'm following.,5
+SCULLY,"Monica, I'm so sorry. Agent Doggett is just coming out of surgery and they're moving him to the ICU.",19
+FOLLMER,How's it look?,3
+SCULLY,"If he pulls through this, it's likely that he'll be paralysed for life.",13
+REYES,"I haven't understood one single word I've heard since I got here. Whoever you're talking about, it's not John Doggett.",20
+FOLLMER,You have found the bullet?,5
+SKINNER,9mm slug. Found it in the alley lodged in the wall. Most likely from the Sig Sauer P226 or 228.,20
+FOLLMER,Possibly FBI issue.,3
+SKINNER,I don't know what you're thinking but this didn't come from Doggett's weapon. Ballistics don't match and his gun was never fired.,22
+FOLLMER,"Assistant Director. I'd appreciate case updates in a timely fashion. For instance, this bullet... how long have you have it? An hour? Two?",23
+SKINNER,Thereabouts.,1
+FOLLMER,"It just we need to keep the lines of communication open, that's all I'm asking. I want this slug run through our database of FBI-issued pistols.",26
+SKINNER,Like I told you the round didn't come from Doggett's weapon. You're not saying another agent could have done this.,20
+FOLLMER,"Just run it, please.",4
+REYES,"I just... I don't understand how any of this is possible. He was with me, Dana, in my apartment. How can this be?",23
+SCULLY,I saw something once. It's only been the last couple of years that I've... fully come to terms with it. In '94 my father passed away... and that night... at the very moment that it happened he came to me. I like to believe that he came to say goodbye.,50
+REYES,A visitation. I think that's wonderful. A blessing. But that's not what happened to me.,15
+SCULLY,Scully.,1
+SKINNER,"It's me, is Reyes with you?",6
+SCULLY,"Yeah, she's here, we're both at the hospital.",8
+SKINNER,I need you to bring her to Sixth District Police Station. I'm on my way there myself.,17
+SCULLY,What's this about?,3
+SKINNER,I'll tell you when you get there.,7
+REYES,What's going on?,3
+SKINNER,"Agent Reyes, wouldn't you mind stepping inside, please?",8
+FOLLMER,"Hi, Monica. Have a seat.",5
+FOLLMER,I wanted you and I to have a chance to talk alone to clear a few things up. A few details of your story.,24
+REYES,My story?,2
+FOLLMER,"Well, your so certain that you were with Agent Doggett when he was shot?",14
+SCULLY,What is this?,3
+SKINNER,Just wait.,2
+FOLLMER,Is that a true statement?,5
+REYES,"Yes. Uh-ah, I mean, no, I wasn't with Agent Doggett when he was shot, but I was with him at the time AD Skinner called to tell me he'd been shot.",31
+FOLLMER,"Look, Monica, you know how I feel. You know I'm on your side, but give me something here. Give me some... meaning... reason for what you're trying to cover up.",30
+SCULLY,I'm going to put a stop to this.,8
+REYES,"What are you saying to me, Brad? Why are you saying these things?",13
+FOLLMER,The results of the ballistics test. A bullet that hit Doggett came from your gun. And furthermore we have an eyewitness... one who has placed you at the scene.,29
+REYES,Is that why I'm here? In this room? So you can make an ID?,14
+FOLLMER,Agent Reyes...,2
+FOLLMER,I'm going to have to ask you for your FBI identification.,11
+REYES,Who's there? Who's back there?,5
+POLICE OFFICER,"We appreciate your cooperation, sir.",5
+LUKESH,Anything I can do to help.,6
+REYES,Smart touch. Posting a guard making sure I don't finish the job.,12
+REYES,Do you really believe I did this?,7
+SKINNER,"No, but it doesn't matter what I believe. You may still be arrested.",13
+REYES,So what are they waiting for?,6
+SCULLY,Follmer's case has a couple potential holes.,7
+SCULLY,"For starters, there's the fact that when I called you, you were at home. Fourteen miles from the crime scene.",20
+SCULLY,Plus there's the condition of your gun.,7
+REYES,It hadn't been fired.,4
+SCULLY,"However, the bullet does match your gun. Perfectly.",8
+REYES,"Uh, it doesn't make any sense. None of it. What about the eyewitness? What can you tell me about him?",20
+SKINNER,You know we can't discuss that.,6
+SKINNER,Look...,1
+REYES,"My God, John.",3
+SKINNER,Is he conscious?,3
+SCULLY,I don't know. It could just be a muscle spasm. It's not uncommon with this type of spinal injury.,19
+SKINNER,That's not a spasm. That's Morse code.,7
+REYES,What'd he say?,3
+SCULLY,Lukesh.,1
+REYES,What? What does that mean?,5
+MOTHER,"Who's there? Is somebody there? Erwin, is that you?",9
+LUKESH,"Who else would it be, Mama?",6
+MOTHER,"I thought maybe robbers... My God, I thought something terrible had happened to you. You were gone so long.",19
+LUKESH,"I was gone 2 hours and 6 minutes and back at noon, just like I told you.",17
+MOTHER,I was so scared. Could you bring me a glass of that clemado with two squirts of Texas Tea and two icecubes. God I was all alone. And I heard the knob rattle. Somebody was rattling the knob. It was the robbers. I just know it was. I don't know how I got through it. I was so scared.,59
+MOTHER,That show is on. Could you make me my hot sandwich so that I could eat my sandwich while I watch my show?,23
+MOTHER,What kind of sandwich is it?,6
+LUKESH,Potted meat.,2
+MOTHER,I don't think I like that. Have I had it before?,11
+LUKESH,Many times.,2
+LUKESH,You love it.,3
+REYES,We should be at the hospital.,6
+SKINNER,Scully will call if he regains consciousness.,7
+REYES,"Yeah, I should be there...",5
+SKINNER,"Agent, you're still under investigation. Not to mention I will be too if anyone finds out that I show you this.",21
+REYES,Erwin Timothy Lukesh?,3
+SKINNER,Have you even seen him before?,6
+REYES,1995. Patient at the State Psychiatric Hospital at Gaitersburg. Diagnosed with a delusional disorder anger sub-type that presented itself shortly after the suicide death of his father.,27
+SKINNER,"After four months, he was deemed fit for release. He lives with his invalid mother in an apartment adjacent to the crime scene.",23
+REYES,What's the story he's telling?,5
+SKINNER,"That he heard a bang, went downstairs to investigate, and that he saw you exit the alley.",17
+REYES,This is the one person we know was in the vicinity at the time of shooting. Why would Doggett say his name?,22
+SKINNER,You think Lukesh shot Doggett?,5
+REYES,What if... Doggett was investigating Lukesh. What if... Lukesh is somehow behind all this...,14
+SKINNER,Skinner.,1
+FOLLMER,It's Follmer. You remember the discussion we had yesterday when I asked you to keep me up to date?,19
+SKINNER,I do...,2
+FOLLMER,I'm at Washington Memorial. I'm assuming you're with our prime suspect? Bring her. She's going to talk to Agent Doggett.,20
+FOLLMER,"Ah, the gang's all here.",5
+REYES,How is he?,3
+SCULLY,Fully conscious. We set up a communication device designed for spinal injuries............,12
+FOLLMER,"Just so we're clear, we ask only the questions I want asked. You're not to try and shade his testimony in any way.",23
+SKINNER,"If you're so concerned, why let Reyes talk to him in the first place?",14
+FOLLMER,Because he says he won't talk to anyone but you.,10
+FOLLMER,He didn't mention you two.,5
+REYES,John. Hey there.,3
+DOGGETT,ALIVE>.,1
+REYES,That's right. You're alive. As if there were ever any doubt.,11
+DOGGETT,NO YOU HOW OK>.,4
+REYES,"Why I'm alive? Is that what you're asking? I'm fine, John. Why wouldn't I be?",15
+FOLLMER,Have him say who shot him.,6
+DOGGETT,YOU... YOUR THROAT CUT.,4
+REYES,"My throat wasn't cut, John, what do you mean?",9
+DOGGETT,LUKESH KILLED YOU. TRIED KILL ME.,6
+DOCTOR,"We're going to see if you feel anything. Any sensation at all. Okay, that's enough for today. We'll see if you can feel any better tomorrow.",26
+DOGGETT,1ST TIME EVER HOPED FOR A LITTLE PRICK>,8
+REYES,You kiss your mother with that mouth?,7
+DOGGETT,HOWS CASE?,2
+REYES,"It's coming along. It's nowhere, basically. There's so much that's impossible to reconcile. You say I was on the stakeout with you, I say you were at my apartment bringing me...",31
+REYES,"John, do you know a little stand on M Street? Supposed to be really good hot dogs?",17
+DOGGETT,POLISH SAUSAGE. BEST IN CITY>,5
+REYES,"John, what if we were both right? What if you were at my apartment, and I was on a stakeout with you at the exact same time. W-what would it take for that to be true?",36
+DOGGETT,WE BOTH HAD TWINS WHICH WE DONT>,7
+REYES,"Except maybe we do. Maybe all of us do. You've heard of the idea of a parallel universe? One that's identical, or nearly identical, to our own. One in which we all have a double. It's theoretical physics but... what if it's real?",43
+DOGGETT,TOO MUCH STAR TREK>,4
+REYES,"You said yourself Erwin Lukesh was known for his impossible escapes. You said that in the alley you looked away only for an instant and he was gone. And then, somehow, he was behind you. And he shot you. With my gun. My gun, that never left my possession that entire afternoon. What if Lukesh can pass freely from one parallel world to the other? Like... like he's opening a door. And what if somehow you followed him through that door. Without even knowing it. Maybe when you followed Lukesh into this world, my - my Doggett got forced out.",99
+DOGGETT,WOW>,1
+REYES,"My Doggett would have called that crazy, too... but give me another theory that fits.",15
+LUKESH,I'm kind of confused as to why I'm back. I already told you everything I know.,16
+FOLLMER,We just had a few... inconsistencies that we need to clear up.,12
+LUKESH,"Sure. Dot the I's, cross the T's",7
+SKINNER,"Yeah, here's an odd one, for starters. We have an eyewitness that says you shot Agent John Doggett.",18
+LUKESH,That's surprising I can't imagine who would have said that.,10
+SKINNER,"Agent Doggett. Yeah, he's regained consciousness. He's very chatty. Among other things, he says that you're a murderer, that you enjoy killing women with a straight razor. And cutting out their tongues.",32
+LUKESH,Yeah. Wow. What a corker.,5
+FOLLMER,"Mr. Lukesh, would you consent to a GSR test?",9
+LUKESH,GSR? What is that?,4
+FOLLMER,"It can reveal whether or not someone recently fired a gun. You wouldn't mind indulging us, would you?",18
+LUKESH,"I don't know. I think I ought to talk to my lawyer about that. Look, my heart goes out to your Agent Doggett. But he's confused. It's clear to me that your female agent, Miss Reyes, is responsible for this terrible tragedy.",42
+FOLLMER,Is there someone who can corroborate your story?,8
+LUKESH,No.,1
+SKINNER,"How about your mother? I mean, you live with your mother right?",12
+LUKESH,"She was sleeping, she wouldn't have heard anything.",8
+SKINNER,"Well, still, maybe she can tell us something. Would she be willing to come down here and talk to us?",20
+LUKESH,My mother is in poor health. She gets confused easily.,10
+SKINNER,"Oh, we can go to her",6
+LUKESH,"I won't have you harassing her just because you're afraid to admit that one of your people did this! If you're going to arrest me, do it. Otherwise, I'm going home.",31
+SKINNER,Say hi to mama.,4
+LUKESH,"Agent Reyes, right? What's the matter? Cat got your tongue?",10
+REYES,"How do you do it? You know what I'm talking about, don't you? There's this world, and there's the world where you live out your sick fantasies. When did it start? After your breakdown in 1995? All that anger, it's buttoned up so tight, it had nowhere else to go. It had to get released. Not here. But in a world just like this one.",65
+LUKESH,"God, I enjoyed it. You bled just like a pig.",10
+SKINNER,Reyes?,1
+FOLLMER,You all right?,3
+LUKESH,"Mama, I'm home. Mama, you want your clemato?",8
+LUKESH,Mama. Have you been out of bed? Mama?,8
+MOTHER,"You don't tell me things, Erwin.",6
+LUKESH,I tell you things.,4
+MOTHER,"You sneak out of house in night. You leave me alone all by myself. And then you think that I don't know but I know. I know every time. What is it that you do, Erwin, that you don't tell me?",41
+LUKESH,I don't... I don't do you that. I don't know what you mean.,13
+MOTHER,Why is this gun in my house? I opened the drawer. I don't even know how I even picked it up without it going off and killing me. I was so scared.,32
+LUKESH,Mama...,1
+MOTHER,"If you won't tell me, you will tell the FBI, that's it. Agents at the FBI have left three messages. They want to talk to me? Can you imagine, Erwin, why would the FBI want to talk to me?",39
+MOTHER,What are you doing? Aren't you even going to listen?,10
+LUKESH,You're going to talk to them?,6
+MOTHER,"Well, of course I am, it's the FBI!",8
+LUKESH,Mama.,1
+MOTHER,"Don't turn on the waterworks, Mister, it's not going to wash. I'm the one who's been lied to.",18
+MOTHER,Erwin. What are you doing?,5
+MOTHER,Erwin. What are you doing? Erwin. No...,7
+DOGGETT,MISSED A SPOT>,3
+REYES,"Did not. Anyway, that's what you get for hiring cheap help.",11
+DOGGETT,BEEN THINKING>,2
+REYES,Thinking about what?,3
+DOGGETT,"SOUNDS CRAZY, BUT THINK YOURE RIGHT. 2 DOGGETTS CANT BE IN 1 WORLD. U CAN FIX>",16
+REYES,How?,1
+DOGGETT,PULL THE PLUG.,3
+REYES,Bad joke.,2
+DOGGETT,I GO YOUR DOGGETT COMES BACK. CMON YOUR THEORY SOUND>,10
+REYES,"My theory is sound? You don't believe a word of it, John, not in a million years would you believe. It has nothing to do with my theory.",28
+DOGGETT,DO U BELIEVE?>,3
+DOGGETT,PROVE IT>,2
+REYES,I would do anything for you. Anything but that.,9
+REYES,Reyes.,1
+SKINNER,"It's Skinner, are you okay?",5
+REYES,"Yes, sir, I'm fine.",4
+SKINNER,I can't say the same for Marion Lukesh.,8
+REYES,What happened?,2
+SKINNER,She's dead. It's the exact M.O. Doggett described. It looks like a straight razor was used.,16
+REYES,Lukesh killed his mother. Do you have any idea where he is?,12
+SKINNER,"No. But if everything I've heard is true, he's not going to be easy to find.",16
+REYES,I think he'll find us.,5
+SCULLY,"You all right, Agent Reyes?",5
+REYES,"Just a little jumpy, I guess.",6
+SCULLY,It's understandable,2
+FOLLMER,"Try and take it easy, Monica. We got you covered, coming and going.",13
+REYES,Anything happening out front?,4
+SKINNER,"No, you moved to a quiet neighbourhood. It's dead out there.",11
+REYES,I think I'll check around once more.,7
+LUKESH,"You want to scream right now, don't you?",8
+REYES,Lukesh.,1
+LUKESH,Parked in a van outside was the FBI. Try and scream out 'em. They can't hear you.,17
+SCULLY,Where's she gone?,3
+FOLLMER,"Monica, do you copy?",4
+SKINNER,"Reyes, Agent Reyes, do you read me?",7
+SCULLY,He's in there. He's got to be.,7
+FOLLMER,That's not possible.,3
+SCULLY,And what if it is? Want to stick around to find out?,12
+CUT BACK TO,nan,1
+LUKESH,"You ruined everything, you bitch. You made me! You made me do it.",13
+REYES,Lukesh.,1
+LUKESH,"Shut up! Shut up! But you know what? This time, I get to bleed you slow.",16
+FOLLMER,"You all right? Monica, you all right? It's okay. It's okay. It's over.",13
+DOGGETT,"Monica, forget about the plates, will you?",7
+DOGGETT,What's wrong?,2
+DOGGETT,"Monica, what's wrong?",3
+REYES,"I'm good. Good. In Loving Memory Of RICKY LOYD ARREGUIN January 24, 1985 - September 13, 2001",16

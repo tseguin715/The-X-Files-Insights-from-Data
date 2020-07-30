@@ -1,0 +1,243 @@
+speaker,line,words
+BOY,"Thanks, mister. I'll mail it right off.",7
+BOY,"""Federal Bureau of Investigation?""",4
+TAG LINE,RESIST OR SERVE,3
+CHOPPER PILOT,"Heli-Unit Four responding to Ruskin Dam. We have numerous bodies. Repeat, numerous bodies. We're coming in for a closer look. It looks like some kind of incineration has occurred here. We're looking for survivors. Recommend we get emergency response up here on the double. We'll need medivac and triage facilities. Contact state and federal authorities for possible medical quarantine.",59
+SKINNER,Agent Mulder!,2
+MULDER,Was she here? Is she here?!,6
+SKINNER,"Yes, and medics are all over her.",7
+MULDER,She's alive?,2
+SKINNER,They're working on her now. Come on.,7
+SKINNER,"An SAR chopper pilot found her huddled in the woods this morning with about fifty other survivors. She has minor burns, but her fluids and electrolytes were abnormally depleted.",29
+MULDER,Scully?,1
+AIDE,"She's in vasogenic shock. Unless you gents are doctors, you're in the way. This woman needs to get to a hospital. On three - one... two... three.",26
+SKINNER,"What happened here, Agent Mulder?!",5
+MULDER,The answer just got loaded onto that chopper!,8
+SPENDER,"Can I talk to you, please? Is she here? Was she found?",12
+MULDER,Who?,1
+SKINNER,Agent Spender?,2
+SPENDER,My mother.,2
+DOCTOR,"I'm fairly certain it's not a question of dosage. We've administered three intramuscular injections over the past twenty hours, since we found her on the roadside.",26
+WMM,And you've seen no effect?,5
+DOCTOR,No. It doesn't look good. At all.,7
+SCULLY,Mmmmm... what time is it?,5
+MULDER,What time is it? It's time to thank your lucky stars.,11
+SCULLY,Why are you laughing?,4
+MULDER,"I'm not laughing at you. I'm just very happy to be standing here talking to you, that's all.",18
+SCULLY,"Mulder, what am I doing here?",6
+MULDER,You were airlifted here in vasogenic shock.,7
+SCULLY,From what?,2
+MULDER,You've got some first-degree burns and scorching on your hands and face.,12
+SCULLY,From what?,2
+MULDER,You don't remember?,3
+SCULLY,Mulder...,1
+MULDER,Is any of this coming back to you?,8
+SCULLY,I was there?,3
+SCULLY,Doing what?,2
+MULDER,I was hoping you were going to answer that question for me.,12
+NURSE,"You shouldn't be elevated, Miss Scully, not until we get your blood pressure back. She really needs her rest.",19
+MULDER,I'll come back.,3
+SCULLY,"Well, Mulder...",2
+SPENDER,They didn't find her. She wasn't among the victims. They only found her wheelchair.,14
+MULDER,I'm sorry.,2
+SPENDER,What were you doing with her?,6
+MULDER,What was I doing with her? What makes you think we have anything to do with this?,17
+SPENDER,"My mom's a cripple. She hasn't driven a car for... I don't know how long. They found her wheelchair a hundred and thirty miles from the hospital, where I'm now told Agent Scully was meeting with her prior -",38
+MULDER,Look -,1
+SPENDER,"No, you look! She's my mother. She's not some test subject of yours.",13
+MULDER,Your mother will be found.,5
+SPENDER,All I want is for you to leave it alone. Is that too much to ask?,16
+WMM,You're probably thirsty.,3
+KRYCEK,Remind me to complain to the captain about the service.,10
+WMM,You may have that opportunity. This ship is bound back to Vladivostok tomorrow. I gather there'll be quite an enthusiastic homecoming.,21
+KRYCEK,Do you have the boy?,5
+WMM,"No. Ms. Covarrubias took him. Your alliance with her was as misguided as ours, but it appears she was unaware of the consequences of her deception. You were clever. Infect the boy to ensure infection of anyone who tried to learn what he knows, who would cheat you.",48
+KRYCEK,Then where's the boy?,4
+WMM,Dead. Victim of another mysterious holocaust. Unable now to tell what he knew or saw.,15
+KRYCEK,Then you got no choice but to deal with me.,10
+WMM,I'm afraid there's no deal to be made.,8
+KRYCEK,I'm the only one who knows what those incidents are. What they mean. I know what that boy saw.,19
+WMM,You've as much as told me what I need to know.,11
+KRYCEK,You know nothing.,3
+WMM,If the boy was your trump card why infect him unless you could also cure him with a vaccine developed by the Russians? One that works. It would mean that the resistance to the alien colonists is now possible.,39
+KRYCEK,You're dreaming.,2
+WMM,Do you have the vaccine?,5
+KRYCEK,You need what I know.,5
+WMM,Do you have the vaccine?!,5
+KRYCEK,Give you the means to save Covarrubias after what she did?,11
+WMM,The means to save yourself.,5
+SCULLY,"I don't know what to say. I mean, I - I don't have the first clue. There's nothing here.",18
+MULDER,"Well, at least you're not alone. None of the other survivors have been able to give a cogent account, either.",20
+SCULLY,"Mulder, I have never been here. I couldn't tell you how to get here, let alone drive it.",18
+MULDER,Do you remember when you last saw Cassandra Spender?,9
+SCULLY,"She was there, too?",4
+MULDER,"I ran more x-rays. I haven't told anybody yet what I found, though.",13
+SCULLY,You found more implants?,4
+MULDER,"That would explain how you were directed to the site, and why you can't remember. It would explain the sensation Cassandra Spender was describing, her abduction fantasies. It would explain Skyland Mountain.",32
+SCULLY,"Yeah, but it wouldn't explain why they would want to kill me. And it doesn't explain why I survived.",19
+MULDER,"It all comes down to a question, Scully. One that hasn't been answered or I don't even think honestly addressed. Who made that chip in your neck? That chip was found in a military research facility. Our government made that chip, implanted it in your neck as part of a secret military project to develop a biochemical weapon, to monitor your immunity, or to destroy you like a lab rat, if the truth were to be exposed. Your cancer... your cure... everything that's happening to you now - it all points to that chip. The truth I've been searching for? That truth is in you.",104
+SCULLY,"Mulder, when I met you five years ago, you told me that your sister had been abducted... by aliens. That that event had marked you so deeply, that nothing else mattered. I didn't believe you, but I followed you, on nothing more than your faith that the truth was out there, based not on facts, not on science, but on your memories that your sister had been taken from you. Your memories were all that you had.",77
+MULDER,I don't trust those memories now.,6
+SCULLY,"Well, whether you trust them or not, they've led you here. And me. But I have no memories to either trust nor distrust, and if you ask me now to follow you again, to stand behind you in what you now believe, without knowing what happened to me out there, without those memories, I can't. I won't.",57
+MULDER,"If I could give you those memories, if I could prove that I was right and that what I believed for so long was wrong...",25
+SCULLY,Is that what you really want?,6
+FIRST ELDER,The facial scarrings appear to be self-mutilation done as protection.,10
+THIRD ELDER,Protection against what?,3
+FIRST ELDER,Infection by the black oil. He was the lone survivor of a crashed spacecraft at a military base in West Virginia.,21
+THIRD ELDER,What the hell is he?,5
+WMM,"An alien rebel. This is what the boy saw in Russia. The last face the dead saw at Skyland Mountain, and most surely who killed our man at the dam in Pennsylvania. He's a resistance fighter against the alien colonists. This is what Alex Krycek knew - that a war had begun.",51
+FIRST ELDER,"What good was that knowledge? Without the vaccine against the black oil, no one can survive.",16
+WMM,"We have a vaccine. Developed by the Russians, stolen by Krycek, given to me.",14
+WMM,Do you see what this means? Resistance is possible. We have the weapons and the magic in hand.,18
+FIRST ELDER,We don't know the vaccine works.,6
+WMM,"It will. And if it doesn't, we have a new alliance to be made.",14
+FIRST ELDER,Side with the resistance?,4
+THIRD ELDER,Suicide.,1
+FIRST ELDER,They'll squash us as they do them. We must turn the rebel over.,13
+WMM,"But first, wait till we know the vaccine works.",9
+WERBER,"Hi, Dana. It's nice to meet you again. Are you okay with this?",13
+SCULLY,I'm okay.,2
+WERBER,There are a few things I want to say I didn't touch on over the phone. I'm sure Agent Mulder told you about how this works. Have you ever been hypnotized?,31
+SCULLY,"Uh, once... but I have to be honest with you, I didn't have much luck.",15
+WERBER,"Well, I hope we can do better today. I'm going to be using something a little different. You may have heard of hypnogogic trance, which is just a light trance state where we relax some of the filtering processes. Okay?",40
+WERBER,"I'm going to ask you to go back to the place we talked about on the phone. Just close your eyes and take long, deep breaths, relaxing all parts of your body. Long, deep breaths. Relaxing your hands and your feet. Relaxing your jaw, your pelvis. Long, deep breaths. Back to the ""night place.""",54
+SCULLY (V.O.),I don't think this is working.,6
+SCULLY,"Oh, my God!",3
+SCULLY,"Oh, my God! Oh, my God!",6
+WERBER,"Where are you, Dana?",4
+SCULLY,"Oh... I'm, uh... I'm with the others.",7
+WERBER,"Are you in the ""night place""?",6
+SCULLY,Yes.,1
+SCULLY,"And then... and then it was gone. Oh, oh!",9
+WERBER,"What is it, Dana?",4
+SCULLY,"It's, uh... they're back.",4
+WERBER,Who?,1
+SCULLY,"Oh, they're... they're on fire!",5
+SCULLY,They're setting them on fire. I can't...,7
+WERBER,Who? Who's doing this?,4
+SCULLY,"Their faces, I... they have no faces. I... they have no eyes. Oh, God! They're coming at us!",18
+SCULLY,They're surrounding us! They won't stop! They won't stop! There's... there's another one. There's another ship.,16
+SCULLY,They see it. They were attacking them.,7
+WERBER,"Who were they attacking, Dana?",5
+SCULLY,"The... the faceless men. They're... oh, my God, I can't -",10
+WERBER,Do you want to stop Dana?,6
+SCULLY,"No. Now it's coming at us. Oh, my God! No! Cassandra!",11
+WERBER,Where's Cassandra?,2
+SCULLY,"They're... they're taking her. They're... oh, my God.",8
+SCULLY,I can't...,2
+WERBER,"Dana? Dana, I'm going to stop now. I want you to open your eyes.",14
+SCULLY,No. I...,2
+WERBER,"I want you to open your eyes, Dana, and come on back. Dana, I want you to open your eyes and come on back to us.",26
+SCULLY,Okay.,1
+SCULLY,You've been here the whole time?,6
+SKINNER,"I, uh, reviewed the tape of the session as you requested. I have to say, I wasn't prepared for what I heard on this.",24
+SCULLY,"No, sir. Neither was I.",5
+SKINNER,Agent Mulder?,2
+MULDER,I'm familiar with the regression process and Dr. Werber's work. I've heard hundreds of those types of abduction scenarios.,19
+SKINNER,Well what do you make of this one?,8
+MULDER,"The imagery is startling, but not atypical: bright lights, weightlessness, stolen memory, lost time expressed as a close encounter, an abduction, religious rapture as a kind of dark night of the soul.",32
+SKINNER,Expressed?,1
+MULDER,"Described and then interpreted into a linear narrative, a, uh, gestalt impression of a subjective, nonlinear experience.",17
+SKINNER,And your interpretation?,3
+MULDER,That Agent Scully witnessed a very powerful event. Not unlike the one I described on my regression tape of the false memory of my sister's abduction.,26
+SKINNER,Agent Scully?,2
+SCULLY,"I've listened to the tape several times, and I don't have a clear recollection of what I hear myself saying, but I also don't see any reason why I'd be saying it.",32
+SKINNER,"I've got a problem. And the problem is, I have to head up the investigation into this incident. I don't have the luxury of interpretation. I have to make a report, and that report must state a reason or cite a fact, or at least make an assumption. As I sit here right now, I'm unable to do that. I need to know what happened.",65
+MULDER,It was staged.,3
+SKINNER,To... ?,1
+MULDER,"To test a classified military project, or to cover it up.",11
+SKINNER,Then wha - I wanna know what happened to Cassandra Spender.,10
+MULDER,"Cassandra Spender was taken aboard a military aircraft, as part of the staging.",13
+SKINNER,"Over the past five years I've doubted you, only to be persuaded by the power of your belief in extraterrestrial phenomena, and I'm doubting you now, not because of that belief, but because extraterrestrial phenomena is frankly the more plausible explanation.",41
+MULDER,Then I suggest you put that in your report.,9
+FIRST ELDER,The vaccine has no effect.,5
+WMM,We must give it time.,5
+FIRST ELDER,We must survive first. Survival means collaboration.,7
+WMM,"Turn over the alien rebel, and you turn over any chance of resistance.",13
+FIRST ELDER,It's already been done.,4
+SPENDER,I heard about this office. Really is in the basement. I'm here about my mother.,15
+SCULLY,"Well, we - we don't know anything more.",7
+SPENDER,I spoke with Dr. Werber. He said you'd been to his office.,12
+SCULLY,Did he say why?,4
+SPENDER,"No. He didn't have to. I'm assuming knowing the facts I do, that you're wondering about the possibility of alien abduction. I'm sure you know enough about it. Agent Mulder surely pushed the idea.",34
+SCULLY,"No, actually, Agent Mulder hasn't.",5
+SPENDER,I find that hard to believe.,6
+SCULLY,I thought you were here about your mother.,8
+SPENDER,You went to see her. I'd like to know what you talked about.,13
+SCULLY,We talked about how she was feeling. We talked about a lot of things.,14
+SPENDER,"You talked about abduction, about her experiences? Did you talk about me?",12
+SCULLY,In what way?,3
+SPENDER,I have something here that I think might explain a lot for you.,13
+YOUNG SPENDER,... and there's a bright light. There's people standing around.,9
+SPENDER,That's me. I'm 11 years old.,6
+YOUNG SPENDER,"They're looking up at something in the sky, where the bright light is. I'm starting to cry. I'm really, really scared and I wanna get back in the car, but I can't find my mom. And... then I see her. There's something in the sky, and it's got flashing lights, and it's so bright it hurts my eyes. And then she going up in the sky. And I'm yelling, ""Mommy... mommy... mommy..."" And then I feel my feet, and they aren't on the ground. I'm floating up.",87
+SPENDER,Seen enough?,2
+SCULLY,Is that what you were afraid people would find out?,10
+SPENDER,Yes. But not because it's true. None of this happened.,10
+SCULLY,I don't understand.,3
+SPENDER,"I made it up. Or I should say, my mom did.",11
+SCULLY,She told you to say those things?,7
+SPENDER,Essentially. She told me that story so many times that I believed it. Absolutely. It became a kind of truth and it was really just a substitute.,27
+SCULLY,For what?,2
+SPENDER,"For the fact that my dad had left his family and it drove my mom insane. Only, I was eleven years old and I didn't know it.",27
+SCULLY,"Why are you here, Agent Spender? Why did you show this to me?",13
+SPENDER,Because I think the process is bogus. Dr. Werber and his whole regression of memory is BS. It's like having a dream and then pretending it's real.,27
+SCULLY,I think that Dr. Werber would beg to differ.,9
+SPENDER,"He indulged and infantilized my mother for his own purposes. I think he's dangerous and I think his methods are unsound, and if you went through it, I hope you'd question what came out of it.",36
+SCULLY,"I appreciate your opinion, agent Spender, but I don't have a mother feeding me abduction stories.",16
+SPENDER,"You've got Agent Mulder, don't you? How many times have you heard the stories he's told? How about the one about his own sister?",24
+SPENDER,Don't let yourself be used.,5
+KRYCEK,"You must be losing it, Mulder. I could beat you with one hand.",13
+[NOTE,Krycek lost his arm in 4X10 Terma.],7
+MULDER,Isn't that how you like to beat yourself? If those are my last words I can do better.,18
+KRYCEK,"I'm not here to kill you, Mulder. I'm here to help you.",12
+MULDER,"Hey, thanks.",2
+KRYCEK,"You know, if it wasn't in my best interests, I would just as soon squeeze this trigger.",17
+MULDER,What's stopping you?,3
+KRYCEK,"Hear this, Agent Mulder... listen very carefully because what I'm telling you is deadly serious. There is a war raging, and unless you pull your head out of the sand, you and I and about five billion other people are going to go the way of the dinosaur. I'm talking planned invasion. The colonization of this planet by an extraterrestrial race.",61
+MULDER,I thought you were serious.,5
+KRYCEK,"Kazakhstan, Skyland Mountain, the site in Pennsylvania. They're all alien lighthouses where the colonization will begin, but where now, a battle's being waged. A struggle for heaven and earth.",29
+MULDER,Serve who?,2
+KRYCEK,"No, not who. What.",4
+MULDER,"Krycek, you're a murderer, a liar and a coward. Just because you stick a gun in my chest, I'm supposed to believe you're my friend?",25
+KRYCEK,Get up.,2
+KRYCEK,"I was sent by a man... a man who knows, as I do, that resistance is in our grasp, and in yours. The mass incinerations were strikes by an alien rebellion to upset plans for occupation. Now, one of these rebels is being held captive. And if he dies, so does the resistance.",53
+KRYCEK,"<Good luck to you, my friend.>",6
+MULDER,Come in.,2
+SCULLY,Mulder? What are you doing sitting here in the dark?,10
+MULDER,Thinking.,1
+SCULLY,Thinking about what?,3
+MULDER,"Oh, the usual. Destiny, fate, how to throw a curve ball. The inextricable relationships in our lives that are neither accidental nor somehow in our control, either.",27
+SCULLY,"Well, I've just taken a long walk and I've reconsidered that I may have been wrong about what I believed happened to me.",23
+MULDER,I've been doing some reconsidering of my own.,8
+SCULLY,What is this?,3
+MULDER,"Maybe an answer... to a question you and I seem to have been destined to ask. He walks past her, and she turns to follow.",25
+OFFICER,"Yes, sir?",2
+MULDER,We're federal agents requesting permission to enter the base.,9
+OFFICER,"You have any paperwork to go with that, Agent Muldar?",10
+MULDER,It's Mulder. I wasn't aware that any special authorization was needed to enter.,13
+OFFICER,"Well, due to the nature of our facility and the hazardous chemicals on site, I can only allow precleared civilians and military personnel on base.",25
+MULDER,Are you aware there's been a leak and contamination in one of the labs and the personnel on site need immediate medical attention?,23
+OFFICER,"No, sir, I wasn't.",4
+MULDER,"Why don't you go check on that, son? I'd hate for somebody to die because you were uninformed.",18
+MULDER,"Buckle up, Scully.",3
+SCULLY,"Mulder, he's armed and well within his jurisdiction.",8
+SCULLY,I know this man.,4
+MULDER,Who?,1
+SCULLY,That driver. I know his face.,6
+OFFICER,"Yes, sir.",2
+OFFICER,Stop that truck!,3
+OFFICER,"Get out of the car! You're under arrest. This is west gate. I've got a breach of security and a possible hijacking of a military vehicle. Repeat, this is w -",30
+MULDER,Nooooooooo!,1
+SCULLY,What happened?,2
+MULDER,"I don't know. He covers his face, almost in tears, but she comforts him.",14
+SKINNER,Agent Spender?,2
+SPENDER,"Yes, sir?",2
+SKINNER,I'm sorry. There's been no news about your mother.,9
+SKINNER,"I appreciate your wanting to keep this discreet. I'll try and do that. But you should know Agent Mulder has opened an X-File on this case. This hasn't reflected on you in any way, Agent Spender.",36
+SPENDER,"Thank you, sir.",3
+SKINNER,You'll do fine. It seems you have a patron outside this office who thinks highly of you.,17
+SPENDER,Who's that?,2
+SKINNER,I don't know. Someone working with a high level of influence.,11
+MAIL MAN,"Oh, Agent Spender. Got a letter for you. R. R. #1 North Hatley, Quebec JOB 2C0 Canada and gives it to Spender.",22
+BOY,"Sorry about that, mister.",4

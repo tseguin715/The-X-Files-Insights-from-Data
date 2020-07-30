@@ -1,0 +1,323 @@
+speaker,line,words
+MAN HOLDING FLASHLIGHT,nan,1
+JOHNNY LO,nan,1
+MAN,nan,1
+NIGHT WATCHMAN,Somebody in here?,3
+NIGHT WATCHMAN,Holy Moses.,2
+SCULLY,"What a way to go. Have you seen this MO before, Detective? Men cremated alive?",15
+LIEUTENANT NEARY,Yeah. Third time this year.,5
+MULDER,"Eleventh time, actually. There were three in Seattle, three in Los Angeles and two in Boston, all Chinese men between the ages of 20 and 40. All recent immigrants.",29
+LIEUTENANT NEARY,We weren’t able to determine any of that until just recently. The other two bodies were much more badly burned. We got lucky with this one.,26
+MULDER,Lucky? That’s an interesting word for it.,7
+MULDER,"You got any leads on this case, Detective? Any thoughts or ideas?",12
+LIEUTENANT NEARY,"We’ve had a big influx of immigrants from Hong Kong trying to get out before 1997. And we’ve seen stepped-up gang activity in the Chinese community, but so far we can’t tie these deaths to anyone or anything.",38
+MULDER,You got anybody that can read or speak Chinese?,9
+LIEUTENANT NEARY,"Yeah, Glen Chao. He's right over there. Why?",8
+MULDER,"Will you get him? I want to see if he can, uh, read this for me.",16
+LIEUTENANT NEARY,Sure. Glen.,2
+CHAO,Just a second.,3
+LIEUTENANT NEARY,"Detective Chao. Glen Chao, Agent Mulder.",6
+CHAO,Hi.,1
+MULDER,Hi.,1
+CHAO,What have you got?,4
+MULDER,There's something written up here on the ceiling. I was wondering if you could read it.,16
+CHAO,"Yeah. It says ""gui"". It means ghost.",7
+MULDER,Ghost?,1
+LIEUTENANT NEARY,Does that mean anything to you?,6
+MULDER,"I don't know, but it's something strange for a man being burned alive to write, don't you think?",18
+LIEUTENANT NEARY,Hmm.,1
+MULDER,What's this? Does anybody recognize this? Looks like some kind of foreign currency.,13
+CHAO,It's called Hell Money. It's used as an offering during the Chinese festival of the Hungry Ghosts.,17
+MULDER,Is it worth anything?,4
+CHAO,It's not money per se. It's a symbolic offering to the evil spirits and the ghosts for good luck.,19
+MULDER,Where would I get this … Hell Money?,8
+CHAO,There aren't a whole lot of places in Chinatown that sell it.,12
+MULDER,That's good. Maybe we just found a way to identify the body.,12
+SCULLY,His name was Johnny Lo. He moved here about six months ago from Canton. Still in the INS application process. He was a dishwasher in Chinatown.,26
+MULDER,How many dishes do you have to break before your boss tosses you in an oven?,16
+SCULLY,I think it's pretty clear this is some kind of a horrific cult or gang retribution killing.,17
+MULDER,"Why would he write the character for ""ghost"" on the inside of the crematory oven?",15
+SCULLY,I don’t know.,3
+MULDER,What about the guard seeing three figures that seemed to vanish without a trace?,14
+SCULLY,So now we’re chasing ghosts?,5
+MULDER,Who you gonna call? Ghosts or ancestral spirits have been central to Chinese spiritual life for centuries.,17
+SCULLY,So you're saying that the ancestral spirits pushed Johnny Lo into the oven and turned on the gas?,18
+MULDER,"Well that would sure teach him to respect his elders, wouldn’t it?",12
+CHAO,Hey. I checked all the neighboring buildings. Nobody saw or heard a thing -- Not surprisingly.,15
+MULDER,What does it say?,4
+CHAO,I don't recognize that. It could be idiomatic-- some kind of code.,12
+SCULLY,It's still tacky.,3
+MULDER,Can you copy it down for me?,7
+CHAO,Yeah. Sure.,2
+MULDER,Talk about tacky.,3
+SCULLY,Someone's been here. This place has been cleaned out. Look at this.,12
+MULDER,What's that smell?,3
+SCULLY,Maybe it's this new carpet.,5
+CHAO,Yeah. That's what it looks like.,6
+SCULLY,What slumlord would spring for a new carpet in a dump like this?,13
+MULDER,Looks like they saved some money on carpet tacks and didn’t even bother to replace any of the old padding.,20
+SCULLY,What's this?,2
+CHAO,Chinese herbal medicine.,3
+SCULLY,And what about this?,4
+CHAO,"That's a dried frog. I think they're sometimes used as charms-- good health and prosperity, protection.",16
+MULDER,Looks like Mr. Lo could have used a little of both.,11
+MULDER,Let’s get this blood tested.,5
+KIM,What did you buy?,4
+HSIN,It’s for you. Eat,4
+KIM,Stay and have tea with me.,6
+HSIN,I have to go out.,5
+KIM,Where?,1
+HSIN,To see someone.,3
+KIM,Always seeing people … What kind of people?,8
+HSIN,I have business to make money so you can get well.,11
+KIM,You can go tomorrow.,4
+HSIN,Money can pay for doctors.,5
+KIM,The doctors say the operation cost too much money.,9
+HSIN,Don’t talk like that.,4
+TILE MAN,nan,1
+TILE MAN,Li Di-Huan! Li Di-Huan!,4
+VASE MAN,Xin!,1
+SCULLY,I couldn't tell you what any one of these things are.,11
+CHAO,"Well, they're roots, mostly like ginseng, turmeric. Then you got your more exotic stuff-- bear gall bladder, snake, shark fin-- usually prepared in a soup or a tea.",28
+MULDER,What had the victim been using?,6
+CHAO,nan,1
+DR WU,nan,1
+CHAO,She says that it’s skullcap root and Chinese angelica. They’re used for painkillers.,13
+SCULLY,Does she remember Johnny Lo or remember selling it to him?,11
+CHAO,nan,1
+DR WU,nan,1
+MULDER,Ask her if she knows he’s dead.,7
+CHAO,nan,1
+DR WU,nan,1
+MULDER,Ask her if she recognizes those characters that were painted on his door.,13
+CHAO,nan,1
+DR WU,nan,1
+SCULLY,What was that about?,4
+CHAO,She says that the house was branded a xiongzhai. A haunted house.,12
+MULDER,Haunted? You mean by ghosts?,5
+CHAO,"Yeah. It's hard to give an exact translation, but it's what I was telling you about before. The Chinese Yu Lan Hui-- the Festival of the Hungry Ghosts.",28
+CHAO,"You see, on the 15th day of the seventh moon in the Chinese calendar it's believed the gates of hell are opened and the ghosts of unwanted souls roam the earth. Now, believers protect themselves by leaving gifts of food and hell money outside their homes to appease the ghosts. To keep them from coming inside and causing trouble.",59
+CHAO,But for some spirits-- the ghosts most feared by the Chinese-- there's no buying them off. The Preta-- the ancient ghost of a murdered man who wanders the earth exacting its revenge on the living.,35
+CHAO,Or the wu jiung gui who collect the souls of doomed men and drag them down to Ti Yu... the Chinese hell.,22
+MULDER,You think these murders could be related?,7
+CHAO,It makes sense. This year's festival is just about over.,10
+SCULLY,"What about you, detective? Do you believe in Yu Lan Hui?",11
+CHAO,"I find it hard to argue with 2,000 years of Chinese belief -- the stuff my parents and grandparents believe in. But the truth is, I’m more haunted by the size of my mortgage payments.",34
+NIGHT WATCHMAN,Hey! What are you doing? What the hell...?,8
+LIEUTENANT NEARY,The night patrolman described three men wearing the same masks as the ones ID’d at the crematory.,17
+SCULLY,What were they doing here?,5
+LIEUTENANT NEARY,We don't know exactly. They were spotted around this grave over here but we can't figure out exactly what they were up to.,23
+MULDER,Is this a newly dug plot?,6
+LIEUTENANT NEARY,Yeah. There's a burial here at noon tomorrow.,8
+MULDER,Chinese?,1
+LIEUTENANT NEARY,"I don't know. We can check. Chao, see if you can get the name of the future occupant here.",19
+SCULLY,I still don't understand what anybody would want with an empty grave.,12
+LIEUTENANT NEARY,What the hell's he doing?,5
+MULDER,Something just occurred to me. Looks like somebody was trying to get two burials for the price of one.,19
+MULDER,What did you find?,4
+SCULLY,A lot. And I haven't even finished my preliminary visual exam. Look at this. This guy's like a jigsaw puzzle. These are all surgical incisions and judging by the color of the scars I’d say they were all made within the last year.,43
+MULDER,What was wrong with him?,5
+SCULLY,"If you ask me, nothing.",5
+MULDER,Nothing? What do you mean?,5
+SCULLY,"Do you know how much the human body is worth, Mulder?",11
+MULDER,Depends on the body. I don't know. A few bucks. How much?,12
+SCULLY,It's worth a fortune.,4
+MULDER,You're saying that this guy was selling his body parts for money?,12
+SCULLY,"A kidney, a portion of the liver, a cornea bone marrow... A person can lose these things and live to cash his social security checks.",25
+MULDER,He won't be cashing any social security checks any time soon.,11
+SCULLY,"No, but if I’m right this is one man who left his heart in San Francisco.",16
+MULDER,"Scully, even if you're right, it doesn't figure. There's no long-term business sense to dying. What connection does this have to the crematory deaths?",24
+SCULLY,"I only saw one body, but the only thing that wasn't burned to a delicate crisp on Johnny Lo was his glass eye.",23
+SCULLY,"Oh, God.",2
+TILE MAN,Hsin Shuyang! Hsin Shuyang!,4
+VASE MAN,Gan!,1
+CHAO,What's this?,2
+SCULLY,Maybe you can tell us. It was found in the body cavity of the man who was dumped in the grave.,21
+CHAO,This?,1
+SCULLY,You said the frog was a symbol of luck and prosperity. Unless this is somebody’s sick joke I’d say it must have another meaning.,24
+CHAO,"Well, if it does, I don't know what it is. I mean, it could be some kind of... Triad symbol. Something from organized crime.",24
+SCULLY,Maybe you can tell me this: have you heard any word on the street about the black market selling of body parts?,22
+CHAO,"What? Here, in Chinatown?",4
+SCULLY,"This man with the frog in his chest was missing a cornea and a kidney. They were taken prior to the time of death before the final removal of his heart. And I found what is known as ""sterile ice"" on the skin in and around the incision on his chest. It is a substance that is used to preserve human organs for transplant.",64
+CHAO,I don’t even know where to start.,7
+MULDER,"Well, we’re gonna need more help from you than that, Detective.",11
+CHAO,The implication being that I’m not trying to help?,9
+MULDER,No.,1
+SCULLY,Either you resent us being here or you feel some kind of protectiveness towards the Chinese community.,17
+CHAO,"Look you don’t even know what the hell you’re dealing with here. This isn't some pretty little lacquer box you can just take the lid off and find out what's inside. You might see the face of a Chinese man here but let me tell you something -- they don't see the same face. They see the face of a cop... American-born Chinese, ABC. To them, I’m just as white as you are.",72
+CHAO,You think because I speak the language I can get all your answers for you but what good is an interpreter when everyone speaks the language of silence?,28
+MULDER,What's this?,2
+CHAO,It's the name of the company that installed the carpet in Johnny Lo’s apartment. I just happened to run across it while I was sitting there twiddling my thumbs. You coming or not?,33
+HSIN,nan,1
+CHAO,I'm detective Chao with the San Francisco police. Could we have a word with you?,15
+HSIN,I'm late for work.,4
+CHAO,"It'll only take a minute. Could we come in, please?",10
+SCULLY,"Mr. Hsin, can I ask what happened to your eye?",10
+HSIN,Accident at work. Carpet tack.,5
+MULDER,"How long have you lived in this country, Mr. Hsin?",10
+HSIN,Three years.,2
+MULDER,You live here alone?,4
+HSIN,My daughter.,2
+SCULLY,"Mr. Hsin, you laid a carpet in an apartment that was occupied by a man named Johnny Lo.",18
+HSIN,I... Don't know the name. The-the man I work for tells me address only.,14
+SCULLY,We contacted the man that you work for. He said it must have been a job you took on the side. He has no record of a work order.,29
+HSIN,What was the name of the man who lived in this apartment?,12
+SCULLY,His name was Johnny Lo. He's dead now-- murdered-- and we think that the carpet was laid in an attempt to cover up evidence. Now your employer says ….,29
+KIM,Where is my father?,4
+CHAO,He is here.,3
+KIM,Who are you?,3
+CHAO,I’m just here asking him some questions.,7
+SCULLY,Do you remember who called you about the job?,9
+HSIN,I don’t know any of this.,6
+MULDER,"Thank you, Mr. Hsin. If we need you, we'll get back to you. Okay? Thank you.",16
+SCULLY,What’s up?,2
+MULDER,I’ll tell you in a minute.,6
+MULDER,What was that about?,4
+CHAO,He has the back window blocked up. Told him it was a firetrap.,13
+MULDER,You know what this is?,5
+CHAO,No.,1
+MULDER,Do you know what it says?,6
+CHAO,"It’s the character for ""wood.""",5
+MULDER,Wood?,1
+CHAO,Yeah. Why? What are you thinking?,6
+SCULLY,That this guy didn’t have an accident at work.,9
+MULDER,He’s missing his eye and I’d like to know how he lost it.,13
+SCULLY,I say we monitor Hsin’s every movements.,7
+MULDER,"I doubt they’re to the ophthalmologist, though.",7
+KIM,Papa? Are you in some kind of trouble?,8
+HSIN,"What are you doing? Go right back to bed … Go now, go now.",14
+KIM,What happened to your eye?,5
+HSIN,Nothing. I had an accident.,5
+KIM,What kind of accident?,4
+HSIN,"A work accident, that’s all.",5
+KIM,"Last night when you got off work, nothing was wrong. You hurt it afterwards.",14
+HSIN,It’s no business of yours! Do you understand?,8
+KIM,"No, I don’t understand.",4
+HSIN,How will you get well? How will you get well if we don’t have the money for the doctor?,19
+KIM,What would I do if something happened to you? I’m just worried about you …,15
+HSIN,I wake up every day and worry. Have I made a mistake? Am I being foolish? Do our ancestors scorn us for leaving our home? Is that why you are sick now?,32
+KIM,You’re not to blame.,4
+HSIN,"Who is to blame? If you can’t help, who’s the one to blame if not me?",16
+SCULLY,Look like you just saw a ghost.,7
+MULDER,"No, I’m just a little tired, jumpy. One more string of firecrackers goes off, I’m going to get out of the car and shoot somebody.",25
+SCULLY,"He hasn’t left his apartment, has he?",7
+MULDER,"No, but I’m glad you’re here ‘cause I was just about to go and ask Mr. Hsin if I could use his bathroom.",23
+SCULLY,"Well, you can use the one down at St. Francis’ Hospital.",11
+MULDER,What do you mean?,4
+SCULLY,Detective Chao was attacked in his town house tonight. I just talked to Lieutenant Neary. He says he’s cut up pretty bad.,22
+MULDER,Who cut him?,3
+SCULLY,"I don’t know, but I think we should go check it out.",12
+HSIN,Who is it?,3
+HARD-FACED MAN,You know who it is.,5
+HARD-FACED MAN,I did not receive your payment.,6
+HSIN,I want out.,3
+HARD-FACED MAN,You want out of the game?,6
+HSIN,I quit.,2
+HARD-FACED MAN,"You’ve been luckier than most. All this time and one bad draw. Most men would be happy to trade places with you. The pot is almost two million dollars. One draw, Mr. Hsin. One draw and maybe you’ll win more than I did.",43
+HSIN,But maybe I’m not so lucky.,6
+HARD-FACED MAN,The money could help to save your daughter’s life.,9
+HSIN,But maybe I’m not so lucky. Maybe my daughter will die with no father at her side. Alone with strangers.,20
+HARD-FACED MAN,You have to keep playing. You know the rules. No one talks about the game. No one leaves the game,20
+HSIN,But my daughter …,4
+HARD-FACED MAN,"Those are the rules. They cannot be broken, or it’s said that the Prata and the fires of Ti Yu will consume you.",23
+HSIN,Please! I beg you.,4
+HARD-FACED MAN,It is not my choice.,5
+SCULLY,How is he?,3
+LIEUTENANT NEARY,He’s gone. I got down to see him. He’s not in his bed.,13
+MULDER,Did anybody see him get up?,6
+LIEUTENANT NEARY,The nurse said they just finished sewing him up. That he got up to go to the bathroom. That's the last anybody saw of him.,25
+SCULLY,Why would he just take off?,6
+MULDER,Can I see his chart?,5
+LIEUTENANT NEARY,His chart?,2
+MULDER,Yeah.,1
+LIEUTENANT NEARY,"Sure, I guess.",3
+SCULLY,You want to see what his injuries were?,8
+MULDER,I want to see what his blood type was.,9
+SCULLY,His blood type?,3
+MULDER,Why would he run?,4
+SCULLY,You think Chao’s involved?,4
+MULDER,Maybe all this heel dragging's a diversion. That ghost story's a ruse. What was the hemotype of the blood we found on the carpet padding? Thank you.,27
+SCULLY,"Uh, O-negative.",2
+MULDER,"Glen Chao, O-negative. Well, that's a coincidence.",7
+LIEUTENANT NEARY,Wait a minute. What are you saying?,7
+SCULLY,That the blood that we found on the carpet padding in the victim's apartment was Detective Chao’s.,17
+MULDER,And I’d be willing to bet that he's the one who asked for it to be installed.,17
+SCULLY,Mr. Hsin.,2
+MULDER,Yeah. That conversation they had wasn't about any firetrap.,9
+SCULLY,We're looking for Mr. Hsin. Is he home?,8
+KIM,No. I'm sorry.,3
+SCULLY,Are you his daughter?,4
+KIM,Yes.,1
+SCULLY,May we talk to you?,5
+MULDER,"What's your father involved in, Kim?",6
+KIM,I don't know. He goes out. I know he does it for me. Because of me.,16
+SCULLY,"You're sick, aren't you?",4
+KIM,"Um, I was diagnosed with acute lymphocytic leukemia six months ago.",11
+SCULLY,But that's a treatable form of cancer.,7
+KIM,"We have no money or insurance. And now, I fear that my father has done something illegal, that he made a mistake and something bad is coming.",27
+MULDER,Who are these men that come to visit your father?,10
+KIM,"Oh, I don't know them. I just know my father say he want out. He want out. But of what, I don't know.",23
+MULDER,Do you know what this is?,6
+KIM,No.,1
+MULDER,Do you know what it says? I found it … over there by the TV before.,16
+KIM,"It is, uh, the symbol for wood but in Chinese, it also correspond to the eye like fire to the heart, and earth to the flesh.",26
+SCULLY,This is a human leukocyte work-up. Was your father rejected as a bone marrow donor?,15
+KIM,Yes. Several months ago.,4
+SCULLY,"This is from the Organ Procurement Organization. It’s dated only a month ago. Your father had an HLA but he also had his kidneys measured, his liver.",27
+MULDER,They’re playing some kind of game.,6
+NURSE,Agents Mulder and Scully?,4
+SCULLY,Thanks. We need some information and we need it as soon as possible.,13
+NURSE,What kind of information?,4
+SCULLY,You had a man come in here named Shuyang Hsin. He had an HLA work up and ….,18
+NURSE,I think I may know what this is about.,9
+MULDER,What?,1
+NURSE,We’ve seen a number of Asian men come in for typing and antigen work-ups but when we find a compatible recipient for them their doctor says they've left the area or disappeared.,32
+MULDER,Do you have a name or a phone number for this doctor?,12
+VASE MAN,Hsin Shuyang. Hsin Shuyang.,4
+MULDER,"311 Porter, right.",3
+SCULLY,Yeah. That’s where the doctor’s phone is registered.,8
+MULDER,"Hey Scully, look who’s here. This must be the place, after all.",12
+VASE MAN,Xin!,1
+MULDER,It’s definitely not Chinese food I’m smelling.,7
+MULDER,It smells like rubbing alcohol.,5
+SCULLY,Or sterile ice.,3
+MULDER,What’s this?,2
+TILE MAN,What are you doing?,4
+CHAO,I can’t let you do this.,6
+TILE MAN,"You’ve been warned once, Chao. There will be no more warnings.",11
+CHAO,Let him go. His daughter is dying. You are killing two people. Not one.,14
+TILE MAN,"That is the game, Mr. Chao. Those are the risks. You are just as much a part of it. We paid you well to protect the game from the foreigners.",30
+CHAO,Then this game …. … is over!!!,7
+CHAO,They’re all the same. This game is fixed.,8
+SCULLY,What is that?,3
+MULDER,It sounds like it’s coming from upstairs.,7
+HSIN,Forgive me. I beg you to forgive me.,8
+HARD-FACED MAN,They forgive you.,3
+CHAO,Step away.,2
+HARD-FACED MAN,You’re too late.,3
+CHAO,I said step away!,4
+HARD-FACED MAN,Chao. Don’t be a fool!,5
+MULDER,Chao? Hands in the air. Hands in the air!,9
+SCULLY,He’s still alive.,3
+HARD-FACED MAN,Chao. You should have killed me.,6
+MULDER,What did he say?,4
+CHAO,He said … the game’s not over.,7
+HARD-FACED MAN,"My people live with ghosts. The ghosts of our fathers and our fathers' fathers. They call to us from distant memory, showing us the path.",25
+SCULLY,"No ghosts called to those men. You did, by preying on their hopelessness and their desperation.",16
+HARD-FACED MAN,Yes-- they were desperate. Just as I was desperate when I first came to this country but I committed no crime.,21
+SCULLY,You cheated them out of life by promising them prosperity when the only possible reward was death.,17
+HARD-FACED MAN,"In my belief, death is nothing to be feared. It's merely a stage of transition but life without hope-- now, that's living hell. So, hope was my gift to these men. I don't expect you to understand.",37
+SCULLY,I understand this. You are going to prison for a very long time.,13
+MULDER,Can I talk to you for a minute?,8
+MULDER,I just got back from St. Francis Hospital. Hsin's still in intensive care.,13
+SCULLY,What about his daughter?,4
+MULDER,I checked with the donor procurement organization. She’s been put on the recipient list.,14
+SCULLY,That's great.,2
+MULDER,Yeah.,1
+SCULLY,What's wrong?,2
+LIEUTENANT NEARY,It’s our case against this guy. We've had our task force interviewing everybody we busted at the gaming parlor that night.,21
+SCULLY,And?,1
+MULDER,They put up a wall of silence. They all claim to be members of some social club. That they saw nothing.,21
+SCULLY,What about Chao? His testimony would be enough.,8
+LIEUTENANT NEARY,We can't find him.,4
+MULDER,"He was supposed to testify before a grand jury this morning. When he didn't show, they went to his home. He's vanished. Like a ghost.",25

@@ -1,0 +1,229 @@
+speaker,line,words
+CHASE,"Pick up. Pick up the phone. Look, I don't know what that bitch told you but I'm solid. She's lying to you. Check her right-hand desk drawer. It's all there, the whole story. Pick up, man. Call him off. Hey, let's talk about this, alright. Give me a chance to explain.",51
+CHASE,Help me. Somebody wants to kill me.,7
+OFFICER,Who wants to kill you?,5
+CHASE,Please help me.,3
+OFFICER,"Hold on, don't do that, guy. Now, you calm down.",10
+CHASE,"Please, you've got to stop him. He's out there. We have to get him before he gets me.",18
+OFFICER #1,"Hey, get off.",3
+OFFICER #2,Take him down! Take him down!,6
+CHASE,Let me go. He's going to kill me!,8
+OFFICER #1,"Take it easy. Relax, now. Settle down.",7
+CHASE,No. This isn't enough. I'm not safe in here.,9
+OFFICER #1,"Hey, buddy, you've never been safer in your life, OK? Just relax.",12
+CHASE,He can get me in here.,6
+OFFICER #2,I'll go call Social Services.,5
+OFFICER #1,Right.,1
+CHASE,It's not enough. He can get to me.,8
+SCULLY,"They've identified it as 9mm pistol ammunition, teflon-coated armour-piercing. Single round. He was shot, there's no doubt about that.",19
+DOGGETT,"Well, I assume the million dollar question is how.",9
+SCULLY,"Yeah. Well, what do we know about the victim?",9
+DOGGETT,CARLTON CHASE. Aged 39. Well-to-do realtor. Single. Lived in the area all his life. Nothing but parking tickets on his record. Came tearing in here last night saying someone was going to kill him.,34
+SCULLY,He was right.,3
+DOGGETT,Except I don't see any bullet holes in the walls.,10
+SCULLY,Looks to have entered through the top of his head.,10
+OFFICER,"Agents, thanks for coming down so quick. Al Trugero.",9
+DOGGETT,John Doggett.,2
+OFFICER,Nice to met you.,4
+DOGGETT,Agent Scully.,2
+OFFICER,Agent.,1
+SCULLY,Hi.,1
+OFFICER,I'd appreciate any help you can give us. We've got this much figured out so far.,16
+DOGGETT,The bullet came through the airvent.,6
+OFFICER,"Yeah, that's how it's lookin'. There's a little burr on this louver right here where the bullet passed through. You can barely see it, but it's there. So, I'm thinking this is where the killer hid. He somehow crawled into this ventilation system and from here he had a clear line of sight to shoot Chase below.",57
+DOGGETT,Did anyone hear a gun shot? Seems pretty likely you'd hear one even with a silencer - it's going to echo through the duct-work.,23
+SCULLY,What's directly above this?,4
+OFFICER,I don't understand. How could someone make that shot from here?,11
+SCULLY,He didn't make it from here. Can I use your pencil?,11
+OFFICER,Sure.,1
+SCULLY,Captain! We're going to need your crime scene investigators up here.,11
+OFFICER,You got it.,3
+DOGGETT,"So, lucky shot?",3
+SCULLY,"Very. But this victim here stated that he was going to be killed just moments before he was shot, which doesn't sound lucky at all.",25
+DOGGETT,Guess I can't argue with that.,6
+SCULLY,What have you got there?,5
+DOGGETT,"An old Godfather trick. Wrap a towel around a pistol, muffle the sound. The killer was up here all right. So how in hell did he make that shot?",29
+SCULLY,"Well, there's thermal imaging technology which can pick up body heat through walls. Maybe that's what allowed him to aim.",20
+DOGGETT,"We field-tested that in the Marines. Weighs close to 90 lbs. Has to be cooled with liquid nitrogen. I can't quite see somebody lugging it up that ladder we just climbed. Either way, the rooftop of a police station? It's a pretty ballsy place for a hit.",47
+CHASE,"Pick up. Pick up the phone. Look, I don't know what that bitch told you but I'm solid. She's lying to you. Check her right hand desk drawer, it's all there. The whole story...",34
+DWIGHT,What are you doing.,4
+TAMMI,"My, um, printer cable was loose.",6
+DWIGHT,And that's more important than coffee? Any messages?,8
+TAMMI,No.,1
+DWIGHT,"Well, the light's blinking. Looks like a message to me. You gonna play it or what? Stupid ain't cute damn you, I don't care what your momma says.",28
+ANSWERPHONE MESSAGE,"Yeah, I got like rats, again. I need you to get them all this time. 1806 Brook Valley Turnpike. Last name Allesandre. You've been here before.",26
+TAMMI,DWIGHT.,1
+DWIGHT,"Yeah, I got it.",4
+TAMMI,No. Look. Did you hear the news this morning? About Carlton Chase? I thought it was pretty scary.,18
+DWIGHT,Try and get Randall on the phone.,7
+TAMMI,Randall. Your brother wants to see you.,7
+DWIGHT,"RANDALL! You avoiding me? Tammi told you I wanted to talk to you, right? You wanna tell me what happened last night?",22
+DWIGHT,"Look, Randall, I'm not mad at you necessarily. But I need to know exactly what happened. Any time you decide to do something without telling me first, you could get us both into trouble.",34
+RANDALL,I saw him stealing.,4
+DWIGHT,Carlton stealing from me?,4
+RANDALL,Yeah.,1
+DWIGHT,"He was skimming. So, where's the money that he was skimming?",11
+DWIGHT,"You see, the thing of it is, Randall - you get the money, then you do your thing. It's a simple equation. That's what I'm talking about when I say you need to talk to me first. It'll probably be OK but in the future let's keep the communication lines open. One hand talks to the other, right?",57
+DWIGHT,"I brought you a sandwich. Meat loaf the way you like it. Go on, take it, it's got ketchup.",19
+RANDALL,Going out tonight?,3
+DOGGETT,The police station's less than a mile from here.,9
+SCULLY,Chase ran it on foot. He said that somebody was after him. This is probably where it all started.,19
+SCULLY,Oh.,1
+DOGGETT,What's that?,2
+SCULLY,CHASE did a lot of business with an exterminating company called Triple-A-1 Surekill. Six jobs in one month.,18
+DOGGETT,I didn't know that was a requirement of selling a house.,11
+DOGGETT,Agent!,1
+DOGGETT,It's a 45. The bullet that killed Chase at the police station was a 9mm.,15
+DOGGETT,"You know, Elvis used to do this to his hotel rooms.",11
+SCULLY,I think Carlton Chase did this.,6
+DOGGETT,"So who was he shooting at? If it was someone in this room, he damned sure would have hit 'em.",20
+SCULLY,Unless it was someone outside.,5
+DWIGHT,Evening.,1
+MAN 1,What? You lost?,3
+DWIGHT,Nope. I think this must be the place.,8
+MAN 1,You a cop?,3
+DWIGHT,"Hell, no. No, your secret's safe with me fellas. But I will be taking that money off your hands, and the dope.",22
+MAN 1,"Oh, you're funny. Now, you know what? Chris Rock is funny. And you? You're just dead.",16
+MAN 2,"Nah, cap his ass.",4
+DWIGHT,Bang.,1
+DWIGHT,Bang.,1
+DWIGHT,Bang.,1
+DOGGETT,Thanks.,1
+DOGGETT,"So which kind of shooting was this? Lucky, coincidental, or some third alternative?",13
+SCULLY,"Well, it's precision marksmanship, that's for sure. These holes line up perfectly with the three victims behind there, which tells me that the shooter was standing right here behind this wall.",31
+DOGGETT,Consequently he wouldn't be able to see what the hell he was aiming at.,14
+SCULLY,"Unless he could see. The light our eyes can register is only one small portion of the electromagnetic spectrum. Other wavelengths from infra-red to gamma have other properties. X-rays, for instance, can pass through solid objects.",36
+DOGGETT,"Walls, for example. So, you saying this guy used some kind of X-ray machine.",14
+DOGGETT,"Wait, you, you're not saying this guy has X-ray vision?",10
+SCULLY,"I am *remarking* that these wavelengths exist and the only thing that is stopping us from seeing them, if you will, is the biochemical structure of our eyes. I am *conjecturing* that if this structure was somehow different we'd have the ability to see things that we don't.",48
+DOGGETT,Call in Clark Kent.,4
+SCULLY,"OK, so you explain it.",5
+DOGGETT,Well I can't so I'm sticking to what I do know.,11
+SCULLY,Which is?,2
+DOGGETT,"This was a drug rip-off. Furthermore, it's the fifth drug rip-off in this area for the past two months. This guy's making a living capping local drug dealers.",28
+SCULLY,And how does a dead real estate agent figure into that?,11
+DOGGETT,"Now, that I don't know - yet, but I did find out one more thing. Sulphuryl fluoride.",16
+DWIGHT,Got a moment to see me in my office?,9
+TAMMI,Dwight. I need to get this to the bank.,9
+DWIGHT,That can wait.,3
+TAMMI,Can't you tell your brother to get some lunch or something at least? He's practically right outside the door.,19
+DWIGHT,I'll keep the noise level down if you will.,9
+TAMMI,I always feel like he's watching me.,7
+DWIGHT,How's he watching you now?,5
+SCULLY,Hello?,1
+DOGGETT,Anybody here?,2
+DWIGHT,Yeah.,1
+DOGGETT,Agents Doggett and Scully. FBI.,5
+DWIGHT,Dwight Cooper. What can I do for you?,8
+DOGGETT,"Mr. Cooper, do you recognize these?",6
+DWIGHT,Well I don't recognize much anything except shapes. Tammi! Tammi! Come look at these for me.,16
+DWIGHT,I got bad peepers. Legally blind since birth. These look familiar?,11
+TAMMI,These are ours. Last month's billings for Mr. Chase.,9
+DWIGHT,Oh. Carlton. He was one of my best clients. I sent him a ham every Christmas till he finally told me he was a Jew. He was a nice guy.,30
+DOGGETT,We found some evidence at a crime scene. A piece of fabric on which we found traces of a chemical - sulphuryl fluoride.,22
+SCULLY,It's an insecticide used only by licensed exterminators.,8
+DWIGHT,"Yeah, it's good stuff. We use it. Along with about 200 other outfits in Central Mass.",16
+DOGGETT,"You've done time, haven't you?",5
+DWIGHT,"Yeah, a long time ago. Now my brother and I are actually members of the Worcester Chamber of Commerce, if you can believe that one. Anything else?",27
+DOGGETT,"Yeah, why did Carlton Chase call this office 14 minutes before he was murdered?",14
+SCULLY,8:34p.m. We found a call to your office billed on Mr. Chase's calling card. It was made from a payphone not far from where he was murdered.,27
+DWIGHT,Wow. I don't know what to tell you. We are all gone home by that time and there wasn't any message on our machine.,24
+DOGGETT,All right. We'll be in touch if we have any further questions.,12
+DWIGHT,Tammi. What do you know about that? About Carlton calling here.,11
+TAMMI,"He, I guess he must have left a message.",9
+DWIGHT,"Well, what did it say?",5
+TAMMI,I didn't hear it. I was reaching for the play button and I hit the erase button by mistake. I should have told you. I was just afraid that I lost us some business maybe.,35
+DWIGHT,"Come here, baby.",3
+DWIGHT,"You know I can't see worth a damn. That's when I have a look at your eyes. The eyes are the windows of the soul. They tell you everything you need to know about a person. So tell me, are you lying?",42
+TAMMI,"I'm not, Dwight.",3
+DWIGHT,That's all I needed to know.,6
+DOGGETT,Dwight Cooper. Arrested in 1986.,5
+SCULLY,For Grand Theft Auto.,4
+DOGGETT,Right. How does a legally blind guy steal a car?,10
+SCULLY,I assume he had a partner doing the driving.,9
+DOGGETT,The brother he mentioned - Randall Cooper.,6
+DOGGETT,They were arrested together. Although Randall apparently didn't serve much time.,11
+SCULLY,They share the same birthday. They're twins.,7
+DOGGETT,They ain't twins. Twins never rat each other out.,9
+SCULLY,"Well, maybe there's someone in that office who will.",9
+(CUT BACK TO,RANDALL's face.),2
+DWIGHT,"Hey, Tammi, you're in early.",5
+DWIGHT,Know you accidentally left your car running? You must have been in a real hurry to get in here to make the coffee. What you got there? Can I see?,30
+DOGGETT,Dwight Cooper. Warrant to search. Have someone read it to you.,11
+DWIGHT,What the hell are you looking for?,7
+DOGGETT,"Evidence relating to the murder of Carlton Chase, at all. What's in the box?",14
+DWIGHT,You got me.,3
+DOGGETT,What's the combination?,3
+TAMMI,I don't remember.,3
+DOGGETT,So much for the easy way.,6
+DWIGHT,"You owe me for that. You know, I run a clean business here. You're not going to find anything that's going to say otherwise.",24
+SCULLY,"I wouldn't be so sure. Can you explain these, Mr. Cooper?",11
+DOGGETT,You want to tell me about these invoices?,8
+SCULLY,"OK Randall? Let's talk about your exterminating company. There's just the three of you, right? You and your brother and Tammi Peyton?",22
+SCULLY,"So, how is it that your little company billed over $700,000 to Chase Realty last year?",16
+SCULLY,Seven hundred thousand. That's a lot of dead rats. I think that you and your brother and Carlton Chase were in a whole other business together.,26
+DOGGETT,"You know, I gotta get into the bug business. I had no idea you could make so much dough killing things that creep around behind walls.",26
+DOGGETT,You are quite the entrepreneur.,5
+DWIGHT,I'm just a regular Joe. Providing a public service.,9
+SCULLY,Randall?,1
+SCULLY,Is that what your brother just said to Agent Doggett?,10
+SCULLY,"You know why I said that, don't you? Because somehow you can see through that wall. You can see your brother behind me and you can read his lips. I don't know what gives you the ability but I know how you use it. You shoot drug dealers from places where they can't see you and then you and Dwight rob them. That's how you make all that money, isn't it?",71
+RANDALL,No. We're exterminators.,3
+SCULLY,"Yeah. You certainly are. And talking to you now, I think that the whole thing is Dwight's idea. It's time to be your own man, Randall. It's time to think for yourself.",32
+DWIGHT,You tell them anything?,4
+RANDALL,"No, I said what you said.",6
+DWIGHT,"Well, we got a problem. It needs to be taken care of.",12
+TAMMI,I just keep the books.,5
+DOGGETT,"You keep the books and a whole lot of blood money going through that office. Now, come on - we're supposed to believe you didn't know what was going on - the drug rip-offs, the murders?",34
+SCULLY,Look. Here's where I get confused and I am hoping that you can help me out. Carlton Chase.,18
+DOGGETT,"We think Chase was Dwight's fence. He sold the drugs your boss stole. Together they had a good thing going, so why was CHASE killed? Seems like bad business.",29
+SCULLY,Unless the reason wasn't business. Unless it was personal.,9
+TAMMI,Am I under arrest?,4
+DOGGETT,Tammi Peyton's phone records. Found something interesting.,7
+SCULLY,Calls to Carlton Chase.,4
+DOGGETT,All of 'em late night. What you want to bet they weren't discussing escrow accounts.,15
+(CUT BACK TO,Police Station.),2
+SCULLY,So Dwight Cooper learns that something's going on between his girl friend and Carlton Chase.,15
+DOGGETT,"And he kills him, or he orders him killed assuming Randall's the trigger man.",14
+SCULLY,Maybe not.,2
+DOGGETT,What do you mean?,4
+SCULLY,Maybe Dwight's not the one who's jealous.,7
+(CUT BACK TO,TAMMI and RANDALL. RANDALL turns to look at TAMMI.),9
+TAMMI,I know it was you. You still need help Randall.,10
+TAMMI,"Well I made a reservation for the three o'clock bus. You gonna wait for me? It's right over there The Big Sky Express. Be back right after I get the money. I know you took that book to protect me from Dwight. I need my book, Randall. I can't get my money without it.",54
+TAMMI,"I'll be back in half an hour, OK? I'll meet you by the bus. Randall, you know I'm coming back, you saved me from Carlton. I owe you. Randall? I'll meet you by the bus.",35
+SCULLY,Clothes are gone. Tammi left in a hurry. Maybe she thought someone was after her.,15
+DOGGETT,"If someone's after you, you don't pack, you leave with what you're wearing.",13
+SCULLY,You think she planned to go?,6
+DOGGETT,I do. The question is where.,6
+SCULLY,Who are you calling?,4
+DOGGETT,Whoever Tammi called last.,4
+AUTOMATED MESSAGE,"Welcome to Concordia Bus Lines. Our menu options have changed. For Reservations, Press 1.)",14
+DWIGHT,Tammi.,1
+TAMMI,Dwight!,1
+DWIGHT,Is this what you had in your secret box? A safety deposit key. You certainly got a lot of my money in there.,23
+TAMMI,Dwight.,1
+DWIGHT,Shut up and drive! Drive!,5
+DWIGHT,"This is how you did it. You kept two sets of books. You've been ripping me off for months. There's $100,000 difference here. Explains why you were in such a hurry the other morning.",34
+TAMMI,Dwight!,1
+DWIGHT,"Shut up! Randall should have killed you, not Chase. Or maybe you and Carlton were working together.",17
+TAMMI,It wasn't like that. When Carlton found out about the money he blackmailed me. He made me do things.,19
+DWIGHT,"Aww. I bet you put up a big fight. Now, wait a minute, if Carlton wasn't stealing from me then why did Randall kill him?",25
+TAMMI,Dwight. You don't understand.,4
+DWIGHT,"No, no, no. I do understand. My brother was sweet on you. He killed Carlton because he knew what was going on between the two of you.",27
+TAMMI,No! No!,2
+DWIGHT,Where the hell you been? Mmm? I got something for you to do.,13
+DWIGHT,"Randall, get over here.",4
+TAMMI,"Dwight, no!",2
+DWIGHT,"She ripped us off, Randall, and you knew it.",9
+TAMMI,"No, Randall.",2
+DWIGHT,"What did you think? That the two of you were going to run off into the sunset together? She used you. Look at me, Randall . I am the one who loves you. Not her. Not anybody else, because we're blood, that's thicker than anything. I'm going to walk away now. I'm going to think hard about how I can forgive you. You know what you gotta do.",67
+TAMMI,Randall. You're not going to do this.,7
+TAMMI,Randall. Please.,2
+TAMMI,I was coming back for you.,6
+RANDALL,"No, you weren't.",3
+TAMMI,RANDALL! No!,2
+DOGGETT,"Agent, has he said anything?",5
+SCULLY,"No. A County DA came in and he declined representation. Aside from that, he's been uncommunicative.",16
+DOGGETT,The A.P.B. on Tammi Peyton is a wash so far. The Bureau in Montana is on alert.,17
+DOGGETT,"Well if you're suggesting he could see into her heart, Agent you are out of FBI territory on this one. I'll be out front.",24

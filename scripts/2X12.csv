@@ -1,0 +1,277 @@
+speaker,line,words
+DARNELL,There was blood everywhere. Whoever killed her is a real psycho.,11
+TILLMAN,Murder weapon?,2
+DARNELL,Seven stores in town carry strop razors.,7
+TILLMAN,Have somebody check them out.,5
+DARNELL,"Well, what about the press?",5
+TILLMAN,"Just the basics. No mention of this ""sister"" thing to anybody.",11
+DARNELL,Okay.,1
+TILLMAN,I'm working on a homicide investigation. Come on.,8
+TILLMAN,This what you want to talk about?,7
+TILLMAN,It's not -- What?,3
+INTERCOM,Sorry... coroner's on one.,4
+TILLMAN,"Yeah, whattaya got, Reuben?",4
+TILLMAN,Uh-huh.,1
+TILLMAN,"Uh, hang on a second, will you, Reuben?",8
+TILLMAN,"This address, ten o'clock tonight.",5
+TILLMAN,It's a place we can talk.,6
+SCULLY,Any cavities?,2
+MULDER,I brush after every meal. Would you say they match?,10
+SCULLY,"Well, there's a filling on the occlusal surface of the upper left bicuspid here and here and he's congenitally missing a lower left bicuspid here and here... Yeah, I'd say they're definitely a match. Who do they belong to?",39
+MULDER,Special Agent Sam Chaney.,4
+SCULLY,That name sounds familiar.,4
+MULDER,"Chaney's a legend. Forty years before the Bureau started profiling violent criminals, Chaney and his partner Tim Ledbetter would work on their own time investigating what were then called ""stranger killings"" -- what are now called serial murders. They disappeared while investigating three murders in Aubrey, Missouri in 1942. Chaney's body wasn't found until two days ago by local detective, B.J. Morrow... a woman.",63
+SCULLY,What's your interest in this case?,6
+MULDER,"During their time, Chaney's and Ledbetter's ideas weren't very well received by their peers. Using psychology to solve a crime was something like, um...",24
+SCULLY,Believing in the paranormal?,4
+MULDER,Exactly. There's another mystery.,4
+SCULLY,Which is?,2
+MULDER,"Well, I'd like to know why this policewoman would suddenly drive her car into a field the size of Rhode Island and for no rhyme or reason dig up the bones of a man who's been missing for fifty years. I mean, unless there was a neon sign saying ""Dig Here"" --",51
+SCULLY,I guess that's why we're going to Aubrey.,8
+MULDER,"Yes, and also I've always been intrigued by women named B.J.",11
+SCULLY,"Detective Morrow, exactly how did you discover the remains? in the ground; I proceeded to investigate and found the gravesite.",20
+MULDER,"Well, the initial police report states that you couldn't explain your actions at the time. shocked by my discovery... I'm afraid I didn't clearly articulate exactly what happened for my initial report.",32
+MULDER,What were you doing in the woods at that hour?,10
+MULDER,And you left your car...,5
+MULDER,Would you say that's uh... four or five hundred yards?,10
+MULDER,"So from that distance, you could see a dog digging in this field at night?",15
+TILLMAN,She was taking a shortcut through the woods to reach a phone. The path led her through the field.,19
+MULDER,"Well, the report says she phoned in from the Motel Black just up the road there. That's not a very short cut.",22
+TILLMAN,"It seems like you're more interested in how the missing agent was found than in how he got here in the first place. You don't, uh, suspect her, do you?",30
+MULDER,"No, no, not at all. I would just like to ask Detective Morrow a few more questions.",17
+MULDER,"Have you ever, um, have you ever had any clairvoyant experiences? Premonitions, visions, precognitive dreams, things like that?",18
+TILLMAN,What the hell kind of question is that?,8
+MULDER,Yeah.,1
+TILLMAN,"Look, Agent Mulder, I don't mean to be rude, but we have a lot to do. If you have any further questions specifically pertaining to your investigation of this crime, please feel free to call. Come on, B.J.",38
+SCULLY,These bones are in good condition. But I think the field may have been tilled shortly after Chaney was buried; there are small cuts on the top three ribs. I don't think they were made by an animal.,38
+MULDER,"Listen to this, Scully. ""One must wonder how these monsters are created."" Chaney wrote this. ""Did their home life mold them into creatures that must maim and kill, or are they demons from birth?""",34
+SCULLY,"Well, that's poetic but it doesn't help us much. What did he say about the 1942 homicides?",17
+MULDER,"Well, the press called the murderer ""The Slash Killer."" His three victims were all young women aged twenty-five to thirty. He disabled them with a blow to the head.",29
+MULDER,"He would carve the word ""SISTER"" on their chests and paint it on the wall with their blood. <SCULLY picks up another bone, a rib, and looks at it thoughtfully.)",30
+MULDER,The victims bled to death. The murderer was never found.,10
+SCULLY,"Mulder, these cuts on the ribs -- they could have been made by a razor.",14
+MULDER,Can you make out a word?,6
+SCULLY,"No, but we might be able to if we can find somebody in Aubrey who has a digital scanner.",19
+SCULLY,I've scanned the images from the crime photo and the ribcage and loaded them to Quantico. It's gonna be a few more seconds before the hookup.,26
+MULDER,I checked with the precinct mechanic. BJ's car was just tuned. She lied about experiencing engine failure.,17
+SCULLY,"Mulder, I don't think BJ was in the woods that night because of engine failure.",15
+MULDER,What are you talking about?,5
+SCULLY,"Well, the Motel Black would have been the perfect meeting place -- away from town, away from his wife...",18
+MULDER,What do you mean?,4
+SCULLY,It's obvious BJ and Tillman are having an affair.,9
+MULDER,How do you know?,4
+SCULLY,A woman senses these things.,5
+MULDER,Aw... pshaw.,2
+SCULLY,"The image on the right is Chaney's ribcage. The one on the left was extrapolated from the crime photo of the Slash Killer's last victim. Now I need to enlarge the victim's ribcage in order to allow for gender difference. And now, we can compare them.",46
+MULDER,Could he have carved out another word on his ribcage?,10
+SCULLY,I'm searching for any matching pattern of cuts.,8
+MULDER,"Uh, we may have. It seems Agent Chaney might have been a victim of the killer he was trying to catch. We're trying to determine if the cuts on his ribcage spell out a word right now.",37
+MULDER,You all right? convulsively) Excuse me.,6
+SCULLY,Feeling better? across SCULLY to get her own paper towel and begins to dry her face.),16
+SCULLY,Things must be difficult for you now. I've had... feelings for people I've worked with. Interoffice relationships can be complicated... especially when he's married.,24
+SCULLY,"You're pregnant, aren't you?",4
+SCULLY,"No, not yet. mother only had one child. She told me about the nausea, but not about the nightmares.",19
+SCULLY,"Nightmares? it feels familiar. There's a woman that's been hurt. There's a mirror... I see a man's reflection. I recognize his face, but I don't know it. What I remember most is the blood. There's a lot of blood.",39
+SCULLY,Have you talked to anyone about these nightmares? I was pregnant... Brian would kill me if I told anyone.,19
+SCULLY,What are you going to do?,6
+SCULLY,"Well, BJ's pregnant, and Tillman's the father.",7
+MULDER,"Um, I've approximated the pattern of the cuts to match up with letters. There's a 93% chance that this is the letter R . If we lower the probability to 79%, we get the letters I, E, and R.",38
+SCULLY,"Well, it could be a word, or it could just be random slashes.",13
+MULDER,"If we exhumed one of the Slash Killer's victims, we could do a CT scan to determine if the cuts were made by the same type of instrument.",28
+SCULLY,"Well, that means getting a court order. It could take a couple of days. Maybe we could find a relative who could speed up the process.",26
+MULDER,Excuse me?,2
+MULDER,You're right.,2
+TILLMAN,BJ?,1
+TILLMAN,"What's going on here, BJ?",5
+TILLMAN,Really? Then where'd you get these? These are crime scene photos. They were sealed. No one had access to 'em.,20
+MULDER,I think you're mistaken. Those were shot in 1942.,9
+TILLMAN,These are evidence of a homicide that occurred three days ago.,11
+SCULLY,"No, those were from a case that Agent Ledbetter and Agent Chaney were investigating in 1942 before they disappeared. CASE NO. D-147816 REF 44-9A AUBREY POLICE DEPARTMENT CRIMINAL PACKAGE REFERENCE RECORD BRADSHAW, ANTONIA EBERHARDT, KATHY VAN CLEEF, LAURA HOM, RAPE 1942 CASE NO D 147816",45
+TILLMAN,"Three days ago, a young woman was murdered and the word ""SISTER"" was carved into her chest and painted on the wall. Only myself, the coroner, and one of my men knew about this.",34
+DARNELL,"Excuse me, sir, we just got a call. There's been another one.",12
+POLICEMAN,"Watch your step, sir.",4
+ANOTHER OFFICER,Victim's name is Verna Johnson.,5
+SCULLY,BJ?,1
+GIRL,Ow!,1
+MOTHER,"Honey dear, you're fine. hate it when my mother hovered over me. I swore I'd never be like her.",19
+MULDER,I think we all feel that way at one time or another. He'd say what we're doing here is nonsense. That you can't solve a crime from a dream.,29
+MULDER,"Well, I've often felt that dreams are answers to questions we haven't yet figured out how to ask. You said you were in a familiar house? and I see a man's reflection.",32
+MULDER,What does he look like?,5
+MULDER,"Do you remember anything else? building like the Washington Monument, but different. And there's a... a big circular thing beside it.",21
+MULDER,You think you could draw it?,6
+SCULLY,What do you think it is?,6
+MULDER,Could be the Trylon and the Perisphere. Have you ever been to New York City?,15
+MULDER,You can get pictures of these on postcards all over Times Square. These were the symbols of the 1939 World's Fair.,21
+SCULLY,Do you know why they might have been in your dream?,11
+TILLMAN,You're here kinda late. What are you lookin' for? through the pages),12
+TILLMAN,I don't get it. That book's from the 1940s.,9
+TILLMAN,"Can we talk? You know, I'm willin' to go with ya... for the appointment.",14
+TILLMAN,I thought we agreed that it was the best thing for both of us.,14
+TILLMAN,"What do you mean you changed your mind? You can't just change your mind. This isn't your decision, it's our decision! BJ! leaving TILLMAN confused.)",25
+SCULLY,This is the man BJ claims to have seen in her dream.,12
+SCULLY,"Harry Cokely. He lives in Gainesville, Nebraska since his release from Macalester Penitentiary on December fifth, 1993.",17
+SCULLY,"He was convicted in 1945 for rape and attempted murder. Cokely carved ""SISTER"" on the chest of his victim, Linda Thibedeaux, before she was able to escape and get help from a neighbor.",33
+MULDER,And the police never made the connection to the 1942 homicides?,11
+SCULLY,No.,1
+MULDER,"Well, I don't want to jump to any rash conclusions, but I'd say he's definitely our prime suspect.",18
+SCULLY,"But Mulder, the man we're talking about is 77 years old.",11
+MULDER,George Foreman won the heavyweight crown at 45. Some people are late bloomers.,13
+MULDER,"Anyway, this still doesn't explain BJ's connection to all this.",10
+SCULLY,What if it's cryptamnesia?,4
+MULDER,You mean consciously forgotten information?,5
+SCULLY,Yeah. BJ told us that her father was a policeman in the area. What if she heard him discussing the 1942 case when she was young? She might have even seen pictures of Cokely .,34
+MULDER,"Yeah, but that still doesn't explain why she would go into a field and unearth the grave of an FBI agent.",21
+SCULLY,What if the recent murders triggered what was previously buried in her mind... some connection she'd unconsciously made that no one else had been able to make.,27
+MULDER,You mean a hunch?,4
+SCULLY,"Yeah, something like that.",4
+MULDER,"Well, that's a pretty extreme hunch.",6
+SCULLY,I seem to recall you having some pretty extreme hunches.,10
+MULDER,I never have.,3
+MULDER,Harry Cokely?,2
+COKELY,Yeah?,1
+MULDER,"I'm Special Agent Mulder, this is Special Agent Scully. We're with the Federal Bureau of Investigation. May we come in?",20
+SCULLY,"Mr. Cokely, our records show that in 1942, you lived in Terrence, Nebraska, an hour's drive away from Aubrey, Missouri. During that time, three women were murdered in Aubrey. Their assailant had mutilated their bodies with a razor in the same manner that you slashed Mrs. Linda Thibedeaux's body in 1945.",51
+COKELY,I don't remember much about that.,6
+SCULLY,"Well, I'm sure Mrs. Thibedeaux will never forget it.",9
+COKELY,"Doctors said I was sick back then. They gave me some pills. I served my time, and now I'm better.",20
+SCULLY,What kind of pills?,4
+COKELY,"Red and white ones, little sister.",6
+MULDER,Do you recognize this man? His name's Chaney.,8
+COKELY,No.,1
+MULDER,He was an FBI agent who was also murdered in Aubrey in Mr. Cokely?,14
+COKELY,Sittin' right where I am now.,6
+MULDER,Do you have a witness to testify to that?,9
+COKELY,"Are you blind? I can't leave the house without this damn thing! I sit right here in front of that TV twenty-four hours a day. And on the night you're talkin' about, I was sittin' here watching a show about a lost dog. Then after that, it was a show about --",51
+SCULLY,That won't be necessary.,4
+COKELY,"Good. Now, are you about finished with me, little sister?",10
+SCULLY,For now.,2
+WOMAN,"She seemed to be in trouble but when I opened the door, she just barged in and... and came running down the stairs. So I called the police. he's here!",30
+TILLMAN,"BJ, what happened? Oh my god.",6
+TILLMAN,Oh my god. I'm taking her to the hospital.,9
+SCULLY,Thought you might need these.,5
+SCULLY,You hurt yourself.,3
+MULDER,"Can you tell us what happened, BJ?",7
+SCULLY,Cokely attacked you? I was asleep.,6
+MULDER,You're sure it was him. just like his picture.,9
+MULDER,Like his mug shot?,4
+MULDER,But that's the picture of a young man.,8
+SCULLY,"Well, I'll have Tillman pick him up.",7
+TILLMAN,Where were you last night?,5
+COKELY,Honolulu.,1
+TILLMAN,"You were in Aubrey, weren't ya?",6
+TILLMAN,How'd ya get into Detective Morrow's house?,7
+COKELY,"It's all I can do to get to the bathroom, you damn fool!",13
+TILLMAN,"The victim has identified you, Mr. Cokely.",7
+COKELY,I already paid for my crime.,6
+TILLMAN,"We'll, I'm gonna see that you pay more.",8
+COKELY,I never touched that woman!,5
+COKELY,And I'm not answering any more questions without a lawyer. Get me a lawyer.,14
+SCULLY,Mulder?,1
+MULDER,It's open.,2
+SCULLY,"I have the preliminary results from the genetic testing from the blood found under Verna Johnson's nails. They checked it against Cokely's. The PGM subtype matches, the DQF and the D-1S are the same.",34
+MULDER,Cokely's blood?,2
+SCULLY,The results strongly suggest that. Imagine the strength of this man's psychosis still driving him to murder after fifty years.,20
+MULDER,But for some reason he let BJ live.,8
+SCULLY,"Well, she's not the first. Mrs. Thibedeaux also survived his attack back in 1945.",14
+MULDER,I think it's time we paid a visit to Mrs. Thibedeaux.,11
+MRS. THIBEDEAUX,That was taken three weeks before it happened.,8
+MRS. THIBEDEAUX,I haven't had a picture taken since.,7
+MULDER,Is this your husband?,4
+MRS. THIBEDEAUX,"That's, uh, Martin. He was a good man. He passed last June. If it hadn't been for him I never would have survived.",23
+SCULLY,"I know this goes back a long way, Mrs. Thibedeaux, but can you tell us what happened the night Harry Cokely attacked you?",23
+MRS. THIBEDEAUX,"It happened up there, on the landing. I remember how the light from the window... bounced off the razor. It, it had an ivory handle. He, he kept saying, ""Someone's gotta take the blame, little sister, and it isn't gonna be me."" They tried to explain at the trial how his father used to beat him and how he was the only son in a family of five daughters, and how he was brutally punished for everything wrong that happened.",80
+MRS. THIBEDEAUX,"But if you ask me, that man was born evil.",10
+MULDER,No children?,2
+MRS. THIBEDEAUX,No. None.,2
+MULDER,"Mrs. Thibedeaux, our records show that you recuperated from your injuries within two months. But nine months later you checked back into the hospital.",24
+MRS. THIBEDEAUX,"Well, I... I had complications.",5
+MULDER,What happened to the child? Cokely's child.,7
+MRS. THIBEDEAUX,"I gave the baby to an adoption agency. Baby! He'd be almost fifty now... This is the address of the adoption agency. If you do find him... no, never mind.",30
+SCULLY,"The bones BJ found under the house belong to Chaney's partner, Agent Ledbetter. Cokely rented the house in 1942. The detectives at the crime scene found an old straight razor under the house, they're trying to lift some prints. And Cokely's been released, but I think we have enough to nail him.",52
+MULDER,"Something just doesn't track, Scully. The night she was attacked, BJ said she saw a younger man.",17
+SCULLY,"Yeah, but you know the state of mind she was in that night. She, she could have been mistaken.",19
+MULDER,"No, maybe she did see a younger man -- young Cokely. Cokely's grandson.",12
+SCULLY,Are you saying Cokely's grandson attacked BJ?,7
+MULDER,"It would make sense, Scully. Genetic traits often skip a generation. And that would explain the test results of the blood found under Verna Johnson's fingernails. PGM subtypes are similar among relatives. Did Danny call back with the adoption records yet? Did you get 'em?",45
+SCULLY,I don't think Mendel had serial killers in mind when he developed his theory on genetics.,16
+MULDER,"When I was a, a kid, I would have nightmares. I would wake up in the middle of the night, thinking I was the only person left in the world. Then I would hear this.",35
+SCULLY,What?,1
+MULDER,My dad would be in the study eating these.,9
+SCULLY,"Yeah, Danny Valladeo, it's Agent Scully. What does that have to do with Cokely?",14
+MULDER,"Well, on a basic cellular level, we're the sum total of all our ancestors' biological matter. But what if more than biological traits get passed down from generation to generation? What if I like sunflower seeds because I'm genetically predisposed to liking them?",43
+SCULLY,But children aren't born liking sunflower seeds. Environments shape them; behavior patterns are taught.,14
+MULDER,"There are countless stories of twins separated at birth who end up in the same occupation, marrying the same kind of people, each naming their child Waldo.",27
+SCULLY,Waldo?,1
+MULDER,"Jung wrote about it when he talked about the collective unconscious. It's genetic memory, Scully.",15
+SCULLY,"Yeah, Danny. Yeah, thanks, I'll tell him. Danny tracked down Mrs. Thibedeaux's son. He was a policeman named Raymond Morrow.",20
+MULDER,That's BJ's father.,3
+SCULLY,BJ is Cokely's granddaughter.,4
+MULDER,She's responsible for the murders.,5
+SCULLY,Mulder...,1
+MULDER,Get your coat. Let's go.,5
+SCULLY,"Wait, Mulder. Do you honestly think that BJ is capable of murder?",12
+MULDER,"No, but Cokely is, and that's who BJ has become.",10
+SCULLY,That's outrageous!,2
+MULDER,"Scully, this is what I think. I think that Cokely's memories, his compulsions have been passed on genetically to his granddaughter BJ. That's what's driving her to kill.",28
+SCULLY,"So you're saying that BJ's nightmares are real? That, that she's out there killing these women and carving ""SISTER"" on them?",21
+MULDER,Yes.,1
+SCULLY,Well then how do you explain the cuts on her own chest?,12
+MULDER,"I can't explain everything. Maybe she carved them on herself, or maybe it's some kind of weird stigmata. Whatever it is, BJ is not herself.",25
+SCULLY,Where are we going?,4
+MULDER,"We have to warn Mrs. Thibedeaux. If BJ has, in the sense that I'm talking about, become Cokely, then she might be trying to finish what Cokely started.",28
+MRS. THIBEDEAUX,Stop it! little sister...,4
+MRS. THIBEDEAUX,"No, no, no. You're not him! You can't be!",9
+MRS. THIBEDEAUX,I'm not afraid to use this!,6
+MRS. THIBEDEAUX,You have his eyes! You're... him!,6
+MRS. THIBEDEAUX,You're my grandchild.,3
+MRS. THIBEDEAUX,Do you know what you're doing?!,6
+MRS. THIBEDEAUX,He's done this to both of us.,7
+MRS. THIBEDEAUX,No! You don't know what you're doing! He's the one to blame!,12
+MULDER,Mrs. Thibedeaux? Mrs. Thibedeaux!,4
+SCULLY,Mulder. Mrs. Thibedeaux. What happened?,5
+MRS. THIBEDEAUX,She had a razor. She tried to kill me. But something stopped her.,13
+MULDER,Where did she go?,4
+MRS. THIBEDEAUX,I don't know.,3
+SCULLY,Can you stand?,3
+MRS. THIBEDEAUX,"Yes, I think so.",4
+SCULLY,Let me help you up the steps.,7
+MRS. THIBEDEAUX,Thank you.,2
+MULDER,"This is Agent Mulder, I need an ambulance to 238 North 54th Street. I also need an APB on BJ Morrow. Yes, that's Detective Morrow. She should be considered armed and dangerous.",32
+SCULLY,BJ's going after Tillman. The first murder occurred after BJ found out she was pregnant. She's looking for someone to blame. I think that's Tillman.,25
+MULDER,"I don't think so, Scully. I think if she's gonna go after anyone, it'll be Cokely.",16
+SCULLY,Why?,1
+MULDER,"She's probably figured out by now that Cokely's her grandfather. If she's looking for someone to blame, it'll be him. Cokely's not answering his phone. I'm going over there.",29
+MRS. THIBEDEAUX,She had a razor.,4
+TILLMAN,"Agent Scully, I gotta talk to you.",7
+SCULLY,I'm giving a statement.,4
+TILLMAN,You've accused BJ of murder?!,5
+SCULLY,Can we talk about this outside?,6
+TILLMAN,No! Here! Now!,3
+SCULLY,Have you seen Detective Morrow?,5
+TILLMAN,"No, I have not. But I don't care what you've accused her of, Detective Morrow could not hurt anybody!",19
+SCULLY,Detective Morrow broke into this woman's house and attacked her with a razor.,13
+TILLMAN,"Oh, come on! I do not believe that!",8
+MRS. THIBEDEAUX,It's true. It happened.,4
+MAN ON TV,"Look, Hildie, I only acted like any husband who didn't want to see his home broken up.",17
+WOMAN ON TV,What home?,2
+MAN ON TV,What home? Don't you remember the home I promised you?,10
+WOMAN ON TV,"Sure I do, that was the one we were going to have right after the honeymoon. Yeah, honeymoon.",18
+MAN ON TV,"Well, was it my fault now that that coal mine was gonna have another cave-in? I intended to be with you on our honeymoon, Hildie, honest I did.",28
+COKELY,Who's there?,2
+MULDER,Cokely?,1
+COKELY,Who's there?,2
+COKELY,"No... on the other side of the razor, brother?",9
+COKELY,Shut up!,2
+COKELY,No! No! Please... no! This doesn't stop 'til you're dead.,10
+MULDER,Cokely! Cokely?,2
+MULDER,"No, don't. BJ.",3
+SCULLY,Freeze!,1
+TILLMAN,"BJ, what are you doing?!",5
+SCULLY,"Let him go. Let him go, BJ.",7
+MULDER,"Yes, you are.",3
+SCULLY,He's dead.,2
+TILLMAN,Come on.,2
+TILLMAN,"It's all right, BJ. It's gonna be all right. It's gonna be okay.",13
+SCULLY,"We are continuing with genetic testing on Detective Morrow. Evidence suggests the presence of a mutator gene that has activated previously dormant genes, but the results so far are inconclusive.",30
+SCULLY,Detective Morrow has not demonstrated any further physiological changes. Extensive blood work and psychological testing has been conducted in order to determine whether the pregnancy could have been a catalyst for the transformation. We have yet to determine the effects on the fetus.,43
+SCULLY,"Amniocentesis results show no genetic abnormalities. Chromosome testing has determined the child's sex to be male. BJ is on her second week of suicide watch after an unsuccessful attempt to abort her son. Lieutenant Tillman has petitioned to adopt the child, and the case will soon be presented to the courts.",51

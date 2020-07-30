@@ -1,0 +1,301 @@
+speaker,line,words
+JEFFREY CONLON,Tommy? What is it?,4
+TOMMY,I'm afraid. I heard something.,5
+JEFFREY CONLON,It's just the wind.,4
+TOMMY,No. I think it's under the bed. Can you check?,10
+JEFFREY CONLON,"Tommy, there is nothing to be scared of, I promise.",10
+TOMMY,No. There's something under the bed. You have to check.,10
+JEFFREY CONLON,All clear.,2
+TOMMY,You sure? I thought I saw something in the mirror.,10
+JEFFREY CONLON,"Tommy, it is just your imagination. Now, let's try to get some sleep, okay?",14
+TOMMY,"Dad, help! It's in here!",5
+TOMMY,Help! Help me! Help!,4
+TOMMY,Help! Dad! It's in here! Help! Help me!,8
+TOMMY,Dad! Daddy! Dad!,3
+FBI CADET,Dr. Scully...,2
+SCULLY,After lunch. Sorry. All questions answered after lunch. Thank you.,10
+LEYLA HARRISON,Agent Scully...,2
+SCULLY,Leyla Harrison. What a surprise.,5
+LEYLA HARRISON,"Oh, good. I was afraid I should have made a call first. How have you been?",16
+SCULLY,"Oh, uh... busy. And yourself?",5
+LEYLA HARRISON,"I'm back in accounting now. Happily, mind you. No regrets. Although I did relish my big adventure on the X-Files unit last year.",23
+SCULLY,"I have about five minutes uh, before my next class. Can we talk while I eat?",16
+LEYLA HARRISON,Not a problem.,3
+LEYLA HARRISON,It's an X-File. I'm sure of it.,7
+SCULLY,Where'd you get this?,4
+LEYLA HARRISON,It all started when I tracked down a mileage discrepancy in the bureau's vehicle fleet. It turns out a really nice secretary from our Baltimore field office had used a Ford Taurus without authorization.,34
+SCULLY,And what does that have to do with...?,8
+LEYLA HARRISON,"Well, she was desperate to visit her grandson which is why she borrowed the car. She's the one who told me about this case. This was her daughter.",28
+SCULLY,And what makes you think this is an X-File?,9
+LEYLA HARRISON,"Well, this dead woman's son -- my friend's grandson -- this is Tommy Conlon.",12
+LEYLA HARRISON,Tommy is eight years old. And Tommy told her a monster killed his mother. And his father knows all about it.,21
+LEYLA HARRISON,"I know, I know. Why take the word of an eight-year-old? But... look at the autopsy report.",17
+LEYLA HARRISON,"Clearly this woman was murdered, and yet...",7
+SCULLY,... and yet the coroner concludes that she stabbed herself to death.,11
+SCULLY,Agent Harrison I see no reason to disagree with the coroner.,11
+LEYLA HARRISON,"But... I mean, how could someone stab themselves sixteen times?",10
+SCULLY,"Look, it is unusual but I have seen it before.",10
+LEYLA HARRISON,Tommy's father took the boy to some mountain-top in Pennsylvania in the middle of nowhere. He took him away from his friends -- his family. They don't even have a phone. Tommy's own grandmother isn't allowed to see him anymore.,39
+SCULLY,"I'm sorry, Agent Harrison but unless you have other evidence...",10
+LEYLA HARRISON,"Wait, wait. Tommy said that the same monster that killed his mother killed Spanky his pet cat.",17
+SCULLY,"Uh, unless you bring me Spanky, there's nothing I can do.",11
+SCULLY,Apple and tuna salad?,4
+REYES,"Dana, it's Monica Reyes. Did I catch you at a bad time?",12
+SCULLY,I was just putting the baby down. What is it?,10
+REYES,I wanted to get your opinion on an autopsy finding. It's pretty unusual. A woman who stabbed herself sixteen times.,20
+SCULLY,Last name Conlon? I assume you've been talking to Leyla Harrison?,11
+REYES,"Yeah. The three of us are headed to Pennsylvania, in fact. It sounds like you're familiar with the case.",19
+REYES,"What do you mean, ""there is no case""?",8
+REYES,"Oh, right. Thanks.",3
+REYES,Why didn't you tell us you'd already gone to Agent Scully?,11
+LEYLA HARRISON,I didn't know that's who you were going to call.,10
+DOGGETT,"That's not the point, Leyla. You misled us.",8
+LEYLA HARRISON,"Agent Doggett, we're almost there.",5
+DOGGETT,"""How'd you spend your Friday night, John?"" Ran around like an idiot.",12
+LEYLA HARRISON,Agent Doggett... both of you got in this car believing a little boy may be in danger. What's changed since then? Even if this isn't an X-File -- what will it hurt to keep going?,34
+LEYLA HARRISON,"If Agent Mulder were here, he'd keep going.",8
+REYES,Jeffrey Conlon?,2
+JEFFREY CONLON,Yeah. Can I help you?,5
+REYES,Hi. I'm Agent Monica Reyes. This is Agent John Doggett and Agent Harrison. We're with the FBI.,17
+JEFFREY CONLON,FBI. Really? What are you...?,5
+LEYLA HARRISON,We're here at the request of Dorothy-- your mother-in-law. She's worried about her grandson.,14
+JEFFREY CONLON,Tommy is fine. I told Dorothy over and over. There's really nothing more to say.,15
+DOGGETT,"Is that blood on your hand, Mr. Conlon?",8
+JEFFREY CONLON,"Yeah, I cut myself.",4
+DOGGETT,On what?,2
+JEFFREY CONLON,A piece of broken glass.,5
+REYES,"Sir, can we speak with your son?",7
+JEFFREY CONLON,He's asleep.,2
+DOGGETT,"It's not even 7:00. It's kind of early for bedtime, isn't it?",12
+JEFFREY CONLON,Not for Tommy. And I'd appreciate it if you'd keep your voice down.,13
+DOGGETT,"Look, I'm going to be straight with you. We drove a long way.",13
+REYES,Agent Doggett is very stubborn. I don't think you'll get him to leave until we see your son.,18
+TOMMY,Dad?,1
+JEFFREY CONLON,"Tommy, go back inside, please.",5
+TOMMY,I heard something. I got afraid.,6
+REYES,"Hi, Tommy. I'm Monica. This is John, and this is Leyla.",11
+LEYLA HARRISON,I'm friends with your Grandmom. She wanted us to come see how you were doing.,15
+JEFFREY CONLON,"Tommy, it's too cold out here. Go back inside the house, please.",12
+REYES,Do you remember what you said to your Grandmom? Something about your mother. Do you remember?,16
+LEYLA HARRISON,"Monsters. You said there were monsters, right?",7
+TOMMY,No such thing as monsters.,5
+JEFFREY CONLON,"Tell Dorothy this is exactly why she's not allowed to visit anymore. Now, good night.",15
+JEFFREY CONLON,Come on.,2
+LEYLA HARRISON,I apologize. I let my imagination run wild and I ruined both your evenings. Thank you in advance for not yelling at me.,23
+DOGGETT,Something's going on here.,4
+LEYLA HARRISON,Wait... there is?,3
+REYES,That little boy only said what his father wanted him to say.,12
+DOGGETT,Did you notice the dirt on that guy's hands and knees? He's been digging. This time of the year he sure as hell ain't gardening. I say we find a judge get a warrant... search the place.,37
+TOMMY,Dad?,1
+TOMMY,The monsters aren't going to let those people leave are they?,11
+JEFFREY CONLON,"They're leaving, Tommy. They're leaving right now.",7
+TOMMY,It's too late.,3
+DOGGETT,What the hell?,3
+REYES,"Oh, God. A possum, maybe?",5
+DOGGETT,That doesn't make any sense. How'd it get from here into the vents?,13
+SCULLY,Who is it?,3
+GABE ROTTER,It's Gabe Rotter. I have the thing you've been waiting for.,11
+SCULLY,Who?,1
+GABE ROTTER,Gabe... Rotter. I'm a friend of Leyla Harrison.,8
+SCULLY,Do you know what time it is?,7
+GABE ROTTER,"Hey, I just do as I'm told. Enjoy.",8
+SCULLY,Whoa. What the hell is that?,6
+GABE ROTTER,A dead cat.,3
+SCULLY,Come again?,2
+GABE ROTTER,"Yeah, his name's Spanky. Leyla said you're helping her out on a case and you needed it ASAP, so... hey, you're welcome.",22
+SCULLY,I am going to be exceptionally polite. Leave. Now. Leave now and take that with you.,16
+GABE ROTTER,Do you have any idea what I went through to get this thing? I snuck onto the property where your perp there used to live and I dug up the whole thing looking for it.,35
+SCULLY,I don't care. Leave! Now! Please!,6
+GABE ROTTER,"Uh-uh. Leyla said she'd go out with me only if I got you the cat, and damn it, I got it.",21
+GABE ROTTER,"Oh, god... you calling the cops on me?",8
+SCULLY,If only. God help me but Agent Harrison might be on to something after all.,15
+REYES,Any luck?,2
+DOGGETT,Our engine's completely shot. His truck won't start even though I can't find one damn thing wrong with it. Looks like we're here for the night.,26
+JEFFREY CONLON,I'd better get Tommy back to sleep.,7
+LEYLA HARRISON,"Phones that won't work, cars that won't start. It reminds me of a case Mulder and Scully investigated. A teenager who was struck by lightning -- his body affected the electrical workings of everything around him.",35
+REYES,"I don't think that's what we're dealing with here, Leyla.",10
+LEYLA HARRISON,Agent Mulder wasted no time closing that case. I just try to think like him. What would Agents Mulder and Scully do if they were in this situation?,28
+DOGGETT,Agents Mulder and Scully aren't in this situation. Agents Doggett and Reyes are. I don't know about Agent Reyes but Agent Doggett's going to sit his tired ass down.,29
+LEYLA HARRISON,What kind of a course of action is that?,9
+REYES,"I think Agent Doggett is saying that right now, we're in the best possible place.",15
+DOGGETT,"Exactly. Bottom line we're all concerned for this boy's safety. As long as we're here, nothing's going to happen to him, right?",22
+TOMMY,Help! Help me!,3
+TOMMY,Dad!,1
+[CLOSED CAPTION,TOMMY: Help! It's in here!],5
+DOGGETT,Hey!,1
+JEFFREY CONLON,"No, don't do it!",4
+REYES,John...,1
+DOGGETT,How's he doing?,3
+REYES,He's a hell of a lot calmer than I'd be.,10
+DOGGETT,"I checked the place top to bottom. Whatever the hell those things were, they're gone. I have no idea where they went.",22
+DOGGETT,"That's really good, Tommy.",4
+DOGGETT,Is that you?,3
+DOGGETT,Who's that?,2
+TOMMY,That's her.,2
+REYES,"Tommy, tell John what you told me about what we saw in your room tonight.",15
+TOMMY,Those are the monsters that hurt my mommy. But my dad says I'm not supposed to talk about it. ),19
+JEFFREY CONLON,This is my house. Why do I have to sit here?,11
+DOGGETT,Tell me what we're dealing with.,6
+JEFFREY CONLON,I don't...,2
+DOGGETT,"Don't tell me you don't know because you're not going to like what happens next. These things were in the room with your son and you knew it. You held the door shut, you son of a bitch.",38
+JEFFREY CONLON,Want to see something? Look at that.,7
+JEFFREY CONLON,Look at that. That's what they did to me. They almost killed me one time before.,16
+DOGGETT,They? What are they? Some kind of animal? What?,9
+JEFFREY CONLON,All I know is that they won't leave us alone and I'm dealing with this the best way I can. Now it's too late.,24
+DOGGETT,How's that?,2
+JEFFREY CONLON,They mean to kill every one of you and there's nothing you can do to stop it.,17
+JEFFREY CONLON,"Oh, come on. You saw what happens. You think you've killed one and then it becomes two.",17
+LEYLA HARRISON,I don't think Mr. Conlon is telling us the whole truth.,11
+DOGGETT,No kidding.,2
+LEYLA HARRISON,"I mean, I think you can kill them because I don't know what else he would have been burying when we showed up tonight.",24
+GABE ROTTER,You got to be freaking kidding me. I can't believe you're cutting up a dead cat on your kitchen table.,20
+SCULLY,"Will you keep your voice down, please? You're going to wake my baby.",13
+GABE ROTTER,This... this just isn't right. Can you clue me in here as to why the cat's so important?,18
+SCULLY,Because it would seem that poor Spanky here may have chewed a hole in his own stomach... which you'll admit is unusual behaviour.,23
+GABE ROTTER,You mean... he killed himself.,5
+SCULLY,"Just like his owner, Mrs. Conlon stabbed herself with a knife. The wounds are in the same place and if we figure out why... well, then, you'll have something really good to share with your good friend Leyla Harrison, won't you?",41
+GABE ROTTER,True that.,2
+SCULLY,"Can you hold the ribs open while I grab that, please? Just... Now. Thank you.",15
+SCULLY,Agent Scully.,2
+SHERIFF JACK COOGAN,"Yeah, ma'am, this is Sheriff Jack Coogan. I got a message to call this number.",15
+SCULLY,"Hi, Sheriff. Thanks for getting back to me. I appreciate it. I'm an FBI agent and I've been trying to reach three of my colleagues that are up in your area.",31
+SHERIFF JACK COOGAN,Were they on some kind of case?,7
+SCULLY,"Well, they're looking into some concerns expressed by the grandmother of a child. The family name is Conlon and I have an address...",23
+SHERIFF JACK COOGAN,No need. I was back up there a couple of weeks ago. Got into a kind of a shouting match with the father.,23
+SCULLY,Over what?,2
+SHERIFF JACK COOGAN,"The grandmother asked me to look in on the boy. Father told me to get the hell off his property. Boy seemed fine, so I did.",26
+SCULLY,"Well, as I say, sheriff, I need to contact my colleagues.",11
+SHERIFF JACK COOGAN,I'm happy to take a drive up there but can't promise much tonight. The roads are icing up as we speak. Won't be easy getting in.,26
+SCULLY,"Look, sheriff, they may be in danger. Could you please find a way?",13
+DOGGETT,Ow!,1
+LEYLA HARRISON,"Oh, my god.",3
+DOGGETT,"It's no monster, Agent Harrison. Dead or alive. You want to explain this, Mr. Conlon?",15
+JEFFREY CONLON,It's just a mirror from my son's room.,8
+DOGGETT,Why'd you bury it?,4
+JEFFREY CONLON,'Cause he was afraid of it.,6
+DOGGETT,I want you to get Tommy bundled up in warm clothes. I want you to pack anything you think he might need.,22
+JEFFREY CONLON,Why?,1
+DOGGETT,"'Cause I don't believe one damn thing you've told me except that we're in danger and we're walking out of here, all five of us.",25
+LEYLA HARRISON,I know what you're thinking. Black magic. Mirrors are powerful symbols in conjuring in the dark arts. That's what this is. Right?,22
+DOGGETT,"We passed a sheriff's station maybe six miles down the mountain. It'll be a hike, but we can make it.",20
+TOMMY,"Dad, the sheriff... He's going to help us.",8
+REYES,"What's up, Tommy? What's the matter?",6
+DOGGETT,Stay here.,2
+DOGGETT,"Man, you're a sight for sore eyes. John Doggett.",9
+SHERIFF JACK COOGAN,I'm the Sheriff.,3
+DOGGETT,Who called you?,3
+LEYLA HARRISON,Perfect timing.,2
+REYES,"We were just leaving, sheriff. We need a ride.",9
+SHERIFF JACK COOGAN,"Sorry, you can't leave.",4
+DOGGETT,What do you mean?,4
+SHERIFF JACK COOGAN,You can't go anywhere. It's too cold.,7
+JEFFREY CONLON,It's not him.,3
+DOGGETT,What?,1
+REYES,Gun!,1
+REYES,Let him go!,3
+JEFFREY CONLON,oh...,1
+GABE ROTTER,"So, this is Johnny Fabulous, huh?",6
+GABE ROTTER,"Oh... ""Mulder's so smart. Mulder's so dreamy."" That's all Leyla ever talks about. Mulder and Scully, Scully and Mulder, blah, blah, blah.",22
+SCULLY,"This Sheriff, Jack Coogan, I'm just getting his answering machine.",10
+GABE ROTTER,"Hey, you're really worried. I thought you didn't find anything. You told me there wasn't anything inside that cat.",19
+SCULLY,"No, there wasn't. But it certainly seems like there should have been.",12
+GABE ROTTER,What does that mean?,4
+SCULLY,"Well, the pattern of bite marks. I mean, it seems to me that the cat was trying to get at something in its stomach to chew something out.",28
+GABE ROTTER,Something. What?,2
+SCULLY,"I don't know. I mean, there wasn't any sign of it but it obviously caused a great deal of pain. And I'm thinking maybe it goes the same for the woman who tried to stab herself. I mean, what if that was a frantic attempt to... to cut something out.",50
+GABE ROTTER,Wait a minute. Is Leyla in danger up there?,9
+SCULLY,All I know is we're wasting our time talking about this.,11
+GABE ROTTER,Who are you calling now?,5
+SCULLY,My mom. I'm going to beg her to baby-sit.,9
+DOGGETT,Got anything?,2
+REYES,"Yeah. A salad spoons no one's ever going to use again. And the sheriff here? Do not ask me to explain it but he's got absolutely no internal organs. He's like, he's like a big bag.",36
+DOGGETT,"You know what else? This isn't blood. Whatever it is, I bet it's the same crap that's all over the inside of our car.",24
+DOGGETT,"I've been thinking. You know, I hate to sound like Agent Harrison but Mulder and Scully had a case like this that I remember where they were trapped underground with these mushroom spores that caused hallucinations. Never mind.",38
+REYES,"I don't know what to say, either. Maybe Mulder and Scully would see something that we don't.",17
+DOGGETT,How? Nothing here makes any sense. Unless that's the very thing that we need to see.,16
+DOGGETT,"Agent Harrison, you want to take Tommy up to his room?",11
+LEYLA HARRISON,"Sure. Come on, Tommy.",4
+REYES,"What's the matter? You like Leyla, don't you?",8
+TOMMY,Can you stay with me instead?,6
+REYES,Sure. Come on.,3
+DOGGETT,"I'm just a cop, Mr. Conlon. Maybe I don't have the imagination to connect all the pieces of this insanity together. You said that wasn't exactly the Sheriff in there and I want to know what you meant. In fact, you tried to warn us that bag of goo wasn't the sheriff. You were trying to help us.",58
+LEYLA HARRISON,"Yeah, so why not help us now? Tell us what you know, Mr. Conlon for Tommy's sake.",17
+DOGGETT,"Your son Tommy... you move him up here in the middle of nowhere and you lock him in the room with those things. Now, if you're just trying to get rid of him is that all this is?",38
+JEFFREY CONLON,"I love my son. I love my son, you bastard.",10
+DOGGETT,"Well, you locked him in the room with those things.",10
+JEFFREY CONLON,Because I knew they wouldn't hurt him.,7
+DOGGETT,Now why is that? They hurt you they certainly hurt your wife. Why didn't they hurt Tommy?,17
+TOMMY,I made this.,3
+REYES,You drew all these?,4
+TOMMY,This one's you.,3
+REYES,"Why would you draw this, Tommy? Why would you imagine such awful things?",13
+TOMMY,Because I'm afraid.,3
+SCULLY,Sheriff Coogan? Sheriff?,3
+SHERIFF JACK COOGAN,Are you Agent Scully?,4
+SCULLY,"Yeah. I, uh, I still can't contact my partners. Were you able to get up there?",16
+SHERIFF JACK COOGAN,I just got back from trying. The roads at that elevation are way too dangerous right now.,17
+SCULLY,"Well, Sheriff, there are three FBI agents who may be in grave danger.",13
+GABE ROTTER,"That's my girlfriend up there, Hoss.",6
+SHERIFF JACK COOGAN,This is the only road up to that mountain. We've got ice leading all the way up to the peak.,20
+SCULLY,"Well, we have to get up there. I mean, there must be a way.",14
+SHERIFF JACK COOGAN,"I'm sorry. Helicopter, snowplough or pack mule -- unfortunately, I'm fresh out of all three.",14
+LEYLA HARRISON,What if Tommy were at the center of this somehow? The monsters... the Sheriff.,14
+LEYLA HARRISON,Agent Doggett?,2
+LEYLA HARRISON,Where the hell is the body?,6
+DOGGETT,"Monica, what happened?!",3
+REYES,The boy!,2
+REYES,"The boy, it's all him.",5
+LEYLA HARRISON,"Oh, my god.",3
+DOGGETT,Is your son doing this?!,5
+JEFFREY CONLON,I told you. I told you to leave.,8
+DOGGETT,"If this is your son, make him stop!",8
+JEFFREY CONLON,I can't. You don't think I've tried? I can't stop him from .. from imagining things. I can't stop him from being afraid. He's just a little boy! He doesn't mean to do these things.,34
+REYES,The hell he doesn't!,4
+DOGGETT,"If you won't stop him, I will.",7
+DOGGETT,Tommy? Stay right there.,4
+REYES,Please! Please! You have to get it out! Get it out of me!,13
+LEYLA HARRISON,"Agent Reyes, hold on. Please, hold on.",7
+LEYLA HARRISON,"Mr. Conlon, help us.",4
+LEYLA HARRISON,"Oh, my god!",3
+REYES,Please!,1
+DOGGETT,Listen to me and listen good. These things -- these things aren't happening.,12
+JEFFREY CONLON,What?,1
+DOGGETT,How the hell could the it's like I've been saying all along. It's not possible.,15
+JEFFREY CONLON,"No, this is all real. My wife is dead.",9
+DOGGETT,She believed it was real and she stabbed herself. But because I couldn't believe it... not really... it couldn't hurt me.,21
+DOGGETT,"Now, come on. You're going to help me.",8
+TOMMY,Dad? Dad!,2
+TOMMY,"Dad, get in here!",4
+JEFFREY CONLON,Wait. Wait... wait a minute. Where are you going?,9
+DOGGETT,You wait here.,3
+TOMMY,What are you doing?,4
+TOMMY,What are you doing?,4
+DOGGETT,"You're a smart boy, Tommy. What's it look like I'm doing?",11
+TOMMY,No way.,2
+DOGGETT,"If I don't stop you, my friends are going to die.",11
+DOGGETT,You think I'm going to let that happen?,8
+TOMMY,"You won't do it. You're lying. You'd get burned, too. You're just trying to scare me.",16
+DOGGETT,Scared yet?,2
+LEYLA HARRISON,"Oh, thank god.",3
+REYES,Agent Harrison?,2
+LEYLA HARRISON,"Monica, are you all right?",5
+REYES,Where's John?,2
+GABE ROTTER,Ow! Ow.,2
+JEFFREY CONLON,Tommy.,1
+DOGGETT,He's breathing. Passed out.,4
+DOGGETT,You're all right?,3
+REYES,Water. You filled it with water.,6
+DOGGETT,That's not what Tommy believed.,5
+GABE ROTTER,"""I want to believe.""",4
+GABE ROTTER,"So, this is where the magic happens?",7
+LEYLA HARRISON,It still happens.,3
+LEYLA HARRISON,I'm happy it's in good hands.,6
+REYES,Hey.,1
+SCULLY,Speak of the devil.,4
+DOGGETT,That so?,2
+GABE ROTTER,Leyla keeps going on and on about how you saved the day.,12
+LEYLA HARRISON,"I really do have to commend you, Agent Doggett. You solved this case. If it weren't for you... I don't even like to think what would have happened. I have to say, it's clear to me now that you were better- equipped for this challenge than even Agent Mulder would have been. Absolutely. I mean your lack of imagination saved our lives.",62
+DOGGETT,"Gee, thanks.",2
+LEYLA HARRISON,That... didn't come out right. Did it?,7
+SCULLY,"So, any news on the boy?",6
+REYES,"We just got back from the psych center. Their doctors don't quite know what to make of him. I think it goes without saying. However, they have come up with a stopgap treatment.",33

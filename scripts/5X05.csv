@@ -1,0 +1,293 @@
+speaker,line,words
+SCULLY,Hello? Merry Christmas!,3
+TARA,Hello!,1
+MARGARET,"Oh, my God. Look at you.",6
+TARA,Can you believe it?,4
+MARGARET,How am I going to get my arms around you?,10
+SCULLY,You're huge.,2
+TARA,"Oh, I know. Welcome. Welcome. Oh, hi, Sweetie.",8
+BILL,"Let's get you two settled. Sorry about the digs, Mom. I know you hoped like hell you didn't have to spend another night in base housing.",26
+MARGARET,Are you kidding? This is wonderful.,6
+SCULLY,This is the exact same layout as our old house.,10
+BILL,That's the Navy for ya.,5
+TARA,"Yeah. Bill tells me, Mom, that you'll be staying in your old room. And the nursery is going to be in Dana and Melissa's room.",25
+BILL,That's right.,2
+TARA,I got it. Bill!,4
+BILL,Thanks.,1
+SCULLY,Mom? You okay?,3
+MARGARET,"oh, yeah. I was just thinking about your Dad... and Melissa... and how much I miss them.",17
+SCULLY,Bill? Scully residence...,3
+WOMAN,Dana?,1
+SCULLY,"Yes, sorry, who is this?",5
+WOMAN,"Dana... she needs your help. She needs you, Dana. Go to her.",12
+SCULLY,Who... who is this?,4
+MAN ON PHONE,"FBI, San Diego.",3
+SCULLY,"This is Special Agent, Dana Scully. My badge number is 2317616. Can you transfer me to your sound agent, please? I would like to trace the last number that was dialed into this phone.",34
+KRESGE,"Whoa, whoa, whoa. Who are you?",6
+SCULLY,"Scully, FBI. Can you tell me what's going on here?",10
+KRESGE,"Well, no offense, Scully, FBI, but what's it to you?",10
+SCULLY,I received a phone call from this address. It was a woman's voice. She said that somebody here needed help.,20
+KRESGE,When was this?,3
+SCULLY,About 20 minutes ago.,4
+KRESGE,I've been here 30 minutes. Guarantee you no one's called out to you or anyone else. Phone's off the hook.,20
+SCULLY,"Please, can you tell me what happened here?",8
+KRESGE,"This is Mrs. Roberta Sim. Age 40. Suicide. She's been dead at least three hours. If you got a call from her, she must have dialed 1-800-the great beyond.",29
+BILL,"Dana, what's going on? They're joking that you got a call from a dead woman.",15
+SCULLY,"I thought it was a dead woman, just not the one in there.",13
+BILL,What are you talking about?,5
+SCULLY,"I know it's not possible, Bill, but it sounded just like her.",12
+BILL,Who?,1
+SCULLY,Our sister... Melissa.,3
+KRESGE,"I don't know what to tell you. Pac Bell confirms that a call came in from this address to your brother's house, but from this end, they show no outgoing call. Plus they confirm that the phone here had been off the hook for the last three hours.",48
+SCULLY,What was their explanation?,4
+KRESGE,"Records mix-up, software glitch. It was obviously some kind of mistake. Anyway, I've got to wrap this up. Talk with the husband. Listen, weird phone calls aside, this is looking pretty straightforward. A lot of people check themselves out around Christmas time.",42
+MR. SIM,Why don't you sit here?,5
+EMILY,Hi.,1
+MR. SIM,Can we get some privacy here?,6
+SCULLY,Excuse me.,2
+MULDER,Hello? Hello? Hello?,3
+BILL,Everything okay?,2
+TARA,Oh!,1
+BILL,Is he kicking?,3
+TARA,"Oh, he's kicking, kickboxing! Well, you had both boys and girls, so which ones kicked more?",16
+MARGARET,"Oh, I had some pretty tough little girls.",8
+TARA,"You know what? I can't believe I'm going to say this. As big and fat as I am right now, I can't wait to have more. This is our baby, our son. It kind of gives everything new meaning. I can't help but think that life before now was somehow... less. Just a prelude.",54
+MARGARET,What's the matter?,3
+SCULLY,"Nothing. Mom, I'm very happy for Bill and Tara.",9
+MARGARET,You don't seem to be.,5
+SCULLY,"Oh, Mom. Several months ago, I learned that as a result of my abduction, of what they did to me, that I can not conceive a child.",27
+MARGARET,I'm so sorry.,3
+SCULLY,It's okay. I just never realized how much I wanted it until I couldn't have it.,16
+YOUNG BILL,"Dana, where is it? Where is that rabbit?",8
+YOUNG DANA,I'm not telling.,3
+YOUNG BILL,I'm going to find that rabbit and cook it. I'm going to turn it into stew.,16
+YOUNG DANA,No you're not!,3
+YOUNG BILL,"Rabbit stew, here I go.",5
+YOUNG DANA,You're not going to find him!,6
+WOMAN,She needs your help.,4
+SCULLY,Who is this? Why are you doing this?,8
+WOMAN,Go to her.,3
+SCULLY,"Mr. Sim, my name is Dana Scully. I'm sorry for your loss and I'm sorry to disturb you at this hour.",21
+MR. SIM,What do you want?,4
+SCULLY,I received a phone call less than an hour ago. I was addressed by name and told that I needed to help someone... a woman. I traced the call and it came from your house.,35
+MR. SIM,I have no Earthly idea what you're talking about.,9
+SCULLY,"This is the second time this has happened, and I'd really like to get to the bottom of it.",19
+SIM,You were here earlier.,4
+SCULLY,Yes.,1
+SIM,"Yes, a detective told me, something about a screw up with the phones. I'm in the middle of a meeting. No one's called you from here. Not earlier today and certainly not tonight. You can imagine how bad a day this has been for my daughter and myself.",48
+SCULLY,I understand.,2
+SIM,"Well, if you understand, then you'll stop coming around upsetting me with this... nonsense. Please.",15
+KRESGE,"Scully, FBI. What can I do for you at this ungodly hour?",12
+SCULLY,I'd like everything you have on the Roberta Sim case.,10
+KRESGE,"The Roberta Sim case? There is no Roberta Sim case. It was a simple suicide. We sort of went through this before, you and I didn't we?",27
+SCULLY,"Whatever you call it, I'd appreciate seeing everything that you have. In the spirit of the season? LATER",18
+KRESGE,"So, what are you looking for? Can you even tell me?",11
+SCULLY,It says here that your precinct visited the Sims before. Two weeks ago. A domestic disturbance call?,17
+KRESGE,We sent a unit cause the neighbors were complaining. They were screaming at each other. It wasn't a happy household. Happy people don't kill themselves.,25
+SCULLY,They ran a tox screen?,5
+KRESGE,"Yeah, it's just procedure.",4
+SCULLY,It says they turned up high levels of doritriptan.,9
+KRESGE,"Some kind of new migraine medicine. Apparently, you take enough of it, you're wearing a cloud for a hat. I figure she anesthetized herself and then... We found a bunch of empty sample packets in the bathroom trash. A couple more in her purse.",44
+SCULLY,I'd like to borrow this.,5
+SCULLY,"She's adopted. Danny, it's me, Dana... Yeah, Merry Christmas to you, too... I, ah, I'm wondering if you can do me a favor... I need the complete case files on my sister, Melissa Scully. Yeah, crime scene and autopsy along with the PCR's that we ran. Right, but I need you to send them to the San Diego field office. As soon as possible. Ok. Thanks, Danny.",67
+MAN'S VOICE,Dana?,1
+SCULLY,What?,1
+BILL,This is where you stayed the night?,7
+SCULLY,Some of it.,3
+BILL,It's supposed to be a vacation. What are you working on that could be so important?,16
+SCULLY,Just some unfinished business.,4
+BILL,"So, are you up to joining us?",7
+SCULLY,I've got a little work to do. Can I join you guys later?,13
+BILL,How are you going to get around?,7
+SCULLY,I'll... I'll rent a car.,5
+BILL,"Well, all right. Lunch. We'll hold you to that.",9
+KRESGE,"Agent Scully, it's been... what? 4 hours? I was getting worried.",11
+SCULLY,I'd like to order an autopsy on Roberta Sim. There's a possibility she was murdered.,15
+KRESGE,What? You got another phone call?,6
+SCULLY,I think that it may have been the husband.,9
+KRESGE,Where did you get that idea? You want coffee?,9
+SCULLY,No. Thanks.,2
+KRESGE,He's got an ironclad alibi. Mr. Sim was at the doctor's office with his daughter. He was there all morning. I checked.,22
+SCULLY,I took another look at the police photos this morning. There were no hesitation cuts on Roberta Sim's wrists. Suicide victims seldom make the fatal cut the first time.,29
+KRESGE,Seldom but not always. Is that all you got?,9
+SCULLY,No. Why was the phone off the hook when you got to the Sim's house?,15
+KRESGE,The wife took it off. I'm guessing she didn't want to be interrupted.,13
+SCULLY,Your report says the husband called the police after he discovered his wife dead.,14
+KRESGE,Yeah.,1
+SCULLY,"But if the phone was off the hook when you arrived, how did he call you? Did he find the phone off the hook, call you, then have the presence of mind to return it to the way that he'd found it? Does that make sense to you?",48
+KRESGE,What are you suggesting?,4
+SCULLY,I am suggesting that there are questions that beg for further investigation. Order an autopsy.,15
+SCULLY,"Stomach contents appear to include coffee, whole wheat toast and cantaloupe. No medicine tablets. Empty sample packets of doritriptan succina were found but I find no evidence that any of the pills were ingested.",34
+MEDICAL EXAMINER,"Well, obviously they were, doritriptan showed up on her tox screen.",11
+SCULLY,Then why didn't it show up in her stomach?,9
+MEDICAL EXAMINER,It was absorbed into her bloodstream.,6
+SCULLY,"No. I don't believe absorption would be that complete, not that close to her death.",15
+MEDICAL EXAMINER,"Then how did the doritriptan get into her blood stream, Ms. Scully?",12
+KRESGE,A needle puncture.,3
+SCULLY,"On the heel of her right foot. Extremely tiny and easy to miss. It was meant to be overlooked. I believe that this woman was injected, anesthetized so he wouldn't fight back. Then her suicide was staged.",37
+MEDICAL EXAMINER,"It's a possibility. Then again, it's possible this woman simply stepped on a tack and the rest is blue sky conjecture.",21
+SCULLY,I say it justifies opening a murder investigation.,8
+SIM,"This is your doing, isn't it? You didn't have the decency to leave me and my daughter alone?",18
+KRESGE,"Mr. Sim, please. Now, you're going to want to calm down and let us do our business, ok?",18
+SCULLY,"Mr. Sim, where is your daughter now?",7
+SIM,Why? She's at a friend's house. Thank God she's not here to see this.,14
+FEMALE COP,"Detective, this was in the trash out back.",8
+KRESGE,You got an explanation for this?,6
+SIM,Yes. My daughter has a severe form of anemia. She requires daily injections.,13
+SCULLY,We'll check that out. I want you to analyze this. Get a PCR on the blood. We need to identify whose it is.,23
+MRS. SCULLY,Dana? Are you alright? It's two o'clock in the morning. Where have you been all day? We were expecting you at lunch.,22
+SCULLY,"Mom... sit down. The woman who committed suicide has an adopted daughter, a three year old named Emily. I got a sample of Emily's blood and I had the lab run a test on her DNA. It's called a PCR test. This... is Emily's. And this, is Melissa's which we ran during her murder investigation. They match.",57
+MRS. SCULLY,"What does it mean, they match?",6
+SCULLY,"It means, that this little girl Emily... is Melissa's daughter. LATER",11
+MRS. SCULLY,It's impossible.,2
+SCULLY,You can't deny that there is a remarkable resemblance.,9
+MRS. SCULLY,Melissa was three years old when this picture was taken. She was practically a baby. All kids can look the same at that age.,24
+SCULLY,"Mom, it's uncanny. Emily looked exactly like Melissa. That's why I ordered the PCR test. Because her face may change, but her DNA can't.",24
+MRS. SCULLY,And the test is accurate?,5
+SCULLY,"There's a 60% chance that Melissa is Emily's mother. I'll order a more comprehensive test, a RFLP. It'll take a couple of days, then we'll be sure.",27
+MRS. SCULLY,"Well, I'm already sure your sister did not have a baby. She would have told me.",16
+SCULLY,"Mom, remember about four years ago and Melissa took off? She traveled up and down the west coast, we didn't know where she was half the time.",27
+MRS. SCULLY,You're saying she was pregnant and she didn't want us to know?,12
+SCULLY,That was 1994. Emily was born that November. She could have given it for adoption and none of us would have ever known.,23
+MRS. SCULLY,"Dana, listen to me. I know what you're going through.",10
+SCULLY,"Mom, this has nothing to do with what I'm going through.",11
+MRS. SCULLY,"It has happened to me. When your father died, it was a long time before he left me. I saw him in my dreams. The phone would ring, and just for a moment I was sure it was his voice. You're doing the same thing with Melissa. You're seeing her in this child, but that doesn't make this child my granddaughter. We're still connected to them Dana. Even after they're gone.",71
+YOUNG DANA,Look at all the presents.,5
+YOUNG MELISSA,"Dana, quiet, they might hear us.",6
+DANA,This one's for me.,4
+MELISSA,"You wish. That's for Billy, you dope.",7
+DANA,This has got to be it. This has got to be Hotel California.,13
+MELISSA,SH! You'll wake everybody.,4
+DANA,I wonder what this is.,5
+MELISSA,"I don't know, but I got one too.",8
+MRS. SCULLY,"You don't have to shake it, Dana. You can open those now.",12
+MELISSA,"Thanks, Mom.",2
+MRS. SCULLY,Your grandmother gave me a cross just like that when I was about your age.,15
+DANA,It's pretty.,2
+MRS. SCULLY,It means God is with you. He'll watch over you wherever you go.,13
+TARA,Dana? Hi. Sorry to wake you but there's a detective here to see you.,14
+SCULLY,I'll be right down.,4
+KRESGE,I know it's early.,4
+SCULLY,Not a problem.,3
+KRESGE,We came up with an interesting tidbit on Mr. Sim.,10
+SCULLY,What?,1
+KRESGE,"Bank deposits. Large ones. $30,000 a pop. Three in the last 18 months. All the checks had been made out to his wife. The last one was deposited yesterday, apre morte.",31
+SCULLY,From where?,2
+KRESGE,Pharmaceutical firm in Chula Vista.,5
+SCULLY,Dr. Calderon?,2
+CALDERON,Yes?,1
+SCULLY,"I'm Agent Dana Scully with the FBI, this is Detective Kresge with the San Diego Police Department.",17
+CALDERON,What can I do for you?,6
+KRESGE,We're investigating the death of Roberta Sim.,7
+CALDERON,When did this happen?,4
+SCULLY,You knew Mrs. Sim?,4
+CALDERON,"Her daughter, Emily, was a patient here.",7
+SCULLY,What were you treating her for?,6
+CALDERON,She was a subject in one of our clinical trials. We're developing gene therapies here for several blood disorders. Emily suffers from a rare form of autoimmune hemolytic anemia. She's a very sick little girl.,35
+SCULLY,What's her prognosis?,3
+CALDERON,I'm afraid I really couldn't say. These are ongoing double-blind trials. It could be years before we have any results.,20
+KRESGE,You've been paying the Sim family compensation for this?,9
+CALDERON,"Emily is a very special case, we were lucky to find her.",12
+KRESGE,How did you find her?,5
+CALDERON,Her father brought her to our attention.,7
+SCULLY,Then why were the checks made out to her mother?,10
+CALDERON,How should I put this? These payments are a gesture of good will to Mrs. Sim. She wasn't completely convinced that our experimental treatment was the way to go.,29
+SCULLY,She wanted to pull Emily from the program?,8
+CALDERON,"She filed the paper work, but her husband later withdrew it.",11
+SCULLY,"Dr. Calderon, did you ever prescribe doritriptan injections to Emily during her treatment?",13
+CALDERON,No. No. I prescribed them for the husband.,8
+KRESGE,"Marshal Sim, you're under arrest for the murder of Roberta Sim.",11
+SIM,What?,1
+SCULLY,Where's Emily?,2
+SIM,Are you out of your mind?,6
+KRESGE,You have the right to remain silent...,7
+SIM,I didn't kill her.,4
+KRESGE,Anything you say can and will be used against you in a court of law. You have the right to an attorney. If you cannot afford an attorney...,28
+SCULLY,"Lets get you right in there. Lets get you buckled in here nice and safe, ok? You like that, huh? I'll see you again soon, ok?",26
+MRS. SCULLY,Every year my husband insisted on putting the angel on top of the tree by himself.,16
+BILL,"Man's work. Ah, Dana, could you give me a hand in the kitchen?",13
+SCULLY,What's up?,2
+SCULLY,What do you mean?,4
+BILL,"You're not here, you're a million miles away. I thought you came to see the family.",16
+SCULLY,I did.,2
+BILL,I thought this other thing was resolved. I thought you caught the guy that murdered that woman.,17
+SCULLY,We did.,2
+BILL,"Then it's about that little girl, isn't it? Mom told me. You really think Melissa had a baby?",18
+SCULLY,"Yes, I do.",3
+BILL,She called you from beyond the grave to tell you that? Sounds like something your partner would say.,18
+SCULLY,It does not matter where that phone call came from. What matters is that there is a little girl who needs my help.,23
+BILL,"This isn't about any little girl, Dana. This is about you. It's about some... void, some emptiness inside you that you're trying to fill.",24
+SCULLY,"Bill, I don't expect you to understand but I am not going to stand here and justify my motive.",19
+MRS. SCULLY,"Dana, there's a telephone call for you.",7
+SCULLY,Hello? for you. Marshall Sim just confessed.,7
+SCULLY,He admitted to being in the house that morning?,9
+KRESGE,I've got a signed statement.,5
+SCULLY,What about the witnesses who said they saw him in the doctor's office at the time of the murder?,19
+KRESGE,I guess they were mistaken.,5
+SCULLY,Maybe they weren't. Where is he now?,7
+KRESGE,County lock up.,3
+SCULLY,Did they identify themselves?,4
+DEPUTY,They said they were his lawyers.,6
+SCULLY,How long were they here?,5
+DEPUTY,"Ten, 15 minutes tops. Damn it!",6
+BILL,When did you get back?,5
+SCULLY,Just now.,2
+BILL,"Well, you're just in time. I was on my way over to the neighbors. Mom and Tara are already there. What? What happened?",23
+SCULLY,"Marshall Sim, Emily's adoptive father is dead. They made it look like a suicide, just like his wife.",18
+BILL,My God. Do you know who did it?,8
+SCULLY,No.,1
+BILL,Do you think it has something to do with that little girl?,12
+SCULLY,I think it might.,4
+BILL,"Dana, I have to show you something.",7
+BILL,Look at the date on the back. Does Melissa look pregnant to you in that picture? It's about four weeks before the girl was born.,25
+SCULLY,"Bill, that doesn't prove anything. Melissa didn't have to be pregnant to have a baby. There's... there's in vitro fertilization, there's surrogate motherhood.",23
+BILL,"Dana, listen to yourself. You're creating this whole scenario to fulfill a dream.",13
+SCULLY,What dream?,2
+BILL,To have a child. Look... I understand. I know the need. God knows Tara and I tried for years. But making this girl into Melissa's daughter is not the way. You're going to end up hurting yourself.,37
+SUSAN CHAMBLISS,Hi. I'm here to see Dana Scully.,7
+BILL,"Ah, may I ask...",4
+CHAMBLISS,I'm Susan Chambliss from the county. It's about the adoption.,10
+SCULLY,Hi. Thanks for coming in on Christmas Eve.,8
+CHAMBLISS,"Oh, not at all.",4
+SCULLY,"I don't understand. I mean, I think I have a right to know why you're rejecting my application.",18
+CHAMBLISS,"It's not mine to accept or reject, Dana. We only make recommendations to the judge. But at this point I'd advise against you becoming an adoptive parent. You're a single woman who's never been married or had a long-term relationship. You're in a high stress, time intensive, and dangerous occupation. One I sense you are deeply committed to and one which would overnight become a secondary priority to the care and well-being of this child. I'm not sure this is a sacrifice you're prepared to make.",86
+SCULLY,"Well, it's one I've given a great deal of thought to. I mean, to be honest, I've started to question my priorities since I was first diagnosed with cancer. I feel like I was given a second chance. Ever since I was a child, I've never allowed to let myself get too close to people. I've avoided emotional attachment. Perhaps I've been so afraid of death and dying that any connection just seemed like a bad thing... something that wouldn't last. But I don't feel that anymore.",87
+CHAMBLISS,"I know you are a trained physician and are aware of Emily's medical condition. I want to stress to you, Dana. Emily is a special-needs child. According to her doctors, her condition is incurable. She requires constant care, both medical and emotional. The good news is, you have first hand experience of grave illness. The bad news is, you'd have to relive it through the eyes of a child.",69
+SCULLY,I realize that. And I feel like I'm ready.,9
+CHAMBLISS,We'll review your final application and make our recommendations. I wish you luck. Merry Christmas.,15
+SCULLY,Merry Christmas.,2
+CHAMBLISS,I'll show myself out.,4
+VOICE,Dana?,1
+SCULLY,Melissa?,1
+MELISSA,I didn't know anyone else was up.,7
+SCULLY,I couldn't sleep.,3
+MELISSA,"Why not? You worried about Quantico, or who gets the most presents this year?",14
+SCULLY,I guess I'm afraid of making a big mistake. I could tell Dad sure thinks I am.,17
+MELISSA,"Yeah, well. It's not his life, Dana.",7
+SCULLY,"I know that. You know, when I first started med school, it felt so right. It seemed like that was where I was supposed to be. And then by the time I graduated, I just knew it was wrong. But now the FBI feels right. And... what if that's wrong too?",51
+MELISSA,There is no right or wrong. Life is just a path. You follow your heart and it will take you where you're supposed to go.,25
+SCULLY,God! You sound like a greeting card. I don't believe in fate. I think we have to choose our own path.,21
+MELISSA,"Well, just don't mistake the path for what is really important in life.",13
+SCULLY,Which is what?,3
+MELISSA,The people you're going to meet along the way. You don't know who you're going to meet when you join the FBI. You don't know how your life is going to change or how you're going to change the life of others.,42
+TARA,Hey!,1
+TARA,"Good morning, sleepy head.",4
+BILL,Did Santa come?,3
+TARA,Santa's right here.,3
+BILL,She always was the first downstairs at Christmas. Couldn't wait to get those presents.,14
+MRS. SCULLY,"Hey, Merry Christmas.",3
+TARA,"Ok, ok, enough pleasantries. I'm dying to know what's in this box. I've waited for a month.",17
+BILL,"Well, open it. This one's from Charles. Excuse me. I'll be right back.",13
+COURIER,FBI Courier. Package for Agent Dana Scully.,7
+BILL,I'll sign for it.,4
+COURIER,"No, no. I need Agent Scully's signature, Sir.",8
+BILL,"Oh, all right.",3
+COURIER,I need you to sign for this. Merry Christmas.,9
+SCULLY,Merry Christmas.,2
+MRS. SCULLY,What is it?,3
+SCULLY,It's the DNA test on Emily Sim's blood.,8
+BILL,What does it say?,4
+SCULLY,"It says, definitely, that Melissa is not Emily's mother, but that they found striking genetic similarities between Emily and Melissa, so many that they ran a test against another sample that they already had.",34
+MRS. SCULLY,What sample?,2
+BILL,What are you trying to say?,6
+SCULLY,According to this... I am Emily's mother.,7
