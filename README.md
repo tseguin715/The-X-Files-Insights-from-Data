@@ -19,21 +19,18 @@ The mean rating per episode follows a noisy trajectory through the course of the
 
   <p align="center">
   <img src="img/ratings_1.svg" width=600><br>
-  text...
   </p>
   
   Likewise, a violin plot shows a narrowing of the ratings distribution near the top end of the scale near season 6 before widening towards the end of the series:
 
   <p align="center">
   <img src="img/ratings_violin.svg" width=700><br>
-  text...
   </p>
 
 A simpler representation may be to take the average ratings per season, again showing the peak at season 6, which rests only slightly above season 5:
 
   <p align="center">
   <img src="img/season_means.svg" width=600><br>
-  text...
   </p>
 
 ## Ratings distribution comparisons
@@ -52,7 +49,6 @@ The p-value for Welch's t-test, at 0.055, barely passes a commonly used rejectio
 
   <p align="center">
   <img src="img/s5_s6_kde.svg" width=600><br>
-  text...
   </p>
 
 Therefore, we conclude from the Mann-Whitney u-test that season 6 is higher rated than season 5. Also, using season 6 as the reference point, we could infer a season ranking of 6>5>3>4>8>the remaining seasons (the remaining seasons are uncertain due to computed p-values of zero). 
@@ -65,24 +61,20 @@ Are there other ways of modelling the ratings progression than those given in th
 
   <p align="center">
   <img src="img/surf1.png" width=700><br>
-  text...
   </p>
 
   <p align="center">
   <img src="img/surf3.png" width=700><br>
-  text...
   </p>
 
 To obtain a reasonably smooth progression, I assigned <i>σ<sub>x</sub><sup>2</sup></i> as 36 (that is, the standard deviation covers 6 episodes on the x-axis) and <i>σ<sub>y</sub><sup>2</sup></i> as 1.0 (1 unit in the ratings direction (y-axis)). Now it's possible to see a slightly more informative progression than the first figure. If we walk along the highest point of the surface across the x-axis, we traverse what I'll call the "Ratings Ridge", the highest probability rating across the series:
 
   <p align="center">
   <img src="img/surf2.png" width=700><br>
-  text...
   </p>
 
   <p align="center">
   <img src="img/surf4.png" width=700><br>
-  text...
   </p>
 
 What kind of interesting insights could we get from this? I noticed some bumps in curve centered around the beginning of each season. Does that mean there are better episodes in the show near the beginning and end of each season? 
@@ -124,7 +116,6 @@ The following figure shows the variables with the top R<sup>2</sup> value with m
 
   <p align="center">
   <img src="img/corr_mean.svg" width=450><br>
-  text...
   </p>
 
 Plots of the variables with the top 4 R<sup>2</sup> values, as well as those for Mulder and Scully's word count, are shown below (Mulder and Scully were also included purely out of interest):
@@ -148,14 +139,12 @@ We can apply statistical tests to determine whether these analyses satisfy the a
 
   <p align="center">
   <img src="img/Table.png" width=600><br>
-  text...
   </p>
   
   The shades of green are relative to the highest value in each column. Homoscedasticity and normality of residuals could be indicated by p-values exceeding e.g. 0.05. The best linear regression is clearly with that of the Mythology variable, though it doesn't satisfy homoscedasticity, as the variances in distribution between the two populations are obviously unequal. Despite this, it's still clear that Mythology episodes are higher rated. See the following KDE plot for the ratings distributions of each episode category (Mythology or not):
   
   <p align="center">
   <img src="img/myth_kde.svg" width=400><br>
-  text...
   </p>
   
 ## P-value-weighted ranking of Writers, Directors, and Characters
