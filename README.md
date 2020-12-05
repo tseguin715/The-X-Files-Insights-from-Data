@@ -1,4 +1,4 @@
-# The X-Files: Insights from Data
+# The X-Files: The Truth Is Out There, and It’s in the Data
 
 ### Companion web app: <a href="https://tjs-xfiles.herokuapp.com">The X-Files Ratings Predictor</a> 
 
